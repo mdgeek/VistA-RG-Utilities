@@ -1,0 +1,8318 @@
+KIDS Distribution saved on Mar 10, 2015@09:04:21
+RG UTILITIES 3.0
+**KIDS**:RG UTILITIES 3.0^
+
+**INSTALL NAME**
+RG UTILITIES 3.0
+"BLD",8503,0)
+RG UTILITIES 3.0^RUN TIME LIBRARY^0^3150310^n
+"BLD",8503,1,0)
+^^3^3^3150202^^^
+"BLD",8503,1,1,0)
+This is the set of routines common to all modules occupying the RG namespace.  
+"BLD",8503,1,2,0)
+They perform generic functions.  
+"BLD",8503,1,3,0)
+ 
+"BLD",8503,4,0)
+^9.64PA^^
+"BLD",8503,6.3)
+198
+"BLD",8503,"ABNS",0)
+^9.66A^1^1
+"BLD",8503,"ABNS",1,0)
+RG
+"BLD",8503,"ABNS",1,1,0)
+^9.661A^^
+"BLD",8503,"ABNS","B","RG",1)
+
+"BLD",8503,"ABPKG")
+n^n
+"BLD",8503,"INI")
+
+"BLD",8503,"INIT")
+POST^RGUTINIT
+"BLD",8503,"KRN",0)
+^9.67PA^771^18
+"BLD",8503,"KRN",.4,0)
+.4
+"BLD",8503,"KRN",.4,"NM",0)
+^9.68A^^
+"BLD",8503,"KRN",.401,0)
+.401
+"BLD",8503,"KRN",.402,0)
+.402
+"BLD",8503,"KRN",.403,0)
+.403
+"BLD",8503,"KRN",.5,0)
+.5
+"BLD",8503,"KRN",.84,0)
+.84
+"BLD",8503,"KRN",3.6,0)
+3.6
+"BLD",8503,"KRN",3.8,0)
+3.8
+"BLD",8503,"KRN",9.2,0)
+9.2
+"BLD",8503,"KRN",9.8,0)
+9.8
+"BLD",8503,"KRN",9.8,"NM",0)
+^9.68A^88^54
+"BLD",8503,"KRN",9.8,"NM",18,0)
+RGUT^^0^B42037134
+"BLD",8503,"KRN",9.8,"NM",27,0)
+RGUTSTX^^0^B17505727
+"BLD",8503,"KRN",9.8,"NM",28,0)
+RGUTSTX0^^0^B18234821
+"BLD",8503,"KRN",9.8,"NM",29,0)
+RGUTSTX1^^0^B20280544
+"BLD",8503,"KRN",9.8,"NM",33,0)
+RGUTALR^^0^B1374002
+"BLD",8503,"KRN",9.8,"NM",34,0)
+RGUTBIG^^0^B14812955
+"BLD",8503,"KRN",9.8,"NM",35,0)
+RGUTDAT^^0^B12924137
+"BLD",8503,"KRN",9.8,"NM",36,0)
+RGUTDIC^^0^B28066955
+"BLD",8503,"KRN",9.8,"NM",37,0)
+RGUTDT^^0^B4547736
+"BLD",8503,"KRN",9.8,"NM",38,0)
+RGUTEDT^^0^B44841730
+"BLD",8503,"KRN",9.8,"NM",44,0)
+RGUTIMP^^0^B10992396
+"BLD",8503,"KRN",9.8,"NM",45,0)
+RGUTIN^^1^
+"BLD",8503,"KRN",9.8,"NM",46,0)
+RGUTIN0^^0^B1324180
+"BLD",8503,"KRN",9.8,"NM",47,0)
+RGUTIN16^^0^B4251434
+"BLD",8503,"KRN",9.8,"NM",48,0)
+RGUTIN18^^0^B4464090
+"BLD",8503,"KRN",9.8,"NM",49,0)
+RGUTIN8^^0^B4105987
+"BLD",8503,"KRN",9.8,"NM",50,0)
+RGUTLK2^^0^B49012377
+"BLD",8503,"KRN",9.8,"NM",51,0)
+RGUTLKP^^0^B26828890
+"BLD",8503,"KRN",9.8,"NM",52,0)
+RGUTMTL^^0^B13569820
+"BLD",8503,"KRN",9.8,"NM",53,0)
+RGUTOS^^0^B7607307
+"BLD",8503,"KRN",9.8,"NM",54,0)
+RGUTOS1^^0^B10134674
+"BLD",8503,"KRN",9.8,"NM",56,0)
+RGUTRPC^^0^B16275171
+"BLD",8503,"KRN",9.8,"NM",57,0)
+RGUTTSK^^0^B998318
+"BLD",8503,"KRN",9.8,"NM",58,0)
+RGUTUSR^^0^B3790974
+"BLD",8503,"KRN",9.8,"NM",59,0)
+RGUTUU^^0^B1813543
+"BLD",8503,"KRN",9.8,"NM",60,0)
+RGUTINIT^^0^B5948579
+"BLD",8503,"KRN",9.8,"NM",61,0)
+RGUTHFS^^0^B5078426
+"BLD",8503,"KRN",9.8,"NM",62,0)
+RGUTDDR^^0^B59421017
+"BLD",8503,"KRN",9.8,"NM",63,0)
+RGUTRPRT^^0^B2852241
+"BLD",8503,"KRN",9.8,"NM",64,0)
+RGUTREG^^0^B709436
+"BLD",8503,"KRN",9.8,"NM",65,0)
+RGUTBC28^^0^B10811663
+"BLD",8503,"KRN",9.8,"NM",66,0)
+RGUTBC39^^0^B7717700
+"BLD",8503,"KRN",9.8,"NM",67,0)
+RGUTBCDA^^0^B8230455
+"BLD",8503,"KRN",9.8,"NM",68,0)
+RGUTIN8U^^1^
+"BLD",8503,"KRN",9.8,"NM",69,0)
+RGUTIN68^^0^B4411941
+"BLD",8503,"KRN",9.8,"NM",70,0)
+RGUTIN58^^0^B5514558
+"BLD",8503,"KRN",9.8,"NM",71,0)
+RGUT1^^0^B805876
+"BLD",8503,"KRN",9.8,"NM",72,0)
+RGUTNTEG^^0^B4457644
+"BLD",8503,"KRN",9.8,"NM",73,0)
+RGXY^^1^
+"BLD",8503,"KRN",9.8,"NM",74,0)
+RGZOSF^^1^
+"BLD",8503,"KRN",9.8,"NM",75,0)
+RGCVTDT^^1^
+"BLD",8503,"KRN",9.8,"NM",76,0)
+RGCVTUU^^1^
+"BLD",8503,"KRN",9.8,"NM",77,0)
+RGINIT^^1^
+"BLD",8503,"KRN",9.8,"NM",78,0)
+RGMSCALR^^1^
+"BLD",8503,"KRN",9.8,"NM",79,0)
+RGMSCDAT^^1^
+"BLD",8503,"KRN",9.8,"NM",80,0)
+RGMSCDIC^^1^
+"BLD",8503,"KRN",9.8,"NM",81,0)
+RGMSCEDT^^1^
+"BLD",8503,"KRN",9.8,"NM",82,0)
+RGMSCIMP^^1^
+"BLD",8503,"KRN",9.8,"NM",83,0)
+RGMSCLKP^^1^
+"BLD",8503,"KRN",9.8,"NM",84,0)
+RGMSCMTL^^1^
+"BLD",8503,"KRN",9.8,"NM",85,0)
+RGMSCTSK^^1^
+"BLD",8503,"KRN",9.8,"NM",86,0)
+RGMSCUSR^^1^
+"BLD",8503,"KRN",9.8,"NM",87,0)
+RGUTDATF^^0^B6379104
+"BLD",8503,"KRN",9.8,"NM",88,0)
+RGUTIN19^^0^B4063150
+"BLD",8503,"KRN",9.8,"NM","B","RGCVTDT",75)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGCVTUU",76)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGINIT",77)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGMSCALR",78)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGMSCDAT",79)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGMSCDIC",80)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGMSCEDT",81)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGMSCIMP",82)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGMSCLKP",83)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGMSCMTL",84)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGMSCTSK",85)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGMSCUSR",86)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUT",18)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUT1",71)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTALR",33)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTBC28",65)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTBC39",66)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTBCDA",67)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTBIG",34)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTDAT",35)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTDATF",87)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTDDR",62)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTDIC",36)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTDT",37)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTEDT",38)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTHFS",61)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTIMP",44)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTIN",45)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTIN0",46)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTIN16",47)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTIN18",48)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTIN19",88)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTIN58",70)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTIN68",69)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTIN8",49)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTIN8U",68)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTINIT",60)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTLK2",50)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTLKP",51)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTMTL",52)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTNTEG",72)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTOS",53)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTOS1",54)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTREG",64)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTRPC",56)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTRPRT",63)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTSTX",27)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTSTX0",28)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTSTX1",29)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTTSK",57)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTUSR",58)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGUTUU",59)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGXY",73)
+
+"BLD",8503,"KRN",9.8,"NM","B","RGZOSF",74)
+
+"BLD",8503,"KRN",19,0)
+19
+"BLD",8503,"KRN",19,"NM",0)
+^9.68A^^0
+"BLD",8503,"KRN",19.1,0)
+19.1
+"BLD",8503,"KRN",101,0)
+101
+"BLD",8503,"KRN",409.61,0)
+409.61
+"BLD",8503,"KRN",771,0)
+771
+"BLD",8503,"KRN",869.2,0)
+869.2
+"BLD",8503,"KRN",870,0)
+870
+"BLD",8503,"KRN",8994,0)
+8994
+"BLD",8503,"KRN",8994,"NM",0)
+^9.68A^11^11
+"BLD",8503,"KRN",8994,"NM",1,0)
+RGUTRPC DIC^^0
+"BLD",8503,"KRN",8994,"NM",2,0)
+RGUTRPC FILENT^^0
+"BLD",8503,"KRN",8994,"NM",3,0)
+RGUTRPC FILNXT^^0
+"BLD",8503,"KRN",8994,"NM",4,0)
+RGUTRPC MSYNTAX^^0
+"BLD",8503,"KRN",8994,"NM",5,0)
+RGUTDDR GETDD^^0
+"BLD",8503,"KRN",8994,"NM",6,0)
+RGUTDDR LOCK^^0
+"BLD",8503,"KRN",8994,"NM",7,0)
+RGUTDDR MOVETO^^0
+"BLD",8503,"KRN",8994,"NM",8,0)
+RGUTRPC FILGET^^0
+"BLD",8503,"KRN",8994,"NM",9,0)
+RGUTDDR CVTPTR^^0
+"BLD",8503,"KRN",8994,"NM",10,0)
+RGUTRPC STRTODAT^^0
+"BLD",8503,"KRN",8994,"NM",11,0)
+RGUTDDR FIND^^0
+"BLD",8503,"KRN",8994,"NM","B","RGUTDDR CVTPTR",9)
+
+"BLD",8503,"KRN",8994,"NM","B","RGUTDDR FIND",11)
+
+"BLD",8503,"KRN",8994,"NM","B","RGUTDDR GETDD",5)
+
+"BLD",8503,"KRN",8994,"NM","B","RGUTDDR LOCK",6)
+
+"BLD",8503,"KRN",8994,"NM","B","RGUTDDR MOVETO",7)
+
+"BLD",8503,"KRN",8994,"NM","B","RGUTRPC DIC",1)
+
+"BLD",8503,"KRN",8994,"NM","B","RGUTRPC FILENT",2)
+
+"BLD",8503,"KRN",8994,"NM","B","RGUTRPC FILGET",8)
+
+"BLD",8503,"KRN",8994,"NM","B","RGUTRPC FILNXT",3)
+
+"BLD",8503,"KRN",8994,"NM","B","RGUTRPC MSYNTAX",4)
+
+"BLD",8503,"KRN",8994,"NM","B","RGUTRPC STRTODAT",10)
+
+"BLD",8503,"KRN","B",.4,.4)
+
+"BLD",8503,"KRN","B",.401,.401)
+
+"BLD",8503,"KRN","B",.402,.402)
+
+"BLD",8503,"KRN","B",.403,.403)
+
+"BLD",8503,"KRN","B",.5,.5)
+
+"BLD",8503,"KRN","B",.84,.84)
+
+"BLD",8503,"KRN","B",3.6,3.6)
+
+"BLD",8503,"KRN","B",3.8,3.8)
+
+"BLD",8503,"KRN","B",9.2,9.2)
+
+"BLD",8503,"KRN","B",9.8,9.8)
+
+"BLD",8503,"KRN","B",19,19)
+
+"BLD",8503,"KRN","B",19.1,19.1)
+
+"BLD",8503,"KRN","B",101,101)
+
+"BLD",8503,"KRN","B",409.61,409.61)
+
+"BLD",8503,"KRN","B",771,771)
+
+"BLD",8503,"KRN","B",869.2,869.2)
+
+"BLD",8503,"KRN","B",870,870)
+
+"BLD",8503,"KRN","B",8994,8994)
+
+"BLD",8503,"QUES",0)
+^9.62^^
+"BLD",8503,"REQB",0)
+^9.611^^
+"INIT")
+POST^RGUTINIT
+"KRN",8994,2708,-1)
+0^1
+"KRN",8994,2708,0)
+RGUTRPC DIC^DIC^RGUTRPC^2
+"KRN",8994,2708,1,0)
+^^1^1^3050820.204817
+"KRN",8994,2708,1,1,0)
+Encapsulates RGUTDIC call for broker.
+"KRN",8994,2708,2,0)
+^8994.02A^3^3
+"KRN",8994,2708,2,1,0)
+BOOKMARK^1^255^1^1
+"KRN",8994,2708,2,2,0)
+COMMAND^1^255^1^2
+"KRN",8994,2708,2,3,0)
+ARG^1^255^0^3
+"KRN",8994,2708,2,"B","ARG",3)
+
+"KRN",8994,2708,2,"B","BOOKMARK",1)
+
+"KRN",8994,2708,2,"B","COMMAND",2)
+
+"KRN",8994,2708,2,"PARAMSEQ",1,1)
+
+"KRN",8994,2708,2,"PARAMSEQ",2,2)
+
+"KRN",8994,2708,2,"PARAMSEQ",3,3)
+
+"KRN",8994,2709,-1)
+0^2
+"KRN",8994,2709,0)
+RGUTRPC FILENT^FILENT^RGUTRPC^4^^^^1
+"KRN",8994,2709,1,0)
+^8994.01^1^1^3000107^^^^
+"KRN",8994,2709,1,1,0)
+Returns list of entries in a file.
+"KRN",8994,2709,2,0)
+^8994.02A^1^1
+"KRN",8994,2709,2,1,0)
+FILE NUMBER^1^250^1^1
+"KRN",8994,2709,2,"B","FILE NUMBER",1)
+
+"KRN",8994,2709,2,"PARAMSEQ",1,1)
+
+"KRN",8994,2710,-1)
+0^4
+"KRN",8994,2710,0)
+RGUTRPC MSYNTAX^MSYNTAX^RGUTRPC^1
+"KRN",8994,2710,1,0)
+^8994.01^1^1^2970922.224252
+"KRN",8994,2710,1,1,0)
+Performs syntax check on line of M code.
+"KRN",8994,2710,2,0)
+^8994.02A^2^2
+"KRN",8994,2710,2,1,0)
+CODE^1^255^1^1
+"KRN",8994,2710,2,2,0)
+OPTION^1^255^0^2
+"KRN",8994,2710,2,"B","CODE",1)
+
+"KRN",8994,2710,2,"B","OPTION",2)
+
+"KRN",8994,2710,2,"PARAMSEQ",1,1)
+
+"KRN",8994,2710,2,"PARAMSEQ",2,2)
+
+"KRN",8994,2711,-1)
+0^3
+"KRN",8994,2711,0)
+RGUTRPC FILNXT^FILNXT^RGUTRPC^1
+"KRN",8994,2711,2,0)
+^8994.02A^2^2
+"KRN",8994,2711,2,1,0)
+FILE NUMBER^1^100^1^1
+"KRN",8994,2711,2,2,0)
+IEN^1^100^1^2
+"KRN",8994,2711,2,"B","FILE NUMBER",1)
+
+"KRN",8994,2711,2,"B","IEN",2)
+
+"KRN",8994,2711,2,"PARAMSEQ",1,1)
+
+"KRN",8994,2711,2,"PARAMSEQ",2,2)
+
+"KRN",8994,2712,-1)
+0^5
+"KRN",8994,2712,0)
+RGUTDDR GETDD^GETDD^RGUTDDR^4^^^^1
+"KRN",8994,2713,-1)
+0^6
+"KRN",8994,2713,0)
+RGUTDDR LOCK^LOCK^RGUTDDR^1
+"KRN",8994,2714,-1)
+0^7
+"KRN",8994,2714,0)
+RGUTDDR MOVETO^MOVETO^RGUTDDR^1
+"KRN",8994,2715,-1)
+0^8
+"KRN",8994,2715,0)
+RGUTRPC FILGET^FILGET^RGUTRPC^4^^^^1
+"KRN",8994,2716,-1)
+0^9
+"KRN",8994,2716,0)
+RGUTDDR CVTPTR^CVTPTR^RGUTDDR^1
+"KRN",8994,2717,-1)
+0^10
+"KRN",8994,2717,0)
+RGUTRPC STRTODAT^STRTODAT^RGUTRPC^1
+"KRN",8994,2717,1,0)
+^^1^1^3040313.081942
+"KRN",8994,2717,1,1,0)
+Converts a date in external format to internal FileMan date format.
+"KRN",8994,2718,-1)
+0^11
+"KRN",8994,2718,0)
+RGUTDDR FIND^FIND^RGUTDDR^4^^^^1
+"MBREQ")
+0
+"ORD",0,9.8)
+9.8;;1;RTNF^XPDTA;RTNE^XPDTA
+"ORD",0,9.8,0)
+ROUTINE
+"ORD",16,8994)
+8994;16;1;;;;;;;RPCDEL^XPDIA1
+"ORD",16,8994,0)
+REMOTE PROCEDURE
+"PKG",172,-1)
+1^1
+"PKG",172,0)
+RUN TIME LIBRARY^RGUT^RUN TIME LIBRARY
+"PKG",172,20,0)
+^9.402P^^
+"PKG",172,22,0)
+^9.49I^1^1
+"PKG",172,22,1,0)
+3.0^3150310^3150202^1
+"PKG",172,22,1,1,0)
+^^3^3^3150310
+"PKG",172,22,1,1,1,0)
+This is the set of routines common to all modules occupying the RG namespace.  
+"PKG",172,22,1,1,2,0)
+They perform generic functions.  
+"PKG",172,22,1,1,3,0)
+ 
+"PKG",172,"VERSION")
+3.0
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+54
+"RTN","RGCVTDT")
+1^75
+"RTN","RGCVTUU")
+1^76
+"RTN","RGINIT")
+1^77
+"RTN","RGMSCALR")
+1^78
+"RTN","RGMSCDAT")
+1^79
+"RTN","RGMSCDIC")
+1^80
+"RTN","RGMSCEDT")
+1^81
+"RTN","RGMSCIMP")
+1^82
+"RTN","RGMSCLKP")
+1^83
+"RTN","RGMSCMTL")
+1^84
+"RTN","RGMSCTSK")
+1^85
+"RTN","RGMSCUSR")
+1^86
+"RTN","RGUT")
+0^18^B42037134
+"RTN","RGUT",1,0)
+RGUT ;RI/CBMI/DKM - General purpose utilities;09-Mar-2015 10:10;DKM
+"RTN","RGUT",2,0)
+ ;;3.0;RG UTILITIES;**1**;Mar 20, 2007;Build 198
+"RTN","RGUT",3,0)
+ ;;
+"RTN","RGUT",4,0)
+ ;=================================================================
+"RTN","RGUT",5,0)
+ ; Replaces delimited arguments in string, returning result
+"RTN","RGUT",6,0)
+MSG(%RGTXT,%RGDLM,%RGRPL) ;EP
+"RTN","RGUT",7,0)
+ N %RGZ1,%RGZ2
+"RTN","RGUT",8,0)
+ I $$NEWERR^%ZTER N $ET S $ET=""
+"RTN","RGUT",9,0)
+ S:$G(%RGDLM)="" %RGDLM="%"
+"RTN","RGUT",10,0)
+ S %RGZ2="",@$$TRAP^RGUTOS("M1^RGUT")
+"RTN","RGUT",11,0)
+ S:$G(%RGRPL,1) %RGTXT=$TR(%RGTXT,"~","^")
+"RTN","RGUT",12,0)
+ F  Q:%RGTXT=""  D
+"RTN","RGUT",13,0)
+ .S %RGZ2=%RGZ2_$P(%RGTXT,%RGDLM),%RGZ1=$P(%RGTXT,%RGDLM,2),%RGTXT=$P(%RGTXT,%RGDLM,3,999)
+"RTN","RGUT",14,0)
+ .I %RGZ1="" S:%RGTXT'="" %RGZ2=%RGZ2_%RGDLM
+"RTN","RGUT",15,0)
+ .E  X "S %RGZ2=%RGZ2_("_%RGZ1_")"
+"RTN","RGUT",16,0)
+M1 Q %RGZ2
+"RTN","RGUT",17,0)
+ ; Case-insensitive string comparison
+"RTN","RGUT",18,0)
+ ; Returns 0: X=Y, 1: X>Y, -1: X<Y
+"RTN","RGUT",19,0)
+STRICMP(X,Y) ;EP
+"RTN","RGUT",20,0)
+ S X=$$UP^XLFSTR(X),Y=$$UP^XLFSTR(Y)
+"RTN","RGUT",21,0)
+ Q $S(X=Y:0,X]]Y:1,1:-1)
+"RTN","RGUT",22,0)
+ ; Output an underline X bytes long
+"RTN","RGUT",23,0)
+UND(X) ;EP
+"RTN","RGUT",24,0)
+ Q $$REPEAT^XLFSTR("-",$G(X,$G(IOM,80)))
+"RTN","RGUT",25,0)
+ ; Truncate a string if > Y bytes long
+"RTN","RGUT",26,0)
+TRUNC(X,Y) ;EP
+"RTN","RGUT",27,0)
+ Q $S($L(X)'>Y:X,1:$E(X,1,Y-3)_"...")
+"RTN","RGUT",28,0)
+ ; Formatting for singular/plural
+"RTN","RGUT",29,0)
+SNGPLR(RGNUM,RGSNG,RGPLR) ;EP
+"RTN","RGUT",30,0)
+ N RGZ
+"RTN","RGUT",31,0)
+ S RGZ=RGSNG?.E1L.E,RGPLR=$G(RGPLR,RGSNG_$S(RGZ:"s",1:"S"))
+"RTN","RGUT",32,0)
+ Q $S('RGNUM:$S(RGZ:"no ",1:"NO ")_RGPLR,RGNUM=1:"1 "_RGSNG,1:RGNUM_" "_RGPLR)
+"RTN","RGUT",33,0)
+ ; Convert code to external form from set of codes
+"RTN","RGUT",34,0)
+SET(RGCODE,RGSET) ;EP
+"RTN","RGUT",35,0)
+ N RGZ,RGZ1
+"RTN","RGUT",36,0)
+ F RGZ=1:1:$L(RGSET,";") D  Q:RGZ1'=""
+"RTN","RGUT",37,0)
+ .S RGZ1=$P(RGSET,";",RGZ),RGZ1=$S($P(RGZ1,":")=RGCODE:$P(RGZ1,":",2),1:"")
+"RTN","RGUT",38,0)
+ Q RGZ1
+"RTN","RGUT",39,0)
+ ; Replace each occurrence of RGOLD in RGSTR with RGNEW
+"RTN","RGUT",40,0)
+SUBST(RGSTR,RGOLD,RGNEW) ;EP
+"RTN","RGUT",41,0)
+ N RGP,RGL1,RGL2
+"RTN","RGUT",42,0)
+ S RGNEW=$G(RGNEW),RGP=0,RGL1=$L(RGOLD),RGL2=$L(RGNEW)
+"RTN","RGUT",43,0)
+ F  S RGP=$F(RGSTR,RGOLD,RGP) Q:'RGP  D
+"RTN","RGUT",44,0)
+ .S RGSTR=$E(RGSTR,1,RGP-RGL1-1)_RGNEW_$E(RGSTR,RGP,9999)
+"RTN","RGUT",45,0)
+ .S RGP=RGP-RGL1+RGL2
+"RTN","RGUT",46,0)
+ Q RGSTR
+"RTN","RGUT",47,0)
+ ; Trim leading (Y=-1)/trailing (Y=1)/leading & trailing (Y=0) spaces
+"RTN","RGUT",48,0)
+TRIM(X,Y) ;EP
+"RTN","RGUT",49,0)
+ N RGZ1,RGZ2
+"RTN","RGUT",50,0)
+ S Y=+$G(Y),RGZ1=1,RGZ2=$L(X)
+"RTN","RGUT",51,0)
+ I Y'>0 F RGZ1=1:1 Q:$A(X,RGZ1)'=32
+"RTN","RGUT",52,0)
+ I Y'<0 F RGZ2=RGZ2:-1 Q:$A(X,RGZ2)'=32
+"RTN","RGUT",53,0)
+ Q $E(X,RGZ1,RGZ2)
+"RTN","RGUT",54,0)
+ ; Format a number with commas
+"RTN","RGUT",55,0)
+FMTNUM(RGNUM) ;EP
+"RTN","RGUT",56,0)
+ N RGZ,RGZ1,RGZ2,RGZ3
+"RTN","RGUT",57,0)
+ S:RGNUM<0 RGNUM=-RGNUM,RGZ2="-"
+"RTN","RGUT",58,0)
+ S RGZ3=RGNUM#1,RGNUM=RGNUM\1
+"RTN","RGUT",59,0)
+ F RGZ=$L(RGNUM):-3:1 S RGZ1=$E(RGNUM,RGZ-2,RGZ)_$S($D(RGZ1):","_RGZ1,1:"")
+"RTN","RGUT",60,0)
+ Q $G(RGZ2)_$G(RGZ1)_$S(RGZ3:RGZ3,1:"")
+"RTN","RGUT",61,0)
+ ; Return true if the result is numeric
+"RTN","RGUT",62,0)
+ISNUM(X) Q:X=+X 1
+"RTN","RGUT",63,0)
+ Q $L(X)&(X'=".")&(X?0.N0.1"."0.N)
+"RTN","RGUT",64,0)
+ ; Convert X to base Y padded to length L
+"RTN","RGUT",65,0)
+BASE(X,Y,L) ;EP
+"RTN","RGUT",66,0)
+ Q:(Y<2)!(Y>62) ""
+"RTN","RGUT",67,0)
+ N RGZ,RGZ1
+"RTN","RGUT",68,0)
+ S RGZ1="",X=$S(X<0:-X,1:X)
+"RTN","RGUT",69,0)
+ F  S RGZ=X#Y,X=X\Y,RGZ1=$C($S(RGZ<10:RGZ+48,RGZ<36:RGZ+55,1:RGZ+61))_RGZ1 Q:'X
+"RTN","RGUT",70,0)
+ Q $S('$G(L):RGZ1,1:$$REPEAT^XLFSTR(0,L-$L(RGZ1))_$E(RGZ1,1,L))
+"RTN","RGUT",71,0)
+ ; Convert a string to its SOUNDEX equivalent
+"RTN","RGUT",72,0)
+SOUNDEX(RGVALUE) ;EP
+"RTN","RGUT",73,0)
+ N RGCODE,RGSOUND,RGPREV,RGCHAR,RGPOS,RGTRANS
+"RTN","RGUT",74,0)
+ S RGCODE="01230129022455012623019202"
+"RTN","RGUT",75,0)
+ S RGSOUND=$C($A(RGVALUE)-(RGVALUE?1L.E*32))
+"RTN","RGUT",76,0)
+ S RGPREV=$E(RGCODE,$A(RGVALUE)-64)
+"RTN","RGUT",77,0)
+ F RGPOS=2:1 S RGCHAR=$E(RGVALUE,RGPOS) Q:","[RGCHAR  D  Q:$L(RGSOUND)=4
+"RTN","RGUT",78,0)
+ .Q:RGCHAR'?1A
+"RTN","RGUT",79,0)
+ .S RGTRANS=$E(RGCODE,$A(RGCHAR)-$S(RGCHAR?1U:64,1:96))
+"RTN","RGUT",80,0)
+ .Q:RGTRANS=RGPREV!(RGTRANS=9)
+"RTN","RGUT",81,0)
+ .S RGPREV=RGTRANS
+"RTN","RGUT",82,0)
+ .S:RGTRANS'=0 RGSOUND=RGSOUND_RGTRANS
+"RTN","RGUT",83,0)
+ Q $E(RGSOUND_"000",1,4)
+"RTN","RGUT",84,0)
+ ; Display formatted title
+"RTN","RGUT",85,0)
+TITLE(RGTTL,RGVER,RGFN) ;EP
+"RTN","RGUT",86,0)
+ I '$D(IOM) N IOM,IOF S IOM=80,IOF="#"
+"RTN","RGUT",87,0)
+ S RGVER=$G(RGVER,"1.0")
+"RTN","RGUT",88,0)
+ S:RGVER RGVER="Version "_RGVER
+"RTN","RGUT",89,0)
+ U $G(IO,$I)
+"RTN","RGUT",90,0)
+ W @IOF,$S(IO=IO(0):$C(27,91,55,109),1:""),*13,$$ENTRY^RGUTDT(+$H_","),?(IOM-$L(RGTTL)\2),RGTTL,?(IOM-$L(RGVER)),RGVER,!,$S(IO=IO(0):$C(27,91,109),1:$$UND),!
+"RTN","RGUT",91,0)
+ W:$D(RGFN) ?(IOM-$L(RGFN)\2),RGFN,!
+"RTN","RGUT",92,0)
+ Q
+"RTN","RGUT",93,0)
+ ; Display required header for menus
+"RTN","RGUT",94,0)
+MNUHDR(PKG,VER) ;EP
+"RTN","RGUT",95,0)
+ Q:$D(ZTQUEUED)
+"RTN","RGUT",96,0)
+ Q:$E($G(IOST),1,2)'="C-"
+"RTN","RGUT",97,0)
+ N X,%ZIS,IORVON,IORVOFF,MNU
+"RTN","RGUT",98,0)
+ S MNU=$P($G(XQY0),U,2),MNU(0)=$P($G(XQY0),U),VER=$G(VER)
+"RTN","RGUT",99,0)
+ S X=$$GETPKG($S($L($G(PKG)):PKG,1:MNU(0)))
+"RTN","RGUT",100,0)
+ I $L(X) D
+"RTN","RGUT",101,0)
+ .S PKG=$P(X,U,2),X=$P(X,U,3)
+"RTN","RGUT",102,0)
+ .I $L(X),'$L(VER) S VER=$$VERSION^XPDUTL(X)
+"RTN","RGUT",103,0)
+ S:VER VER="Version "_VER
+"RTN","RGUT",104,0)
+ S X="IORVON;IORVOFF"
+"RTN","RGUT",105,0)
+ D ENDR^%ZISS
+"RTN","RGUT",106,0)
+ U IO
+"RTN","RGUT",107,0)
+ W @IOF,IORVON,$$GET1^DIQ(4,DUZ(2),.01),?(IOM-$L(PKG)\2),PKG,?(IOM-$L(VER)),VER,!,IORVOFF,!?(IOM-$L(MNU)\2),MNU,!
+"RTN","RGUT",108,0)
+ Q
+"RTN","RGUT",109,0)
+ ; Execute menu action, preserving menu headers
+"RTN","RGUT",110,0)
+MNUEXEC(EXEC,PAUSE) ;EP
+"RTN","RGUT",111,0)
+ D MNUHDR()
+"RTN","RGUT",112,0)
+ X EXEC
+"RTN","RGUT",113,0)
+ R:$G(PAUSE)&'$D(ZTQUEUED) !,"Press ENTER or RETURN to continue...",PAUSE:$G(DTIME,300),!
+"RTN","RGUT",114,0)
+ Q
+"RTN","RGUT",115,0)
+ ; Action for editing parameters from menu
+"RTN","RGUT",116,0)
+MNUPARAM(PARAM) ;EP
+"RTN","RGUT",117,0)
+ D MNUEXEC("D EDITPAR^XPAREDIT($G(PARAM,$P(XQY0,U)))")
+"RTN","RGUT",118,0)
+ Q
+"RTN","RGUT",119,0)
+ ; Action for editing parameter template from menu
+"RTN","RGUT",120,0)
+MNUTEMPL(TMPL) ;EP
+"RTN","RGUT",121,0)
+ D MNUEXEC("D TEDH^XPAREDIT($G(TMPL,$P(XQY0,U)),""BA"")")
+"RTN","RGUT",122,0)
+ Q
+"RTN","RGUT",123,0)
+ ; Return package reference from namespace
+"RTN","RGUT",124,0)
+ ; Returns ien^pkg name^pkg namespace
+"RTN","RGUT",125,0)
+GETPKG(NAME) ;EP
+"RTN","RGUT",126,0)
+ N PKG,IEN
+"RTN","RGUT",127,0)
+ S PKG=NAME
+"RTN","RGUT",128,0)
+ F  S PKG=$O(^DIC(9.4,"C",PKG),-1) Q:$E(NAME,1,$L(PKG))=PKG
+"RTN","RGUT",129,0)
+ S IEN=$S($L(PKG):+$O(^DIC(9.4,"C",PKG,0)),1:0)
+"RTN","RGUT",130,0)
+ Q $S(IEN:IEN_U_$P(^DIC(9.4,IEN,0),U)_U_PKG,1:"")
+"RTN","RGUT",131,0)
+ ; Create a unique 8.3 filename
+"RTN","RGUT",132,0)
+UFN(Y) ;EP
+"RTN","RGUT",133,0)
+ N X
+"RTN","RGUT",134,0)
+ S Y=$E($G(Y),1,3),X=$$BASE($R(100)_$J_$TR($H,","),36,$S($L(Y):8,1:11))_Y
+"RTN","RGUT",135,0)
+ Q $E(X,1,8)_"."_$E(X,9,11)
+"RTN","RGUT",136,0)
+ ; Return formatted SSN
+"RTN","RGUT",137,0)
+SSN(X) ;EP
+"RTN","RGUT",138,0)
+ Q $S(X="":X,1:$E(X,1,3)_"-"_$E(X,4,5)_"-"_$E(X,6,12))
+"RTN","RGUT",139,0)
+ ; Performs security check on patient access
+"RTN","RGUT",140,0)
+DGSEC(Y) ;EP
+"RTN","RGUT",141,0)
+ N DIC
+"RTN","RGUT",142,0)
+ S DIC(0)="E"
+"RTN","RGUT",143,0)
+ D ^DGSEC
+"RTN","RGUT",144,0)
+ Q $S(Y<1:0,1:Y)
+"RTN","RGUT",145,0)
+ ; Displays spinning icon to indicate progress
+"RTN","RGUT",146,0)
+WORKING(RGST,RGP,RGS) ;EP
+"RTN","RGUT",147,0)
+ Q:'$D(IO(0))!$D(ZTQUEUED) 0
+"RTN","RGUT",148,0)
+ N RGZ
+"RTN","RGUT",149,0)
+ S RGZ(0)=$I,RGS=$G(RGS,"|/-\"),RGST=+$G(RGST)
+"RTN","RGUT",150,0)
+ S RGST=$S(RGST<0:0,1:RGST#$L(RGS)+1)
+"RTN","RGUT",151,0)
+ U IO(0)
+"RTN","RGUT",152,0)
+ W:'$G(RGP) *8,*$S(RGST:$A(RGS,RGST),1:32)
+"RTN","RGUT",153,0)
+ R *RGZ:0
+"RTN","RGUT",154,0)
+ U RGZ(0)
+"RTN","RGUT",155,0)
+ Q RGZ=94
+"RTN","RGUT",156,0)
+ ; Ask for Y/N response
+"RTN","RGUT",157,0)
+ASK(RGP,RGD,RGZ) ;EP
+"RTN","RGUT",158,0)
+ S RGD=$G(RGD,"N")
+"RTN","RGUT",159,0)
+ S RGZ=$$GETCH(RGP_"? ","YN",,,,RGD)
+"RTN","RGUT",160,0)
+ S:RGZ="" RGZ=$E(RGD)
+"RTN","RGUT",161,0)
+ W !
+"RTN","RGUT",162,0)
+ Q $S(RGZ[U:"",1:RGZ="Y")
+"RTN","RGUT",163,0)
+ ; Pause for user response
+"RTN","RGUT",164,0)
+PAUSE(RGP,RGX,RGY) ;EP
+"RTN","RGUT",165,0)
+ Q $$GETCH($G(RGP,"Press RETURN or ENTER to continue..."),U,.RGX,.RGY)
+"RTN","RGUT",166,0)
+ ; Single character read
+"RTN","RGUT",167,0)
+GETCH(RGP,RGV,RGX,RGY,RGT,RGD) ;EP
+"RTN","RGUT",168,0)
+ N RGZ,RGC
+"RTN","RGUT",169,0)
+ W:$D(RGX)!$D(RGY) $$XY($G(RGX,$X),$G(RGY,$Y))
+"RTN","RGUT",170,0)
+ W $G(RGP),$E($G(RGD)_" "),*8
+"RTN","RGUT",171,0)
+ S RGT=$G(RGT,$G(DTIME,999999)),RGD=$G(RGD,U),RGC=""
+"RTN","RGUT",172,0)
+ S:$D(RGV) RGV=$$UP^XLFSTR(RGV)_U
+"RTN","RGUT",173,0)
+ F  D  Q:'$L(RGZ)
+"RTN","RGUT",174,0)
+ .R RGZ#1:RGT
+"RTN","RGUT",175,0)
+ .E  S RGC=RGD Q
+"RTN","RGUT",176,0)
+ .W *8
+"RTN","RGUT",177,0)
+ .Q:'$L(RGZ)
+"RTN","RGUT",178,0)
+ .S RGZ=$$UP^XLFSTR(RGZ)
+"RTN","RGUT",179,0)
+ .I $D(RGV) D
+"RTN","RGUT",180,0)
+ ..I RGV[RGZ S RGC=RGZ
+"RTN","RGUT",181,0)
+ ..E  W *7,*32,*8 S RGC=""
+"RTN","RGUT",182,0)
+ .E  S RGC=RGZ
+"RTN","RGUT",183,0)
+ W !
+"RTN","RGUT",184,0)
+ Q RGC
+"RTN","RGUT",185,0)
+ ; Position cursor
+"RTN","RGUT",186,0)
+XY(DX,DY) ;EP
+"RTN","RGUT",187,0)
+ D:$G(IOXY)="" HOME^%ZIS
+"RTN","RGUT",188,0)
+ S DX=$S(+$G(DX)>0:+DX,1:0),DY=$S(+$G(DY)>0:+DY,1:0),$X=0
+"RTN","RGUT",189,0)
+ X IOXY
+"RTN","RGUT",190,0)
+ S $X=DX,$Y=DY
+"RTN","RGUT",191,0)
+ Q ""
+"RTN","RGUT",192,0)
+ ; Parameterized calls to date routines
+"RTN","RGUT",193,0)
+DT(RGD,RGX) ;EP
+"RTN","RGUT",194,0)
+ N %D,%P,%C,%H,%I,%X,%Y,RGZ
+"RTN","RGUT",195,0)
+ D DT^DILF($G(RGX),RGD,.RGZ)
+"RTN","RGUT",196,0)
+ W:$D(RGZ(0)) RGZ(0),!
+"RTN","RGUT",197,0)
+ Q $G(RGZ,-1)
+"RTN","RGUT",198,0)
+DTC(X1,X2) ;EP
+"RTN","RGUT",199,0)
+ N X3
+"RTN","RGUT",200,0)
+ S X2=$$DTF(X1)+X2,X1=X1\1,X3=X2\1,X2=X2-X3
+"RTN","RGUT",201,0)
+ S:X2<0 X3=X3-1,X2=X2+1
+"RTN","RGUT",202,0)
+ Q $$FMADD^XLFDT(X1,X3)+$J($$DTT(X2),0,6)
+"RTN","RGUT",203,0)
+DTD(X1,X2) ;EP
+"RTN","RGUT",204,0)
+ Q $$FMDIFF^XLFDT(X1\1,X2\1)+($$DTF(X1)-$$DTF(X2))
+"RTN","RGUT",205,0)
+DTF(X) S X=X#1*100
+"RTN","RGUT",206,0)
+ Q X\1*3600+(X*100#100\1*60)+(X*10000#100)/86400
+"RTN","RGUT",207,0)
+DTT(X) S X=X*86400
+"RTN","RGUT",208,0)
+ Q X\3600*100+(X#3600/3600*60)/10000
+"RTN","RGUT",209,0)
+ ; Save buffer to routine
+"RTN","RGUT",210,0)
+ ; RTN = Routine name
+"RTN","RGUT",211,0)
+ ; BUF = Buffer containing routine contents (terminal subscript must be 0).
+"RTN","RGUT",212,0)
+ ; KILL = If true, delete buffer after completion
+"RTN","RGUT",213,0)
+RTNSAVE(RTN,BUF,KILL) ;
+"RTN","RGUT",214,0)
+ N XCM,XCN,DIE,X
+"RTN","RGUT",215,0)
+ S XCN=0,DIE=BUF,X=RTN
+"RTN","RGUT",216,0)
+ S:$E(DIE,$L(DIE))=")" $E(DIE,$L(DIE))=","
+"RTN","RGUT",217,0)
+ X ^%ZOSF("SAVE")
+"RTN","RGUT",218,0)
+ K:$G(KILL) @BUF
+"RTN","RGUT",219,0)
+ Q
+"RTN","RGUT",220,0)
+ ; Copy one routine to another
+"RTN","RGUT",221,0)
+RTNCOPY(SRC,DST) ;
+"RTN","RGUT",222,0)
+ N BUF,X,Y
+"RTN","RGUT",223,0)
+ Q:'$L($T(+0^@SRC))
+"RTN","RGUT",224,0)
+ S BUF=$$TMPGBL^RGUTRPC("RTN")
+"RTN","RGUT",225,0)
+ F X=1:1 S Y=$T(+X^@SRC) Q:'$L(Y)  S @BUF@(X,0)=Y
+"RTN","RGUT",226,0)
+ D RTNSAVE(DST,BUF,1)
+"RTN","RGUT",227,0)
+ Q
+"RTN","RGUT",228,0)
+ ; Delete a routine
+"RTN","RGUT",229,0)
+RTNDEL(RTN) ;
+"RTN","RGUT",230,0)
+ D RTNSAVE(RTN,$$TMPGBL^RGUTRPC("RTN"),1)
+"RTN","RGUT",231,0)
+ Q
+"RTN","RGUT1")
+0^71^B805876
+"RTN","RGUT1",1,0)
+RGUT1 ;RG/IND/PLS - General Purpose Utilites - Con't ;03-Mar-2015 14:24;DKM
+"RTN","RGUT1",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUT1",3,0)
+ ;;
+"RTN","RGUT1",4,0)
+ ;=================================================================
+"RTN","RGUT1",5,0)
+ ; Parameterized call to ScreenMan interface
+"RTN","RGUT1",6,0)
+DDS(DDSFILE,DR,DA,DDSPARM,DDSCHANG,RGERR) ;
+"RTN","RGUT1",7,0)
+ S RGERR=0
+"RTN","RGUT1",8,0)
+ D:'$D(IOST(0)) HOME^%ZIS
+"RTN","RGUT1",9,0)
+ D ENS^%ZISS
+"RTN","RGUT1",10,0)
+ D ^DDS
+"RTN","RGUT1",11,0)
+ S:$D(DTOUT) RGERR=1
+"RTN","RGUT1",12,0)
+ I $D(DIMSG)!($D(DIERR)) D
+"RTN","RGUT1",13,0)
+ .S RGERR=1
+"RTN","RGUT1",14,0)
+ .;D SHOWDLG(23)
+"RTN","RGUT1",15,0)
+ .W !,?5,"The Screen Manager could not edit this record."
+"RTN","RGUT1",16,0)
+ .H 5
+"RTN","RGUT1",17,0)
+ Q
+"RTN","RGUT1",18,0)
+ ; Prompt for single date date
+"RTN","RGUT1",19,0)
+ ; PMT = Prompt
+"RTN","RGUT1",20,0)
+ ; DFL = Default value (optional)
+"RTN","RGUT1",21,0)
+ ; MIN = Minimum value (optional)
+"RTN","RGUT1",22,0)
+ ; OPT = Additional options (optional)
+"RTN","RGUT1",23,0)
+ASKDATE(PMT,DFL,MIN,OPT) ;
+"RTN","RGUT1",24,0)
+ N %DT,Y
+"RTN","RGUT1",25,0)
+ S %DT="APEX"_$G(OPT)
+"RTN","RGUT1",26,0)
+ S %DT("A")=PMT
+"RTN","RGUT1",27,0)
+ S:$G(MIN) %DT(0)=MIN
+"RTN","RGUT1",28,0)
+ I $G(DFL) D
+"RTN","RGUT1",29,0)
+ .S Y=DFL
+"RTN","RGUT1",30,0)
+ .D DD^%DT
+"RTN","RGUT1",31,0)
+ .S %DT("B")=Y
+"RTN","RGUT1",32,0)
+ D ^%DT
+"RTN","RGUT1",33,0)
+ S:Y<0 POP=1
+"RTN","RGUT1",34,0)
+ Q Y
+"RTN","RGUTALR")
+0^33^B1374002
+"RTN","RGUTALR",1,0)
+RGUTALR ;RI/CBMI/DKM - Send alert to user(s) via kernel or mail;03-Mar-2015 14:24;DKM
+"RTN","RGUTALR",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTALR",3,0)
+ ;;
+"RTN","RGUTALR",4,0)
+ ;=================================================================
+"RTN","RGUTALR",5,0)
+ ; Send an alert.
+"RTN","RGUTALR",6,0)
+ ;   XQAMSG = Message to send
+"RTN","RGUTALR",7,0)
+ ;   RGUTSR  = A semicolon-delimited list of users to receive alert.
+"RTN","RGUTALR",8,0)
+ ;=================================================================
+"RTN","RGUTALR",9,0)
+ALERT(XQAMSG,RGUTSR) ;
+"RTN","RGUTALR",10,0)
+ N XQA,XQAOPT,XQAFLG,XQAROU,XQADATA,XQAID
+"RTN","RGUTALR",11,0)
+ S @$$TRAP^RGUTOS("EXIT^RGUTALR"),RGUTSR=$G(RGUTSR,"*"),XQAMSG=$TR(XQAMSG,U,"~")
+"RTN","RGUTALR",12,0)
+ D ENTRY^RGUTUSR(RGUTSR,.XQA),SETUP^XQALERT:$D(XQA)
+"RTN","RGUTALR",13,0)
+EXIT Q
+"RTN","RGUTALR",14,0)
+ ;=================================================================
+"RTN","RGUTALR",15,0)
+ ; Send a mail message
+"RTN","RGUTALR",16,0)
+ ;   RGMSG  = Message to send (single node or array)
+"RTN","RGUTALR",17,0)
+ ;   XMY    = A semicolon-delimited list (or array) of users
+"RTN","RGUTALR",18,0)
+ ;   XMSUB  = Subject line (optional)
+"RTN","RGUTALR",19,0)
+ ;   XMDUZ  = DUZ of sender (optional)
+"RTN","RGUTALR",20,0)
+ ;=================================================================
+"RTN","RGUTALR",21,0)
+MAIL(RGMSG,XMY,XMSUB,XMDUZ) ;
+"RTN","RGUTALR",22,0)
+ N XMTEXT
+"RTN","RGUTALR",23,0)
+ S:$D(RGMSG)=1 RGMSG(1)=RGMSG
+"RTN","RGUTALR",24,0)
+ S XMTEXT="RGMSG(",@$$TRAP^RGUTOS("EXIT^RGUTALR"),XMY=$G(XMY)
+"RTN","RGUTALR",25,0)
+ S:$G(XMSUB)="" XMSUB=RGMSG
+"RTN","RGUTALR",26,0)
+ S:$G(XMDUZ)="" XMDUZ=$G(DUZ)
+"RTN","RGUTALR",27,0)
+ F  Q:'$L(XMY)  S X=$P(XMY,";"),XMY=$P(XMY,";",2,999) S:$L(X) XMY(X)=""
+"RTN","RGUTALR",28,0)
+ D ^XMD:$D(XMY)>9
+"RTN","RGUTALR",29,0)
+ Q
+"RTN","RGUTBC28")
+0^65^B10811663
+"RTN","RGUTBC28",1,0)
+RGUTBC28 ;RI/CBMI/DKM/PLS - Convert 128 barcode to HPCL-compatible form ;03-Mar-2015 14:24;DKM
+"RTN","RGUTBC28",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTBC28",3,0)
+ ;;
+"RTN","RGUTBC28",4,0)
+ ;=================================================================
+"RTN","RGUTBC28",5,0)
+ ; Inputs:
+"RTN","RGUTBC28",6,0)
+ ;     TX = Text to encode.
+"RTN","RGUTBC28",7,0)
+ ; Outputs:
+"RTN","RGUTBC28",8,0)
+ ;     Returns encoded text.
+"RTN","RGUTBC28",9,0)
+ ; Purpose:
+"RTN","RGUTBC28",10,0)
+ ;     Performs bar code 128 encoding on a text string.
+"RTN","RGUTBC28",11,0)
+ ;=================================================================
+"RTN","RGUTBC28",12,0)
+EN(TX) Q:TX="" ""
+"RTN","RGUTBC28",13,0)
+ N CD,TP,TP1,EN,Z1,Z2
+"RTN","RGUTBC28",14,0)
+ S TP=0,TP=$$TP(TX),CD=TP,EN=$C(TP+8)
+"RTN","RGUTBC28",15,0)
+ F  Q:TX=""  D
+"RTN","RGUTBC28",16,0)
+ .S TP1=$$TP(TX)
+"RTN","RGUTBC28",17,0)
+ .I TP1'=TP D CD(6-TP1) S TP=TP1
+"RTN","RGUTBC28",18,0)
+ .S Z1=$E(TX,1,TP=2+1),TX=$E(TX,TP=2+2,255),Z2=$A(Z1)
+"RTN","RGUTBC28",19,0)
+ .I TP=2 D CD($S(Z1>95:Z1-95,Z1:Z1+32,1:31))
+"RTN","RGUTBC28",20,0)
+ .E  D CD($S(Z2<32:Z2+96,Z2=32:31,1:Z2))
+"RTN","RGUTBC28",21,0)
+ S CD=CD#103,CD=$S('CD:31,CD>95:CD-95,1:CD+32)
+"RTN","RGUTBC28",22,0)
+ Q EN_$C(CD,11)
+"RTN","RGUTBC28",23,0)
+TP(X) Q $S(X?2N.E:2,$A(X)<32:0,$A(X)>95:1,TP=2:0,1:TP)
+"RTN","RGUTBC28",24,0)
+CD(X) S CD=$S(X=31:0,X<11:X+95,1:X-32)*$L(EN)+$G(CD),EN=EN_$C(X)
+"RTN","RGUTBC28",25,0)
+ Q
+"RTN","RGUTBC28",26,0)
+ ;=================================================================
+"RTN","RGUTBC28",27,0)
+ ; Inputs:
+"RTN","RGUTBC28",28,0)
+ ;   TXT = Data string to print in bar code
+"RTN","RGUTBC28",29,0)
+ ;   ORN = Orientation of bar code
+"RTN","RGUTBC28",30,0)
+ ;         0 = portrait (default)
+"RTN","RGUTBC28",31,0)
+ ;         1 = landscape
+"RTN","RGUTBC28",32,0)
+ ;   HGT = Height of bar code in dots (1/300 inch)
+"RTN","RGUTBC28",33,0)
+ ;   HOR = Horizontal position on page in dots
+"RTN","RGUTBC28",34,0)
+ ;   VER = Vertical position on page in dots
+"RTN","RGUTBC28",35,0)
+ ;   WID = Width of bar in dots (3=default)
+"RTN","RGUTBC28",36,0)
+ ; Purpose:
+"RTN","RGUTBC28",37,0)
+ ;   Accepts a barcode 128 string and writes an HPCL-compatible
+"RTN","RGUTBC28",38,0)
+ ;   string that will display the barcode on an HP laser printer.
+"RTN","RGUTBC28",39,0)
+ ;   A barcode font cartridge is not required.  The print position
+"RTN","RGUTBC28",40,0)
+ ;   on entry is restored on exit.
+"RTN","RGUTBC28",41,0)
+ ;=================================================================
+"RTN","RGUTBC28",42,0)
+BC(TXT,ORN,HGT,HOR,VER,WID) ;
+"RTN","RGUTBC28",43,0)
+ N Z,Z1,Z2,Z3,Z4,Z5,C,P,X
+"RTN","RGUTBC28",44,0)
+ S X=0 X ^%ZOSF("RM")
+"RTN","RGUTBC28",45,0)
+ S TXT=$$EN(TXT),C=$C(27)_"*c",P=$C(27)_"*p+",WID=$G(WID,3.5),HGT=$G(HGT,60),ORN=''$G(ORN)+1
+"RTN","RGUTBC28",46,0)
+ W $C(27),"&f0S"                                                       ;Push cursor position
+"RTN","RGUTBC28",47,0)
+ W:$D(HOR) $C(27)_"*p"_+HOR_"X"
+"RTN","RGUTBC28",48,0)
+ W:$D(VER) $C(27)_"*p"_+VER_"Y"
+"RTN","RGUTBC28",49,0)
+ W C_HGT_$E("BA",ORN)
+"RTN","RGUTBC28",50,0)
+ F Z=1:1:$L(TXT) D
+"RTN","RGUTBC28",51,0)
+ .S Z1=$P($T(@$A(TXT,Z)),";;",2),Z4=11,Z5=0
+"RTN","RGUTBC28",52,0)
+ .F Z2=1:1:$L(Z1) D
+"RTN","RGUTBC28",53,0)
+ ..S Z3=+$E(Z1,Z2),Z4=Z4-Z3,Z3=Z3*WID
+"RTN","RGUTBC28",54,0)
+ ..Q:'Z3
+"RTN","RGUTBC28",55,0)
+ ..I Z2#2 W C_Z3_$E("ab",ORN)_"0P" S Z5=Z3
+"RTN","RGUTBC28",56,0)
+ ..E  W P_(Z3+Z5)_$E("XY",ORN) S Z5=0
+"RTN","RGUTBC28",57,0)
+ .S Z4=Z4*WID+Z5
+"RTN","RGUTBC28",58,0)
+ .W:Z4>0 P_Z4_$E("XY",ORN)
+"RTN","RGUTBC28",59,0)
+ W $C(27),"&f1S"                                                       ;Pop cursor position
+"RTN","RGUTBC28",60,0)
+ Q ""
+"RTN","RGUTBC28",61,0)
+1 ;;11431
+"RTN","RGUTBC28",62,0)
+2 ;;41111
+"RTN","RGUTBC28",63,0)
+3 ;;41131
+"RTN","RGUTBC28",64,0)
+4 ;;11314
+"RTN","RGUTBC28",65,0)
+5 ;;11413
+"RTN","RGUTBC28",66,0)
+6 ;;31114
+"RTN","RGUTBC28",67,0)
+7 ;;41113
+"RTN","RGUTBC28",68,0)
+8 ;;21141
+"RTN","RGUTBC28",69,0)
+9 ;;21121
+"RTN","RGUTBC28",70,0)
+10 ;;21123
+"RTN","RGUTBC28",71,0)
+11 ;;2331112
+"RTN","RGUTBC28",72,0)
+31 ;;21222
+"RTN","RGUTBC28",73,0)
+33 ;;22212
+"RTN","RGUTBC28",74,0)
+34 ;;22222
+"RTN","RGUTBC28",75,0)
+35 ;;12122
+"RTN","RGUTBC28",76,0)
+36 ;;12132
+"RTN","RGUTBC28",77,0)
+37 ;;13122
+"RTN","RGUTBC28",78,0)
+38 ;;12221
+"RTN","RGUTBC28",79,0)
+39 ;;12231
+"RTN","RGUTBC28",80,0)
+40 ;;13221
+"RTN","RGUTBC28",81,0)
+41 ;;22121
+"RTN","RGUTBC28",82,0)
+42 ;;22131
+"RTN","RGUTBC28",83,0)
+43 ;;23121
+"RTN","RGUTBC28",84,0)
+44 ;;11223
+"RTN","RGUTBC28",85,0)
+45 ;;12213
+"RTN","RGUTBC28",86,0)
+46 ;;12223
+"RTN","RGUTBC28",87,0)
+47 ;;11322
+"RTN","RGUTBC28",88,0)
+48 ;;12312
+"RTN","RGUTBC28",89,0)
+49 ;;12322
+"RTN","RGUTBC28",90,0)
+50 ;;22321
+"RTN","RGUTBC28",91,0)
+51 ;;22113
+"RTN","RGUTBC28",92,0)
+52 ;;22123
+"RTN","RGUTBC28",93,0)
+53 ;;21321
+"RTN","RGUTBC28",94,0)
+54 ;;22311
+"RTN","RGUTBC28",95,0)
+55 ;;31213
+"RTN","RGUTBC28",96,0)
+56 ;;31122
+"RTN","RGUTBC28",97,0)
+57 ;;32112
+"RTN","RGUTBC28",98,0)
+58 ;;32122
+"RTN","RGUTBC28",99,0)
+59 ;;31221
+"RTN","RGUTBC28",100,0)
+60 ;;32211
+"RTN","RGUTBC28",101,0)
+61 ;;32221
+"RTN","RGUTBC28",102,0)
+62 ;;21212
+"RTN","RGUTBC28",103,0)
+63 ;;21232
+"RTN","RGUTBC28",104,0)
+64 ;;23212
+"RTN","RGUTBC28",105,0)
+65 ;;11132
+"RTN","RGUTBC28",106,0)
+66 ;;13112
+"RTN","RGUTBC28",107,0)
+67 ;;13132
+"RTN","RGUTBC28",108,0)
+68 ;;11231
+"RTN","RGUTBC28",109,0)
+69 ;;13211
+"RTN","RGUTBC28",110,0)
+70 ;;13231
+"RTN","RGUTBC28",111,0)
+71 ;;21131
+"RTN","RGUTBC28",112,0)
+72 ;;23111
+"RTN","RGUTBC28",113,0)
+73 ;;23131
+"RTN","RGUTBC28",114,0)
+74 ;;11213
+"RTN","RGUTBC28",115,0)
+75 ;;11233
+"RTN","RGUTBC28",116,0)
+76 ;;13213
+"RTN","RGUTBC28",117,0)
+77 ;;11312
+"RTN","RGUTBC28",118,0)
+78 ;;11332
+"RTN","RGUTBC28",119,0)
+79 ;;13312
+"RTN","RGUTBC28",120,0)
+80 ;;31312
+"RTN","RGUTBC28",121,0)
+81 ;;21133
+"RTN","RGUTBC28",122,0)
+82 ;;23113
+"RTN","RGUTBC28",123,0)
+83 ;;21311
+"RTN","RGUTBC28",124,0)
+84 ;;21331
+"RTN","RGUTBC28",125,0)
+85 ;;21313
+"RTN","RGUTBC28",126,0)
+86 ;;31112
+"RTN","RGUTBC28",127,0)
+87 ;;31132
+"RTN","RGUTBC28",128,0)
+88 ;;33112
+"RTN","RGUTBC28",129,0)
+89 ;;31211
+"RTN","RGUTBC28",130,0)
+90 ;;31231
+"RTN","RGUTBC28",131,0)
+91 ;;33211
+"RTN","RGUTBC28",132,0)
+92 ;;31411
+"RTN","RGUTBC28",133,0)
+93 ;;22141
+"RTN","RGUTBC28",134,0)
+94 ;;43111
+"RTN","RGUTBC28",135,0)
+95 ;;11122
+"RTN","RGUTBC28",136,0)
+96 ;;11142
+"RTN","RGUTBC28",137,0)
+97 ;;12112
+"RTN","RGUTBC28",138,0)
+98 ;;12142
+"RTN","RGUTBC28",139,0)
+99 ;;14112
+"RTN","RGUTBC28",140,0)
+100 ;;14122
+"RTN","RGUTBC28",141,0)
+101 ;;11221
+"RTN","RGUTBC28",142,0)
+102 ;;11241
+"RTN","RGUTBC28",143,0)
+103 ;;12211
+"RTN","RGUTBC28",144,0)
+104 ;;12241
+"RTN","RGUTBC28",145,0)
+105 ;;14211
+"RTN","RGUTBC28",146,0)
+106 ;;14221
+"RTN","RGUTBC28",147,0)
+107 ;;24121
+"RTN","RGUTBC28",148,0)
+108 ;;22111
+"RTN","RGUTBC28",149,0)
+109 ;;41311
+"RTN","RGUTBC28",150,0)
+110 ;;24111
+"RTN","RGUTBC28",151,0)
+111 ;;13411
+"RTN","RGUTBC28",152,0)
+112 ;;11124
+"RTN","RGUTBC28",153,0)
+113 ;;12114
+"RTN","RGUTBC28",154,0)
+114 ;;12124
+"RTN","RGUTBC28",155,0)
+115 ;;11421
+"RTN","RGUTBC28",156,0)
+116 ;;12411
+"RTN","RGUTBC28",157,0)
+117 ;;12421
+"RTN","RGUTBC28",158,0)
+118 ;;41121
+"RTN","RGUTBC28",159,0)
+119 ;;42111
+"RTN","RGUTBC28",160,0)
+120 ;;42121
+"RTN","RGUTBC28",161,0)
+121 ;;21214
+"RTN","RGUTBC28",162,0)
+122 ;;21412
+"RTN","RGUTBC28",163,0)
+123 ;;41212
+"RTN","RGUTBC28",164,0)
+124 ;;11114
+"RTN","RGUTBC28",165,0)
+125 ;;11134
+"RTN","RGUTBC28",166,0)
+126 ;;13114
+"RTN","RGUTBC28",167,0)
+127 ;;11411
+"RTN","RGUTBC39")
+0^66^B7717700
+"RTN","RGUTBC39",1,0)
+RGUTBC39 ;RG/IND/PLS - Converts barcode 39 to HPCL-compatible format ;03-Mar-2015 14:24;DKM
+"RTN","RGUTBC39",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTBC39",3,0)
+ ;;
+"RTN","RGUTBC39",4,0)
+ ;=================================================================
+"RTN","RGUTBC39",5,0)
+ ; Inputs:
+"RTN","RGUTBC39",6,0)
+ ;   TXT = Data string to print in bar code
+"RTN","RGUTBC39",7,0)
+ ;   ORN = Orientation of bar code/Check Digit
+"RTN","RGUTBC39",8,0)
+ ;         0 = portrait/no check digit(default)
+"RTN","RGUTBC39",9,0)
+ ;         1 = landscape/no check digit
+"RTN","RGUTBC39",10,0)
+ ;         2 = portrait/check digit
+"RTN","RGUTBC39",11,0)
+ ;         3 = landscape/check digit
+"RTN","RGUTBC39",12,0)
+ ;   HGT = Height of bar code in dots (1/300 inch)
+"RTN","RGUTBC39",13,0)
+ ;   HOR = Horizontal position on page in dots
+"RTN","RGUTBC39",14,0)
+ ;   VER = Vertical position on page in dots
+"RTN","RGUTBC39",15,0)
+ ;   WID = Width of bar in dots (3=default)
+"RTN","RGUTBC39",16,0)
+ ; Purpose:
+"RTN","RGUTBC39",17,0)
+ ;   Accepts a barcode 39 string and writes an HPCL-compatible
+"RTN","RGUTBC39",18,0)
+ ;   string that will display the barcode on an HP laser printer.
+"RTN","RGUTBC39",19,0)
+ ;   A barcode font cartridge is not required.  The print position
+"RTN","RGUTBC39",20,0)
+ ;   on entry is restored upon exit.
+"RTN","RGUTBC39",21,0)
+ ;=================================================================
+"RTN","RGUTBC39",22,0)
+BC(TXT,ORN,HGT,HOR,VER,WID) ;
+"RTN","RGUTBC39",23,0)
+ N DD,CHK,CH,ZDD,C,P,Z1,Z2,Z3,Z4,Z5,X
+"RTN","RGUTBC39",24,0)
+ S X=0 X ^%ZOSF("RM")
+"RTN","RGUTBC39",25,0)
+ S CHK=$S($G(ORN)>1:1,1:0),ORN=$S($G(ORN)#2:1,1:0)
+"RTN","RGUTBC39",26,0)
+ S TXT=$TR(TXT,"*",""),CH="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ-. $/+Z"
+"RTN","RGUTBC39",27,0)
+ S DD="" F ZDD=1:1:$L(TXT) S DD=DD_$S(CH[$E(TXT,ZDD):$E(TXT,ZDD),1:"") ;STRIP UNPRINTABLE CHARACTERS
+"RTN","RGUTBC39",28,0)
+ S TXT=DD I +$G(CHK) S TXT=$$CHK(TXT)                             ;ADD CHECKSUM CHARACTER
+"RTN","RGUTBC39",29,0)
+ S TXT="*"_TXT_"*"                                                     ;ADD START AND STOP CODES
+"RTN","RGUTBC39",30,0)
+ S C=$C(27)_"*c",P=$C(27)_"*p+",WID=$G(WID,3),HGT=$G(HGT,60),ORN=''$G(ORN)+1
+"RTN","RGUTBC39",31,0)
+ W $C(27),"&f0S"                                                       ;Push cursor position
+"RTN","RGUTBC39",32,0)
+ W:$D(HOR) $C(27)_"*p"_+HOR_"X"
+"RTN","RGUTBC39",33,0)
+ W:$D(VER) $C(27)_"*p"_+VER_"Y"
+"RTN","RGUTBC39",34,0)
+ W C_HGT_$E("BA",ORN)
+"RTN","RGUTBC39",35,0)
+ F Z=1:1:$L(TXT) D
+"RTN","RGUTBC39",36,0)
+ .S Z1=$S($E(TXT,Z)="*":$P($T(99),";",4),1:$P($T(@($F(CH,$E(TXT,Z))-2)),";",4)),Z4=15,Z5=0
+"RTN","RGUTBC39",37,0)
+ .F Z2=1:1:$L(Z1) D
+"RTN","RGUTBC39",38,0)
+ ..S Z3=+$E(Z1,Z2),Z4=Z4-Z3,Z3=Z3*WID
+"RTN","RGUTBC39",39,0)
+ ..Q:'Z3
+"RTN","RGUTBC39",40,0)
+ ..I Z2#2 W C_Z3_$E("ab",ORN)_"0P" S Z5=Z3
+"RTN","RGUTBC39",41,0)
+ ..E  W P_(Z3+Z5)_$E("XY",ORN) S Z5=0
+"RTN","RGUTBC39",42,0)
+ .S Z4=Z4*WID+Z5
+"RTN","RGUTBC39",43,0)
+ .W P_(Z5+WID)_$E("XY",ORN)
+"RTN","RGUTBC39",44,0)
+ W $C(27),"&f1S"                                                       ;Pop cursor position
+"RTN","RGUTBC39",45,0)
+ Q ""
+"RTN","RGUTBC39",46,0)
+CHK(X) ;CALCULATE CHECK DIGIT AND RETURN STRING TO PRINT
+"RTN","RGUTBC39",47,0)
+ Q:X="" ""
+"RTN","RGUTBC39",48,0)
+ N CHK,Y
+"RTN","RGUTBC39",49,0)
+ S CHK=0,Y=X
+"RTN","RGUTBC39",50,0)
+ F  Q:X=""  S CHK=$F(CH,$E(X))-2+CHK,X=$E(X,2,255)
+"RTN","RGUTBC39",51,0)
+ S CHK=$E(CH,CHK#43+1)
+"RTN","RGUTBC39",52,0)
+ Q Y_CHK
+"RTN","RGUTBC39",53,0)
+0 ;;0;111331311
+"RTN","RGUTBC39",54,0)
+1 ;;1;311311113
+"RTN","RGUTBC39",55,0)
+2 ;;2;113311113
+"RTN","RGUTBC39",56,0)
+3 ;;3;313311111
+"RTN","RGUTBC39",57,0)
+4 ;;4;111331113
+"RTN","RGUTBC39",58,0)
+5 ;;5;311331111
+"RTN","RGUTBC39",59,0)
+6 ;;6;113331111
+"RTN","RGUTBC39",60,0)
+7 ;;7;111311313
+"RTN","RGUTBC39",61,0)
+8 ;;8;311311311
+"RTN","RGUTBC39",62,0)
+9 ;;9;113311311
+"RTN","RGUTBC39",63,0)
+10 ;;A;311113113
+"RTN","RGUTBC39",64,0)
+11 ;;B;113113113
+"RTN","RGUTBC39",65,0)
+12 ;;C;313113111
+"RTN","RGUTBC39",66,0)
+13 ;;D;111133113
+"RTN","RGUTBC39",67,0)
+14 ;;E;311133111
+"RTN","RGUTBC39",68,0)
+15 ;;F;113133111
+"RTN","RGUTBC39",69,0)
+16 ;;G;111113313
+"RTN","RGUTBC39",70,0)
+17 ;;H;311113311
+"RTN","RGUTBC39",71,0)
+18 ;;I;113113311
+"RTN","RGUTBC39",72,0)
+19 ;;J;111133311
+"RTN","RGUTBC39",73,0)
+20 ;;K;311111133
+"RTN","RGUTBC39",74,0)
+21 ;;L;113111133
+"RTN","RGUTBC39",75,0)
+22 ;;M;313111131
+"RTN","RGUTBC39",76,0)
+23 ;;N;111131133
+"RTN","RGUTBC39",77,0)
+24 ;;O;311131131
+"RTN","RGUTBC39",78,0)
+25 ;;P;113131131
+"RTN","RGUTBC39",79,0)
+26 ;;Q;111111333
+"RTN","RGUTBC39",80,0)
+27 ;;R;311111331
+"RTN","RGUTBC39",81,0)
+28 ;;S;113111331
+"RTN","RGUTBC39",82,0)
+29 ;;T;111131331
+"RTN","RGUTBC39",83,0)
+30 ;;U;331111113
+"RTN","RGUTBC39",84,0)
+31 ;;V;133111113
+"RTN","RGUTBC39",85,0)
+32 ;;W;333111111
+"RTN","RGUTBC39",86,0)
+33 ;;X;131131113
+"RTN","RGUTBC39",87,0)
+34 ;;Y;331131111
+"RTN","RGUTBC39",88,0)
+35 ;;Z;133131111
+"RTN","RGUTBC39",89,0)
+36 ;;-;131111313
+"RTN","RGUTBC39",90,0)
+37 ;;.;331111311
+"RTN","RGUTBC39",91,0)
+38 ;; ;133111311
+"RTN","RGUTBC39",92,0)
+39 ;;$;131313111
+"RTN","RGUTBC39",93,0)
+40 ;;/;131311131
+"RTN","RGUTBC39",94,0)
+41 ;;+;131113131
+"RTN","RGUTBC39",95,0)
+42 ;;%;111313131
+"RTN","RGUTBC39",96,0)
+99 ;;*;131131311
+"RTN","RGUTBCDA")
+0^67^B8230455
+"RTN","RGUTBCDA",1,0)
+RGUTBCDA ;RG/IND/PLS - Converts barcode CODABAR to HPCL-compatible format ;03-Mar-2015 14:24;DKM
+"RTN","RGUTBCDA",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTBCDA",3,0)
+ ;;
+"RTN","RGUTBCDA",4,0)
+ ;=================================================================
+"RTN","RGUTBCDA",5,0)
+ ; Inputs:
+"RTN","RGUTBCDA",6,0)
+ ;   TXT = Data string to print in bar code
+"RTN","RGUTBCDA",7,0)
+ ;   ORN = Orientation of bar code/Check digit
+"RTN","RGUTBCDA",8,0)
+ ;         0 = portrait/no check digit(default)
+"RTN","RGUTBCDA",9,0)
+ ;         1 = landscape/no check digit
+"RTN","RGUTBCDA",10,0)
+ ;         2 = portrait/check digit
+"RTN","RGUTBCDA",11,0)
+ ;         3 = landscape/check digit
+"RTN","RGUTBCDA",12,0)
+ ;   HGT = Height of bar code in dots (1/300 inch)
+"RTN","RGUTBCDA",13,0)
+ ;   HOR = Horizontal position on page in dots
+"RTN","RGUTBCDA",14,0)
+ ;   VER = Vertical position on page in dots
+"RTN","RGUTBCDA",15,0)
+ ;   WID = Width of bar in dots (3=default)
+"RTN","RGUTBCDA",16,0)
+ ;   SSC = Start/Stop characters (a/a = default)
+"RTN","RGUTBCDA",17,0)
+ ; Purpose:
+"RTN","RGUTBCDA",18,0)
+ ;   Accepts a barcode CODABAR string and writes an HPCL-compatible
+"RTN","RGUTBCDA",19,0)
+ ;   string that will display the barcode on an HP laser printer.
+"RTN","RGUTBCDA",20,0)
+ ;   A barcode font cartridge is not required.  The print position
+"RTN","RGUTBCDA",21,0)
+ ;   on entry is restored upon exit.
+"RTN","RGUTBCDA",22,0)
+ ;=================================================================
+"RTN","RGUTBCDA",23,0)
+BC(TXT,ORN,HGT,HOR,VER,WID,SSC) ;
+"RTN","RGUTBCDA",24,0)
+ N DD,CHK,CH,ZDD,C,P,Z,Z1,Z2,Z3,Z4,Z5,X
+"RTN","RGUTBCDA",25,0)
+ S X=0 X ^%ZOSF("RM")
+"RTN","RGUTBCDA",26,0)
+ S CHK=$S($G(ORN)>1:1,1:0),ORN=$S($G(ORN)#2:1,1:0)
+"RTN","RGUTBCDA",27,0)
+ S CH="0123456789-$:/.+"
+"RTN","RGUTBCDA",28,0)
+ S DD="" F ZDD=1:1:$L(TXT) S DD=DD_$S(CH[$E(TXT,ZDD):$E(TXT,ZDD),1:"") ;STRIP UNPRINTABLE CHARACTERS
+"RTN","RGUTBCDA",29,0)
+ S TXT=DD,TXT="a"_TXT_"a"                                            ;ADD START AND STOP CODES
+"RTN","RGUTBCDA",30,0)
+ I +$G(CHK) S TXT=$$CHK(TXT)
+"RTN","RGUTBCDA",31,0)
+ S C=$C(27)_"*c",P=$C(27)_"*p+",WID=$G(WID,3),HGT=$G(HGT,60),ORN=''$G(ORN)+1
+"RTN","RGUTBCDA",32,0)
+ W $C(27),"&f0S"                                                       ;Push cursor position
+"RTN","RGUTBCDA",33,0)
+ W:$D(HOR) $C(27)_"*p"_+HOR_"X"
+"RTN","RGUTBCDA",34,0)
+ W:$D(VER) $C(27)_"*p"_+VER_"Y"
+"RTN","RGUTBCDA",35,0)
+ W C_HGT_$E("BA",ORN)
+"RTN","RGUTBCDA",36,0)
+ F Z=1:1:$L(TXT) D
+"RTN","RGUTBCDA",37,0)
+ .S Z1=$S("AaTt"[$E(TXT,Z):$P($T(16),";",4),"BbNn"[$E(TXT,Z):$P($T(17),";",4),"Cc*"[$E(TXT,Z):$P($T(18),";",4),"DdEe"[$E(TXT,Z):$P($T(19),";",4),1:$P($T(@($F(CH,$E(TXT,Z))-2)),";",4)),Z4=13,Z5=0
+"RTN","RGUTBCDA",38,0)
+ .F Z2=1:1:$L(Z1) D
+"RTN","RGUTBCDA",39,0)
+ ..S Z3=+$E(Z1,Z2),Z4=Z4-Z3,Z3=Z3*WID
+"RTN","RGUTBCDA",40,0)
+ ..Q:'Z3
+"RTN","RGUTBCDA",41,0)
+ ..I Z2#2 W C_Z3_$E("ab",ORN)_"0P" S Z5=Z3
+"RTN","RGUTBCDA",42,0)
+ ..E  W P_(Z3+Z5)_$E("XY",ORN) S Z5=0
+"RTN","RGUTBCDA",43,0)
+ .S Z4=Z4*WID+Z5
+"RTN","RGUTBCDA",44,0)
+ .W P_(Z5+WID)_$E("XY",ORN)
+"RTN","RGUTBCDA",45,0)
+ W $C(27),"&f1S"                                                       ;Pop cursor position
+"RTN","RGUTBCDA",46,0)
+ Q ""
+"RTN","RGUTBCDA",47,0)
+CHK(X) ;CALCULATE CHECK DIGIT AND RETURN STRING TO PRINT
+"RTN","RGUTBCDA",48,0)
+ Q:X="" ""
+"RTN","RGUTBCDA",49,0)
+ N Z1,Y,CHK,XX
+"RTN","RGUTBCDA",50,0)
+ S CHK=0,Y=X
+"RTN","RGUTBCDA",51,0)
+ S XX=$E(X,1)_$E(X,$L(X))                                             ;STRIP OFF S/S CODES AND CALCULATE CHECKSUM
+"RTN","RGUTBCDA",52,0)
+ F Z1=1:1:$L(XX) S CHK=CHK+$S("AaTt"[$E(XX,Z1):16,"BbNn"[$E(XX,Z1):17,"Cc*"[$E(XX,Z1):18,"DdEe"[$E(XX,Z1):19,1:0)
+"RTN","RGUTBCDA",53,0)
+ ;ADD TO CHECKSUM THE VALUES OF THE DATA
+"RTN","RGUTBCDA",54,0)
+ S X=$E(X,2,$L(X)-1) F  Q:X=""  S CHK=$F(CH,$E(X))-2+CHK,X=$E(X,2,255)
+"RTN","RGUTBCDA",55,0)
+ S CHK=$E(CH,$S('CHK#16:1,1:16-CHK#16+1))
+"RTN","RGUTBCDA",56,0)
+ Q $E(Y,1,$L(Y)-1)_CHK_$E(Y,$L(Y))
+"RTN","RGUTBCDA",57,0)
+0 ;;0;1111133
+"RTN","RGUTBCDA",58,0)
+1 ;;1;1111331
+"RTN","RGUTBCDA",59,0)
+2 ;;2;1113113
+"RTN","RGUTBCDA",60,0)
+3 ;;3;3311111
+"RTN","RGUTBCDA",61,0)
+4 ;;4;1131131
+"RTN","RGUTBCDA",62,0)
+5 ;;5;3111131
+"RTN","RGUTBCDA",63,0)
+6 ;;6;1311113
+"RTN","RGUTBCDA",64,0)
+7 ;;7;1311311
+"RTN","RGUTBCDA",65,0)
+8 ;;8;1331111
+"RTN","RGUTBCDA",66,0)
+9 ;;9;3113111
+"RTN","RGUTBCDA",67,0)
+10 ;;-;1113311
+"RTN","RGUTBCDA",68,0)
+11 ;;$;1133111
+"RTN","RGUTBCDA",69,0)
+12 ;;:;3111313
+"RTN","RGUTBCDA",70,0)
+13 ;;/;3131113
+"RTN","RGUTBCDA",71,0)
+14 ;;.;3131311
+"RTN","RGUTBCDA",72,0)
+15 ;;+;1131313
+"RTN","RGUTBCDA",73,0)
+16 ;;AaTt;1133131
+"RTN","RGUTBCDA",74,0)
+17 ;;BbNn;1313113
+"RTN","RGUTBCDA",75,0)
+18 ;;Cc*;1113133
+"RTN","RGUTBCDA",76,0)
+19 ;;DdEe;1113331
+"RTN","RGUTBIG")
+0^34^B14812955
+"RTN","RGUTBIG",1,0)
+RGUTBIG ;RG/IND/PLS - Print a banner in large letters;03-Mar-2015 14:24;DKM
+"RTN","RGUTBIG",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTBIG",3,0)
+ ;;
+"RTN","RGUTBIG",4,0)
+ ;=================================================================
+"RTN","RGUTBIG",5,0)
+ ; Prints RGBIG to the current output device in large letters.
+"RTN","RGUTBIG",6,0)
+ ; Inputs:
+"RTN","RGUTBIG",7,0)
+ ;   RGBIG = Big letter string
+"RTN","RGUTBIG",8,0)
+ ;   RGRPT = # times to repeat (default=2)
+"RTN","RGUTBIG",9,0)
+ ;   RGTXT = Full text string (optional)
+"RTN","RGUTBIG",10,0)
+ ;=================================================================
+"RTN","RGUTBIG",11,0)
+ENTRY(RGBIG,RGRPT,RGTXT) ;
+"RTN","RGUTBIG",12,0)
+ N RGLT,RGFS,RGZ,RGZ1,RGLEN,RGPF,RGLN
+"RTN","RGUTBIG",13,0)
+ S RGFS="ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789,-/.!#'$()*+?\=^&%"
+"RTN","RGUTBIG",14,0)
+ S:$D(RGTXT) RGTXT=$$REPEAT^XLFSTR("*"_RGTXT,$G(IOM,80)\($L(RGTXT)+1))
+"RTN","RGUTBIG",15,0)
+ S RGLEN=$L(RGBIG),RGRPT=$G(RGRPT,2)
+"RTN","RGUTBIG",16,0)
+ W !
+"RTN","RGUTBIG",17,0)
+ F RGLT=1:1:RGRPT D
+"RTN","RGUTBIG",18,0)
+ .W !
+"RTN","RGUTBIG",19,0)
+ .F RGZ=1:8:65 D
+"RTN","RGUTBIG",20,0)
+ ..W !
+"RTN","RGUTBIG",21,0)
+ ..F RGZ1=1:1:RGLEN D
+"RTN","RGUTBIG",22,0)
+ ...S RGLN=$F(RGFS,$E(RGBIG,RGZ1))-1
+"RTN","RGUTBIG",23,0)
+ ...S RGPF=$P($T(TBL+RGLN),";;",2,99)
+"RTN","RGUTBIG",24,0)
+ ...W $E(RGPF,RGZ,RGZ+7)
+"RTN","RGUTBIG",25,0)
+ ...W:RGZ1<RGLEN ?(RGZ1*12)
+"RTN","RGUTBIG",26,0)
+ .W !!,$G(RGTXT)
+"RTN","RGUTBIG",27,0)
+ Q
+"RTN","RGUTBIG",28,0)
+TBL ;; Table of character "raster images"
+"RTN","RGUTBIG",29,0)
+ ;; AAAAAA AA    AAAA    AAAAAAAAAAAAAAAAAAAA    AAAA    AAAA    AA
+"RTN","RGUTBIG",30,0)
+ ;;BBBBBBB BB    BBBB    BBBBBBBBB BBBBBBB BB    BBBB    BBBBBBBBB
+"RTN","RGUTBIG",31,0)
+ ;;CCCCCCCCCC      CC      CC      CC      CC      CC      CCCCCCCC
+"RTN","RGUTBIG",32,0)
+ ;;DDDDDD  DD   DD DD    DDDD    DDDD    DDDD    DDDD   DD DDDDDD
+"RTN","RGUTBIG",33,0)
+ ;;EEEEEEEEEE      EE      EEEEEE  EEEEEE  EE      EE      EEEEEEEE
+"RTN","RGUTBIG",34,0)
+ ;;FFFFFFFFFF      FF      FFFFFF  FFFFFF  FF      FF      FF
+"RTN","RGUTBIG",35,0)
+ ;;GGGGGGGGGG      GG      GG  GGGGGG  GGGGGG    GGGG    GGGGGGGGGG
+"RTN","RGUTBIG",36,0)
+ ;;HH    HHHH    HHHH     HHHHHHHHHHHHHHHHHHH    HHHH    HHHH    HH
+"RTN","RGUTBIG",37,0)
+ ;;IIIIIIII   II      II      II      II      II      II   IIIIIIII
+"RTN","RGUTBIG",38,0)
+ ;;JJJJJJJJ    JJ      JJ      JJ      JJ      JJ  JJ  JJ  JJJJJJ
+"RTN","RGUTBIG",39,0)
+ ;;KK    KKKK   KK KK  KK  KKKK    KKKK    KK  KK  KK   KK KK    KK
+"RTN","RGUTBIG",40,0)
+ ;;LL      LL      LL      LL      LL      LL      LL      LLLLLLLL
+"RTN","RGUTBIG",41,0)
+ ;;MM    MMMMM  MMMM MMMM MMM MM MMMM    MMMM    MMMM    MMMM    MM
+"RTN","RGUTBIG",42,0)
+ ;;N     NNNN    NNNNN   NNNN N  NNNN  N NNNN   NNNNN    NNNN     N
+"RTN","RGUTBIG",43,0)
+ ;; OOOOOO OO    OOOO    OOOO    OOOO    OOOO    OOOO    OO OOOOOO
+"RTN","RGUTBIG",44,0)
+ ;;PPPPPPP PP    PPPP    PPPPPPPPP PP      PP      PP      PP
+"RTN","RGUTBIG",45,0)
+ ;; QQQQQQ QQ    QQQQ    QQQQ    QQQQ  Q QQQQ   Q Q QQQQQQ        Q
+"RTN","RGUTBIG",46,0)
+ ;;RRRRRRR RR    RRRR    RRRRRRRRR RR RR   RR  RR  RR   RR RR    RR
+"RTN","RGUTBIG",47,0)
+ ;;SSSSSSSSSS      SS      SSSSSSSSSSSSSSSS      SS      SSSSSSSSSS
+"RTN","RGUTBIG",48,0)
+ ;;TTTTTTTT   TT      TT      TT      TT      TT      TT      TT
+"RTN","RGUTBIG",49,0)
+ ;;UU    UUUU    UUUU    UUUU    UUUU    UUUU    UUUUUUUUUU UUUUUU
+"RTN","RGUTBIG",50,0)
+ ;;VV    VVVV    VVVV    VVVV    VV VV  VV  VV  VV   VVVV     VV
+"RTN","RGUTBIG",51,0)
+ ;;WW    WWWW    WWWW    WWWW    WWWW    WWWW WW WWWWW  WWWWW    WW
+"RTN","RGUTBIG",52,0)
+ ;;XX    XXXX    XX XX  XX   XXXX     XX     XXXX   XX  XX XX    XX
+"RTN","RGUTBIG",53,0)
+ ;;YY    YY YY  YY   Y  Y     YY      YY      YY      YY      YY
+"RTN","RGUTBIG",54,0)
+ ;;ZZZZZZZZZZZZZZZZ     ZZ     ZZ    ZZ      ZZ    ZZZZZZZZZZZZZZZZ
+"RTN","RGUTBIG",55,0)
+ ;;
+"RTN","RGUTBIG",56,0)
+ ;;  0000 0 00  00 00   00000  0 0000 0  00000   00 00  00 0 0000
+"RTN","RGUTBIG",57,0)
+ ;;   11     111    1111      11      11      11      11   1111111
+"RTN","RGUTBIG",58,0)
+ ;;  2222   22  22 22    22      22    22    22     22     2222222
+"RTN","RGUTBIG",59,0)
+ ;;3333333      33     33   33333       33       33     33 33333
+"RTN","RGUTBIG",60,0)
+ ;;      44     444   44 44 44   44 4444444      44      44      44
+"RTN","RGUTBIG",61,0)
+ ;;5555555555      55      5555555       55      55     55 555555
+"RTN","RGUTBIG",62,0)
+ ;;   666   66  66 66      66      66 6666 666   66 66   66  6666
+"RTN","RGUTBIG",63,0)
+ ;;77777777      77     77    77      77     77     77      77
+"RTN","RGUTBIG",64,0)
+ ;;  8888   88  88 88  88   8888   88  88  88    88 88  88   8888
+"RTN","RGUTBIG",65,0)
+ ;;  99999 99    9999    99 9999999      99      99     99   9999
+"RTN","RGUTBIG",66,0)
+ ;;                                         ''        '      '
+"RTN","RGUTBIG",67,0)
+ ;;                        ----------------
+"RTN","RGUTBIG",68,0)
+ ;;              //     //     //    //      //      //
+"RTN","RGUTBIG",69,0)
+ ;;                                         ....    ....    ....
+"RTN","RGUTBIG",70,0)
+ ;;    !!     !!      !!      !!     !!               ....    ....
+"RTN","RGUTBIG",71,0)
+ ;;  #  #  ########  #  #  ########  #  #
+"RTN","RGUTBIG",72,0)
+ ;;
+"RTN","RGUTBIG",73,0)
+ ;;   $$   $$$$$$$$$$ $$   $$$$$$$$   $$ $$$$$$$$$$   $$
+"RTN","RGUTBIG",74,0)
+ ;;   ((     ((     ((     ((      ((       ((       ((
+"RTN","RGUTBIG",75,0)
+ ;;   ))      ))        ))       ))      ))     ))     ))    ))
+"RTN","RGUTBIG",76,0)
+ ;;*  **  * * ** *   ****  ********  ****   * ** * *  **  *
+"RTN","RGUTBIG",77,0)
+ ;;           ++      ++   ++++++++++++++++   ++      ++
+"RTN","RGUTBIG",78,0)
+ ;;  ???   ??   ??      ??     ??     ??      ??     ....    ....
+"RTN","RGUTBIG",79,0)
+ ;;         \\       \\       \\       \\       \\       \\
+"RTN","RGUTBIG",80,0)
+ ;;        ================       =================
+"RTN","RGUTBIG",81,0)
+ ;;    ^      ^^^    ^^ ^^  ^^   ^^
+"RTN","RGUTBIG",82,0)
+ ;; &&&    &   &   &   &    &&&  &  &&& && &   &&  &   &&   &&&   &
+"RTN","RGUTBIG",83,0)
+ ;;  %    % % %  %   %  %      %      %      %  %   %  % % %     %
+"RTN","RGUTDAT")
+0^35^B12924137
+"RTN","RGUTDAT",1,0)
+RGUTDAT ;RI/CBMI/DKM - Date range input;03-Mar-2015 14:24;DKM
+"RTN","RGUTDAT",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTDAT",3,0)
+ ;;
+"RTN","RGUTDAT",4,0)
+ ;=================================================================
+"RTN","RGUTDAT",5,0)
+ ; Prompt for date range (normal format)
+"RTN","RGUTDAT",6,0)
+NORMAL D D1("P1"),D2("P2"):RGDAT1
+"RTN","RGUTDAT",7,0)
+ Q
+"RTN","RGUTDAT",8,0)
+ ; Prompt for date range (inverse format)
+"RTN","RGUTDAT",9,0)
+INVRSE D D1("PI1"),D2("PI2"):RGDAT1
+"RTN","RGUTDAT",10,0)
+ Q
+"RTN","RGUTDAT",11,0)
+ ; Prompt for starting date
+"RTN","RGUTDAT",12,0)
+D1(RGOPT) ;
+"RTN","RGUTDAT",13,0)
+ S RGDAT1=$$ENTRY("Start date: ",.RGOPT,"",0,$Y)
+"RTN","RGUTDAT",14,0)
+ Q
+"RTN","RGUTDAT",15,0)
+ ; Prompt for ending date
+"RTN","RGUTDAT",16,0)
+D2(RGOPT) ;
+"RTN","RGUTDAT",17,0)
+ S RGDAT2=$$ENTRY("End date  : ",.RGOPT,"",0,$Y+1)
+"RTN","RGUTDAT",18,0)
+ Q
+"RTN","RGUTDAT",19,0)
+ ; Prompt for a date
+"RTN","RGUTDAT",20,0)
+ENTRY(%RGP,%RGOPT,%RGDAT,%RGX,%RGY,%RGTRP,%RGHLP) ;
+"RTN","RGUTDAT",21,0)
+ N %RGD,%RGI,%RGDT,%RGZ,%RGDISV
+"RTN","RGUTDAT",22,0)
+ S %RGX=$G(%RGX,$X),%RGY=$G(%RGY,$Y),DUZ=+$G(DUZ),DTIME=$G(DTIME,999999),%RGOPT=$$UP^XLFSTR($G(%RGOPT)),%RGDISV=""
+"RTN","RGUTDAT",23,0)
+ S %RGTRP=$G(%RGTRP),%RGDAT=$G(%RGDAT)
+"RTN","RGUTDAT",24,0)
+ S:$G(%RGHLP)="" %RGHLP="HELP^RGUTDAT"
+"RTN","RGUTDAT",25,0)
+ S:$G(%RGP)="" %RGP="Enter date: "
+"RTN","RGUTDAT",26,0)
+ F %RGZ=0:1:9 I %RGOPT[%RGZ S %RGDISV="RGDAT"_%RGZ Q
+"RTN","RGUTDAT",27,0)
+DAT1 S %RGDT="",@$$TRAP^RGUTOS("DAT1^RGUTDAT")
+"RTN","RGUTDAT",28,0)
+ F %RGZ="P","T","F","X" S:%RGOPT[%RGZ %RGDT=%RGDT_%RGZ
+"RTN","RGUTDAT",29,0)
+ F  D  Q:$D(%RGI)
+"RTN","RGUTDAT",30,0)
+ .W $$XY^RGUT(%RGX,%RGY)_%RGP,*27,"[J"
+"RTN","RGUTDAT",31,0)
+ .S $X=%RGX+$L(%RGP)
+"RTN","RGUTDAT",32,0)
+ .I %RGOPT["E" S %RGI=$$ENTRY^RGUTEDT(%RGDAT,79-$X,$X,$Y,"","R")
+"RTN","RGUTDAT",33,0)
+ .E  I %RGDAT'="" S %RGI=%RGDAT,%RGDAT=""
+"RTN","RGUTDAT",34,0)
+ .E  R %RGI:DTIME
+"RTN","RGUTDAT",35,0)
+ .I $E(%RGI)="?" D  Q
+"RTN","RGUTDAT",36,0)
+ ..W !
+"RTN","RGUTDAT",37,0)
+ ..I %RGI["??" D HELP
+"RTN","RGUTDAT",38,0)
+ ..E  D @%RGHLP
+"RTN","RGUTDAT",39,0)
+ ..D PAUSE()
+"RTN","RGUTDAT",40,0)
+ ..K %RGI
+"RTN","RGUTDAT",41,0)
+ .I %RGI=" " S %RGI=$S(%RGDISV="":"",1:$G(^DISV(DUZ,%RGDISV))) K:%RGI="" RGZ1
+"RTN","RGUTDAT",42,0)
+ .W $$XY^RGUT(%RGX+$L(%RGP),%RGY),*27,"[K"
+"RTN","RGUTDAT",43,0)
+ I %RGI="",%RGTRP'="" S %RGI=$G(@%RGTRP@(" "))
+"RTN","RGUTDAT",44,0)
+ S %RGI=$$UP^XLFSTR(%RGI),%RGD=""
+"RTN","RGUTDAT",45,0)
+ Q:"^^"[%RGI -$L(%RGI)
+"RTN","RGUTDAT",46,0)
+ I %RGTRP'="" D  I %RGD'="" S %RGOPT=$TR(%RGOPT,"I") G DAT2
+"RTN","RGUTDAT",47,0)
+ .I $D(@%RGTRP@(%RGI)) S %RGD=@%RGTRP@(%RGI)
+"RTN","RGUTDAT",48,0)
+ .E  D
+"RTN","RGUTDAT",49,0)
+ ..N X
+"RTN","RGUTDAT",50,0)
+ ..S X=%RGI,%RGZ=""
+"RTN","RGUTDAT",51,0)
+ ..F  S %RGZ=$O(@%RGTRP@("?",%RGZ)) Q:%RGZ=""  I %RGI?@%RGZ D  Q
+"RTN","RGUTDAT",52,0)
+ ...S %RGD=$$MSG^RGUT($G(@%RGTRP@("?",%RGZ)))
+"RTN","RGUTDAT",53,0)
+ S %RGI=$$DT^RGUT(%RGI,%RGDT)
+"RTN","RGUTDAT",54,0)
+ G:%RGI=-1 DAT1
+"RTN","RGUTDAT",55,0)
+ I %RGOPT["+",%RGI<$S(%RGI=%RGI\1:$$DT^XLFDT,1:$$NOW^XLFDT) D  G DAT1
+"RTN","RGUTDAT",56,0)
+ .D PAUSE("Must be on or after current date.")
+"RTN","RGUTDAT",57,0)
+ I %RGOPT["-",%RGI>$S(%RGI=%RGI\1:$$DT^XLFDT,1:$$NOW^XLFDT) D  G DAT1
+"RTN","RGUTDAT",58,0)
+ .D PAUSE("Must be on or before current date.")
+"RTN","RGUTDAT",59,0)
+ S %RGD=$$ENTRY^RGUTDT(%RGI)
+"RTN","RGUTDAT",60,0)
+DAT2 W %RGD
+"RTN","RGUTDAT",61,0)
+ S:%RGDISV'="" ^DISV(DUZ,%RGDISV)=%RGI
+"RTN","RGUTDAT",62,0)
+ Q $S(%RGOPT["I":9999999-%RGI,1:%RGI)
+"RTN","RGUTDAT",63,0)
+HELP W ?2,"Enter a valid ",$S(%RGOPT["+":"future ",%RGOPT["-":"past ",1:""),"date using one of the following formats:",!!
+"RTN","RGUTDAT",64,0)
+ W ?5,"Format",?20,"Example",?35,"Explanation",?60,"Comments",!
+"RTN","RGUTDAT",65,0)
+ W ?5,"------",?20,"-------",?35,"-----------",?60,"--------",!
+"RTN","RGUTDAT",66,0)
+ W ?5,"mm/dd/yy",?20,"6/20/93",?35,"June 20, 1993",?60,"If you omit the",!
+"RTN","RGUTDAT",67,0)
+ W ?5,"dd-mmm-yy",?20,"27-JUL-58",?35,"July 27, 1958",?60,"year, the "_$S(%RGOPT["P":"most",%RGOPT["F":"closest",1:"current"),!
+"RTN","RGUTDAT",68,0)
+ W ?5,"mmddyy",?20,"070457",?35,"July 4, 1957",?60,$S(%RGOPT["P":"recent past date",%RGOPT["F":"future date",1:"calendar year"),!
+"RTN","RGUTDAT",69,0)
+ W ?5,"mmm dd yyyy",?20,"JAN 5, 1984",?35,"January 5, 1984",?60,"is assumed.",!
+"RTN","RGUTDAT",70,0)
+ W ?5,"T-n",?20,"T-5",?35,"Today's date - 5 days.",!!
+"RTN","RGUTDAT",71,0)
+ Q
+"RTN","RGUTDAT",72,0)
+PAUSE(%RGZ) ;
+"RTN","RGUTDAT",73,0)
+ W $$XY^RGUT(0,22),$G(%RGZ)
+"RTN","RGUTDAT",74,0)
+ I $$PAUSE^RGUT
+"RTN","RGUTDAT",75,0)
+ Q
+"RTN","RGUTDATF")
+0^87^B6379104
+"RTN","RGUTDATF",1,0)
+RGUTDATF ;RI/CBMI/DKM - Date Formatter;03-Mar-2015 14:24;DKM
+"RTN","RGUTDATF",2,0)
+ ;;3.0;RG UTILITIES;;Feb 20, 2015;Build 198
+"RTN","RGUTDATF",3,0)
+ ;;1.0;SERIALIZATION FRAMEWORK;;14-March-2014;Build 1
+"RTN","RGUTDATF",4,0)
+ ; DATE = FM date/time
+"RTN","RGUTDATF",5,0)
+ ; FMT = Date format (follows Java spec)
+"RTN","RGUTDATF",6,0)
+FMTDATE(DATE,FMT) ;
+"RTN","RGUTDATF",7,0)
+ N X,C,I,E,Y,D,L
+"RTN","RGUTDATF",8,0)
+ S D=DATE+17000000*1000000000,(C,E,X)="",L=0
+"RTN","RGUTDATF",9,0)
+ F I=1:1:$L(FMT) D
+"RTN","RGUTDATF",10,0)
+ .S C=$E(FMT,I)
+"RTN","RGUTDATF",11,0)
+ .I C="'" D
+"RTN","RGUTDATF",12,0)
+ ..I $E(FMT,I+1)=C S I=I+1
+"RTN","RGUTDATF",13,0)
+ ..E  S L='L,C=""
+"RTN","RGUTDATF",14,0)
+ .I 'L,$L(C),"GyYMwWDdFEuaHkKhmsSzZX"[C D
+"RTN","RGUTDATF",15,0)
+ ..I $E(E)=C S E=E_C Q
+"RTN","RGUTDATF",16,0)
+ ..D FLUSH
+"RTN","RGUTDATF",17,0)
+ ..S E=C
+"RTN","RGUTDATF",18,0)
+ .E  D FLUSH(C)
+"RTN","RGUTDATF",19,0)
+ D FLUSH
+"RTN","RGUTDATF",20,0)
+ Q X
+"RTN","RGUTDATF",21,0)
+FLUSH(C) S:$L(E) X=X_$$FMT(E),E=""
+"RTN","RGUTDATF",22,0)
+ S:$D(C) X=X_C
+"RTN","RGUTDATF",23,0)
+ Q
+"RTN","RGUTDATF",24,0)
+PAD(V,L) N X
+"RTN","RGUTDATF",25,0)
+ S V=+V,P=L-$L(V)
+"RTN","RGUTDATF",26,0)
+ S:P>0 X="",$P(X,0,P+1)=V
+"RTN","RGUTDATF",27,0)
+ Q $G(X,V)
+"RTN","RGUTDATF",28,0)
+FMT(E) N L
+"RTN","RGUTDATF",29,0)
+ S L=$L(E)
+"RTN","RGUTDATF",30,0)
+ Q $$@("FMT"_$E(E))
+"RTN","RGUTDATF",31,0)
+ ; Era designator
+"RTN","RGUTDATF",32,0)
+FMTG() Q "AD"
+"RTN","RGUTDATF",33,0)
+ ; Year
+"RTN","RGUTDATF",34,0)
+FMTy() Q $$PAD($E(D,$S(L=2:3,1:1),4),L)
+"RTN","RGUTDATF",35,0)
+ ; Week year
+"RTN","RGUTDATF",36,0)
+FMTY() Q $$FMTy
+"RTN","RGUTDATF",37,0)
+ ; Month in year
+"RTN","RGUTDATF",38,0)
+FMTM() N M
+"RTN","RGUTDATF",39,0)
+ S M=+$E(D,5,6)
+"RTN","RGUTDATF",40,0)
+ Q:L<3 $$PAD(M,L)
+"RTN","RGUTDATF",41,0)
+ S M=$P("January^February^March^April^May^June^July^August^September^October^November^December",U,M)
+"RTN","RGUTDATF",42,0)
+ Q $S(L=3:$E(M,1,L),1:M)
+"RTN","RGUTDATF",43,0)
+ ; Week in year
+"RTN","RGUTDATF",44,0)
+FMTw() Q $$PAD($$FMTD-1\7+1,L)
+"RTN","RGUTDATF",45,0)
+ ; Week in month
+"RTN","RGUTDATF",46,0)
+FMTW() Q $$PAD($E(D,7,8)-1\7+1,L)
+"RTN","RGUTDATF",47,0)
+ ; Day in year
+"RTN","RGUTDATF",48,0)
+FMTD() Q $$PAD($$FMDIFF^XLFDT(DATE,DATE\10000*10000+101)+1,L)
+"RTN","RGUTDATF",49,0)
+ ; Day in month
+"RTN","RGUTDATF",50,0)
+FMTd() Q $$PAD($E(D,7,8),L)
+"RTN","RGUTDATF",51,0)
+ ; Day of week in month
+"RTN","RGUTDATF",52,0)
+FMTF() Q ""
+"RTN","RGUTDATF",53,0)
+ ; Day name in week
+"RTN","RGUTDATF",54,0)
+FMTE() N W
+"RTN","RGUTDATF",55,0)
+ S W=$$DOW^XLFDT(DATE)
+"RTN","RGUTDATF",56,0)
+ Q $S(L<4:$E(W,1,3),1:W)
+"RTN","RGUTDATF",57,0)
+ ; Day number of week (1=Monday...7=Sunday)
+"RTN","RGUTDATF",58,0)
+FMTu() N N
+"RTN","RGUTDATF",59,0)
+ S N=$$DOW^XLFDT(DATE,1)
+"RTN","RGUTDATF",60,0)
+ Q $$PAD($S(N=0:7,1:N),L)
+"RTN","RGUTDATF",61,0)
+ ; AM/PM marker
+"RTN","RGUTDATF",62,0)
+FMTa() Q $S($E(DATE,9,10)<12:"AM",1:"PM")
+"RTN","RGUTDATF",63,0)
+ ; Hour in day (0-23)
+"RTN","RGUTDATF",64,0)
+FMTH() Q $$PAD($E(D,9,10),L)
+"RTN","RGUTDATF",65,0)
+ ; Hour in day (1-24)
+"RTN","RGUTDATF",66,0)
+FMTk() Q $$PAD($E(D,9,10),L)
+"RTN","RGUTDATF",67,0)
+ ; Hour in AM/PM (0-11)
+"RTN","RGUTDATF",68,0)
+FMTK() N H
+"RTN","RGUTDATF",69,0)
+ S H=+$E(D,9,10)
+"RTN","RGUTDATF",70,0)
+ Q $$PAD($S(H=12:0,H=24:0,H>12:H-12,1:H),L)
+"RTN","RGUTDATF",71,0)
+ ; Hour in AM/PM (1-12)
+"RTN","RGUTDATF",72,0)
+FMTh() N H
+"RTN","RGUTDATF",73,0)
+ S H=+$E(D,9,10)
+"RTN","RGUTDATF",74,0)
+ Q $$PAD($S(H>12:H-12,1:H),L)
+"RTN","RGUTDATF",75,0)
+ ; Minute in hour
+"RTN","RGUTDATF",76,0)
+FMTm() Q $$PAD($E(D,11,12),L)
+"RTN","RGUTDATF",77,0)
+ ; Second in minute
+"RTN","RGUTDATF",78,0)
+FMTs() Q $$PAD($E(D,13,14),L)
+"RTN","RGUTDATF",79,0)
+ ; Millisecond
+"RTN","RGUTDATF",80,0)
+FMTS() Q $$PAD($E(D,15,17),L)
+"RTN","RGUTDATF",81,0)
+ ; Time zone (general)
+"RTN","RGUTDATF",82,0)
+FMTz() N TZ
+"RTN","RGUTDATF",83,0)
+ S TZ=$G(^XMB("TIMEZONE"))
+"RTN","RGUTDATF",84,0)
+ I $L(TZ),L>3 D
+"RTN","RGUTDATF",85,0)
+ .S TZ=$O(^XMB(4.4,"B",TZ,0)),TZ=$P($G(^XMB(4.4,+TZ,0)),U,2)
+"RTN","RGUTDATF",86,0)
+ .S:$L(TZ) TZ=$$TITLE^XLFSTR(TZ_" TIME")
+"RTN","RGUTDATF",87,0)
+ Q TZ
+"RTN","RGUTDATF",88,0)
+ ; Time zone (RFC 822)
+"RTN","RGUTDATF",89,0)
+FMTZ() Q $$TZ^XLFDT
+"RTN","RGUTDATF",90,0)
+ ; Time zone (ISO 8601)
+"RTN","RGUTDATF",91,0)
+FMTX() N TZ
+"RTN","RGUTDATF",92,0)
+ S TZ=$$TZ^XLFDT
+"RTN","RGUTDATF",93,0)
+ Q $S(L=1:$E(TZ,1,3),L=2:$E(TZ,1,5),1:$E(TZ,1,3)_":"_$E(TZ,4,5))
+"RTN","RGUTDDR")
+0^62^B59421017
+"RTN","RGUTDDR",1,0)
+RGUTDDR ;RI/CBMI/DKM - FileMan RPC Extensions ;03-Mar-2015 14:24;DKM
+"RTN","RGUTDDR",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTDDR",3,0)
+ ;;
+"RTN","RGUTDDR",4,0)
+ ;=================================================================
+"RTN","RGUTDDR",5,0)
+ ; RPC: Retrieve DD information about a file.
+"RTN","RGUTDDR",6,0)
+ ; FNUM = File # or name
+"RTN","RGUTDDR",7,0)
+ ; FLDS = Semi-colon delimited field list (optional)
+"RTN","RGUTDDR",8,0)
+ ; IENS = IENS (for subfile entries)
+"RTN","RGUTDDR",9,0)
+ ; FLGS = Control flags:
+"RTN","RGUTDDR",10,0)
+ ;   D = Fix duplicate field names
+"RTN","RGUTDDR",11,0)
+ ;   M = Retrieve multiples
+"RTN","RGUTDDR",12,0)
+ ; Return data:
+"RTN","RGUTDDR",13,0)
+ ;  DATA(0)   = -1^Error text or
+"RTN","RGUTDDR",14,0)
+ ;            = File #^File name^Rec count^Field count^Readonly^Parent File
+"RTN","RGUTDDR",15,0)
+ ;  DATA(n)   = Field #^Field name^Datatype^Size^Required^Readonly^Help lines^Xref^Calculated
+"RTN","RGUTDDR",16,0)
+ ;  DATA(n,0) = Supplemental data (set mappings)
+"RTN","RGUTDDR",17,0)
+ ;  DATA(n,1) = Prompt Text
+"RTN","RGUTDDR",18,0)
+ ;  DATA(n,2) = Help Text
+"RTN","RGUTDDR",19,0)
+GETDD(DATA,FNUM,FLDS,IENS,FLGS) ;
+"RTN","RGUTDDR",20,0)
+ N X,Y,Z,CNT,N0,FLD,PF,MULT,DUPS
+"RTN","RGUTDDR",21,0)
+ S DATA=$NA(^TMP("RGUTDDR",$J))
+"RTN","RGUTDDR",22,0)
+ K @DATA
+"RTN","RGUTDDR",23,0)
+ S FNUM=$G(FNUM),FLDS=$G(FLDS),FLGS=$G(FLGS),MULT=FLGS["M",DUPS=FLGS["D"
+"RTN","RGUTDDR",24,0)
+ I $L(FNUM),FNUM'=+FNUM D
+"RTN","RGUTDDR",25,0)
+ .S FNUM=$O(^DIC("B",FNUM,0))
+"RTN","RGUTDDR",26,0)
+ .I FNUM,$O(^(FNUM)) S FNUM=""
+"RTN","RGUTDDR",27,0)
+ S X=$$ROOT^DILFD(FNUM,$G(IENS),1),PF=$G(^DD(+FNUM,0,"UP"))
+"RTN","RGUTDDR",28,0)
+ S:$L(X) X=$G(@X@(0))
+"RTN","RGUTDDR",29,0)
+ S:PF $P(X,U)=$P($G(^DD(+FNUM,0)),U)
+"RTN","RGUTDDR",30,0)
+ I '$L(X) D SETERR("Table not found") Q
+"RTN","RGUTDDR",31,0)
+ S N0=FNUM_U_$P(X,U)_U_$P(X,U,4),CNT=0
+"RTN","RGUTDDR",32,0)
+ F X=1:1:$L(FLDS,";") D  Q:'X
+"RTN","RGUTDDR",33,0)
+ .S FLD=$P(FLDS,";",X)
+"RTN","RGUTDDR",34,0)
+ .Q:'$L(FLD)
+"RTN","RGUTDDR",35,0)
+ .S:FLD="*" FLD="0-9999999999999999"
+"RTN","RGUTDDR",36,0)
+ .I $TR(FLD,".")?1.N1"-"1.N D
+"RTN","RGUTDDR",37,0)
+ ..S Z=+$P(FLD,"-"),Y=+$P(FLD,"-",2)
+"RTN","RGUTDDR",38,0)
+ ..S:Z<0 Z=0
+"RTN","RGUTDDR",39,0)
+ ..I Z=0 S:'$$GETFL(0,0) X=0
+"RTN","RGUTDDR",40,0)
+ ..I Z>0,$D(^DD(FNUM,Z,0)) S:'$$GETFL(Z,MULT) X=0
+"RTN","RGUTDDR",41,0)
+ ..F  Q:'X  S Z=$O(^DD(FNUM,Z)) Q:'Z  Q:Z>Y  S:'$$GETFL(Z,MULT) X=0
+"RTN","RGUTDDR",42,0)
+ .E  I '$$GETFL(FLD,1) S X=0
+"RTN","RGUTDDR",43,0)
+ S:X @DATA@(0)=N0_U_CNT_U_($P($G(^DD(FNUM,0,"DI")),U,2)["Y")_U_PF
+"RTN","RGUTDDR",44,0)
+ Q
+"RTN","RGUTDDR",45,0)
+ ; Setup type info for field
+"RTN","RGUTDDR",46,0)
+ ;  FLDX = Field # or name
+"RTN","RGUTDDR",47,0)
+ ;  MULT = Allow multiples
+"RTN","RGUTDDR",48,0)
+ ; Note: Datatype (TP) maps to TFMFieldType enum:
+"RTN","RGUTDDR",49,0)
+ ;   0 = unknown, 1 = free text, 2 = numeric, 3 = boolean,
+"RTN","RGUTDDR",50,0)
+ ;   4 = date/time, 5 = wp, 6 = pointer, 7 = set, 8 = subfile
+"RTN","RGUTDDR",51,0)
+GETFL(FLDX,MULT) ;
+"RTN","RGUTDDR",52,0)
+ N X,Z,LN,TP,HC,DD,FLD,MLT,NAM
+"RTN","RGUTDDR",53,0)
+ S FLD=$$FLDNUM(FNUM,FLDX),MLT=0
+"RTN","RGUTDDR",54,0)
+ S DD=$S('$L(FLD):"",FLD:$G(^DD(FNUM,FLD,0)),1:"#^RICJ8,5"),X=$P(DD,U,2)
+"RTN","RGUTDDR",55,0)
+ I '$L(DD) D SETERR("Field not found: "_FLDX) Q 0
+"RTN","RGUTDDR",56,0)
+ I X,$P($G(^DD(X,.01,0)),U,2)'["W" S MLT=1
+"RTN","RGUTDDR",57,0)
+ I 'MULT,MLT Q 1
+"RTN","RGUTDDR",58,0)
+ S (LN,TP,HC,Z)=0,DX="",NAM=$P(DD,U),CNT=CNT+1
+"RTN","RGUTDDR",59,0)
+ I DUPS,$O(^(+$O(^DD(FNUM,"B",NAM,0)))) S NAM=NAM_"("_FLD_")"
+"RTN","RGUTDDR",60,0)
+ I MLT S TP=8,DX=+X
+"RTN","RGUTDDR",61,0)
+ E  I X["B" S TP=3
+"RTN","RGUTDDR",62,0)
+ E  I X["D" S TP=4,DX=$P($P($P(DD,U,5),"%DT=",2),"""",2)
+"RTN","RGUTDDR",63,0)
+ E  I X["F"!(X["K") S TP=1,LN=+$P($P(DD,U,5),"$L(X)>",2) S:'LN LN=30
+"RTN","RGUTDDR",64,0)
+ E  I X["J" S TP=2,DX=$P(X,"J",2) S:DX'["," LN=DX,DX="",TP=1
+"RTN","RGUTDDR",65,0)
+ E  I X["P"!(X["p") S TP=6,DX=+$P($TR(X,"p","P"),"P",2),LN=$$GETLN(DX)
+"RTN","RGUTDDR",66,0)
+ E  I X["S" S TP=7,DX=$P(DD,U,3)
+"RTN","RGUTDDR",67,0)
+ E  I X=+X S TP=5
+"RTN","RGUTDDR",68,0)
+ I 'FLD S HC=1,@DATA@(CNT,2,HC)="Internal record number."
+"RTN","RGUTDDR",69,0)
+ E  F  S Z=$O(^DD(FNUM,FLD,21,Z)) Q:'Z  S HC=HC+1,@DATA@(CNT,2,HC)=^(Z,0)
+"RTN","RGUTDDR",70,0)
+ S @DATA@(CNT)=FLD_U_NAM_U_TP_U_LN_U_(X["R")_U_(X["I")_U_HC_U_$$XREF(FNUM,FLD)_U_(X["C")
+"RTN","RGUTDDR",71,0)
+ S @DATA@(CNT,0)=DX,@DATA@(CNT,1)=$G(^DD(FNUM,FLD,3))
+"RTN","RGUTDDR",72,0)
+ Q 1
+"RTN","RGUTDDR",73,0)
+ ; Get length of .01 for file
+"RTN","RGUTDDR",74,0)
+GETLN(FNUM) ;
+"RTN","RGUTDDR",75,0)
+ N DD,X
+"RTN","RGUTDDR",76,0)
+ S DD=$G(^DD(FNUM,.01,0)),X=$P(DD,U,2)
+"RTN","RGUTDDR",77,0)
+ S X=+$S(X["P":$$GETLN(+$E(X,2,99)),X["F":$P($P(DD,U,5),"$L(X)>",2),1:0)
+"RTN","RGUTDDR",78,0)
+ Q $S(X:X,1:30)
+"RTN","RGUTDDR",79,0)
+SETERR(ERR) ;
+"RTN","RGUTDDR",80,0)
+ K @DATA
+"RTN","RGUTDDR",81,0)
+ S @DATA@(0)="-1^"_ERR
+"RTN","RGUTDDR",82,0)
+ Q
+"RTN","RGUTDDR",83,0)
+ ; RPC: RGUTDDR MOVETO
+"RTN","RGUTDDR",84,0)
+ ; Move to specified record (returns IEN only)
+"RTN","RGUTDDR",85,0)
+ ; FNUM: File #
+"RTN","RGUTDDR",86,0)
+ ; IEN : Current IEN
+"RTN","RGUTDDR",87,0)
+ ; DIR : 0 = current; 1 = next; 2 = prior
+"RTN","RGUTDDR",88,0)
+ ; IENS: Subfile IENS
+"RTN","RGUTDDR",89,0)
+ ; SCRN: Screens (optional)
+"RTN","RGUTDDR",90,0)
+ ; INDX: Index (optional)
+"RTN","RGUTDDR",91,0)
+ ; Returns IEN or <error code>^<error text>
+"RTN","RGUTDDR",92,0)
+MOVETO(DATA,FNUM,IEN,DIR,IENS,SCRN,INDX) ;
+"RTN","RGUTDDR",93,0)
+ N GBL,IDX,IDF,OK
+"RTN","RGUTDDR",94,0)
+ S GBL=$$ROOT^DILFD(FNUM,$G(IENS),1),DIR=+$G(DIR),INDX=$G(INDX)
+"RTN","RGUTDDR",95,0)
+ S DIR=$S(DIR=1:1,DIR=2:-1,1:0)
+"RTN","RGUTDDR",96,0)
+ S:$L($G(SCRN)) SCRN(-1)=SCRN
+"RTN","RGUTDDR",97,0)
+ I '$L(GBL) S DATA="-4^Table not found" Q
+"RTN","RGUTDDR",98,0)
+ I $L(INDX) D  Q:$G(DATA)
+"RTN","RGUTDDR",99,0)
+ .I '$O(^DD(FNUM,0,"IX",INDX,"")) S DATA="-5^Index "_INDX_" not found" Q
+"RTN","RGUTDDR",100,0)
+ .S IDF=$$XREFFLD(FNUM,INDX)
+"RTN","RGUTDDR",101,0)
+ .I 'IDF S DATA="-6^Index "_INDX_" is not a standard index" Q
+"RTN","RGUTDDR",102,0)
+ .S IDX=$S(IEN=-1:"",IEN=-2:$C(255),1:$E($$FLDVAL(FNUM,IDF,IEN,GBL),1,30))
+"RTN","RGUTDDR",103,0)
+ E  S IEN=$S(IEN=-1:0,IEN=-2:$O(@GBL@($C(1)),-1)+1,1:+IEN)
+"RTN","RGUTDDR",104,0)
+ F  D  Q:OK!'IEN
+"RTN","RGUTDDR",105,0)
+ .S IEN=+$$NXTIEN
+"RTN","RGUTDDR",106,0)
+ .;S OK=IEN&(IEN\1=IEN)&$D(@GBL@(IEN,0)),SCRN=""
+"RTN","RGUTDDR",107,0)
+ .S OK=IEN&$D(@GBL@(IEN,0)),SCRN=""
+"RTN","RGUTDDR",108,0)
+ .F  Q:'OK  S SCRN=$O(SCRN(SCRN)) Q:'$L(SCRN)  D
+"RTN","RGUTDDR",109,0)
+ ..N Y
+"RTN","RGUTDDR",110,0)
+ ..S Y=IEN
+"RTN","RGUTDDR",111,0)
+ ..I $D(@GBL@(Y,0))
+"RTN","RGUTDDR",112,0)
+ ..X SCRN(SCRN)
+"RTN","RGUTDDR",113,0)
+ ..S OK=$T
+"RTN","RGUTDDR",114,0)
+ .I 'OK,'DIR S IEN=0
+"RTN","RGUTDDR",115,0)
+ S DATA=$S(OK:IEN,'DIR:"-3^Record not found",DIR=1:"-2^End of file",1:"-1^Beginning of file")
+"RTN","RGUTDDR",116,0)
+ Q
+"RTN","RGUTDDR",117,0)
+ ; Return next IEN
+"RTN","RGUTDDR",118,0)
+NXTIEN() Q:'DIR IEN
+"RTN","RGUTDDR",119,0)
+ Q:'$L(INDX) $O(@GBL@(IEN),DIR)
+"RTN","RGUTDDR",120,0)
+ N OK
+"RTN","RGUTDDR",121,0)
+ F  D  Q:OK!'$L(IDX)
+"RTN","RGUTDDR",122,0)
+ .S:IEN'>0 IDX=$O(@GBL@(INDX,IDX),DIR),IEN=""
+"RTN","RGUTDDR",123,0)
+ .S IEN=$S($L(IDX):$O(@GBL@(INDX,IDX,IEN),DIR),1:0)
+"RTN","RGUTDDR",124,0)
+ .;S OK=$S('IEN:0,1:$E($$FLDVAL(FNUM,IDF,IEN,GBL),1,30)=IDX)
+"RTN","RGUTDDR",125,0)
+ .S OK=$S('IEN:0,1:$D(@GBL@(IEN,0)))
+"RTN","RGUTDDR",126,0)
+ Q IEN
+"RTN","RGUTDDR",127,0)
+ ; Return field value (internal)
+"RTN","RGUTDDR",128,0)
+ ;  FIL  = File or subfile #
+"RTN","RGUTDDR",129,0)
+ ;  FLD  = Field #
+"RTN","RGUTDDR",130,0)
+ ;  IEN  = Record #
+"RTN","RGUTDDR",131,0)
+ ;  ROOT = Global root of file or subfile, or IENS of subfile
+"RTN","RGUTDDR",132,0)
+FLDVAL(FIL,FLD,IEN,ROOT) ;
+"RTN","RGUTDDR",133,0)
+ I FLD=0!(FLD="#") Q IEN
+"RTN","RGUTDDR",134,0)
+ N PC,ND,DD
+"RTN","RGUTDDR",135,0)
+ S:FLD'=+FLD FLD=+$O(^DD(FIL,"B",FLD,0))
+"RTN","RGUTDDR",136,0)
+ S DD=$G(^DD(FIL,FLD,0))
+"RTN","RGUTDDR",137,0)
+ Q:$P(DD,U,2)["C" $$GET1^DIQ(FIL,IEN_","_$P(ROOT,",",2,999),FLD,"I")
+"RTN","RGUTDDR",138,0)
+ S ND=$P(DD,U,4),PC=$P(ND,";",2),ND=$P(ND,";")
+"RTN","RGUTDDR",139,0)
+ S:$E(ROOT)'=U ROOT=$$ROOT^DILFD(FIL,ROOT,1)
+"RTN","RGUTDDR",140,0)
+ Q $S('$L(ND):"",1:$P($G(@ROOT@(IEN,ND)),U,PC))
+"RTN","RGUTDDR",141,0)
+ ; RPC: Lock/unlock a record
+"RTN","RGUTDDR",142,0)
+ ;   FNUM = File #
+"RTN","RGUTDDR",143,0)
+ ;   IENS = Record # (IENS format)
+"RTN","RGUTDDR",144,0)
+ ;   WAIT = If >=0, seconds to wait for lock.
+"RTN","RGUTDDR",145,0)
+ ;          If missing or null, perform unlock operation.
+"RTN","RGUTDDR",146,0)
+ ;   DATA = Returns 0 if successful, -n^Error Text if not.
+"RTN","RGUTDDR",147,0)
+LOCK(DATA,FNUM,IENS,WAIT) ;
+"RTN","RGUTDDR",148,0)
+ N X,IEN,OK,$ET
+"RTN","RGUTDDR",149,0)
+ S @$$TRAP^RGUTOS("LOCKERR^RGUTDDR")
+"RTN","RGUTDDR",150,0)
+ S $ET="",X=$$ROOT^DILFD(FNUM,IENS,1),DATA=0,IEN=+IENS
+"RTN","RGUTDDR",151,0)
+ I '$L(X) S DATA="-1^Table not found"  Q
+"RTN","RGUTDDR",152,0)
+ K:$G(WAIT)="" WAIT
+"RTN","RGUTDDR",153,0)
+ D LOCK^RGNBRPC(.OK,$NA(@X@(IEN)),.WAIT)
+"RTN","RGUTDDR",154,0)
+ S:'OK DATA="-2^Record locked by another process"
+"RTN","RGUTDDR",155,0)
+ Q
+"RTN","RGUTDDR",156,0)
+LOCKERR S DATA="-3^Unexpected error"
+"RTN","RGUTDDR",157,0)
+ Q
+"RTN","RGUTDDR",158,0)
+ ; RPC: Convert pointer internal<->external
+"RTN","RGUTDDR",159,0)
+CVTPTR(DATA,FNUM,VAL,EXT) ;
+"RTN","RGUTDDR",160,0)
+ I EXT S DATA=$$GET1^DIQ(FNUM,VAL,.01)
+"RTN","RGUTDDR",161,0)
+ E  D
+"RTN","RGUTDDR",162,0)
+ .N ROOT
+"RTN","RGUTDDR",163,0)
+ .S ROOT=$$ROOT^DILFD(FNUM,,1)
+"RTN","RGUTDDR",164,0)
+ .I '$L(ROOT) S DATA=""
+"RTN","RGUTDDR",165,0)
+ .E  I VAL?1"`"1.N D
+"RTN","RGUTDDR",166,0)
+ ..S VAL=+$E(VAL,2,999),DATA=$S('VAL:"",$D(@ROOT@(VAL,0))#2:VAL,1:"")
+"RTN","RGUTDDR",167,0)
+ .E  D
+"RTN","RGUTDDR",168,0)
+ ..N LP
+"RTN","RGUTDDR",169,0)
+ ..F LP=0:1:3 S DATA=$$CP(LP) Q:DATA
+"RTN","RGUTDDR",170,0)
+ Q
+"RTN","RGUTDDR",171,0)
+ ; Lookup value in "B" xref
+"RTN","RGUTDDR",172,0)
+CP(XFM) N RTN,LKP
+"RTN","RGUTDDR",173,0)
+ S LKP=$S(XFM#2:$E(VAL,1,30),1:VAL),LKP=$S(XFM\2:$$UP^XLFSTR(LKP),1:LKP),RTN=0
+"RTN","RGUTDDR",174,0)
+ F  S RTN=$O(@ROOT@("B",LKP,RTN)) Q:'RTN  Q:$P($G(@ROOT@(RTN,0)),U)=VAL
+"RTN","RGUTDDR",175,0)
+ Q RTN
+"RTN","RGUTDDR",176,0)
+ ; RPC: Find an entry using specified fields and values
+"RTN","RGUTDDR",177,0)
+ ;   FNUM = File number to search
+"RTN","RGUTDDR",178,0)
+ ;   IENS = IENS for subfile
+"RTN","RGUTDDR",179,0)
+ ;   FLGS = Search flags.  Combination of:
+"RTN","RGUTDDR",180,0)
+ ;       P = partial match
+"RTN","RGUTDDR",181,0)
+ ;       I = case insensitive
+"RTN","RGUTDDR",182,0)
+ ;   FLDS = Field #'s or names to search.  Can be ;-delimited or list.
+"RTN","RGUTDDR",183,0)
+ ;   VALS = Values to search.  Can be single value or list.
+"RTN","RGUTDDR",184,0)
+ ;   MAX  = Maximum entries to return (default=all)
+"RTN","RGUTDDR",185,0)
+ ;   Returns list of one or all IENs matching criteria or
+"RTN","RGUTDDR",186,0)
+ ;     -n^error text if error.
+"RTN","RGUTDDR",187,0)
+FIND(DATA,FNUM,IENS,FLGS,FLDS,VALS,MAX) ;
+"RTN","RGUTDDR",188,0)
+ N ROOT,QUIT,XRF,XKY,CNT,X
+"RTN","RGUTDDR",189,0)
+ S IENS=$G(IENS)
+"RTN","RGUTDDR",190,0)
+ I $L(IENS),$E(IENS)'="," S IENS=","_IENS
+"RTN","RGUTDDR",191,0)
+ S ROOT=$$ROOT^DILFD(FNUM,IENS,1),QUIT=0,FLGS=$G(FLGS),MAX=+$G(MAX),CNT=0
+"RTN","RGUTDDR",192,0)
+ S:$D(VALS)=1 VALS(1)=VALS
+"RTN","RGUTDDR",193,0)
+ I $D(FLDS)=1 F X=1:1:$L(FLDS,";") S FLDS(X)=$P(FLDS,";",X)
+"RTN","RGUTDDR",194,0)
+ F FLDS=0:0 S FLDS=$O(FLDS(FLDS)) Q:'FLDS  D  Q:QUIT
+"RTN","RGUTDDR",195,0)
+ .I '$D(VALS(FLDS)) S QUIT="-1^Not enough lookup values." Q
+"RTN","RGUTDDR",196,0)
+ .S X=$$FLDNUM(FNUM,FLDS(FLDS))
+"RTN","RGUTDDR",197,0)
+ .I '$L(X) S QUIT="-2^Unknown field "_FLDS(FLDS)_"." Q
+"RTN","RGUTDDR",198,0)
+ .S FLDS(FLDS)=X
+"RTN","RGUTDDR",199,0)
+ .I '$D(XRF) D
+"RTN","RGUTDDR",200,0)
+ ..S X=$$XREF(FNUM,X)
+"RTN","RGUTDDR",201,0)
+ ..S:$L(X) XRF=X,XKY=$S(FLGS["I":$$UP^XLFSTR(VALS(FLDS)),1:VALS(FLDS))
+"RTN","RGUTDDR",202,0)
+ I 'QUIT,'$D(XRF) S QUIT="-3^At least one field must be a key field."
+"RTN","RGUTDDR",203,0)
+ D:'QUIT FINDX
+"RTN","RGUTDDR",204,0)
+ I QUIT<0 K @DATA S @DATA@(0)=QUIT
+"RTN","RGUTDDR",205,0)
+ Q
+"RTN","RGUTDDR",206,0)
+FINDX G FINDN:XRF="#",FINDP:FLGS["P",FINDE
+"RTN","RGUTDDR",207,0)
+ ; Find by IEN
+"RTN","RGUTDDR",208,0)
+FINDN D FINDF(XKY)
+"RTN","RGUTDDR",209,0)
+ Q
+"RTN","RGUTDDR",210,0)
+ ; Find exact match
+"RTN","RGUTDDR",211,0)
+FINDE N XKT,IEN
+"RTN","RGUTDDR",212,0)
+ S IEN=0,XKT=$E(XKY,1,30)
+"RTN","RGUTDDR",213,0)
+ F  S IEN=$O(@ROOT@(XRF,XKT,IEN)) Q:'IEN  D  Q:QUIT
+"RTN","RGUTDDR",214,0)
+ .D FINDF(IEN)
+"RTN","RGUTDDR",215,0)
+ Q
+"RTN","RGUTDDR",216,0)
+ ; Partial match
+"RTN","RGUTDDR",217,0)
+FINDP N XKT,VAL,IEN,LEN
+"RTN","RGUTDDR",218,0)
+ S XKT=$E(XKY,1,30),VAL=XKT,LEN=$L(XKT)
+"RTN","RGUTDDR",219,0)
+ F  D  S VAL=$O(@ROOT@(XRF,VAL)) Q:$E(VAL,1,LEN)'=XKT!QUIT
+"RTN","RGUTDDR",220,0)
+ .S IEN=0
+"RTN","RGUTDDR",221,0)
+ .F  S IEN=$O(@ROOT@(XRF,VAL,IEN)) Q:'IEN  D  Q:QUIT
+"RTN","RGUTDDR",222,0)
+ ..D FINDF(IEN)
+"RTN","RGUTDDR",223,0)
+ Q
+"RTN","RGUTDDR",224,0)
+ ; Check fields for match.  Add to output if all match
+"RTN","RGUTDDR",225,0)
+FINDF(IEN) ;
+"RTN","RGUTDDR",226,0)
+ N FND
+"RTN","RGUTDDR",227,0)
+ S FLDS=0,FND=1
+"RTN","RGUTDDR",228,0)
+ F  S FLDS=$O(FLDS(FLDS)) Q:'FLDS  D  Q:'FND
+"RTN","RGUTDDR",229,0)
+ .S FND=$$FINDM(FLDS(FLDS),VALS(FLDS),IEN)
+"RTN","RGUTDDR",230,0)
+ I FND D
+"RTN","RGUTDDR",231,0)
+ .S CNT=CNT+1,@DATA@(CNT)=IEN
+"RTN","RGUTDDR",232,0)
+ .I MAX,CNT'<MAX S QUIT=1
+"RTN","RGUTDDR",233,0)
+ Q
+"RTN","RGUTDDR",234,0)
+ ; Check for match
+"RTN","RGUTDDR",235,0)
+FINDM(FLD,VAL,IEN) ;
+"RTN","RGUTDDR",236,0)
+ N VALX
+"RTN","RGUTDDR",237,0)
+ S VALX=$$FLDVAL(FNUM,FLD,IEN,ROOT)
+"RTN","RGUTDDR",238,0)
+ S:FLGS["I" VAL=$$UP^XLFSTR(VAL),VALX=$$UP^XLFSTR(VALX)
+"RTN","RGUTDDR",239,0)
+ Q $S(FLGS["P":$E(VALX,1,$L(VAL))=VAL,1:VAL=VALX)
+"RTN","RGUTDDR",240,0)
+ ; Return field number from name
+"RTN","RGUTDDR",241,0)
+FLDNUM(FNUM,FLD) ;EP
+"RTN","RGUTDDR",242,0)
+ Q $S(FLD=+FLD:FLD,FLD="#":0,1:$O(^DD(FNUM,"B",FLD,0)))
+"RTN","RGUTDDR",243,0)
+ ; Returns the standard xref for the specified field.
+"RTN","RGUTDDR",244,0)
+XREF(FNUM,FLD,LAST) ;EP
+"RTN","RGUTDDR",245,0)
+ N XREF
+"RTN","RGUTDDR",246,0)
+ S LAST=+$G(LAST),XREF="",FLD=$$FLDNUM(FNUM,FLD)
+"RTN","RGUTDDR",247,0)
+ Q:'$L(FLD) ""
+"RTN","RGUTDDR",248,0)
+ Q:'FLD "#"
+"RTN","RGUTDDR",249,0)
+ F  S LAST=$O(^DD(FNUM,FLD,1,LAST)) Q:'LAST  I $D(^(LAST,0)),$P(^(0),U,3)="" S XREF=$P(^(0),U,2) Q
+"RTN","RGUTDDR",250,0)
+ Q XREF
+"RTN","RGUTDDR",251,0)
+ ; Returns field # if xref is a standard type, or 0 if not.
+"RTN","RGUTDDR",252,0)
+XREFFLD(FNUM,XREF) ;EP
+"RTN","RGUTDDR",253,0)
+ N FLD,LAST,X
+"RTN","RGUTDDR",254,0)
+ S FLD=$O(^DD(FNUM,0,"IX",XREF,FNUM,0))
+"RTN","RGUTDDR",255,0)
+ Q:'FLD 0
+"RTN","RGUTDDR",256,0)
+ F  S X=$$XREF(FNUM,FLD,.LAST) Q:'$L(X)!(X=XREF)
+"RTN","RGUTDDR",257,0)
+ Q $S($L(X):FLD,1:0)
+"RTN","RGUTDIC")
+0^36^B28066955
+"RTN","RGUTDIC",1,0)
+RGUTDIC ;RI/CBMI/DKM - Encapsulated FileMan API;03-Mar-2015 14:24;DKM
+"RTN","RGUTDIC",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTDIC",3,0)
+ ;;
+"RTN","RGUTDIC",4,0)
+ ;=================================================================
+"RTN","RGUTDIC",5,0)
+ ; Parameterized routine to add/edit/extract an entry in a
+"RTN","RGUTDIC",6,0)
+ ; FileMan file.  Encapsulates global structure info so no
+"RTN","RGUTDIC",7,0)
+ ; need to specify this directly.
+"RTN","RGUTDIC",8,0)
+ ; Inputs:
+"RTN","RGUTDIC",9,0)
+ ;    %RGDIC = Global root, file number, or bookmark
+"RTN","RGUTDIC",10,0)
+ ;    %RGCMD = n    : IEN of entry to process
+"RTN","RGUTDIC",11,0)
+ ;             0    : Process last IEN referenced
+"RTN","RGUTDIC",12,0)
+ ;             +n   : Move down to subfile n
+"RTN","RGUTDIC",13,0)
+ ;             -    : Move up to parent file
+"RTN","RGUTDIC",14,0)
+ ;             @n   : Delete IEN #n (or last referenced if missing)
+"RTN","RGUTDIC",15,0)
+ ;             =x;y : Lookup y at current level using options in x
+"RTN","RGUTDIC",16,0)
+ ;             ?x;y ; Lookup y using RGUTLKP utility with options in x
+"RTN","RGUTDIC",17,0)
+ ;             >x;y : Read fields specified in y using options in x
+"RTN","RGUTDIC",18,0)
+ ;             <x;y : Write fields specified in y using options in x
+"RTN","RGUTDIC",19,0)
+ ;             ~x;y : Same as <, but creates new entry
+"RTN","RGUTDIC",20,0)
+ ;             %n   : Force DINUM to n
+"RTN","RGUTDIC",21,0)
+ ; Outputs:
+"RTN","RGUTDIC",22,0)
+ ;     Returns in the first piece the IEN of the entry or...
+"RTN","RGUTDIC",23,0)
+ ;      0 = Entry was deleted
+"RTN","RGUTDIC",24,0)
+ ;     -1 = Entry was rejected
+"RTN","RGUTDIC",25,0)
+ ;     -2 = Entry locked by another process
+"RTN","RGUTDIC",26,0)
+ ;     -3 = Unexpected error
+"RTN","RGUTDIC",27,0)
+ ;=================================================================
+"RTN","RGUTDIC",28,0)
+ENTRY(%RGDIC,%RGCMD) ;
+"RTN","RGUTDIC",29,0)
+ S %RGDIC(0)=+$G(DUZ)
+"RTN","RGUTDIC",30,0)
+ N DUZ,DIC,DINUM,DIE,DIQ,DIQUIET,DIK,%RGX,%RGIEN,%RGARG,%RGN1,%RGN2,%RGZ,X,Y
+"RTN","RGUTDIC",31,0)
+ N DA,DC,DD,DG,DH,DK,DL,DO,DQ,DR,DU,DV,DW,DY
+"RTN","RGUTDIC",32,0)
+ S DUZ=%RGDIC(0),DUZ(0)="@",@$$TRAP^RGUTOS("ERROR^RGUTDIC"),%RGCMD=$G(%RGCMD),%RGIEN="",DIQUIET=1
+"RTN","RGUTDIC",33,0)
+ ; Build the bookmark if a global reference or file # passed
+"RTN","RGUTDIC",34,0)
+ I %RGDIC'[U D
+"RTN","RGUTDIC",35,0)
+ .S:%RGDIC'=+%RGDIC %RGDIC=+$O(^DIC("B",%RGDIC,0))
+"RTN","RGUTDIC",36,0)
+ .S %RGDIC=$$ROOT^DILFD(%RGDIC)_U_U_%RGDIC
+"RTN","RGUTDIC",37,0)
+ I $P(%RGDIC,U,4)="" D
+"RTN","RGUTDIC",38,0)
+ .S %RGZ=U_$P(%RGDIC,U,2),%RGZ=$E(%RGZ,1,$L(%RGZ)-1),%RGZ=%RGZ_$S(%RGZ["(":")",1:"")
+"RTN","RGUTDIC",39,0)
+ .S $P(%RGDIC,U,4)=$P(@%RGZ@(0),U,2)
+"RTN","RGUTDIC",40,0)
+ F %RGN1=1:1:$L(%RGCMD,"|") S %RGARG=$P(%RGCMD,"|",%RGN1),%RGZ=$E(%RGARG) D  Q:%RGIEN<0
+"RTN","RGUTDIC",41,0)
+ .S %RGN2=$F("-+=@><~?%",%RGZ)
+"RTN","RGUTDIC",42,0)
+ .S:%RGN2 %RGN2=%RGN2-1,%RGARG=$E(%RGARG,2,999)
+"RTN","RGUTDIC",43,0)
+ .D DA,@%RGN2
+"RTN","RGUTDIC",44,0)
+ .S:%RGIEN>0 $P(%RGDIC,U,3)=%RGIEN
+"RTN","RGUTDIC",45,0)
+ S $P(%RGDIC,U)=%RGIEN
+"RTN","RGUTDIC",46,0)
+ Q %RGDIC
+"RTN","RGUTDIC",47,0)
+ ; Set IEN
+"RTN","RGUTDIC",48,0)
+0 S:%RGARG'<0 %RGIEN=$S($D(@%RGDIC(2)@(+%RGARG)):+%RGARG,1:0),$P(%RGDIC,U,3)=%RGIEN
+"RTN","RGUTDIC",49,0)
+ Q
+"RTN","RGUTDIC",50,0)
+ ; Move up to parent file
+"RTN","RGUTDIC",51,0)
+1 N %RGX,%RGY
+"RTN","RGUTDIC",52,0)
+ S $P(%RGDIC,U,4)=$P($P(%RGDIC,U,4),"|",2,999)
+"RTN","RGUTDIC",53,0)
+ S %RGY=$P(%RGDIC,U,2),%RGX=$L(%RGY,"|"),$P(%RGDIC,U,2)=$P(%RGY,"|",1,%RGX-1)
+"RTN","RGUTDIC",54,0)
+ S %RGIEN=+$P(%RGY,"|",%RGX),$P(%RGDIC,U,3)=%RGIEN
+"RTN","RGUTDIC",55,0)
+ D DA
+"RTN","RGUTDIC",56,0)
+ Q
+"RTN","RGUTDIC",57,0)
+ ; Move down to subfile
+"RTN","RGUTDIC",58,0)
+2 N %RGX,%RGY,%RGZ
+"RTN","RGUTDIC",59,0)
+ I $P(%RGDIC,U,3)'>0 S %RGIEN=-1 Q
+"RTN","RGUTDIC",60,0)
+ S %RGY=+$P(%RGDIC,U,4)
+"RTN","RGUTDIC",61,0)
+ S:%RGARG'=+%RGARG %RGARG=+$O(^DD(%RGY,"B",%RGARG,0)),%RGARG=+$P($G(^DD(%RGY,%RGARG,0)),U,2)
+"RTN","RGUTDIC",62,0)
+ S %RGX=+%RGARG,%RGZ=+$O(^DD(%RGY,"SB",%RGX,0)),%RGZ=$P($P(^DD(%RGY,%RGZ,0),U,4),";"),%RGX=$P(^(0),U,2)
+"RTN","RGUTDIC",63,0)
+ S:%RGZ'=+%RGZ %RGZ=""""_%RGZ_""""
+"RTN","RGUTDIC",64,0)
+ S $P(%RGDIC,U,4)=%RGX_"|"_$P(%RGDIC,U,4),$P(%RGDIC,U,2)=$P(%RGDIC,U,2)_"|"_$P(%RGDIC,U,3)_","_%RGZ_","
+"RTN","RGUTDIC",65,0)
+ S %RGIEN="",$P(%RGDIC,U,3)=""
+"RTN","RGUTDIC",66,0)
+ D DA
+"RTN","RGUTDIC",67,0)
+ Q
+"RTN","RGUTDIC",68,0)
+ ; Lookup an entry
+"RTN","RGUTDIC",69,0)
+3 N X,Y
+"RTN","RGUTDIC",70,0)
+ I %RGARG[";" S DIC(0)=$P(%RGARG,";"),%RGARG=$P(%RGARG,";",2,999)
+"RTN","RGUTDIC",71,0)
+ E  S DIC(0)="XMF"
+"RTN","RGUTDIC",72,0)
+ S DIC=%RGDIC(1),X=%RGARG
+"RTN","RGUTDIC",73,0)
+ D ^DIC
+"RTN","RGUTDIC",74,0)
+ S %RGIEN=+Y
+"RTN","RGUTDIC",75,0)
+ Q
+"RTN","RGUTDIC",76,0)
+ ; Delete an entry
+"RTN","RGUTDIC",77,0)
+4 N X,Y
+"RTN","RGUTDIC",78,0)
+ S:%RGARG DA=%RGARG
+"RTN","RGUTDIC",79,0)
+ S DIK=%RGDIC(1),%RGIEN=0
+"RTN","RGUTDIC",80,0)
+ D ^DIK
+"RTN","RGUTDIC",81,0)
+ Q
+"RTN","RGUTDIC",82,0)
+ ; Extract data
+"RTN","RGUTDIC",83,0)
+5 N %RGZ,%RGZ1,%RGX,%RGY
+"RTN","RGUTDIC",84,0)
+ I '%RGIEN S %RGIEN=-1 Q
+"RTN","RGUTDIC",85,0)
+ S DR=""
+"RTN","RGUTDIC",86,0)
+ F %RGX=2:1:$L(%RGARG,";") D
+"RTN","RGUTDIC",87,0)
+ .S %RGY=$P(%RGARG,";",%RGX)
+"RTN","RGUTDIC",88,0)
+ .I %RGY["=" S %RGZ=$$FLD($P(%RGY,"=",2)),%RGZ1(%RGZ,$P(%RGY,"="))="",%RGY=%RGZ
+"RTN","RGUTDIC",89,0)
+ .S DR=DR_$S($L(DR):";",1:"")_%RGY
+"RTN","RGUTDIC",90,0)
+ S DIC=%RGDIC(1),DIQ(0)=$P(%RGARG,";")
+"RTN","RGUTDIC",91,0)
+ S:DIQ(0)="" DIQ(0)="E"
+"RTN","RGUTDIC",92,0)
+ K ^UTILITY("DIQ1",$J)
+"RTN","RGUTDIC",93,0)
+ D
+"RTN","RGUTDIC",94,0)
+ .N X,Y
+"RTN","RGUTDIC",95,0)
+ .D EN^DIQ1
+"RTN","RGUTDIC",96,0)
+ F %RGX=0:0 S %RGX=$O(%RGZ1(%RGX)),%RGZ="" Q:'%RGX  D
+"RTN","RGUTDIC",97,0)
+ .F  S %RGZ=$O(%RGZ1(%RGX,%RGZ)),%RGZ1="" Q:%RGZ=""  D
+"RTN","RGUTDIC",98,0)
+ ..F %RGY="E","I" D
+"RTN","RGUTDIC",99,0)
+ ...S:$D(^UTILITY("DIQ1",$J,+$P(%RGDIC,U,4),%RGIEN,%RGX,%RGY)) %RGZ1=%RGZ1_$S($L(%RGZ1):U,1:"")_^(%RGY)
+"RTN","RGUTDIC",100,0)
+ ..S @%RGZ=%RGZ1
+"RTN","RGUTDIC",101,0)
+ Q
+"RTN","RGUTDIC",102,0)
+ ; Edit existing entry
+"RTN","RGUTDIC",103,0)
+6 S DIC(0)=$P(%RGARG,";"),DIC("P")=$P($P(%RGDIC,U,4),"|"),%RGARG=$P(%RGARG,";",2,999)
+"RTN","RGUTDIC",104,0)
+ I %RGIEN'>0 S %RGIEN=-1 Q
+"RTN","RGUTDIC",105,0)
+ S DIE=%RGDIC(1),DR=%RGARG
+"RTN","RGUTDIC",106,0)
+ L +@%RGDIC(2)@(%RGIEN):$S(DIC(0)["!":9999999,1:0)
+"RTN","RGUTDIC",107,0)
+ E  S %RGIEN=-2 Q
+"RTN","RGUTDIC",108,0)
+ D ^DIE
+"RTN","RGUTDIC",109,0)
+ L -@%RGDIC(2)@(%RGIEN)
+"RTN","RGUTDIC",110,0)
+ S %RGIEN=+$G(DA)
+"RTN","RGUTDIC",111,0)
+ Q
+"RTN","RGUTDIC",112,0)
+ ; Create new entry
+"RTN","RGUTDIC",113,0)
+7 N X,Y,DD,DO,DLAYGO
+"RTN","RGUTDIC",114,0)
+ S DIC=%RGDIC(1),DIC(0)=$P(%RGARG,";")_"L",DIC("P")=$P($P(%RGDIC,U,4),"|"),Y=$P(%RGARG,";",2),%RGARG=DIC(0)_";"_$P(%RGARG,";",3,999),DLAYGO=DIC("P")\1
+"RTN","RGUTDIC",115,0)
+ I +Y'=.01 S %RGIEN=-1 Q
+"RTN","RGUTDIC",116,0)
+ S X=$P(Y,"/",4)
+"RTN","RGUTDIC",117,0)
+ S:X="" X=$P(Y,"/",5)
+"RTN","RGUTDIC",118,0)
+ X:$E(X)=U $E(X,2,999)
+"RTN","RGUTDIC",119,0)
+ I $P(^DD(+DIC("P"),.01,0),U,2)["W" D
+"RTN","RGUTDIC",120,0)
+ .D WP
+"RTN","RGUTDIC",121,0)
+ E  D ^DIC:DIC(0)'["U",FILE^DICN:DIC(0)["U"
+"RTN","RGUTDIC",122,0)
+ S %RGIEN=+Y
+"RTN","RGUTDIC",123,0)
+ I %RGIEN>0,$P(%RGARG,";",2,99)'="" D DA,6
+"RTN","RGUTDIC",124,0)
+ K DINUM
+"RTN","RGUTDIC",125,0)
+ Q
+"RTN","RGUTDIC",126,0)
+8 ; Lookup entry
+"RTN","RGUTDIC",127,0)
+ N %RGOPT,%RGP,RGFN
+"RTN","RGUTDIC",128,0)
+ S %RGOPT=$P(%RGARG,";"),%RGARG=$P(%RGARG,";",2,999),RGFN=+$P(%RGDIC,U,4)
+"RTN","RGUTDIC",129,0)
+ S %RGP=+$P(%RGDIC,U,4),%RGP=$P($G(^DD(%RGP,.01,0)),U)
+"RTN","RGUTDIC",130,0)
+ S:$L(%RGP) %RGP=%RGP_": "
+"RTN","RGUTDIC",131,0)
+ S %RGIEN=$$ENTRY^RGUTLKP(%RGDIC(2),%RGOPT,%RGP,"",%RGARG,"","",$X,$Y,"","","HLP^RGUTDIC")
+"RTN","RGUTDIC",132,0)
+ Q
+"RTN","RGUTDIC",133,0)
+ ; Force DINUM
+"RTN","RGUTDIC",134,0)
+9 S DINUM=%RGARG
+"RTN","RGUTDIC",135,0)
+ Q
+"RTN","RGUTDIC",136,0)
+HLP W $G(^DD(+RGFN,.01,3)),!
+"RTN","RGUTDIC",137,0)
+ Q
+"RTN","RGUTDIC",138,0)
+ ; Word processing field (special case of #7)
+"RTN","RGUTDIC",139,0)
+WP N %RGZ,%RGZ1
+"RTN","RGUTDIC",140,0)
+ I X="@" D
+"RTN","RGUTDIC",141,0)
+ .K @%RGDIC(2)
+"RTN","RGUTDIC",142,0)
+ .S Y=0
+"RTN","RGUTDIC",143,0)
+ E  D
+"RTN","RGUTDIC",144,0)
+ .S %RGZ=$G(@%RGDIC(2)@(0)),Y=$G(DINUM,1+$O(^($C(1)),-1))
+"RTN","RGUTDIC",145,0)
+ .S %RGZ1=+$P(%RGZ,U,4),%RGZ=+$P(%RGZ,U,3)
+"RTN","RGUTDIC",146,0)
+ .S:Y>%RGZ %RGZ=Y
+"RTN","RGUTDIC",147,0)
+ .S:'$D(^(Y)) %RGZ1=%RGZ1+1
+"RTN","RGUTDIC",148,0)
+ .S ^(0)=U_U_%RGZ_U_%RGZ1_U_$G(DT),^(Y,0)=X
+"RTN","RGUTDIC",149,0)
+ Q:$P(^DD(+DIC("P"),.01,0),U,2)'["a"
+"RTN","RGUTDIC",150,0)
+ S %RGIEN=Y
+"RTN","RGUTDIC",151,0)
+ D DA,WPAUDIT^CCCODAUD(+DIC("P"),.DA,X,"")
+"RTN","RGUTDIC",152,0)
+ Q
+"RTN","RGUTDIC",153,0)
+ ; Trap unexpected error
+"RTN","RGUTDIC",154,0)
+ERROR S $P(%RGDIC,U)=-3
+"RTN","RGUTDIC",155,0)
+ Q %RGDIC
+"RTN","RGUTDIC",156,0)
+ ; Return field #
+"RTN","RGUTDIC",157,0)
+FLD(X) Q $S(X=+X:X,1:+$O(^DD(+$P(%RGDIC,U,4),"B",X,0)))
+"RTN","RGUTDIC",158,0)
+ ; Set up DA array
+"RTN","RGUTDIC",159,0)
+DA N %RGZ,%RGZ1,%RGZ2
+"RTN","RGUTDIC",160,0)
+ K DA
+"RTN","RGUTDIC",161,0)
+ S:'$G(%RGIEN) %RGIEN=$P(%RGDIC,U,3)
+"RTN","RGUTDIC",162,0)
+ S %RGZ=$P(%RGDIC,U,2),%RGZ2=$L(%RGZ,"|"),DA=%RGIEN
+"RTN","RGUTDIC",163,0)
+ F %RGZ1=2:1:%RGZ2 S DA(%RGZ2-%RGZ1+1)=+$P(%RGZ,"|",%RGZ1)
+"RTN","RGUTDIC",164,0)
+ S %RGDIC(1)=U_$TR($P(%RGDIC,U,2),"|"),%RGDIC(2)=$E(%RGDIC(1),1,$L(%RGDIC(1))-1),%RGDIC(2)=%RGDIC(2)_$S(%RGDIC(2)["(":")",1:"")
+"RTN","RGUTDIC",165,0)
+ Q
+"RTN","RGUTDT")
+0^37^B4547736
+"RTN","RGUTDT",1,0)
+RGUTDT ;RI/CBMI/DKM - FM date to formatted date;03-Mar-2015 14:24;DKM
+"RTN","RGUTDT",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTDT",3,0)
+ ;;
+"RTN","RGUTDT",4,0)
+ ;=================================================================
+"RTN","RGUTDT",5,0)
+ ; Inputs:
+"RTN","RGUTDT",6,0)
+ ;   RGDAT = date to format (DHCP format or $H format)
+"RTN","RGUTDT",7,0)
+ ;   RGFMT = date and time format control (optional)
+"RTN","RGUTDT",8,0)
+ ;      xxx0 = dd-mmm-yyyy
+"RTN","RGUTDT",9,0)
+ ;      xxx1 = mmm dd,yyyy
+"RTN","RGUTDT",10,0)
+ ;      xxx2 = mm/dd/yyyy
+"RTN","RGUTDT",11,0)
+ ;      xxx3 = mm-dd-yyyy
+"RTN","RGUTDT",12,0)
+ ;      xx0x = hh:mm
+"RTN","RGUTDT",13,0)
+ ;      xx1x = hh:mm xx
+"RTN","RGUTDT",14,0)
+ ;      x0xx = use space to separate date/time
+"RTN","RGUTDT",15,0)
+ ;      x1xx = use @ to separate date/time
+"RTN","RGUTDT",16,0)
+ ;      0xxx = allow leading zeros
+"RTN","RGUTDT",17,0)
+ ;      1xxx = remove leading zeros
+"RTN","RGUTDT",18,0)
+ ; Outputs:
+"RTN","RGUTDT",19,0)
+ ;   Returns formatted date
+"RTN","RGUTDT",20,0)
+ ;=================================================================
+"RTN","RGUTDT",21,0)
+ENTRY(RGDAT,RGFMT) ; EP
+"RTN","RGUTDT",22,0)
+ S RGDAT=$G(RGDAT,$H)
+"RTN","RGUTDT",23,0)
+ Q:'RGDAT ""
+"RTN","RGUTDT",24,0)
+ N RGZ1,RGZ2,RGZ3,RGZ4,RGDLM,RGTM
+"RTN","RGUTDT",25,0)
+ S:RGDAT?1.N1",".N RGDAT=$$HTFM^XLFDT(RGDAT)
+"RTN","RGUTDT",26,0)
+ S RGFMT=$G(RGFMT)#100000,RGFMT=RGFMT#10000,RGZ4=RGFMT\1000,RGFMT=RGFMT#1000,RGDLM=$S(RGFMT>99:"@",1:" "),RGFMT=RGFMT#100,RGTM=RGFMT\10,RGFMT=RGFMT#10
+"RTN","RGUTDT",27,0)
+ I RGDAT\1 D
+"RTN","RGUTDT",28,0)
+ .S RGZ3=RGDAT\1+17000000,RGZ1=$E(RGZ3,7,8),RGZ2=$E(RGZ3,5,6),RGZ3=$E(RGZ3,1,4)
+"RTN","RGUTDT",29,0)
+ .S:RGZ4 RGZ1=+RGZ1,RGZ2=+RGZ2
+"RTN","RGUTDT",30,0)
+ .S:RGFMT<2 RGZ2=$P("Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec",",",RGZ2)
+"RTN","RGUTDT",31,0)
+ .S RGZ1=$S('RGFMT:RGZ1_"-"_RGZ2_"-"_RGZ3,RGFMT=1:RGZ2_" "_RGZ1_","_RGZ3,RGFMT=2:RGZ2_"/"_RGZ1_"/"_RGZ3,1:RGZ2_"-"_RGZ1_"-"_RGZ3)
+"RTN","RGUTDT",32,0)
+ E  S RGZ1=""
+"RTN","RGUTDT",33,0)
+ S RGZ2=RGDAT#1*10000+10000\1
+"RTN","RGUTDT",34,0)
+ I RGZ2=10000!(RGZ2>12400) S RGZ2=""
+"RTN","RGUTDT",35,0)
+ E  D
+"RTN","RGUTDT",36,0)
+ .S:RGTM RGZ2=$S(RGZ2=12400:RGZ2-1200_" am",RGZ2>11299:RGZ2-1200_" pm",RGZ2>11199:RGZ2_" pm",RGZ2<10099:RGZ2+1200_" am",1:RGZ2_" am")
+"RTN","RGUTDT",37,0)
+ .S RGZ3=$S(RGZ4:+$E(RGZ2,2,3),1:$E(RGZ2,2,3)),RGZ2=RGZ3_":"_$E(RGZ2,4,8)
+"RTN","RGUTDT",38,0)
+ Q RGZ1_$S('$L(RGZ2):"",$L(RGZ1):RGDLM,1:"")_RGZ2
+"RTN","RGUTEDT")
+0^38^B44841730
+"RTN","RGUTEDT",1,0)
+RGUTEDT ;RI/CBMI/DKM - Screen-oriented line editor;05-Mar-2015 18:11;DKM
+"RTN","RGUTEDT",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTEDT",3,0)
+ ;;
+"RTN","RGUTEDT",4,0)
+ ;=================================================================
+"RTN","RGUTEDT",5,0)
+ ; Inputs:
+"RTN","RGUTEDT",6,0)
+ ;   RGDATA  = Data to edit
+"RTN","RGUTEDT",7,0)
+ ;   RGLEN   = Maximum length of data
+"RTN","RGUTEDT",8,0)
+ ;   RGX     = Starting column position
+"RTN","RGUTEDT",9,0)
+ ;   RGY     = Starting row position
+"RTN","RGUTEDT",10,0)
+ ;   RGVALD  = List of valid inputs (optional)
+"RTN","RGUTEDT",11,0)
+ ;   RGDISV  = DISV node to save under (optional)
+"RTN","RGUTEDT",12,0)
+ ;   RGTERM  = Valid input terminators (default=<CR>)
+"RTN","RGUTEDT",13,0)
+ ;   RGABRT  = Valid input abort characters (default=none)
+"RTN","RGUTEDT",14,0)
+ ;   RGRM    = Right margin setting (default=IOM or 80)
+"RTN","RGUTEDT",15,0)
+ ;   RGQUIT  = Exit code (returned)
+"RTN","RGUTEDT",16,0)
+ ;   RGOPT   = Input options
+"RTN","RGUTEDT",17,0)
+ ;      C = Mark <CR> with ~
+"RTN","RGUTEDT",18,0)
+ ;      E = Echo off
+"RTN","RGUTEDT",19,0)
+ ;      H = Horizontal scroll
+"RTN","RGUTEDT",20,0)
+ ;      I = No timeout
+"RTN","RGUTEDT",21,0)
+ ;      L = Lowercase only
+"RTN","RGUTEDT",22,0)
+ ;      O = Overwrite mode
+"RTN","RGUTEDT",23,0)
+ ;      Q = Quiet mode
+"RTN","RGUTEDT",24,0)
+ ;      R = Reverse video
+"RTN","RGUTEDT",25,0)
+ ;      T = Auto-terminate
+"RTN","RGUTEDT",26,0)
+ ;      U = Uppercase only
+"RTN","RGUTEDT",27,0)
+ ;      V = Up/down cursor keys terminate input
+"RTN","RGUTEDT",28,0)
+ ;      X = Suppress auto-erase
+"RTN","RGUTEDT",29,0)
+ ; Outputs:
+"RTN","RGUTEDT",30,0)
+ ;   Return value = Edited data
+"RTN","RGUTEDT",31,0)
+ ;=================================================================
+"RTN","RGUTEDT",32,0)
+ENTRY(RGDATA,RGLEN,RGX,RGY,RGVALD,RGOPT,RGDISV,RGTERM,RGABRT,RGRM,RGQUIT) ;
+"RTN","RGUTEDT",33,0)
+ N RGZ,RGZ1,RGZ2,RGSAVE,RGINS,RGAE,RGBUF,RGTAB,RGPOS,RGEON,RGLEFT,RGBEL,RGMAX,RGRVON,RGRVOFF,RGC,RGW
+"RTN","RGUTEDT",34,0)
+ S RGVALD=$G(RGVALD),RGOPT=$$UP^XLFSTR($G(RGOPT)),RGBEL=$S(RGOPT'["Q":$C(7),1:""),RGDISV=$G(RGDISV)
+"RTN","RGUTEDT",35,0)
+ S:$G(RGTERM)="" RGTERM=$C(13)                                         ; Valid line terminators
+"RTN","RGUTEDT",36,0)
+ S RGABRT=$G(RGABRT)                                                   ; Valid input abort keys
+"RTN","RGUTEDT",37,0)
+ S RGRVON=$C(27,91,55,109),RGRVOFF=$C(27,91,109)                       ; Reverse video control
+"RTN","RGUTEDT",38,0)
+ S RGINS=RGOPT'["O"                                                    ; Default mode = insert
+"RTN","RGUTEDT",39,0)
+ S RGAE=RGOPT'["X"                                                     ; Auto-erase option
+"RTN","RGUTEDT",40,0)
+ S RGEON=RGOPT'["E"                                                    ; No echo option
+"RTN","RGUTEDT",41,0)
+ I RGOPT["I"!'$D(DTIME) N DTIME S DTIME=999999                          ; Suppress timeout option
+"RTN","RGUTEDT",42,0)
+ S RGBUF=""
+"RTN","RGUTEDT",43,0)
+ S RGRM=$G(RGRM,$G(IOM,80))                                            ; Display width
+"RTN","RGUTEDT",44,0)
+ S RGTAB=$C(9)                                                         ; Tab character
+"RTN","RGUTEDT",45,0)
+ S RGX=$G(RGX,$X),RGY=$G(RGY,$Y),RGW=RGRM-RGX
+"RTN","RGUTEDT",46,0)
+ S:RGW'>0 RGW=1
+"RTN","RGUTEDT",47,0)
+ S:'$G(RGLEN) RGLEN=RGW                                                ; Default field width
+"RTN","RGUTEDT",48,0)
+ S RGMAX=$S(RGOPT["H":250,1:RGLEN)                                     ; Maximum data length
+"RTN","RGUTEDT",49,0)
+ S (RGSAVE,RGDATA)=$E($G(RGDATA),1,RGMAX)                              ; Truncate data if too long
+"RTN","RGUTEDT",50,0)
+ D RM^RGUTOS(0)
+"RTN","RGUTEDT",51,0)
+ X ^%ZOSF("EOFF")
+"RTN","RGUTEDT",52,0)
+ F  Q:RGDATA'[RGTAB  S RGZ=$P(RGDATA,RGTAB),RGDATA=RGZ_$J("",8-($L(RGZ)#8))_$P(RGDATA,RGTAB,2,999)
+"RTN","RGUTEDT",53,0)
+RESTART D RESET
+"RTN","RGUTEDT",54,0)
+AGAIN F RGQUIT=0:0 Q:RGQUIT  D NXT S RGAE=0
+"RTN","RGUTEDT",55,0)
+ X ^%ZOSF("EON")
+"RTN","RGUTEDT",56,0)
+ W $$XY^RGUT(RGX,RGY),$S(RGOPT["R":RGRVOFF,1:"")
+"RTN","RGUTEDT",57,0)
+ I RGDISV'="" Q:"^^"[RGDATA RGDATA S:RGDATA=" " RGDATA=$G(^DISV(DUZ,RGDISV))
+"RTN","RGUTEDT",58,0)
+ S:RGDISV'="" ^DISV(DUZ,RGDISV)=RGDATA
+"RTN","RGUTEDT",59,0)
+ Q RGDATA                                                              ; Return to calling routine
+"RTN","RGUTEDT",60,0)
+NXT D POSCUR()                                                            ; Position cursor
+"RTN","RGUTEDT",61,0)
+ R *RGC:DTIME                                                          ; Next character typed
+"RTN","RGUTEDT",62,0)
+ I RGC=27 D ESC Q:'RGC
+"RTN","RGUTEDT",63,0)
+ I RGC<1!(RGABRT[$C(RGC)) S RGDATA=U,RGQUIT=1 Q
+"RTN","RGUTEDT",64,0)
+ I RGTERM[$C(RGC) D TERM Q
+"RTN","RGUTEDT",65,0)
+ I RGC<28 D:RGC'=27 @("CTL"_$C(RGC+64)) Q
+"RTN","RGUTEDT",66,0)
+ I RGC=127!(RGC=240) D CTLH Q
+"RTN","RGUTEDT",67,0)
+ I RGC>64,RGC<91,RGOPT["L" S RGC=RGC+32
+"RTN","RGUTEDT",68,0)
+ E  I RGC>96,RGC<123,RGOPT["U" S RGC=RGC-32
+"RTN","RGUTEDT",69,0)
+ I $L(RGVALD),RGVALD'[$C(RGC) W RGBEL Q
+"RTN","RGUTEDT",70,0)
+ D:RGAE CTLK,POSCUR()                                                  ; Erase buffer if auto erase on
+"RTN","RGUTEDT",71,0)
+ D INSW($C(RGC))
+"RTN","RGUTEDT",72,0)
+ S RGQUIT=RGPOS=RGLEN&(RGOPT["T")
+"RTN","RGUTEDT",73,0)
+ Q
+"RTN","RGUTEDT",74,0)
+CTLA S RGINS='RGINS                                                        ; Toggle insert mode
+"RTN","RGUTEDT",75,0)
+ Q
+"RTN","RGUTEDT",76,0)
+CTLB D MOVETO(0)                                                           ; Move cursor to beginning
+"RTN","RGUTEDT",77,0)
+ Q
+"RTN","RGUTEDT",78,0)
+CTLX S RGDATA=RGSAVE                                                       ; Restore buffer to original
+"RTN","RGUTEDT",79,0)
+ G RESET
+"RTN","RGUTEDT",80,0)
+CTLE D MOVETO($L(RGDATA))                                                  ; Move cursor to end
+"RTN","RGUTEDT",81,0)
+ Q
+"RTN","RGUTEDT",82,0)
+CTLI D INSW($J("",8-(RGPOS#8)))                                            ; Insert expanded tab
+"RTN","RGUTEDT",83,0)
+ Q
+"RTN","RGUTEDT",84,0)
+CTLJ F RGZ=RGPOS:-1:1 Q:$A(RGDATA,RGZ)'=32                                     ; Find previous nonspace
+"RTN","RGUTEDT",85,0)
+ F RGZ=RGZ:-1:1 Q:$A(RGDATA,RGZ)=32                                          ; Find previous space
+"RTN","RGUTEDT",86,0)
+ S RGBUF=$E(RGDATA,RGZ,RGPOS)                                            ; Save deleted portion
+"RTN","RGUTEDT",87,0)
+ S RGDATA=$E(RGDATA,1,RGZ-1)_$E(RGDATA,RGPOS+1,RGLEN)                    ; Remove word
+"RTN","RGUTEDT",88,0)
+ D MOVETO(RGZ-1)
+"RTN","RGUTEDT",89,0)
+ Q
+"RTN","RGUTEDT",90,0)
+CTLK S RGBUF=RGDATA                                                        ; Save buffer
+"RTN","RGUTEDT",91,0)
+ S RGDATA=""                                                           ; Erase buffer
+"RTN","RGUTEDT",92,0)
+ D RESET
+"RTN","RGUTEDT",93,0)
+ Q
+"RTN","RGUTEDT",94,0)
+CTLL S RGBUF=$E(RGDATA,RGPOS+1,RGLEN)                                      ; Save deleted portion
+"RTN","RGUTEDT",95,0)
+ S RGDATA=$E(RGDATA,1,RGPOS)                                           ; Truncate at current position
+"RTN","RGUTEDT",96,0)
+ D DSPLY(RGPOS)
+"RTN","RGUTEDT",97,0)
+ Q
+"RTN","RGUTEDT",98,0)
+CTLM D POSCUR(RGPOS),INSW("~"):RGOPT["C",MOVETO(RGPOS-$X+RGX+RGW)
+"RTN","RGUTEDT",99,0)
+ Q
+"RTN","RGUTEDT",100,0)
+CTLR D INSW(RGBUF)                                                         ; Insert at current position
+"RTN","RGUTEDT",101,0)
+ Q
+"RTN","RGUTEDT",102,0)
+CTLT D CTLL
+"RTN","RGUTEDT",103,0)
+ Q
+"RTN","RGUTEDT",104,0)
+CTLU S RGBUF=$E(RGDATA,1,RGPOS)                                            ; Save deleted portion
+"RTN","RGUTEDT",105,0)
+ S RGDATA=$E(RGDATA,RGPOS+1,RGLEN)                                     ; Remove to left of cursor
+"RTN","RGUTEDT",106,0)
+ D RESET
+"RTN","RGUTEDT",107,0)
+ Q
+"RTN","RGUTEDT",108,0)
+CTLH I 'RGPOS W RGBEL Q
+"RTN","RGUTEDT",109,0)
+ D LEFT
+"RTN","RGUTEDT",110,0)
+CTLD S RGDATA=$E(RGDATA,1,RGPOS)_$E(RGDATA,RGPOS+2,RGMAX)                  ; Delete character to left
+"RTN","RGUTEDT",111,0)
+ D DSPLY(RGPOS,1)
+"RTN","RGUTEDT",112,0)
+ Q
+"RTN","RGUTEDT",113,0)
+TERM S RGQUIT=2
+"RTN","RGUTEDT",114,0)
+ Q
+"RTN","RGUTEDT",115,0)
+ESC R *RGZ:1
+"RTN","RGUTEDT",116,0)
+ R:RGZ>0 *RGZ:1
+"RTN","RGUTEDT",117,0)
+ S RGC=0
+"RTN","RGUTEDT",118,0)
+ G UP:RGZ=65,DOWN:RGZ=66,RIGHT:RGZ=67,LEFT:RGZ=68                              ;Execute code
+"RTN","RGUTEDT",119,0)
+ S RGC=27
+"RTN","RGUTEDT",120,0)
+ Q
+"RTN","RGUTEDT",121,0)
+DSPLY(RGP1,RGP2) ;
+"RTN","RGUTEDT",122,0)
+ Q:'RGEON                                                              ; Refresh buffer display starting at position RGP1
+"RTN","RGUTEDT",123,0)
+ N RGZ,RGZ1
+"RTN","RGUTEDT",124,0)
+ S RGP1=+$G(RGP1,RGLEFT),RGZ=$E(RGDATA,RGP1+1,RGLEFT+RGLEN),RGP2=$S($D(RGP2):RGP2+$L(RGZ),1:RGLEN-RGP1+RGLEFT)
+"RTN","RGUTEDT",125,0)
+ S:RGP2>RGLEN RGP2=RGLEN
+"RTN","RGUTEDT",126,0)
+ S RGZ=RGZ_$J("",RGP2-$L(RGZ))
+"RTN","RGUTEDT",127,0)
+ F  D  Q:RGZ=""
+"RTN","RGUTEDT",128,0)
+ .D POSCUR(RGP1)
+"RTN","RGUTEDT",129,0)
+ .S RGZ1=RGRM-$X
+"RTN","RGUTEDT",130,0)
+ .S:RGZ1<1 RGZ1=1
+"RTN","RGUTEDT",131,0)
+ .W $E(RGZ,1,RGZ1)
+"RTN","RGUTEDT",132,0)
+ .S RGZ=$E(RGZ,RGZ1+1,999),RGP1=RGP1+RGZ1
+"RTN","RGUTEDT",133,0)
+ Q
+"RTN","RGUTEDT",134,0)
+INSW(RGTXT) ;
+"RTN","RGUTEDT",135,0)
+ S:RGPOS>$L(RGDATA) RGDATA=RGDATA_$J("",RGPOS-$L(RGDATA))              ; Pad if past end of buffer
+"RTN","RGUTEDT",136,0)
+ S RGDATA=$E($E(RGDATA,1,RGPOS)_RGTXT_$E(RGDATA,RGPOS+2-RGINS,RGMAX),1,RGMAX)
+"RTN","RGUTEDT",137,0)
+ D DSPLY(RGPOS,0),MOVETO(RGPOS+$L(RGTXT))
+"RTN","RGUTEDT",138,0)
+ Q
+"RTN","RGUTEDT",139,0)
+POSCUR(RGP) ;
+"RTN","RGUTEDT",140,0)
+ N RGZX,RGZY
+"RTN","RGUTEDT",141,0)
+ S RGP=+$G(RGP,RGPOS),RGZX=RGP-RGLEFT,RGZY=RGZX\RGW+RGY,RGZX=RGZX#RGW+RGX
+"RTN","RGUTEDT",142,0)
+ W $$XY^RGUT(RGZX,RGZY)
+"RTN","RGUTEDT",143,0)
+ Q
+"RTN","RGUTEDT",144,0)
+MOVETO(RGP) ;
+"RTN","RGUTEDT",145,0)
+ I RGP>RGMAX!(RGP<0) W RGBEL Q
+"RTN","RGUTEDT",146,0)
+ S RGPOS=RGP,RGP=RGLEFT
+"RTN","RGUTEDT",147,0)
+ S:RGPOS<RGLEFT RGLEFT=RGPOS-RGW-1
+"RTN","RGUTEDT",148,0)
+ S:RGLEFT+RGLEN<RGPOS RGLEFT=RGPOS-RGW+1
+"RTN","RGUTEDT",149,0)
+ S:RGLEFT'<RGMAX RGLEFT=RGMAX-RGW
+"RTN","RGUTEDT",150,0)
+ S:RGLEFT<0 RGLEFT=0
+"RTN","RGUTEDT",151,0)
+ D DSPLY():RGLEFT'=RGP,POSCUR()
+"RTN","RGUTEDT",152,0)
+ Q
+"RTN","RGUTEDT",153,0)
+UP I RGOPT["V" S RGQUIT=3
+"RTN","RGUTEDT",154,0)
+ E  D MOVETO(RGPOS-RGW)
+"RTN","RGUTEDT",155,0)
+ Q
+"RTN","RGUTEDT",156,0)
+DOWN I RGOPT["V" S RGQUIT=4
+"RTN","RGUTEDT",157,0)
+ E  D MOVETO(RGPOS+RGW)
+"RTN","RGUTEDT",158,0)
+ Q
+"RTN","RGUTEDT",159,0)
+RIGHT D MOVETO(RGPOS+1)
+"RTN","RGUTEDT",160,0)
+ Q
+"RTN","RGUTEDT",161,0)
+LEFT D MOVETO(RGPOS-1)
+"RTN","RGUTEDT",162,0)
+ Q
+"RTN","RGUTEDT",163,0)
+RESET W $S(RGOPT["R":RGRVON,1:RGRVOFF)
+"RTN","RGUTEDT",164,0)
+ S (RGPOS,RGLEFT)=0                                                    ; Current edit offset
+"RTN","RGUTEDT",165,0)
+ D DSPLY()                                                             ; Refresh display
+"RTN","RGUTEDT",166,0)
+ Q
+"RTN","RGUTHFS")
+0^61^B5078426
+"RTN","RGUTHFS",1,0)
+RGUTHFS ;RI/CBMI/DKM - Host IO Support ;03-Mar-2015 14:24;DKM
+"RTN","RGUTHFS",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTHFS",3,0)
+ ;;
+"RTN","RGUTHFS",4,0)
+ ;=================================================================
+"RTN","RGUTHFS",5,0)
+ ; Capture output to HFS and optionally redirect to global
+"RTN","RGUTHFS",6,0)
+ ;   EXEC = Code to execute
+"RTN","RGUTHFS",7,0)
+ ;   ROOT = Global root to receive output (or null to leave in HFS)
+"RTN","RGUTHFS",8,0)
+ ;   RM   = Right margin setting (defaults to 80)
+"RTN","RGUTHFS",9,0)
+CAPTURE(EXEC,ROOT,RM) ;EP
+"RTN","RGUTHFS",10,0)
+ N UFN,HNDL,TMP,IOM,IOSL,IOST,IOF,IOT,IOS,$ET
+"RTN","RGUTHFS",11,0)
+ S $ET="",UFN=$$UFN^RGUT,TMP=$$DEFDIR^RGUTOS,HNDL="RGUTHFS",@$$TRAP^RGUTOS("ERR^RGUTHFS")
+"RTN","RGUTHFS",12,0)
+ S:$L($G(ROOT)) ROOT=$NA(@ROOT)
+"RTN","RGUTHFS",13,0)
+ D OPEN^%ZISH(HNDL,TMP,UFN,"W")
+"RTN","RGUTHFS",14,0)
+ D:'POP IOVAR(.RM),EXEC,HFSCLOSE(HNDL,UFN)
+"RTN","RGUTHFS",15,0)
+ Q:$Q TMP_UFN
+"RTN","RGUTHFS",16,0)
+ Q
+"RTN","RGUTHFS",17,0)
+EXEC X EXEC
+"RTN","RGUTHFS",18,0)
+ Q
+"RTN","RGUTHFS",19,0)
+ ; Error trap
+"RTN","RGUTHFS",20,0)
+ERR D @^%ZOSF("ERRTN"),HFSCLOSE(HNDL,UFN,1)
+"RTN","RGUTHFS",21,0)
+ Q:$Q ""
+"RTN","RGUTHFS",22,0)
+ Q
+"RTN","RGUTHFS",23,0)
+ ; Setup IO variables based on IO Device
+"RTN","RGUTHFS",24,0)
+IOVAR(XIOM,XIO,XIOSL,XIOST,XIOF,XIOT) ;
+"RTN","RGUTHFS",25,0)
+ N X
+"RTN","RGUTHFS",26,0)
+ S ION=$G(XIO,"RGUT HFS DEVICE"),IOS=+$O(^%ZIS(1,"B",ION,0)),IOM=80,IOSL=62,IOST=$G(XIOST,"P-OTHER"),IOF=$G(XIOF,""""""),IOT=$G(XIOT,"HFS")
+"RTN","RGUTHFS",27,0)
+ S:$D(^%ZIS(1,IOS,0)) IOST(0)=+$G(^("SUBTYPE")),IOT=$G(^("TYPE"),IOT),IOST=$P($G(^%ZIS(2,IOST(0),0),IOST),U)
+"RTN","RGUTHFS",28,0)
+ S X=$O(^%ZIS(2,"B",IOST,0))
+"RTN","RGUTHFS",29,0)
+ S:X IOST(0)=X,X=$G(^%ZIS(2,X,1)),IOM=$P(X,U),IOF=$P(X,U,2),IOSL=$P(X,U,3)
+"RTN","RGUTHFS",30,0)
+ S:$G(XIOM) IOM=XIOM
+"RTN","RGUTHFS",31,0)
+ S:$G(XIOSL) IOSL=XIOSL
+"RTN","RGUTHFS",32,0)
+ U IO
+"RTN","RGUTHFS",33,0)
+ Q
+"RTN","RGUTHFS",34,0)
+ ; Move HFS data to global (if ROOT specified) and cleanup
+"RTN","RGUTHFS",35,0)
+HFSCLOSE(HNDL,UFN,BAD) ;
+"RTN","RGUTHFS",36,0)
+ N DEL
+"RTN","RGUTHFS",37,0)
+ D GETDEV^%ZISUTL(HNDL)
+"RTN","RGUTHFS",38,0)
+ I IOT="HFS" D
+"RTN","RGUTHFS",39,0)
+ .D CLOSE^%ZISH(HNDL)
+"RTN","RGUTHFS",40,0)
+ E  D RMDEV^%ZISUTL(HNDL)
+"RTN","RGUTHFS",41,0)
+ Q:'$L($G(ROOT))
+"RTN","RGUTHFS",42,0)
+ K @ROOT
+"RTN","RGUTHFS",43,0)
+ I '$G(BAD),$$FTG^%ZISH($$DEFDIR^RGUTOS,UFN,$NA(@ROOT@(1)),$QL(ROOT)+1) D STRIP
+"RTN","RGUTHFS",44,0)
+ S DEL(UFN)=""
+"RTN","RGUTHFS",45,0)
+ I $$DEL^%ZISH($$DEFDIR^RGUTOS,"DEL")
+"RTN","RGUTHFS",46,0)
+ Q
+"RTN","RGUTHFS",47,0)
+ ; Strip off control chars and remove leading/trailing blank lines
+"RTN","RGUTHFS",48,0)
+STRIP N I,J,K,X
+"RTN","RGUTHFS",49,0)
+ S (I,J)=0
+"RTN","RGUTHFS",50,0)
+ F  S I=$O(@ROOT@(I)) Q:'I  S X=@ROOT@(I) D  S @ROOT@(I)=X
+"RTN","RGUTHFS",51,0)
+ .I X[$C(8),$L(X,$C(8))=$L(X,$C(95)) S X=$TR(X,$C(7,8,12,95))
+"RTN","RGUTHFS",52,0)
+ .E  S X=$TR(X,$C(7,8,12))
+"RTN","RGUTHFS",53,0)
+ .S:$L(X) J=I,K=$G(K,J)
+"RTN","RGUTHFS",54,0)
+ I $D(K) F  S I=$O(@ROOT@(I)) Q:I=K  K @ROOT@(I)
+"RTN","RGUTHFS",55,0)
+ F  S J=$O(@ROOT@(J)) Q:'J  K @ROOT@(J)
+"RTN","RGUTHFS",56,0)
+ Q
+"RTN","RGUTIMP")
+0^44^B10992396
+"RTN","RGUTIMP",1,0)
+RGUTIMP ;RI/CBMI/DKM - Import text into FileMan file;03-Mar-2015 14:24;DKM
+"RTN","RGUTIMP",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTIMP",3,0)
+ ;;
+"RTN","RGUTIMP",4,0)
+ ;=================================================================
+"RTN","RGUTIMP",5,0)
+ ; Imports data from a specially formatted text file into a
+"RTN","RGUTIMP",6,0)
+ ; FileMan file.
+"RTN","RGUTIMP",7,0)
+ ; Inputs:
+"RTN","RGUTIMP",8,0)
+ ;   RGINP  = Full input file or global specification.
+"RTN","RGUTIMP",9,0)
+ ;   RGTRACE= If nonzero, generates a debug trace.
+"RTN","RGUTIMP",10,0)
+ ; Outputs:
+"RTN","RGUTIMP",11,0)
+ ;   Returns status code^status message.  Status code of 0 means
+"RTN","RGUTIMP",12,0)
+ ;   successful completion.
+"RTN","RGUTIMP",13,0)
+ ;=================================================================
+"RTN","RGUTIMP",14,0)
+ENTRY(RGINP,RGTRACE) ;
+"RTN","RGUTIMP",15,0)
+ N RGLN,RGFN,RGLVL,RGBM,RGC,RGLBL,RGQT,RGST,RGIO,RGGBL
+"RTN","RGUTIMP",16,0)
+ S @$$TRAP^RGUTOS("ERROR^RGUTIMP")
+"RTN","RGUTIMP",17,0)
+ S RGFN=0,RGLVL=-1,RGTRACE=+$G(RGTRACE),RGST=0,RGIO=$I,U="^",RGC=0,RGGBL=$E(RGINP)=U
+"RTN","RGUTIMP",18,0)
+ I RGGBL S RGINP=$$CREF^DILF(RGINP)
+"RTN","RGUTIMP",19,0)
+ E  D OPEN^RGUTOS(.RGINP,"R")
+"RTN","RGUTIMP",20,0)
+ F  Q:$$READ  D  Q:RGST
+"RTN","RGUTIMP",21,0)
+ .U RGIO
+"RTN","RGUTIMP",22,0)
+ .W:RGTRACE=1 RGC,*13
+"RTN","RGUTIMP",23,0)
+ .W:RGTRACE=2 RGC_": ",$$TRUNC^RGUT(RGLN,$G(IOM,80)-$X-2),!
+"RTN","RGUTIMP",24,0)
+ .D DOIT(RGLN)
+"RTN","RGUTIMP",25,0)
+ D:'RGGBL CLOSE^RGUTOS(.RGINP)
+"RTN","RGUTIMP",26,0)
+ Q RGST
+"RTN","RGUTIMP",27,0)
+READ() I 'RGGBL S RGC=RGC+1 Q $$READ^RGUTOS(.RGLN,RGINP)
+"RTN","RGUTIMP",28,0)
+ S RGC=$O(@RGINP@(RGC))
+"RTN","RGUTIMP",29,0)
+ Q:'RGC 1
+"RTN","RGUTIMP",30,0)
+ I $D(@RGINP@(RGC))#2 S RGLN=@RGINP@(RGC) Q 0
+"RTN","RGUTIMP",31,0)
+ I $D(@RGINP@(RGC,0))#2 S RGLN=@RGINP@(RGC,0) Q 0
+"RTN","RGUTIMP",32,0)
+ Q 1
+"RTN","RGUTIMP",33,0)
+ERROR D ERR("Fatal error",$$EC^%ZOSV)
+"RTN","RGUTIMP",34,0)
+ Q RGST
+"RTN","RGUTIMP",35,0)
+DOIT(RGLN) ;
+"RTN","RGUTIMP",36,0)
+ N RGZ,RGL,RGFLD,RGWP
+"RTN","RGUTIMP",37,0)
+ S RGLN=$$TRIM^RGUT(RGLN)
+"RTN","RGUTIMP",38,0)
+ I ";"[$E(RGLN) W:RGTRACE=3 $P(RGLN,";",2,999),! Q
+"RTN","RGUTIMP",39,0)
+ F RGL=0:1 Q:$E(RGLN,RGL+1)'="."
+"RTN","RGUTIMP",40,0)
+ S RGLN=$E(RGLN,RGL+1,999)
+"RTN","RGUTIMP",41,0)
+ I RGLN'[":" D ERR("Missing label",RGLN) Q
+"RTN","RGUTIMP",42,0)
+ S RGLBL=$$TRIM^RGUT($P(RGLN,":")),RGLN=$$TRIM^RGUT($P(RGLN,":",2,999))
+"RTN","RGUTIMP",43,0)
+ I 'RGL S RGFN=$$FILE(RGLN) Q
+"RTN","RGUTIMP",44,0)
+ I RGL>RGLVL D ERR("Invalid nesting",RGLN) Q
+"RTN","RGUTIMP",45,0)
+ S RGLVL=RGL,RGFN=+$P(RGBM(RGLVL),U,4)
+"RTN","RGUTIMP",46,0)
+ S RGFLD=$$FLD(RGLBL,RGFN)
+"RTN","RGUTIMP",47,0)
+ S RGZ=+$P($G(^DD(RGFN,RGFLD,0)),U,2)
+"RTN","RGUTIMP",48,0)
+ I RGZ D  Q:RGST
+"RTN","RGUTIMP",49,0)
+ .S RGLVL=RGLVL+1,RGFN=RGZ,RGBM(RGLVL)=$$ENTRY^RGUTDIC(RGBM(RGLVL-1),"+"_RGFN)
+"RTN","RGUTIMP",50,0)
+ .I +RGBM(RGLVL)<0 D ERR("Error access subfile entry",RGLBL) Q
+"RTN","RGUTIMP",51,0)
+ .S RGFLD=$$FLD(.01,RGFN)
+"RTN","RGUTIMP",52,0)
+ I 'RGFLD D ERR("Unknown field",RGLBL) Q
+"RTN","RGUTIMP",53,0)
+ I 'RGWP,RGLN="" Q
+"RTN","RGUTIMP",54,0)
+ ;S:RGLN="+" RGLN=U_$TR($P(RGBM(RGLVL),U,2),"|",",")_"$C(1))",RGLN=1+$O(@RGLN,-1)\1
+"RTN","RGUTIMP",55,0)
+ I RGFLD=.01!'RGBM(RGLVL)!RGWP D  Q
+"RTN","RGUTIMP",56,0)
+ .I 'RGWP,RGFLD'=.01 D ERR("First field is not primary index",RGLBL) Q
+"RTN","RGUTIMP",57,0)
+ .I 'RGWP D
+"RTN","RGUTIMP",58,0)
+ ..S RGBM(RGLVL)=$$ENTRY^RGUTDIC(RGBM(RGLVL),"="_RGLN)
+"RTN","RGUTIMP",59,0)
+ ..S:+RGBM(RGLVL)'>0 RGBM(RGLVL)=$$ENTRY^RGUTDIC(RGBM(RGLVL),"="_$$UP^XLFSTR(RGLN))
+"RTN","RGUTIMP",60,0)
+ .S:+RGBM(RGLVL)'>0!RGWP RGBM(RGLVL)=$$ENTRY^RGUTDIC(RGBM(RGLVL),$S(RGLN="@"&'RGWP:RGLN,1:"~LX;.01///^S X=RGLN"))
+"RTN","RGUTIMP",61,0)
+ .I +RGBM(RGLVL)'>0,RGLN'="@" D ERR("Error adding entry",RGLN)
+"RTN","RGUTIMP",62,0)
+ S RGBM(RGLVL)=$$ENTRY^RGUTDIC(RGBM(RGLVL),"<;"_RGFLD_"///^S X=RGLN")
+"RTN","RGUTIMP",63,0)
+ D:+RGBM(RGLVL)'>0 ERR("Error writing to field",RGLBL)
+"RTN","RGUTIMP",64,0)
+ Q
+"RTN","RGUTIMP",65,0)
+FILE(RGFN) ;
+"RTN","RGUTIMP",66,0)
+ K RGBM
+"RTN","RGUTIMP",67,0)
+ S RGBM(1)=$$ENTRY^RGUTDIC(RGFN),RGLVL=1
+"RTN","RGUTIMP",68,0)
+ I +RGBM(1)'<0 S RGFN=+$P(RGBM(1),U,4)
+"RTN","RGUTIMP",69,0)
+ E  D ERR("Error accessing database",RGFN)
+"RTN","RGUTIMP",70,0)
+ Q RGFN
+"RTN","RGUTIMP",71,0)
+FLD(RGNM,RGFN) ;
+"RTN","RGUTIMP",72,0)
+ N RGZ
+"RTN","RGUTIMP",73,0)
+ S RGZ=$S(RGNM="":.01,RGNM=+RGNM:RGNM,1:+$O(^DD(RGFN,"B",RGNM,0)))
+"RTN","RGUTIMP",74,0)
+ I '$D(^DD(RGFN,RGZ,0)) S RGZ=0
+"RTN","RGUTIMP",75,0)
+ E  S RGWP=$P(^(0),U,2)["W"
+"RTN","RGUTIMP",76,0)
+ Q RGZ
+"RTN","RGUTIMP",77,0)
+ERR(RGMSG,RGX) ;
+"RTN","RGUTIMP",78,0)
+ S RGST=RGC_U_RGMSG_$S($D(RGX):": "_RGX,1:"")
+"RTN","RGUTIMP",79,0)
+ W:RGTRACE=2 RGC_": "_$P(RGST,U,2,999),!
+"RTN","RGUTIMP",80,0)
+ Q
+"RTN","RGUTIN")
+1^45
+"RTN","RGUTIN0")
+0^46^B1324180
+"RTN","RGUTIN0",1,0)
+RGUTIN0 ;RI/CBMI/DKM - Platform-dependent operations;05-Mar-2015 15:03;DKM
+"RTN","RGUTIN0",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTIN0",3,0)
+ ;;
+"RTN","RGUTIN0",4,0)
+ ;=================================================================
+"RTN","RGUTIN0",5,0)
+ ; Return version #
+"RTN","RGUTIN0",6,0)
+VER() Q $P($T(+2),";",3)
+"RTN","RGUTIN0",7,0)
+CVTFN(RGFIL,RGROOT) ;
+"RTN","RGUTIN0",8,0)
+ N RGZ,RGZ1,RGD
+"RTN","RGUTIN0",9,0)
+ S RGD=$$DIRDLM,RGROOT=$G(RGROOT)
+"RTN","RGUTIN0",10,0)
+ S:$E(RGROOT,$L(RGROOT))=$E(RGD,3) RGROOT=$E(RGROOT,1,$L(RGROOT)-1)
+"RTN","RGUTIN0",11,0)
+ S RGZ=$L(RGFIL,"/"),RGZ1=$P(RGFIL,"/",1,RGZ-1),RGFIL=$P(RGFIL,"/",RGZ)
+"RTN","RGUTIN0",12,0)
+ S:$L(RGZ1) RGROOT=RGROOT_$E(RGD,$S($L(RGROOT):2,1:1))_$TR(RGZ1,"/.-",$E(RGD,2))
+"RTN","RGUTIN0",13,0)
+ Q RGROOT_$S($L(RGROOT):$E(RGD,3),1:"")_RGFIL
+"RTN","RGUTIN0",14,0)
+ ; Set right margin
+"RTN","RGUTIN0",15,0)
+RM(X) ;EP
+"RTN","RGUTIN0",16,0)
+ X ^%ZOSF("RM")
+"RTN","RGUTIN0",17,0)
+ Q
+"RTN","RGUTIN0",18,0)
+ ; Test for tag/routine
+"RTN","RGUTIN0",19,0)
+TEST(X) ;EP
+"RTN","RGUTIN0",20,0)
+ N Z
+"RTN","RGUTIN0",21,0)
+ S:X[U Z=$P(X,U),X=$P(X,U,2)
+"RTN","RGUTIN0",22,0)
+ Q:'$L(X)!(X'?.1"%"1.AN) 0
+"RTN","RGUTIN0",23,0)
+ X ^%ZOSF("TEST")
+"RTN","RGUTIN0",24,0)
+ Q $S('$T:0,$G(Z)="":1,Z'?.1"%"1.AN:0,1:$T(@Z^@X)'="")
+"RTN","RGUTIN0",25,0)
+ETRAP() Q $$NEWERR^%ZTER
+"RTN","RGUTIN0",26,0)
+ ; Open a host file
+"RTN","RGUTIN0",27,0)
+OPENX(X1,X2) ;EP
+"RTN","RGUTIN0",28,0)
+ D OPEN(.X1,.X2)
+"RTN","RGUTIN0",29,0)
+ Q X1
+"RTN","RGUTIN16")
+0^47^B4251434
+"RTN","RGUTIN16",1,0)
+RGUTIN16 ;RI/CBMI/DKM - Inits for VMS;05-Mar-2015 15:03;DKM
+"RTN","RGUTIN16",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTIN16",3,0)
+ ;;
+"RTN","RGUTIN16",4,0)
+ ;=================================================================
+"RTN","RGUTIN16",5,0)
+ ; Open a host file
+"RTN","RGUTIN16",6,0)
+OPEN(X1,X2) ;EP
+"RTN","RGUTIN16",7,0)
+ N Z
+"RTN","RGUTIN16",8,0)
+ S Z="X1"_$S("Rr"[$G(X2):":READONLY:0","Ww"[X2:":(NEWVERSION,RECORDSIZE=65535)","Bb"[X2:":(READONLY,BLOCKSIZE=0)",1:"")
+"RTN","RGUTIN16",9,0)
+ O @Z
+"RTN","RGUTIN16",10,0)
+ U X1
+"RTN","RGUTIN16",11,0)
+ S ^TMP("RGUTHFS",$J,X1)=""
+"RTN","RGUTIN16",12,0)
+ Q
+"RTN","RGUTIN16",13,0)
+ ; Close a host file
+"RTN","RGUTIN16",14,0)
+CLOSE(X) ;EP
+"RTN","RGUTIN16",15,0)
+ C X
+"RTN","RGUTIN16",16,0)
+ K ^TMP("RGUTHFS",$J,X)
+"RTN","RGUTIN16",17,0)
+ Q
+"RTN","RGUTIN16",18,0)
+ ; Close all open host files
+"RTN","RGUTIN16",19,0)
+CLOSEALL ;EP
+"RTN","RGUTIN16",20,0)
+ N Z
+"RTN","RGUTIN16",21,0)
+ S Z=""
+"RTN","RGUTIN16",22,0)
+ F  S Z=$O(^TMP("RGUTHFS",$J,Z)) Q:Z=""  C Z
+"RTN","RGUTIN16",23,0)
+ K ^TMP("RGUTHFS",$J)
+"RTN","RGUTIN16",24,0)
+ Q
+"RTN","RGUTIN16",25,0)
+EOF U $I:TRAP
+"RTN","RGUTIN16",26,0)
+ Q
+"RTN","RGUTIN16",27,0)
+EOFERR() Q $ZE["ENDOFILE"
+"RTN","RGUTIN16",28,0)
+ ; Read a line of data
+"RTN","RGUTIN16",29,0)
+READ(X,Y) ;EP
+"RTN","RGUTIN16",30,0)
+ U $G(Y,$I):NOTRAP
+"RTN","RGUTIN16",31,0)
+ R X:5
+"RTN","RGUTIN16",32,0)
+ Q $S($T:$ZA=-1,1:1)
+"RTN","RGUTIN16",33,0)
+ ; Delete a host file
+"RTN","RGUTIN16",34,0)
+DELETE(X) ;EP
+"RTN","RGUTIN16",35,0)
+ O X::0
+"RTN","RGUTIN16",36,0)
+ C X:DELETE
+"RTN","RGUTIN16",37,0)
+ Q
+"RTN","RGUTIN16",38,0)
+ ; Rename a host file
+"RTN","RGUTIN16",39,0)
+RENAME(X1,X2) ;EP
+"RTN","RGUTIN16",40,0)
+ O X1:READONLY:0
+"RTN","RGUTIN16",41,0)
+ C X1:RENAME=X2
+"RTN","RGUTIN16",42,0)
+ Q
+"RTN","RGUTIN16",43,0)
+ ; Return directory of files
+"RTN","RGUTIN16",44,0)
+DIR(X1,X2,X3) ;EP
+"RTN","RGUTIN16",45,0)
+ N Z,Z1
+"RTN","RGUTIN16",46,0)
+ S $ZT="DIRX^RGUTOS",X3=$G(X3,"^UTILITY(""DIR"",$J)")
+"RTN","RGUTIN16",47,0)
+ K @X3
+"RTN","RGUTIN16",48,0)
+ S:'$G(X2) X2=9999999999
+"RTN","RGUTIN16",49,0)
+ F Z=1:1:X2 S Z1=$ZSEARCH(X1),X1="" Q:Z1=""  S @X3@($P(Z1,"]",2))=""
+"RTN","RGUTIN16",50,0)
+DIRX Q
+"RTN","RGUTIN16",51,0)
+ ; Return default working directory
+"RTN","RGUTIN16",52,0)
+DEFDIR(X) ;EP
+"RTN","RGUTIN16",53,0)
+ Q $G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
+"RTN","RGUTIN16",54,0)
+ ; Return path delimiters
+"RTN","RGUTIN16",55,0)
+DIRDLM() ;EP
+"RTN","RGUTIN16",56,0)
+ Q "[.]"
+"RTN","RGUTIN16",57,0)
+ ; Parse current error
+"RTN","RGUTIN16",58,0)
+ERR(X1,X2,X3) ;EP
+"RTN","RGUTIN16",59,0)
+ S X1=$P($P($ZE,", ",2),"-",3),X2=$P($P($ZE,", "),":"),X3=$P($ZE,", ",$S(X1="ZTRAP":4,1:3))
+"RTN","RGUTIN16",60,0)
+ Q
+"RTN","RGUTIN16",61,0)
+ ; Raise an exception
+"RTN","RGUTIN16",62,0)
+RAISE(X) ;EP
+"RTN","RGUTIN16",63,0)
+ ZT $G(X)
+"RTN","RGUTIN16",64,0)
+ ; Set error trap
+"RTN","RGUTIN16",65,0)
+TRAP(X) ;EP
+"RTN","RGUTIN16",66,0)
+ Q "$ZT="""_$G(X)_""""
+"RTN","RGUTIN16",67,0)
+ ; Return size of a file
+"RTN","RGUTIN16",68,0)
+SIZE(X) ;EP
+"RTN","RGUTIN16",69,0)
+ Q $ZC(%GETFILE,X,"BLS")*$ZC(%GETFILE,X,"EOF")
+"RTN","RGUTIN16",70,0)
+ ; Return free disk space
+"RTN","RGUTIN16",71,0)
+FREE(X) ;EP
+"RTN","RGUTIN16",72,0)
+ Q $ZC(%GETDVI,X,"FREEBLOCKS")/2048
+"RTN","RGUTIN16",73,0)
+ ; Return host ip address
+"RTN","RGUTIN16",74,0)
+HOSTIP() ;EP
+"RTN","RGUTIN16",75,0)
+ Q ""
+"RTN","RGUTIN16",76,0)
+ ; Return host name
+"RTN","RGUTIN16",77,0)
+HOSTNAME() ;EP
+"RTN","RGUTIN16",78,0)
+ Q ""
+"RTN","RGUTIN16",79,0)
+ ; Return client ip address
+"RTN","RGUTIN16",80,0)
+CLIENTIP() ;EP
+"RTN","RGUTIN16",81,0)
+ N IP,$ET
+"RTN","RGUTIN16",82,0)
+ S $ET="S $EC=""""",IP=$&%UCXGETPEER
+"RTN","RGUTIN16",83,0)
+ Q $A(IP,1)_"."_$A(IP,2)_"."_$A(IP,3)_"."_$A(IP,4)
+"RTN","RGUTIN18")
+0^48^B4464090
+"RTN","RGUTIN18",1,0)
+RGUTIN18 ;RI/CBMI/DKM - Inits for Cache (Windows);05-Mar-2015 15:03;DKM
+"RTN","RGUTIN18",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTIN18",3,0)
+ ;;
+"RTN","RGUTIN18",4,0)
+ ;=================================================================
+"RTN","RGUTIN18",5,0)
+ ; Open a host file
+"RTN","RGUTIN18",6,0)
+OPEN(X1,X2) ;EP
+"RTN","RGUTIN18",7,0)
+ O X1:$S("Rr"[$G(X2):"RS","Ww"[X2:"WNS","Bb"[X2:"RF",1:""):0
+"RTN","RGUTIN18",8,0)
+ E  ZT "NOPEN"
+"RTN","RGUTIN18",9,0)
+ U X1
+"RTN","RGUTIN18",10,0)
+ S ^TMP("RGUTHFS",$J,X1)=""
+"RTN","RGUTIN18",11,0)
+ Q
+"RTN","RGUTIN18",12,0)
+ ; Close a host file
+"RTN","RGUTIN18",13,0)
+CLOSE(X) ;EP
+"RTN","RGUTIN18",14,0)
+ C X
+"RTN","RGUTIN18",15,0)
+ K ^TMP("RGUTHFS",$J,X)
+"RTN","RGUTIN18",16,0)
+ Q
+"RTN","RGUTIN18",17,0)
+ ; Close all host files
+"RTN","RGUTIN18",18,0)
+CLOSEALL ;EP
+"RTN","RGUTIN18",19,0)
+ N Z
+"RTN","RGUTIN18",20,0)
+ S Z=""
+"RTN","RGUTIN18",21,0)
+ F  S Z=$O(^TMP("RGUTHFS",$J,Z)) Q:Z=""  C Z
+"RTN","RGUTIN18",22,0)
+ K ^TMP("RGUTHFS",$J)
+"RTN","RGUTIN18",23,0)
+ Q
+"RTN","RGUTIN18",24,0)
+EOF ZT:$ZA=-1 "ENDOFFILE"
+"RTN","RGUTIN18",25,0)
+ Q
+"RTN","RGUTIN18",26,0)
+EOFERR() Q:$ZE["ENDOFFILE"
+"RTN","RGUTIN18",27,0)
+ ; Read line of data
+"RTN","RGUTIN18",28,0)
+READ(X,Y) ;EP
+"RTN","RGUTIN18",29,0)
+ N $ET
+"RTN","RGUTIN18",30,0)
+ S $ET="",$ZT="READX^RGUTOS"
+"RTN","RGUTIN18",31,0)
+ U $G(Y,$I)
+"RTN","RGUTIN18",32,0)
+ Q:$ZEOF 1
+"RTN","RGUTIN18",33,0)
+ R X:5
+"RTN","RGUTIN18",34,0)
+ Q:$T 0
+"RTN","RGUTIN18",35,0)
+READX Q 1
+"RTN","RGUTIN18",36,0)
+ ; Delete a host file
+"RTN","RGUTIN18",37,0)
+DELETE(X) ;EP
+"RTN","RGUTIN18",38,0)
+ S X=$ZF(-1,"del """_X_"""")
+"RTN","RGUTIN18",39,0)
+ Q
+"RTN","RGUTIN18",40,0)
+ ; Rename a host file
+"RTN","RGUTIN18",41,0)
+RENAME(X1,X2) ;EP
+"RTN","RGUTIN18",42,0)
+ S X1=$ZF(-1,"ren """_X1_""" """_X2_"""")
+"RTN","RGUTIN18",43,0)
+ Q
+"RTN","RGUTIN18",44,0)
+ ; Return directory of files
+"RTN","RGUTIN18",45,0)
+DIR(X1,X2,X3) ;EP
+"RTN","RGUTIN18",46,0)
+ N Z,Z1,FDLM
+"RTN","RGUTIN18",47,0)
+ S FDLM=$E($$DIRDLM,1)
+"RTN","RGUTIN18",48,0)
+ S X3=$G(X3,$NA(^UTILITY("DIR",$J)))
+"RTN","RGUTIN18",49,0)
+ K @X3
+"RTN","RGUTIN18",50,0)
+ S:'$G(X2) X2=9999999999
+"RTN","RGUTIN18",51,0)
+ F Z=1:1:X2 S Z1=$ZSEARCH(X1),X1="" Q:Z1=""  D
+"RTN","RGUTIN18",52,0)
+ .S Z1=$P(Z1,FDLM,$L(Z1,FDLM))
+"RTN","RGUTIN18",53,0)
+ .S:$TR(Z1,".")'="" @X3@(Z1)=""
+"RTN","RGUTIN18",54,0)
+ Q
+"RTN","RGUTIN18",55,0)
+ ; Return path delimiters
+"RTN","RGUTIN18",56,0)
+DIRDLM() ;EP
+"RTN","RGUTIN18",57,0)
+ Q "\\\"
+"RTN","RGUTIN18",58,0)
+ ; Return default working directory
+"RTN","RGUTIN18",59,0)
+DEFDIR(X) ;EP
+"RTN","RGUTIN18",60,0)
+ N FDLM
+"RTN","RGUTIN18",61,0)
+ S FDLM=$E($$DIRDLM,1)
+"RTN","RGUTIN18",62,0)
+ S X=$G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
+"RTN","RGUTIN18",63,0)
+ S:$E(X,$L(X))'=FDLM X=X_FDLM
+"RTN","RGUTIN18",64,0)
+ Q X
+"RTN","RGUTIN18",65,0)
+ ; Parse current error
+"RTN","RGUTIN18",66,0)
+ERR(X1,X2,X3) ;EP
+"RTN","RGUTIN18",67,0)
+ S X1=$E($P($ZE,">"),2,99),X2=$P($P($ZE,">",2),":"),X3=X1
+"RTN","RGUTIN18",68,0)
+ S:X2["*" X2=""
+"RTN","RGUTIN18",69,0)
+ S:$E(X1)="Z" X3=$E(X1,2,99),X1="ZTRAP"
+"RTN","RGUTIN18",70,0)
+ Q
+"RTN","RGUTIN18",71,0)
+ ; Raise an exception
+"RTN","RGUTIN18",72,0)
+RAISE(X) ;EP
+"RTN","RGUTIN18",73,0)
+ ZT $G(X)
+"RTN","RGUTIN18",74,0)
+ ; Set error trap
+"RTN","RGUTIN18",75,0)
+TRAP(X) ;EP
+"RTN","RGUTIN18",76,0)
+ Q "$ZT="""_$G(X)_""""
+"RTN","RGUTIN18",77,0)
+ ; Return size of file
+"RTN","RGUTIN18",78,0)
+SIZE(X) ;EP
+"RTN","RGUTIN18",79,0)
+ Q 0
+"RTN","RGUTIN18",80,0)
+ ; Return free disk space
+"RTN","RGUTIN18",81,0)
+FREE(X) ;EP
+"RTN","RGUTIN18",82,0)
+ Q 0
+"RTN","RGUTIN18",83,0)
+ ; Return host ip address
+"RTN","RGUTIN18",84,0)
+HOSTIP() ;EP
+"RTN","RGUTIN18",85,0)
+ Q $P($P($ZU(131,1),","),":",2)
+"RTN","RGUTIN18",86,0)
+ ; Return host name
+"RTN","RGUTIN18",87,0)
+HOSTNAME() ;EP
+"RTN","RGUTIN18",88,0)
+ Q $P($P($ZU(131,1),","),":")
+"RTN","RGUTIN18",89,0)
+ ; Return client ip address
+"RTN","RGUTIN18",90,0)
+CLIENTIP() ;EP
+"RTN","RGUTIN18",91,0)
+ N IP,$ET
+"RTN","RGUTIN18",92,0)
+ S $ET="S $EC=""""",IP=$ZU(111,0)
+"RTN","RGUTIN18",93,0)
+ Q $A(IP,1)_"."_$A(IP,2)_"."_$A(IP,3)_"."_$A(IP,4)
+"RTN","RGUTIN19")
+0^88^B4063150
+"RTN","RGUTIN19",1,0)
+RGUTIN19 ;RI/CBMI/DKM - Inits for GT.M (Unix);06-Mar-2015 08:46;DKM
+"RTN","RGUTIN19",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTIN19",3,0)
+ ;;
+"RTN","RGUTIN19",4,0)
+ ;=================================================================
+"RTN","RGUTIN19",5,0)
+ ; Open a host file
+"RTN","RGUTIN19",6,0)
+OPEN(X1,X2) ;EP
+"RTN","RGUTIN19",7,0)
+ O X1:@($S("Rr"[$G(X2):"readonly","Ww"[X2:"newversion","Bb"[X2:"stream",1:""))
+"RTN","RGUTIN19",8,0)
+ U X1
+"RTN","RGUTIN19",9,0)
+ S ^TMP("RGUTHFS",$J,X1)=""
+"RTN","RGUTIN19",10,0)
+ Q
+"RTN","RGUTIN19",11,0)
+ ; Close a host file
+"RTN","RGUTIN19",12,0)
+CLOSE(X) ;EP
+"RTN","RGUTIN19",13,0)
+ C X
+"RTN","RGUTIN19",14,0)
+ K ^TMP("RGUTHFS",$J,X)
+"RTN","RGUTIN19",15,0)
+ Q
+"RTN","RGUTIN19",16,0)
+ ; Close all open host files
+"RTN","RGUTIN19",17,0)
+CLOSEALL ;EP
+"RTN","RGUTIN19",18,0)
+ N Z
+"RTN","RGUTIN19",19,0)
+ S Z=""
+"RTN","RGUTIN19",20,0)
+ F  S Z=$O(^TMP("RGUTHFS",$J,Z)) Q:Z=""  C Z
+"RTN","RGUTIN19",21,0)
+ K ^TMP("RGUTHFS",$J)
+"RTN","RGUTIN19",22,0)
+ Q
+"RTN","RGUTIN19",23,0)
+EOF ZM:$ZEOF 150340312
+"RTN","RGUTIN19",24,0)
+ Q
+"RTN","RGUTIN19",25,0)
+EOFERR() Q $ZT["IOEOF"
+"RTN","RGUTIN19",26,0)
+ ; Read a line of data
+"RTN","RGUTIN19",27,0)
+READ(X,Y) ;EP
+"RTN","RGUTIN19",28,0)
+ N $ET
+"RTN","RGUTIN19",29,0)
+ S $ET="",$ZT="G READX"
+"RTN","RGUTIN19",30,0)
+ U $G(Y,$I)
+"RTN","RGUTIN19",31,0)
+ Q:$ZEOF 1
+"RTN","RGUTIN19",32,0)
+ R X:5
+"RTN","RGUTIN19",33,0)
+ Q:$T 0
+"RTN","RGUTIN19",34,0)
+READX Q 1
+"RTN","RGUTIN19",35,0)
+ ; Delete a host file
+"RTN","RGUTIN19",36,0)
+DELETE(X) ;EP
+"RTN","RGUTIN19",37,0)
+ O X:(exception="G DELX")
+"RTN","RGUTIN19",38,0)
+ C X:(delete)
+"RTN","RGUTIN19",39,0)
+DELX Q
+"RTN","RGUTIN19",40,0)
+ ; Rename a host file
+"RTN","RGUTIN19",41,0)
+RENAME(X1,X2) ;EP
+"RTN","RGUTIN19",42,0)
+ O X1
+"RTN","RGUTIN19",43,0)
+ C X1:(rename=X2)
+"RTN","RGUTIN19",44,0)
+ Q
+"RTN","RGUTIN19",45,0)
+ ; Generate directory listing
+"RTN","RGUTIN19",46,0)
+DIR(X1,X2,X3) ;EP
+"RTN","RGUTIN19",47,0)
+ N Z,Z1,FDLM
+"RTN","RGUTIN19",48,0)
+ S FDLM=$E($$DIRDLM,1)
+"RTN","RGUTIN19",49,0)
+ S X3=$G(X3,$NA(^UTILITY("DIR",$J)))
+"RTN","RGUTIN19",50,0)
+ K @X3
+"RTN","RGUTIN19",51,0)
+ S:'$G(X2) X2=99999999
+"RTN","RGUTIN19",52,0)
+ F Z=1:1:X2 S Z1=$ZSEARCH(X1) Q:Z1=""  D
+"RTN","RGUTIN19",53,0)
+ .S Z1=$ZPARSE(Z1,"NAME")_$ZPARSE(Z1,"TYPE")
+"RTN","RGUTIN19",54,0)
+ .S:$TR(Z1,".")'="" @X3@(Z1)=""
+"RTN","RGUTIN19",55,0)
+ Q
+"RTN","RGUTIN19",56,0)
+ ; Return path delimiters
+"RTN","RGUTIN19",57,0)
+DIRDLM() ;EP
+"RTN","RGUTIN19",58,0)
+ Q "///"
+"RTN","RGUTIN19",59,0)
+ ; Return default working directory
+"RTN","RGUTIN19",60,0)
+DEFDIR(X) ;EP
+"RTN","RGUTIN19",61,0)
+ N FDLM
+"RTN","RGUTIN19",62,0)
+ S FDLM=$E($$DIRDLM,1)
+"RTN","RGUTIN19",63,0)
+ S X=$G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
+"RTN","RGUTIN19",64,0)
+ S:$E(X,$L(X))'=FDLM X=X_FDLM
+"RTN","RGUTIN19",65,0)
+ Q X
+"RTN","RGUTIN19",66,0)
+ ; Parse current error
+"RTN","RGUTIN19",67,0)
+ERR(X1,X2,X3) ;EP
+"RTN","RGUTIN19",68,0)
+ S X1=$ZSTATUS,X2=$P(X1,",",2),X3=$P(X1,",",4),X1=$P($P(X1,",",3),"-",3)
+"RTN","RGUTIN19",69,0)
+ Q
+"RTN","RGUTIN19",70,0)
+ ; Raise an exception
+"RTN","RGUTIN19",71,0)
+RAISE(X) ;EP
+"RTN","RGUTIN19",72,0)
+ ZM 150342768:$G(X)
+"RTN","RGUTIN19",73,0)
+ ; Set error trap
+"RTN","RGUTIN19",74,0)
+TRAP(X) ;EP
+"RTN","RGUTIN19",75,0)
+ S $ZYERROR="ZTRAP^RGUTOS"
+"RTN","RGUTIN19",76,0)
+ Q "$ZT="""_$S($D(X):"G "_X,1:"")_""""
+"RTN","RGUTIN19",77,0)
+ZTRAP S $ZE=$ZSTATUS
+"RTN","RGUTIN19",78,0)
+ Q
+"RTN","RGUTIN19",79,0)
+ ; Return size of a file
+"RTN","RGUTIN19",80,0)
+SIZE(X) ;EP
+"RTN","RGUTIN19",81,0)
+ Q 0
+"RTN","RGUTIN19",82,0)
+ ; Return free disk space
+"RTN","RGUTIN19",83,0)
+FREE(X) ;EP
+"RTN","RGUTIN19",84,0)
+ Q 0
+"RTN","RGUTIN19",85,0)
+ ; Return host ip address
+"RTN","RGUTIN19",86,0)
+HOSTIP() ;EP
+"RTN","RGUTIN19",87,0)
+ Q ""
+"RTN","RGUTIN19",88,0)
+ ; Return host name
+"RTN","RGUTIN19",89,0)
+HOSTNAME() ;EP
+"RTN","RGUTIN19",90,0)
+ Q ""
+"RTN","RGUTIN19",91,0)
+ ; Return client ip address
+"RTN","RGUTIN19",92,0)
+CLIENTIP() ;EP
+"RTN","RGUTIN19",93,0)
+ Q ""
+"RTN","RGUTIN58")
+0^70^B5514558
+"RTN","RGUTIN58",1,0)
+RGUTIN58 ;RI/CBMI/DKM/PLS - Inits for MSM-UNIX;05-Mar-2015 15:03;DKM
+"RTN","RGUTIN58",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTIN58",3,0)
+ ;;
+"RTN","RGUTIN58",4,0)
+ ;=================================================================
+"RTN","RGUTIN58",5,0)
+ ; Open a host file
+"RTN","RGUTIN58",6,0)
+OPEN(X1,X2) ;EP
+"RTN","RGUTIN58",7,0)
+ N Z
+"RTN","RGUTIN58",8,0)
+ S X2=$G(X2,"R")
+"RTN","RGUTIN58",9,0)
+ F Z=51:1:55 I '$D(^TMP("RGUTHFS",$J,Z)) D  Q
+"RTN","RGUTIN58",10,0)
+ .ZT:Z=55 "TMOF"
+"RTN","RGUTIN58",11,0)
+ .O Z:(X1:$S("RrWw"[X2:X2,1:"R")::::$S("Bb"[X2:"",1:$C(10)))
+"RTN","RGUTIN58",12,0)
+ .U Z
+"RTN","RGUTIN58",13,0)
+ .ZT:$ZA "OPEN"
+"RTN","RGUTIN58",14,0)
+ .S ^TMP("RGUTHFS",$J,Z)=X1,X1=Z
+"RTN","RGUTIN58",15,0)
+ Q
+"RTN","RGUTIN58",16,0)
+ ; Close a host file
+"RTN","RGUTIN58",17,0)
+CLOSE(X) ;EP
+"RTN","RGUTIN58",18,0)
+ N Z
+"RTN","RGUTIN58",19,0)
+ S Z=X,X=$G(^TMP("RGUTHFS",$J,X))
+"RTN","RGUTIN58",20,0)
+ K ^(Z)
+"RTN","RGUTIN58",21,0)
+ C Z
+"RTN","RGUTIN58",22,0)
+ Q
+"RTN","RGUTIN58",23,0)
+ ; Close all open host files
+"RTN","RGUTIN58",24,0)
+CLOSEALL ;EP
+"RTN","RGUTIN58",25,0)
+ N Z
+"RTN","RGUTIN58",26,0)
+ F Z=0:0 S Z=$O(^TMP("RGUTHFS",$J,Z)) Q:'Z  C Z
+"RTN","RGUTIN58",27,0)
+ K ^TMP("RGUTHFS",$J)
+"RTN","RGUTIN58",28,0)
+ Q
+"RTN","RGUTIN58",29,0)
+EOF ZT:$ZC "EOF"
+"RTN","RGUTIN58",30,0)
+ Q
+"RTN","RGUTIN58",31,0)
+EOFERR() Q $ZE["ZEOF"
+"RTN","RGUTIN58",32,0)
+ ; Read a line of data
+"RTN","RGUTIN58",33,0)
+READ(X,Y) ;EP
+"RTN","RGUTIN58",34,0)
+ U:$G(Y)'="" Y
+"RTN","RGUTIN58",35,0)
+ R X:5
+"RTN","RGUTIN58",36,0)
+ Q $S($T:$ZC&'$L(X),1:1)
+"RTN","RGUTIN58",37,0)
+ ; Delete a host file
+"RTN","RGUTIN58",38,0)
+DELETE(X) ;EP
+"RTN","RGUTIN58",39,0)
+ D JW("rm "_X)
+"RTN","RGUTIN58",40,0)
+ Q
+"RTN","RGUTIN58",41,0)
+ ; Rename a host file
+"RTN","RGUTIN58",42,0)
+RENAME(X1,X2) ;EP
+"RTN","RGUTIN58",43,0)
+ D JW("mv "_X1_" "_X2)
+"RTN","RGUTIN58",44,0)
+ Q
+"RTN","RGUTIN58",45,0)
+ ; Generate a directory listing
+"RTN","RGUTIN58",46,0)
+DIR(X1,X2,X3) ;EP
+"RTN","RGUTIN58",47,0)
+ N TFN,X,Z
+"RTN","RGUTIN58",48,0)
+ N $ET
+"RTN","RGUTIN58",49,0)
+ S $ET="",@$$TRAP("DIRERR^RGUTOS")
+"RTN","RGUTIN58",50,0)
+ S X1=$G(X1),X2=+$G(X2),X3=$G(X3,"^UTILITY(""DIR"",$J)")
+"RTN","RGUTIN58",51,0)
+ S TFN=$$DEFDIR_"RGUTAUTO."_$J
+"RTN","RGUTIN58",52,0)
+ K @X3
+"RTN","RGUTIN58",53,0)
+ ;
+"RTN","RGUTIN58",54,0)
+ D DELETE(TFN)
+"RTN","RGUTIN58",55,0)
+ D JW("ls -d "_X1_" >> "_TFN)
+"RTN","RGUTIN58",56,0)
+ D OPEN(.TFN,"R")
+"RTN","RGUTIN58",57,0)
+ F Z=1:1 Q:(X2&(Z>X2))  Q:$$READ(.X,TFN)  D
+"RTN","RGUTIN58",58,0)
+ .S X=$TR($P(X,"/",$L(X,"/")),$C(10),"")
+"RTN","RGUTIN58",59,0)
+ .I X]"" S @X3@(X)=""
+"RTN","RGUTIN58",60,0)
+DIRERR D CLOSE(.TFN)
+"RTN","RGUTIN58",61,0)
+ D DELETE(TFN)
+"RTN","RGUTIN58",62,0)
+ Q
+"RTN","RGUTIN58",63,0)
+ ; Return default working directory
+"RTN","RGUTIN58",64,0)
+DEFDIR(X) ;EP
+"RTN","RGUTIN58",65,0)
+ S X=$G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
+"RTN","RGUTIN58",66,0)
+ S:$E(X,$L(X))'="/" X=X_"/"
+"RTN","RGUTIN58",67,0)
+ Q X
+"RTN","RGUTIN58",68,0)
+ ; Return path delimiters
+"RTN","RGUTIN58",69,0)
+DIRDLM() ;EP
+"RTN","RGUTIN58",70,0)
+ Q "///"
+"RTN","RGUTIN58",71,0)
+ ; Return free disk space
+"RTN","RGUTIN58",72,0)
+FREE(X) ;EP
+"RTN","RGUTIN58",73,0)
+ S X=$ZOS(9,$E(X))
+"RTN","RGUTIN58",74,0)
+ Q X*$P(X,"^",2)*$P(X,"^",3)/1048576
+"RTN","RGUTIN58",75,0)
+ ; Parse current error
+"RTN","RGUTIN58",76,0)
+ERR(X1,X2,X3) ;EP
+"RTN","RGUTIN58",77,0)
+ S X1=$E($P($ZE,">"),2,99),X2=$P($P($ZE,">",2),":"),X3=X1
+"RTN","RGUTIN58",78,0)
+ S:X2["*" X2=""
+"RTN","RGUTIN58",79,0)
+ S:$E(X1)="Z" X3=$E(X1,2,99),X1="ZTRAP"
+"RTN","RGUTIN58",80,0)
+ Q
+"RTN","RGUTIN58",81,0)
+ ; Raise an exception
+"RTN","RGUTIN58",82,0)
+RAISE(X) ;EP
+"RTN","RGUTIN58",83,0)
+ ZT $G(X)
+"RTN","RGUTIN58",84,0)
+ ; Set error trap
+"RTN","RGUTIN58",85,0)
+TRAP(X) ;EP
+"RTN","RGUTIN58",86,0)
+ Q "$ZT="""_$G(X)_""""
+"RTN","RGUTIN58",87,0)
+ ; Return size of a file
+"RTN","RGUTIN58",88,0)
+SIZE(X) ;EP
+"RTN","RGUTIN58",89,0)
+ N I,Y,Z
+"RTN","RGUTIN58",90,0)
+ S Z=$ZOS(12,X,0),Z=$P(Z,"^",2,999),Y=0
+"RTN","RGUTIN58",91,0)
+ I Z'="" F I=30:-1:27 S Y=Y*256+$A(Z,I)
+"RTN","RGUTIN58",92,0)
+ Q Y
+"RTN","RGUTIN58",93,0)
+ ; Return host ip address
+"RTN","RGUTIN58",94,0)
+HOSTIP() ;EP
+"RTN","RGUTIN58",95,0)
+ Q ""
+"RTN","RGUTIN58",96,0)
+ ; Return host name
+"RTN","RGUTIN58",97,0)
+HOSTNAME() ;EP
+"RTN","RGUTIN58",98,0)
+ Q ""
+"RTN","RGUTIN58",99,0)
+ ; Return client ip address
+"RTN","RGUTIN58",100,0)
+CLIENTIP() ;EP
+"RTN","RGUTIN58",101,0)
+ Q ""
+"RTN","RGUTIN58",102,0)
+ ; Issue host command and wait
+"RTN","RGUTIN58",103,0)
+JW(ZOSHC) ;msm extrinsic
+"RTN","RGUTIN58",104,0)
+ N ZOSHX
+"RTN","RGUTIN58",105,0)
+ S ZOSHX=$$JOBWAIT^%HOSTCMD(ZOSHC)
+"RTN","RGUTIN58",106,0)
+ Q
+"RTN","RGUTIN68")
+0^69^B4411941
+"RTN","RGUTIN68",1,0)
+RGUTIN68 ;RI/CBMI/DKM - Inits for Cache (Unix);05-Mar-2015 15:03;DKM
+"RTN","RGUTIN68",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTIN68",3,0)
+ ;;
+"RTN","RGUTIN68",4,0)
+ ;=================================================================
+"RTN","RGUTIN68",5,0)
+ ; Open a host file
+"RTN","RGUTIN68",6,0)
+OPEN(X1,X2) ;EP
+"RTN","RGUTIN68",7,0)
+ O X1:$S("Rr"[$G(X2):"RS","Ww"[X2:"WNS","Bb"[X2:"RF",1:""):0
+"RTN","RGUTIN68",8,0)
+ E  ZT "NOPEN"
+"RTN","RGUTIN68",9,0)
+ U X1
+"RTN","RGUTIN68",10,0)
+ S ^TMP("RGUTHFS",$J,X1)=""
+"RTN","RGUTIN68",11,0)
+ Q
+"RTN","RGUTIN68",12,0)
+ ; Close a host file
+"RTN","RGUTIN68",13,0)
+CLOSE(X) ;EP
+"RTN","RGUTIN68",14,0)
+ C X
+"RTN","RGUTIN68",15,0)
+ K ^TMP("RGUTHFS",$J,X)
+"RTN","RGUTIN68",16,0)
+ Q
+"RTN","RGUTIN68",17,0)
+ ; Close all open host files
+"RTN","RGUTIN68",18,0)
+CLOSEALL ;EP
+"RTN","RGUTIN68",19,0)
+ N Z
+"RTN","RGUTIN68",20,0)
+ S Z=""
+"RTN","RGUTIN68",21,0)
+ F  S Z=$O(^TMP("RGUTHFS",$J,Z)) Q:Z=""  C Z
+"RTN","RGUTIN68",22,0)
+ K ^TMP("RGUTHFS",$J)
+"RTN","RGUTIN68",23,0)
+ Q
+"RTN","RGUTIN68",24,0)
+EOF ZT:$ZA=-1 "ENDOFFILE"
+"RTN","RGUTIN68",25,0)
+ Q
+"RTN","RGUTIN68",26,0)
+EOFERR() Q:$ZE["ENDOFFILE"
+"RTN","RGUTIN68",27,0)
+ ; Read a line of data
+"RTN","RGUTIN68",28,0)
+READ(X,Y) ;EP
+"RTN","RGUTIN68",29,0)
+ N $ET
+"RTN","RGUTIN68",30,0)
+ S $ET="",$ZT="READX"
+"RTN","RGUTIN68",31,0)
+ U $G(Y,$I)
+"RTN","RGUTIN68",32,0)
+ Q:$ZEOF 1
+"RTN","RGUTIN68",33,0)
+ R X:5
+"RTN","RGUTIN68",34,0)
+ Q:$T 0
+"RTN","RGUTIN68",35,0)
+READX Q 1
+"RTN","RGUTIN68",36,0)
+ ; Delete a host file
+"RTN","RGUTIN68",37,0)
+DELETE(X) ;EP
+"RTN","RGUTIN68",38,0)
+ S X=$ZF(-1,"rm """_X_"""")
+"RTN","RGUTIN68",39,0)
+ Q
+"RTN","RGUTIN68",40,0)
+ ; Rename a host file
+"RTN","RGUTIN68",41,0)
+RENAME(X1,X2) ;EP
+"RTN","RGUTIN68",42,0)
+ S X1=$ZF(-1,"mv """_X1_""" """_X2_"""")
+"RTN","RGUTIN68",43,0)
+ Q
+"RTN","RGUTIN68",44,0)
+ ; Generate directory listing
+"RTN","RGUTIN68",45,0)
+DIR(X1,X2,X3) ;EP
+"RTN","RGUTIN68",46,0)
+ N Z,Z1,FDLM
+"RTN","RGUTIN68",47,0)
+ S FDLM=$E($$DIRDLM,1)
+"RTN","RGUTIN68",48,0)
+ S X3=$G(X3,$NA(^UTILITY("DIR",$J)))
+"RTN","RGUTIN68",49,0)
+ K @X3
+"RTN","RGUTIN68",50,0)
+ S:'$G(X2) X2=9999999999
+"RTN","RGUTIN68",51,0)
+ F Z=1:1:X2 S Z1=$ZSEARCH(X1),X1="" Q:Z1=""  D
+"RTN","RGUTIN68",52,0)
+ .S Z1=$P(Z1,FDLM,$L(Z1,FDLM))
+"RTN","RGUTIN68",53,0)
+ .S:$TR(Z1,".")'="" @X3@(Z1)=""
+"RTN","RGUTIN68",54,0)
+ Q
+"RTN","RGUTIN68",55,0)
+ ; Return path delimiters
+"RTN","RGUTIN68",56,0)
+DIRDLM() ;EP
+"RTN","RGUTIN68",57,0)
+ Q "///"
+"RTN","RGUTIN68",58,0)
+ ; Return default working directory
+"RTN","RGUTIN68",59,0)
+DEFDIR(X) ;EP
+"RTN","RGUTIN68",60,0)
+ N FDLM
+"RTN","RGUTIN68",61,0)
+ S FDLM=$E($$DIRDLM,1)
+"RTN","RGUTIN68",62,0)
+ S X=$G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
+"RTN","RGUTIN68",63,0)
+ S:$E(X,$L(X))'=FDLM X=X_FDLM
+"RTN","RGUTIN68",64,0)
+ Q X
+"RTN","RGUTIN68",65,0)
+ ; Parse current error
+"RTN","RGUTIN68",66,0)
+ERR(X1,X2,X3) ;EP
+"RTN","RGUTIN68",67,0)
+ S X1=$E($P($ZE,">"),2,99),X2=$P($P($ZE,">",2),":"),X3=X1
+"RTN","RGUTIN68",68,0)
+ S:X2["*" X2=""
+"RTN","RGUTIN68",69,0)
+ S:$E(X1)="Z" X3=$E(X1,2,99),X1="ZTRAP"
+"RTN","RGUTIN68",70,0)
+ Q
+"RTN","RGUTIN68",71,0)
+ ; Raise an exception
+"RTN","RGUTIN68",72,0)
+RAISE(X) ;EP
+"RTN","RGUTIN68",73,0)
+ ZT $G(X)
+"RTN","RGUTIN68",74,0)
+ ; Set error trap
+"RTN","RGUTIN68",75,0)
+TRAP(X) ;EP
+"RTN","RGUTIN68",76,0)
+ Q "$ZT="""_$G(X)_""""
+"RTN","RGUTIN68",77,0)
+ ; Return size of a file
+"RTN","RGUTIN68",78,0)
+SIZE(X) ;EP
+"RTN","RGUTIN68",79,0)
+ Q 0
+"RTN","RGUTIN68",80,0)
+ ; Return free disk space
+"RTN","RGUTIN68",81,0)
+FREE(X) ;EP
+"RTN","RGUTIN68",82,0)
+ Q 0
+"RTN","RGUTIN68",83,0)
+ ; Return host ip address
+"RTN","RGUTIN68",84,0)
+HOSTIP() ;EP
+"RTN","RGUTIN68",85,0)
+ Q $P($P($ZU(131,1),","),":",2)
+"RTN","RGUTIN68",86,0)
+ ; Return host name
+"RTN","RGUTIN68",87,0)
+HOSTNAME() ;EP
+"RTN","RGUTIN68",88,0)
+ Q $P($P($ZU(131,1),","),":")
+"RTN","RGUTIN68",89,0)
+ ; Return client ip address
+"RTN","RGUTIN68",90,0)
+CLIENTIP() ;EP
+"RTN","RGUTIN68",91,0)
+ N IP,$ET
+"RTN","RGUTIN68",92,0)
+ S $ET="S $EC=""""",IP=$ZU(111,0)
+"RTN","RGUTIN68",93,0)
+ Q $A(IP,1)_"."_$A(IP,2)_"."_$A(IP,3)_"."_$A(IP,4)
+"RTN","RGUTIN8")
+0^49^B4105987
+"RTN","RGUTIN8",1,0)
+RGUTIN8 ;RI/CBMI/DKM - Inits for MSM;05-Mar-2015 15:03;DKM
+"RTN","RGUTIN8",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTIN8",3,0)
+ ;;
+"RTN","RGUTIN8",4,0)
+ ;=================================================================
+"RTN","RGUTIN8",5,0)
+ ; Open a host file
+"RTN","RGUTIN8",6,0)
+OPEN(X1,X2) ;EP
+"RTN","RGUTIN8",7,0)
+ N Z
+"RTN","RGUTIN8",8,0)
+ S X2=$G(X2,"R")
+"RTN","RGUTIN8",9,0)
+ F Z=51:1:55 I '$D(^TMP("RGUTHFS",$J,Z)) D  Q
+"RTN","RGUTIN8",10,0)
+ .ZT:Z=55 "TMOF"
+"RTN","RGUTIN8",11,0)
+ .O Z:(X1:$S("RrWw"[X2:X2,1:"R")::::$S("Bb"[X2:"",1:$C(13,10)))
+"RTN","RGUTIN8",12,0)
+ .U Z
+"RTN","RGUTIN8",13,0)
+ .ZT:$ZA "OPEN"
+"RTN","RGUTIN8",14,0)
+ .S ^TMP("RGUTHFS",$J,Z)=X1,X1=Z
+"RTN","RGUTIN8",15,0)
+ Q
+"RTN","RGUTIN8",16,0)
+ ; Close a host file
+"RTN","RGUTIN8",17,0)
+CLOSE(X) ;EP
+"RTN","RGUTIN8",18,0)
+ N Z
+"RTN","RGUTIN8",19,0)
+ S Z=X,X=$G(^TMP("RGUTHFS",$J,X))
+"RTN","RGUTIN8",20,0)
+ K ^(Z)
+"RTN","RGUTIN8",21,0)
+ C Z
+"RTN","RGUTIN8",22,0)
+ Q
+"RTN","RGUTIN8",23,0)
+ ; Close all open host files
+"RTN","RGUTIN8",24,0)
+CLOSEALL ;EP
+"RTN","RGUTIN8",25,0)
+ N Z
+"RTN","RGUTIN8",26,0)
+ F Z=0:0 S Z=$O(^TMP("RGUTHFS",$J,Z)) Q:'Z  C Z
+"RTN","RGUTIN8",27,0)
+ K ^TMP("RGUTHFS",$J)
+"RTN","RGUTIN8",28,0)
+ Q
+"RTN","RGUTIN8",29,0)
+EOF ZT:$ZC "EOF"
+"RTN","RGUTIN8",30,0)
+ Q
+"RTN","RGUTIN8",31,0)
+EOFERR() Q $ZE["ZEOF"
+"RTN","RGUTIN8",32,0)
+ ; Read a line of data
+"RTN","RGUTIN8",33,0)
+READ(X,Y) ;EP
+"RTN","RGUTIN8",34,0)
+ U:$G(Y)'="" Y
+"RTN","RGUTIN8",35,0)
+ R X:5
+"RTN","RGUTIN8",36,0)
+ Q $S($T:$ZC&'$L(X),1:1)
+"RTN","RGUTIN8",37,0)
+ ; Delete a host file
+"RTN","RGUTIN8",38,0)
+DELETE(X) ;EP
+"RTN","RGUTIN8",39,0)
+ S X=$ZOS(2,X)
+"RTN","RGUTIN8",40,0)
+ Q
+"RTN","RGUTIN8",41,0)
+ ; Rename a host file
+"RTN","RGUTIN8",42,0)
+RENAME(X1,X2) ;EP
+"RTN","RGUTIN8",43,0)
+ N Z
+"RTN","RGUTIN8",44,0)
+ S Z=$ZOS(3,X1,X2)
+"RTN","RGUTIN8",45,0)
+ Q
+"RTN","RGUTIN8",46,0)
+ ; Generate a directory listing
+"RTN","RGUTIN8",47,0)
+DIR(X1,X2,X3) ;EP
+"RTN","RGUTIN8",48,0)
+ N Z
+"RTN","RGUTIN8",49,0)
+ S X1=$ZOS(12,X1,0),X2=+$G(X2),X3=$G(X3,"^UTILITY(""DIR"",$J)")
+"RTN","RGUTIN8",50,0)
+ K @X3
+"RTN","RGUTIN8",51,0)
+ F Z=1:1 Q:(X2&(Z>X2))!($P(X1,"^")="")  S @X3@($P(X1,"^"))="",X1=$ZOS(13,X1)
+"RTN","RGUTIN8",52,0)
+ Q
+"RTN","RGUTIN8",53,0)
+ ; Return default working directory
+"RTN","RGUTIN8",54,0)
+DEFDIR(X) ;EP
+"RTN","RGUTIN8",55,0)
+ S X=$G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
+"RTN","RGUTIN8",56,0)
+ S:$E(X,$L(X))'="\" X=X_"\"
+"RTN","RGUTIN8",57,0)
+ Q X
+"RTN","RGUTIN8",58,0)
+ ; Return path delimiters
+"RTN","RGUTIN8",59,0)
+DIRDLM() ;EP
+"RTN","RGUTIN8",60,0)
+ Q "\\\"
+"RTN","RGUTIN8",61,0)
+ ; Return free disk space
+"RTN","RGUTIN8",62,0)
+FREE(X) ;EP
+"RTN","RGUTIN8",63,0)
+ S X=$ZOS(9,$E(X))
+"RTN","RGUTIN8",64,0)
+ Q X*$P(X,"^",2)*$P(X,"^",3)/1048576
+"RTN","RGUTIN8",65,0)
+ ; Parse current error
+"RTN","RGUTIN8",66,0)
+ERR(X1,X2,X3) ;EP
+"RTN","RGUTIN8",67,0)
+ S X1=$E($P($ZE,">"),2,99),X2=$P($P($ZE,">",2),":"),X3=X1
+"RTN","RGUTIN8",68,0)
+ S:X2["*" X2=""
+"RTN","RGUTIN8",69,0)
+ S:$E(X1)="Z" X3=$E(X1,2,99),X1="ZTRAP"
+"RTN","RGUTIN8",70,0)
+ Q
+"RTN","RGUTIN8",71,0)
+ ; Raise an exception
+"RTN","RGUTIN8",72,0)
+RAISE(X) ;EP
+"RTN","RGUTIN8",73,0)
+ ZT $G(X)
+"RTN","RGUTIN8",74,0)
+ ; Set error trap
+"RTN","RGUTIN8",75,0)
+TRAP(X) ;EP
+"RTN","RGUTIN8",76,0)
+ Q "$ZT="""_$G(X)_""""
+"RTN","RGUTIN8",77,0)
+ ; Return size of a file
+"RTN","RGUTIN8",78,0)
+SIZE(X) ;EP
+"RTN","RGUTIN8",79,0)
+ N I,Y,Z
+"RTN","RGUTIN8",80,0)
+ S Z=$ZOS(12,X,0),Z=$P(Z,"^",2,999),Y=0
+"RTN","RGUTIN8",81,0)
+ I Z'="" F I=30:-1:27 S Y=Y*256+$A(Z,I)
+"RTN","RGUTIN8",82,0)
+ Q Y
+"RTN","RGUTIN8",83,0)
+ ; Return host ip address
+"RTN","RGUTIN8",84,0)
+HOSTIP() ;EP
+"RTN","RGUTIN8",85,0)
+ Q ""
+"RTN","RGUTIN8",86,0)
+ ; Return host name
+"RTN","RGUTIN8",87,0)
+HOSTNAME() ;EP
+"RTN","RGUTIN8",88,0)
+ Q ""
+"RTN","RGUTIN8",89,0)
+ ; Return client ip address
+"RTN","RGUTIN8",90,0)
+CLIENTIP() ;EP
+"RTN","RGUTIN8",91,0)
+ Q ""
+"RTN","RGUTIN8U")
+1^68
+"RTN","RGUTINIT")
+0^60^B5948579
+"RTN","RGUTINIT",1,0)
+RGUTINIT ;RI/CBMI/DKM - Platform specific inits;05-Mar-2015 18:39;DKM
+"RTN","RGUTINIT",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTINIT",3,0)
+ ;;
+"RTN","RGUTINIT",4,0)
+ ;=================================================================
+"RTN","RGUTINIT",5,0)
+POST N RGOS,RGH,X
+"RTN","RGUTINIT",6,0)
+ S U="^",X="ERROR^RGUTINIT",@^%ZOSF("TRAP"),RGOS=$P(^%ZOSF("OS"),U,2)
+"RTN","RGUTINIT",7,0)
+ I 'RGOS D
+"RTN","RGUTINIT",8,0)
+ .D HOME^%ZIS,TITLE^RGUT("Platform-Specific Inits",1.6)
+"RTN","RGUTINIT",9,0)
+ .S RGH(1)="Enter the name of this MUMPS environment for the RG-namespace"
+"RTN","RGUTINIT",10,0)
+ .S RGH(2)="platform-specific initialization process."
+"RTN","RGUTINIT",11,0)
+ .S RGOS=$$ENTRY^RGUTLKP("^DD(""OS"")","UX","Operating System: ","B","*","","",0,5,"","","HELP(.RGH)")
+"RTN","RGUTINIT",12,0)
+ .W !!
+"RTN","RGUTINIT",13,0)
+ D:RGOS>0 INIT(RGOS)
+"RTN","RGUTINIT",14,0)
+ Q
+"RTN","RGUTINIT",15,0)
+INIT(RGOS) ;
+"RTN","RGUTINIT",16,0)
+ N I,X,Y,Z,N,RGOSZ
+"RTN","RGUTINIT",17,0)
+ S RGOSZ=$$OSRTN($G(RGOS))
+"RTN","RGUTINIT",18,0)
+ S:$L(RGOSZ) @("RGOSZ="_RGOSZ)
+"RTN","RGUTINIT",19,0)
+ I '$L(RGOSZ) D  Q
+"RTN","RGUTINIT",20,0)
+ .X "ZL RGUTOS1 ZS RGUTOS"
+"RTN","RGUTINIT",21,0)
+ .D MES("Init not found for specified OS. Will use generic init.")
+"RTN","RGUTINIT",22,0)
+ S I=0,N="RGUT"
+"RTN","RGUTINIT",23,0)
+ K ^TMP(N,$J)
+"RTN","RGUTINIT",24,0)
+ F Z=0,1 F X=$S(Z:3,1:1):1 S Y=$T(+X^@$S(Z:RGOSZ,1:"RGUTIN0")) Q:Y=""  S I=I+1,^TMP(N,$J,I,0)=Y
+"RTN","RGUTINIT",25,0)
+ S $P(^TMP(N,$J,1,0),";")="RGUTOS "
+"RTN","RGUTINIT",26,0)
+ D RTNSAVE^RGUT("RGUTOS",$NA(^TMP(N,$J)),1)
+"RTN","RGUTINIT",27,0)
+ F Z=1:1 S X=$P($T(DEVICE+Z),";;",2,99) Q:X=""  S ^TMP(N,$J,Z)=$$MSG^RGUT(X,"|")
+"RTN","RGUTINIT",28,0)
+ I $$ENTRY^RGUTIMP($NA(^TMP(N,$J))) D
+"RTN","RGUTINIT",29,0)
+ .D MES("Unable to install RGUT HFS DEVICE.")
+"RTN","RGUTINIT",30,0)
+ W !!,"Initialization completed for "_$P(^DD("OS",RGOS,0),"^")_" operating system.",!!
+"RTN","RGUTINIT",31,0)
+ K ^TMP(N,$J)
+"RTN","RGUTINIT",32,0)
+ Q
+"RTN","RGUTINIT",33,0)
+OSRTN(X) Q $P($T(@("OS"_X)),";",4,99)
+"RTN","RGUTINIT",34,0)
+OS8 ;;MSM;$S($ZV["UNIX":"RGUTIN58",1:"RGUTIN8")
+"RTN","RGUTINIT",35,0)
+OS16 ;;DSM;"RGUTIN16"
+"RTN","RGUTINIT",36,0)
+OS18 ;;Cache;$S($ZV["UNIX":"RGUTIN68",1:"RGUTIN18")
+"RTN","RGUTINIT",37,0)
+OS19 ;;GT.M;"RGUTIN19"
+"RTN","RGUTINIT",38,0)
+MES(X) D BMES^XPDUTL(X)
+"RTN","RGUTINIT",39,0)
+ Q
+"RTN","RGUTINIT",40,0)
+ERROR D MES("An error has occurred during initialization.")
+"RTN","RGUTINIT",41,0)
+ Q
+"RTN","RGUTINIT",42,0)
+ ; Return $I for HFS device
+"RTN","RGUTINIT",43,0)
+HFS() Q $S(RGOS=16:"TEMP.TMP",RGOS=8:51,RGOS=18:"NUL",1:"@")
+"RTN","RGUTINIT",44,0)
+DEVICE ; Device setup
+"RTN","RGUTINIT",45,0)
+ ;;:3.5
+"RTN","RGUTINIT",46,0)
+ ;;.NAME: RGUT HFS DEVICE
+"RTN","RGUTINIT",47,0)
+ ;;.LOCATION OF TERMINAL: HFS
+"RTN","RGUTINIT",48,0)
+ ;;.$I: |$$HFS^RGUTINIT|
+"RTN","RGUTINIT",49,0)
+ ;;.SIGN-ON/SYSTEM DEVICE: N
+"RTN","RGUTINIT",50,0)
+ ;;.TYPE: HFS
+"RTN","RGUTINIT",51,0)
+ ;;.SUBTYPE: P-OTHER
+"RTN","RGUTINIT",52,0)
+ ;;.ASK DEVICE: N
+"RTN","RGUTINIT",53,0)
+ ;;.ASK PARAMETERS: N
+"RTN","RGUTINIT",54,0)
+ ;;.ASK HOST FILE: N
+"RTN","RGUTINIT",55,0)
+ ;;.ASK HFS I/O OPERATION: N
+"RTN","RGUTINIT",56,0)
+ ;;
+"RTN","RGUTLK2")
+0^50^B49012377
+"RTN","RGUTLK2",1,0)
+RGUTLK2 ;RI/CBMI/DKM - Continuation of RGUTLKP;03-Mar-2015 14:24;DKM
+"RTN","RGUTLK2",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTLK2",3,0)
+ ;;
+"RTN","RGUTLK2",4,0)
+ ;=================================================================
+"RTN","RGUTLK2",5,0)
+LKP(%RGDX) ;
+"RTN","RGUTLK2",6,0)
+ N %RGD,%RGZ,%RGN
+"RTN","RGUTLK2",7,0)
+ S %RGXRN=0,%RGTRNC=0,%RGIEN="",%RGSCT=0,%RGD=%RGDX
+"RTN","RGUTLK2",8,0)
+ W:'%RGHTML $$XY(%RGX+$L(%RGPRMP),%RGY),$S(%RGOPT["X":"",1:%RGD),%RGEOS,!,"Searching"_$S(%RGOPT[U:" (press ^ to abort)",1:"")_"...",*13
+"RTN","RGUTLK2",9,0)
+ I $E(%RGD)="`" S %RGSLCT=%RGD G:'%RGHTML NR5 D SHOW($E(%RGD,2,999)) Q 1
+"RTN","RGUTLK2",10,0)
+NXTREF S %RGXRN=%RGXRN+1,%RGXRF=$P(%RGXRFS,U,%RGXRN),%RGD=%RGDX
+"RTN","RGUTLK2",11,0)
+ I %RGXRF="" G:%RGSCT NR3 W:'%RGHTML *7,*13,%RGEOL,"Not found"_$S(%RGD="":".",1:": ")_$S(%RGD'=+%RGD:%RGD,%RGOPT["D":$$ENTRY^RGUTDT(%RGD),1:%RGD) S %RGD1=$S(%RGOPT["X":U,1:"") Q ""
+"RTN","RGUTLK2",12,0)
+ S %RGOPT(0)=%RGOPT_%RGXRFS(%RGXRF)
+"RTN","RGUTLK2",13,0)
+ I %RGOPT(0)["D",$L(%RGDX) D  G:%RGD<1 NXTREF
+"RTN","RGUTLK2",14,0)
+ .S %RGD=$$DT^RGUT(%RGDX)
+"RTN","RGUTLK2",15,0)
+ I %RGOPT(0)["W" D MTL G NXTREF
+"RTN","RGUTLK2",16,0)
+ S %RGKEY=$S(%RGOPT(0)["P":$P(%RGD," "),1:%RGD)_$S(%RGDIR<0:$C(255),1:""),%RGNUM=$S(%RGKEY=+%RGKEY:%RGKEY,1:"")
+"RTN","RGUTLK2",17,0)
+ I %RGD'="",$D(@%RGDIC@(%RGXRF,%RGD)) S %=%RGSCT+1 D ADD(%RGD) I %RGSCT=%,%RGOPT(0)["A" D SLCT(%RGSCT) Q %RGIEN
+"RTN","RGUTLK2",18,0)
+NR2 I %RGOPT(0)[U R %#1:0 I %=U S %RGTRNC=1 G NR3:%RGSCT Q ""
+"RTN","RGUTLK2",19,0)
+ S %RGKEY=$O(@%RGDIC@(%RGXRF,%RGKEY),%RGDIR)
+"RTN","RGUTLK2",20,0)
+ I (%RGNUM="")=(%RGKEY=+%RGKEY),%RGD'="" S %RGKEY=""
+"RTN","RGUTLK2",21,0)
+ I %RGKEY'="",%RGOPT(0)["P",%RGKEY'=%RGD S %=$$PARTIAL(%RGD,%RGKEY) D ADD(%RGKEY):%>0 G:%'<0 NR2:%RGSCT<100
+"RTN","RGUTLK2",22,0)
+ I %RGKEY'="",%RGOPT(0)'["P",$E(%RGKEY,1,$L(%RGD))=%RGD D ADD(%RGKEY) G:%RGSCT<100 NR2
+"RTN","RGUTLK2",23,0)
+ I %RGNUM'="" S %RGKEY=%RGNUM_$C($S(%RGDIR<0:255,1:1)),%RGNUM="" G NR2
+"RTN","RGUTLK2",24,0)
+ I %RGSCT'<100 W:'%RGHTML *7 S %RGXALL=0,%RGTRNC=1
+"RTN","RGUTLK2",25,0)
+ G:'%RGSCT!%RGXALL NXTREF
+"RTN","RGUTLK2",26,0)
+NR3 I %RGSCT=1,%RGOPT(0)[1,'%RGTRNC D SLCT(1) Q %RGIEN
+"RTN","RGUTLK2",27,0)
+ S %RGKEY=%RGSLT,%RGSLT=1,%RGSMAX=$S(%RGHTML!%RGRS:99999,1:17-%RGY)
+"RTN","RGUTLK2",28,0)
+NR4 W:'%RGHTML $$XY(0,%RGY+1),%RGEOS,!
+"RTN","RGUTLK2",29,0)
+ F %RGN=%RGKEY:1:%RGKEY+%RGSMAX-1 D  Q:%RGN=%RGSCT
+"RTN","RGUTLK2",30,0)
+ .F %RGZ=0:1:%RGCOL-1 D
+"RTN","RGUTLK2",31,0)
+ ..S %1=IOM/%RGCOL*%RGZ\1,%RGLAST=%RGZ*%RGSMAX+%RGN
+"RTN","RGUTLK2",32,0)
+ ..Q:%RGLAST>%RGSCT
+"RTN","RGUTLK2",33,0)
+ ..W:'%RGHTML $$XY(%1,$Y),%RGEOL,%RGLAST,?5
+"RTN","RGUTLK2",34,0)
+ ..D SHOW(^TMP(%RGPID,%RGLAST),%1+4)
+"RTN","RGUTLK2",35,0)
+ .W:'%RGQT !
+"RTN","RGUTLK2",36,0)
+ Q:%RGHTML $S(%RGTRNC:-%RGSCT,1:%RGSCT)
+"RTN","RGUTLK2",37,0)
+ W:%RGLAST<%RGSCT !,%RGSCT-%RGLAST," more choice(s)..."
+"RTN","RGUTLK2",38,0)
+ W:%RGTRNC "  (list was truncated)",!
+"RTN","RGUTLK2",39,0)
+ W %RGEOS_%RGBEL,!!
+"RTN","RGUTLK2",40,0)
+ R "Enter selection: ",%RGSLCT:DTIME
+"RTN","RGUTLK2",41,0)
+ S:'$T %RGSLCT=U
+"RTN","RGUTLK2",42,0)
+ W *13
+"RTN","RGUTLK2",43,0)
+ I %RGOPT["K",%RGSLCT="" Q -1
+"RTN","RGUTLK2",44,0)
+ I "Nn"[%RGSLCT S %RGKEY=$S(%RGLAST<%RGSCT:%RGLAST+1,1:1) G NR4
+"RTN","RGUTLK2",45,0)
+ I "Bb"[%RGSLCT S %RGKEY=$S(%RGKEY=1:%RGSCT-%RGSMAX+1,%RGKEY'>%RGSMAX:1,1:%RGKEY-%RGSMAX) S:%RGKEY<1 %RGKEY=1 G NR4
+"RTN","RGUTLK2",46,0)
+ I "?"[%RGSLCT D HELP2 G NR4
+"RTN","RGUTLK2",47,0)
+ I "^^"[%RGSLCT S %RGD2="",%RGD1=$S(%RGOPT(0)["X":%RGSLCT,%RGSLCT="^^":%RGSLCT,1:"") Q ""
+"RTN","RGUTLK2",48,0)
+NR5 F  D  Q:%RGSLCT=""
+"RTN","RGUTLK2",49,0)
+ .I %RGOPT(0)["M" S %RGD=$P(%RGSLCT,";"),%RGSLCT=$P(%RGSLCT,";",2,999)
+"RTN","RGUTLK2",50,0)
+ .E  S %RGD=%RGSLCT,%RGSLCT=""
+"RTN","RGUTLK2",51,0)
+ .Q:'$L(%RGD)
+"RTN","RGUTLK2",52,0)
+ .I %RGD?1.N D SLCT(%RGD) Q
+"RTN","RGUTLK2",53,0)
+ .I %RGOPT(0)["M",%RGD?1.N1"-".N D  Q
+"RTN","RGUTLK2",54,0)
+ ..N %1,%2
+"RTN","RGUTLK2",55,0)
+ ..S %1=+%RGD,%2=+$P(%RGD,"-",2)
+"RTN","RGUTLK2",56,0)
+ ..S:'%2 %2=%RGSCT
+"RTN","RGUTLK2",57,0)
+ ..S:%1>%2 %RGD=%1,%1=%2,%2=%RGD
+"RTN","RGUTLK2",58,0)
+ ..S:%2>%RGSCT %2=%RGSCT
+"RTN","RGUTLK2",59,0)
+ ..F %=%1:1:%2 D SLCT(%)
+"RTN","RGUTLK2",60,0)
+ .I %RGOPT["X",%RGOPT'["L" S (%RGSLCT,%RGD1,%RGIEN)="" Q
+"RTN","RGUTLK2",61,0)
+ .I $E(%RGD)="`" D  Q
+"RTN","RGUTLK2",62,0)
+ ..S %RGD=+$E(%RGD,2,999)
+"RTN","RGUTLK2",63,0)
+ ..I $$VALD(%RGD) D DISV(%RGD) S %RGIEN=%RGD
+"RTN","RGUTLK2",64,0)
+ .S %RGD1=%RGD1_";"_%RGD
+"RTN","RGUTLK2",65,0)
+ W $$XY(0,%RGY+1),%RGEOS,!
+"RTN","RGUTLK2",66,0)
+ Q %RGIEN
+"RTN","RGUTLK2",67,0)
+ ; Add list selection to output
+"RTN","RGUTLK2",68,0)
+SLCT(%RGSLCT) ;
+"RTN","RGUTLK2",69,0)
+ I %RGSLCT>0,%RGSLCT'>%RGSCT D
+"RTN","RGUTLK2",70,0)
+ .S %RGIEN=+^TMP(%RGPID,+%RGSLCT)
+"RTN","RGUTLK2",71,0)
+ .D DISV(%RGIEN)
+"RTN","RGUTLK2",72,0)
+ Q
+"RTN","RGUTLK2",73,0)
+ ; Add IEN to output
+"RTN","RGUTLK2",74,0)
+DISV(%RGIEN) ;
+"RTN","RGUTLK2",75,0)
+ Q:%RGIEN=""
+"RTN","RGUTLK2",76,0)
+ I %RGMUL'="",'$D(@%RGMUL@(%RGIEN)) S @%RGMUL@(%RGIEN)="" D:'%RGQT APP(%RGIEN)
+"RTN","RGUTLK2",77,0)
+ D:%RGMUL="" APP(%RGIEN)
+"RTN","RGUTLK2",78,0)
+ Q:%RGOPT(0)["F"
+"RTN","RGUTLK2",79,0)
+ K:%RGSAME ^DISV(DUZ,%RGDISV)
+"RTN","RGUTLK2",80,0)
+ S %RGSAME=0,^DISV(DUZ,%RGDISV)=%RGIEN,^(%RGDISV,%RGIEN)=""
+"RTN","RGUTLK2",81,0)
+ Q
+"RTN","RGUTLK2",82,0)
+ ; Append primary key to key list
+"RTN","RGUTLK2",83,0)
+APP(%RGIEN) ;
+"RTN","RGUTLK2",84,0)
+ N %RGKEY
+"RTN","RGUTLK2",85,0)
+ S %RGKEY=$S(%RGIEN=+%RGIEN:$P($G(@%RGDIC@(%RGIEN,0)),U),1:%RGIEN)
+"RTN","RGUTLK2",86,0)
+ S %RGKEY=$$FMT(%RGIEN,%RGKEY)
+"RTN","RGUTLK2",87,0)
+ Q:'$L(%RGKEY)!($L(%RGKEY)+$L(%RGD2)'<250)
+"RTN","RGUTLK2",88,0)
+ S %RGD2=%RGD2_$S($L(%RGD2):";",1:"")_%RGKEY
+"RTN","RGUTLK2",89,0)
+ I %RGOPT(0)'["J",%RGOPT(0)'["M" S %RGD2=%RGD2_"  "_$$SID(%RGIEN)
+"RTN","RGUTLK2",90,0)
+ Q
+"RTN","RGUTLK2",91,0)
+ ; Multi-term lookup
+"RTN","RGUTLK2",92,0)
+MTL N %
+"RTN","RGUTLK2",93,0)
+ S %=$S(%RGDIC[")":$TR(%RGDIC,")",","),1:%RGDIC_"(")_"%RGXRF)"
+"RTN","RGUTLK2",94,0)
+ S %=$$LKP^RGUTMTL(%,%RGD,"^TMP(""MTL"",%RGPID)",%RGOPT(0)[U)
+"RTN","RGUTLK2",95,0)
+ S:%<0 %RGTRNC=1
+"RTN","RGUTLK2",96,0)
+ D:% ADD(%RGPID,"^TMP","MTL")
+"RTN","RGUTLK2",97,0)
+ K ^TMP("MTL",%RGPID)
+"RTN","RGUTLK2",98,0)
+ Q
+"RTN","RGUTLK2",99,0)
+ ; Add key to selection list
+"RTN","RGUTLK2",100,0)
+ADD(%RGKEY,%RGIDX,%RGSUB) ;
+"RTN","RGUTLK2",101,0)
+ N %S
+"RTN","RGUTLK2",102,0)
+ S:'$D(%RGIDX) %RGIDX=%RGDIC,%RGSUB=%RGXRF
+"RTN","RGUTLK2",103,0)
+ F %S=0:0 S %S=$O(@%RGIDX@(%RGSUB,%RGKEY,%S)) Q:'%S  D
+"RTN","RGUTLK2",104,0)
+ .I %RGOPT(0)["O",$D(^TMP(%RGPID,0,%S)) Q
+"RTN","RGUTLK2",105,0)
+ .I $$VALD(%S) D
+"RTN","RGUTLK2",106,0)
+ ..S %RGSCT=%RGSCT+1,^TMP(%RGPID,%RGSCT)=%S_U_$S(%RGOPT(0)["W":"",1:%RGKEY),^(0,%S)=""
+"RTN","RGUTLK2",107,0)
+ ..I %RGOPT(0)["S",$G(^DISV(DUZ,%RGDISV))=%S S %RGSLT=%RGSCT
+"RTN","RGUTLK2",108,0)
+ Q
+"RTN","RGUTLK2",109,0)
+ ; Check entry against screening criteria
+"RTN","RGUTLK2",110,0)
+VALD(%S) Q:'$D(@%RGDIC@(%S))!'%S 0
+"RTN","RGUTLK2",111,0)
+ Q:%RGSCN="" 1
+"RTN","RGUTLK2",112,0)
+ N %,%1
+"RTN","RGUTLK2",113,0)
+ S %1=1,@$$TRAP^RGUTOS("V3^RGUTLK2")
+"RTN","RGUTLK2",114,0)
+ F %=0:0 S %=$O(@%RGSCN@(%)) Q:'%  D  Q:%1
+"RTN","RGUTLK2",115,0)
+ .S %1=0,@$$TRAP^RGUTOS("V2^RGUTLK2")
+"RTN","RGUTLK2",116,0)
+ .X "S %1="_@%RGSCN@(%)
+"RTN","RGUTLK2",117,0)
+V2 .Q
+"RTN","RGUTLK2",118,0)
+ Q %1
+"RTN","RGUTLK2",119,0)
+V3 Q 0
+"RTN","RGUTLK2",120,0)
+ ; Show the specified selection
+"RTN","RGUTLK2",121,0)
+SHOW(%RGSLCT,%RGCOL1,%RGCOL2) ;
+"RTN","RGUTLK2",122,0)
+ N %S,%Z,%P,%I
+"RTN","RGUTLK2",123,0)
+ S %S=+%RGSLCT,%Z=$G(@%RGDIC@(%S,0)),%P=$$FMT(%S,$S(%RGOPT["I":$P(%RGSLCT,U,2),1:$P(%Z,U)))
+"RTN","RGUTLK2",124,0)
+ ;S %I=$$SID(%S,$P(%RGSLCT,U,2)),%I=$S(%I="":%P,1:%I)
+"RTN","RGUTLK2",125,0)
+ S %I=$$SID(%S,%P),%I=$S(%I="":%P,1:%I)
+"RTN","RGUTLK2",126,0)
+ I %RGHTML D  Q
+"RTN","RGUTLK2",127,0)
+ .I '%RGQT W $$MSG^RGUT(%RGPRMP,"|"),!
+"RTN","RGUTLK2",128,0)
+ .E  D DISV(%S)
+"RTN","RGUTLK2",129,0)
+ S %RGCOL1=+$G(%RGCOL1,$X)
+"RTN","RGUTLK2",130,0)
+ I %RGOPT(0)["Y" S %RGCOL2=+$G(%RGCOL2,IOM\%RGCOL+%RGCOL1-8-$L(%I))
+"RTN","RGUTLK2",131,0)
+ E  S %RGCOL2=+$G(%RGCOL2,IOM\%RGCOL\$S(%RGOPT(0)["D":3,1:2)-3+%RGCOL1)
+"RTN","RGUTLK2",132,0)
+ W $$XY(%RGCOL1,$Y)
+"RTN","RGUTLK2",133,0)
+ I %RGOPT(0)'["J",%I'=%P W $$TRUNC^RGUT(%P,IOM\%RGCOL-6),?%RGCOL2," "_$$TRUNC^RGUT(%I,IOM-%RGCOL2-2)
+"RTN","RGUTLK2",134,0)
+ E  W $$TRUNC^RGUT(%I,IOM\%RGCOL-6)
+"RTN","RGUTLK2",135,0)
+ Q
+"RTN","RGUTLK2",136,0)
+ ; Return external form of result
+"RTN","RGUTLK2",137,0)
+FMT(%S,%RGKEY) ;
+"RTN","RGUTLK2",138,0)
+ Q:%RGKEY="" %RGKEY
+"RTN","RGUTLK2",139,0)
+ I %RGTRP'="",$D(@%RGTRP@(%RGKEY)) Q @%RGTRP@(%RGKEY)
+"RTN","RGUTLK2",140,0)
+ S:%RGOPT(0)["D" %RGKEY=$$ENTRY^RGUTDT(%RGKEY)
+"RTN","RGUTLK2",141,0)
+ I %RGOPT(0)["Z",%RGSCN'="",$G(@%RGSCN)'="" S @("%RGKEY="_@%RGSCN)
+"RTN","RGUTLK2",142,0)
+ S:%RGOPT["J" %RGKEY=$$SID(%S,%RGKEY)
+"RTN","RGUTLK2",143,0)
+ Q %RGKEY
+"RTN","RGUTLK2",144,0)
+ ; Return secondary identifier
+"RTN","RGUTLK2",145,0)
+SID(%S,%RGKEY) ;
+"RTN","RGUTLK2",146,0)
+ S %RGKEY=$G(%RGKEY)
+"RTN","RGUTLK2",147,0)
+ N %Z
+"RTN","RGUTLK2",148,0)
+ S %Z=$G(@%RGDIC@(%S,0)),@("%Z="_$S(%RGSID<0:$S(%RGKEY=$$UP^XLFSTR($P(%Z,U)):"""""",1:"%RGKEY"),%RGSID="":"%RGSID",1:%RGSID))
+"RTN","RGUTLK2",149,0)
+ Q %Z
+"RTN","RGUTLK2",150,0)
+ ; Partial key lookup
+"RTN","RGUTLK2",151,0)
+PARTIAL(%RGD,%RGKEY) ;
+"RTN","RGUTLK2",152,0)
+ N %,%1,%2
+"RTN","RGUTLK2",153,0)
+ S (%(1),%(2))=0,%1(1)=%RGD,%1(2)=%RGKEY
+"RTN","RGUTLK2",154,0)
+ F %=1,2 S %1(%)=$TR(%1(%),".,;:?/!-","        ")
+"RTN","RGUTLK2",155,0)
+P1 S (%2(1),%2(2))=""
+"RTN","RGUTLK2",156,0)
+ F %=1,2 D
+"RTN","RGUTLK2",157,0)
+ .F %(%)=%(%)+1:1:$L(%1(%)," ") S %2(%)=$P(%1(%)," ",%(%)) Q:%2(%)'=""
+"RTN","RGUTLK2",158,0)
+ Q:%2(1)="" 1
+"RTN","RGUTLK2",159,0)
+ Q:%2(1)'=$E(%2(2),1,$L(%2(1))) -(%(1)=1)
+"RTN","RGUTLK2",160,0)
+ G P1
+"RTN","RGUTLK2",161,0)
+HELP(X) ; Application-specific help
+"RTN","RGUTLK2",162,0)
+ N %
+"RTN","RGUTLK2",163,0)
+ S %=""
+"RTN","RGUTLK2",164,0)
+ F  S %=$O(X(%)) Q:%=""  D:$Y>20 PAUSE W $G(X(%)),!
+"RTN","RGUTLK2",165,0)
+ Q
+"RTN","RGUTLK2",166,0)
+ ; Generic help
+"RTN","RGUTLK2",167,0)
+HELP1 N %
+"RTN","RGUTLK2",168,0)
+ W !!
+"RTN","RGUTLK2",169,0)
+ D:%RGHLP'="" @%RGHLP
+"RTN","RGUTLK2",170,0)
+ W !,"Enter a blank line for default action.",!
+"RTN","RGUTLK2",171,0)
+ D:$Y>20 PAUSE
+"RTN","RGUTLK2",172,0)
+ W:%RGOPT'["W" "Enter ?? to see all possible selections.",!
+"RTN","RGUTLK2",173,0)
+ D:$Y>20 PAUSE
+"RTN","RGUTLK2",174,0)
+ W "Enter a space to retrieve previous selection.",!
+"RTN","RGUTLK2",175,0)
+ D:$Y>20 PAUSE
+"RTN","RGUTLK2",176,0)
+ W "Enter a valid identifier for lookup."
+"RTN","RGUTLK2",177,0)
+ W:(%RGOPT'["*")&(%RGXRFS[U) "  Append a * to include all indices."
+"RTN","RGUTLK2",178,0)
+ W !
+"RTN","RGUTLK2",179,0)
+ I %RGOPT["M" D
+"RTN","RGUTLK2",180,0)
+ .D:$Y>20 PAUSE
+"RTN","RGUTLK2",181,0)
+ .W "Separate multiple selections by semicolons."
+"RTN","RGUTLK2",182,0)
+ R !!,"Press any key to continue...",*%:DTIME
+"RTN","RGUTLK2",183,0)
+ Q
+"RTN","RGUTLK2",184,0)
+ ; Help at choice prompt
+"RTN","RGUTLK2",185,0)
+HELP2 N %
+"RTN","RGUTLK2",186,0)
+ W $$XY(0,16),%RGEOS,!
+"RTN","RGUTLK2",187,0)
+ W $S(%RGOPT(0)["K":"Enter N for next choices.",1:"Press RETURN for more choices.")
+"RTN","RGUTLK2",188,0)
+ W ?35,"Enter B for previous choices.",!
+"RTN","RGUTLK2",189,0)
+ W "Enter ^ to abort lookup.",?35,"Enter choice number to select.",!
+"RTN","RGUTLK2",190,0)
+ W "Any other entry = new lookup."
+"RTN","RGUTLK2",191,0)
+ W:%RGOPT(0)["M" ?35,"Separate multiple selections by semicolons."
+"RTN","RGUTLK2",192,0)
+ R !!,"Press any key to continue...",*%:DTIME
+"RTN","RGUTLK2",193,0)
+ Q
+"RTN","RGUTLK2",194,0)
+PAUSE Q:%RGRS
+"RTN","RGUTLK2",195,0)
+ N %
+"RTN","RGUTLK2",196,0)
+ R !,"Press any key for more...",*%:DTIME
+"RTN","RGUTLK2",197,0)
+ W $$XY(0,%RGY+2),%RGEOS
+"RTN","RGUTLK2",198,0)
+ Q
+"RTN","RGUTLK2",199,0)
+XY(X,Y) ;I %RGRS W:'X *13 S $X=X,$Y=Y Q ""
+"RTN","RGUTLK2",200,0)
+ S:%RGRS Y=$Y
+"RTN","RGUTLK2",201,0)
+ Q $$XY^RGUT(X,Y)
+"RTN","RGUTLKP")
+0^51^B26828890
+"RTN","RGUTLKP",1,0)
+RGUTLKP ;RI/CBMI/DKM - File lookup utility;03-Mar-2015 14:24;DKM
+"RTN","RGUTLKP",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTLKP",3,0)
+ ;;
+"RTN","RGUTLKP",4,0)
+ ;=================================================================
+"RTN","RGUTLKP",5,0)
+ ; Inputs:
+"RTN","RGUTLKP",6,0)
+ ;   %RGDIC  = Global root or file #
+"RTN","RGUTLKP",7,0)
+ ;   %RGOPT  = Options
+"RTN","RGUTLKP",8,0)
+ ;      A allow automatic selection of exact match
+"RTN","RGUTLKP",9,0)
+ ;      B sound bell with selection prompt
+"RTN","RGUTLKP",10,0)
+ ;      C use roll & scroll mode
+"RTN","RGUTLKP",11,0)
+ ;      D index is in date/time format
+"RTN","RGUTLKP",12,0)
+ ;      E use line editor
+"RTN","RGUTLKP",13,0)
+ ;      F forget the entry (i.e., ^DISV not updated)
+"RTN","RGUTLKP",14,0)
+ ;      G start with prior entry
+"RTN","RGUTLKP",15,0)
+ ;      H HTML-formatted output
+"RTN","RGUTLKP",16,0)
+ ;      I show only lookup identifiers
+"RTN","RGUTLKP",17,0)
+ ;      J show only secondary identifiers
+"RTN","RGUTLKP",18,0)
+ ;      K null entry at select prompt exits
+"RTN","RGUTLKP",19,0)
+ ;      L like X, but allows lookup at select prompt
+"RTN","RGUTLKP",20,0)
+ ;      M allow multiple selection
+"RTN","RGUTLKP",21,0)
+ ;      O show entry only once
+"RTN","RGUTLKP",22,0)
+ ;      P partial lookup
+"RTN","RGUTLKP",23,0)
+ ;      Q silent lookup
+"RTN","RGUTLKP",24,0)
+ ;      R reverse search through indices
+"RTN","RGUTLKP",25,0)
+ ;      S start selection list at last selection
+"RTN","RGUTLKP",26,0)
+ ;      T forget trapped inputs
+"RTN","RGUTLKP",27,0)
+ ;      U force uppercase translation
+"RTN","RGUTLKP",28,0)
+ ;      V extended DISV recall (prompt-specific)
+"RTN","RGUTLKP",29,0)
+ ;      W use multi-term lookup algorithm
+"RTN","RGUTLKP",30,0)
+ ;      X do not prompt for input
+"RTN","RGUTLKP",31,0)
+ ;      Y right justify secondary identifiers
+"RTN","RGUTLKP",32,0)
+ ;      Z perform special formatting of output
+"RTN","RGUTLKP",33,0)
+ ;      1 automatic selection if one match only
+"RTN","RGUTLKP",34,0)
+ ;      2-9 # of columns for selection display (default=1)
+"RTN","RGUTLKP",35,0)
+ ;      * force all indices to be searched
+"RTN","RGUTLKP",36,0)
+ ;      ^ allow search to be aborted
+"RTN","RGUTLKP",37,0)
+ ;   %RGPRMP = Prompt (optional)
+"RTN","RGUTLKP",38,0)
+ ;   %RGXRFS  = Cross-references to examine (all "B"'s by default)
+"RTN","RGUTLKP",39,0)
+ ;   %RGDATA  = Data to lookup (optional)
+"RTN","RGUTLKP",40,0)
+ ;   %RGSCN   = Screening criteria (optional)
+"RTN","RGUTLKP",41,0)
+ ;   %RGMUL   = Local variable or global reference to
+"RTN","RGUTLKP",42,0)
+ ;              store multiple hits
+"RTN","RGUTLKP",43,0)
+ ;   %RGX     = Column position for prompt (optional)
+"RTN","RGUTLKP",44,0)
+ ;   %RGY     = Row position for prompt (optional)
+"RTN","RGUTLKP",45,0)
+ ;   %RGSID   = Piece # of secondary identifier (optional)
+"RTN","RGUTLKP",46,0)
+ ;              or executable M code to display same
+"RTN","RGUTLKP",47,0)
+ ;   %RGTRP   = Special inputs to trap (optional)
+"RTN","RGUTLKP",48,0)
+ ;   %RGHLP   = Entry point to invoke help
+"RTN","RGUTLKP",49,0)
+ ; Outputs:
+"RTN","RGUTLKP",50,0)
+ ;    Return value = index of selected entry or:
+"RTN","RGUTLKP",51,0)
+ ;      -1 for forced exit by ^
+"RTN","RGUTLKP",52,0)
+ ;      -2 for forced exit by ^^
+"RTN","RGUTLKP",53,0)
+ ;       0 for null entry
+"RTN","RGUTLKP",54,0)
+ ;=================================================================
+"RTN","RGUTLKP",55,0)
+ENTRY(%RGDIC,%RGOPT,%RGPRMP,%RGXRFS,%RGDATA,%RGSCN,%RGMUL,%RGX,%RGY,%RGSID,%RGTRP,%RGHLP) ;
+"RTN","RGUTLKP",56,0)
+ N %,%1,%N,%S,%Z,%RGPID,%RGXRF,%RGSCT,%RGKEY,%RGKEY1,%RGDISV,%RGSLCT
+"RTN","RGUTLKP",57,0)
+ N %RGXALL,%RGXRN,%RGSMAX,%RGTRNC,%RGD,%RGD1,%RGD2,%RGBEL,%RGNUM
+"RTN","RGUTLKP",58,0)
+ N %RGDIR,%RGSLT,%RGCOL,%RGLAST,%RGSAME,%RGEOS,%RGEOL,%RGHTML,%RGRS,%RGQT
+"RTN","RGUTLKP",59,0)
+ I $$NEWERR^%ZTER N $ET S $ET=""
+"RTN","RGUTLKP",60,0)
+ S (%RGOPT,%RGOPT(0))=$$UP^XLFSTR($G(%RGOPT)),%RGPID="%RGLKP"_$J
+"RTN","RGUTLKP",61,0)
+ S %RGBEL=$S(%RGOPT["B":$C(7),1:""),%RGDIR=$S(%RGOPT["R":-1,1:1)
+"RTN","RGUTLKP",62,0)
+ S %RGSLT=1,%RGCOL=1,%RGEOS=$C(27,91,74),%RGEOL=$C(27,91,75),%RGHTML=0
+"RTN","RGUTLKP",63,0)
+ S %RGX=$G(%RGX,0),%RGY=$G(%RGY,3),DTIME=$G(DTIME,999999)
+"RTN","RGUTLKP",64,0)
+ S %RGLAST=0,%RGRS=%RGOPT["C",%RGQT=%RGOPT["Q"
+"RTN","RGUTLKP",65,0)
+ S:%RGRS %RGEOS="",%RGY=$Y
+"RTN","RGUTLKP",66,0)
+ S:%RGQT %RGOPT=%RGOPT_"XHM"
+"RTN","RGUTLKP",67,0)
+ S:%RGOPT["H" (%RGBEL,%RGEOL,%RGEOS)="",%RGOPT=%RGOPT_"X",%RGHTML=1
+"RTN","RGUTLKP",68,0)
+ S:%RGOPT["L" %RGOPT=%RGOPT_"X"
+"RTN","RGUTLKP",69,0)
+ S U="^",DUZ=$G(DUZ,0),IO=$G(IO,$I),IOM=$G(IOM,80),%RGMUL=$G(%RGMUL),%RGHLP=$G(%RGHLP),%RGTRP=$G(%RGTRP),%RGSCN=$G(%RGSCN),%RGSAME=%RGOPT["M"&(%RGMUL'="")
+"RTN","RGUTLKP",70,0)
+ F %=2:1:9 S:%RGOPT[% %RGCOL=%
+"RTN","RGUTLKP",71,0)
+ S:%RGOPT'["M" %RGMUL=""
+"RTN","RGUTLKP",72,0)
+ K:%RGMUL'="" @%RGMUL
+"RTN","RGUTLKP",73,0)
+ S:%RGDIC=+%RGDIC %RGDIC=$$ROOT^DILFD(%RGDIC)
+"RTN","RGUTLKP",74,0)
+ S:$E(%RGDIC,$L(%RGDIC))="(" %RGDIC=$E(%RGDIC,1,$L(%RGDIC)-1)
+"RTN","RGUTLKP",75,0)
+ S:$E(%RGDIC,$L(%RGDIC))="," %RGDIC=$E(%RGDIC,1,$L(%RGDIC)-1)
+"RTN","RGUTLKP",76,0)
+ I %RGDIC["(",$E(%RGDIC,$L(%RGDIC))'=")" S %RGDIC=%RGDIC_")"
+"RTN","RGUTLKP",77,0)
+ S %RGPRMP=$G(%RGPRMP,$S(%RGOPT["X":"",1:"Enter identifier: "))
+"RTN","RGUTLKP",78,0)
+ S %RGDISV=$S(%RGDIC[")":$TR(%RGDIC,")",","),1:%RGDIC_"(")_$S(%RGOPT["V":";"_%RGPRMP,1:"")
+"RTN","RGUTLKP",79,0)
+ S %RGSID=$G(%RGSID),%RGXRFS=$G(%RGXRFS),%RGDATA=$G(%RGDATA)
+"RTN","RGUTLKP",80,0)
+ S:%RGSID=+%RGSID %RGSID=$S(%RGSID<0:%RGSID,1:"$P(%Z,U,"_%RGSID_")")
+"RTN","RGUTLKP",81,0)
+ W:'%RGHTML $$XY(%RGX,%RGY),%RGEOS,!
+"RTN","RGUTLKP",82,0)
+ I %RGOPT["G",$G(^DISV(DUZ,%RGDISV))'="" D
+"RTN","RGUTLKP",83,0)
+ .S %RGDATA=^(%RGDISV)
+"RTN","RGUTLKP",84,0)
+ .S:+%RGDATA=%RGDATA %RGDATA=$P($G(@%RGDIC@(%RGDATA,0)),U)
+"RTN","RGUTLKP",85,0)
+ I %RGXRFS="" D
+"RTN","RGUTLKP",86,0)
+ .S (%,%RGXRFS)="B"
+"RTN","RGUTLKP",87,0)
+ .F  S %=$O(@%RGDIC@(%)) Q:$E(%)'="B"  S %RGXRFS=%RGXRFS_U_%
+"RTN","RGUTLKP",88,0)
+ F %=1:1:$L(%RGXRFS,U) S %1=$P(%RGXRFS,U,%) S:%1'="" %RGXRFS($P(%1,":"))=$P(%1,":",2),$P(%RGXRFS,U,%)=$P(%1,":")
+"RTN","RGUTLKP",89,0)
+ S (%RGD1,%RGD2)=""
+"RTN","RGUTLKP",90,0)
+ D RM(0)
+"RTN","RGUTLKP",91,0)
+ S %RGIEN=$$INPUT
+"RTN","RGUTLKP",92,0)
+ W:'%RGHTML $$XY(%RGX+$L(%RGPRMP),%RGY),$$TRUNC^RGUT(%RGD2,IOM-$X),%RGEOS
+"RTN","RGUTLKP",93,0)
+ D RM(IOM)
+"RTN","RGUTLKP",94,0)
+ K ^TMP(%RGPID)
+"RTN","RGUTLKP",95,0)
+ Q %RGIEN
+"RTN","RGUTLKP",96,0)
+INPUT() ;
+"RTN","RGUTLKP",97,0)
+INP K ^TMP(%RGPID)
+"RTN","RGUTLKP",98,0)
+ D READ
+"RTN","RGUTLKP",99,0)
+ S:%RGOPT["U" %RGD=$$UP^XLFSTR(%RGD)
+"RTN","RGUTLKP",100,0)
+ S @$$TRAP^RGUTOS("ERROR^RGUTLKP")
+"RTN","RGUTLKP",101,0)
+ I %RGD="",%RGTRP'="" S %RGD=$G(@%RGTRP@(" "))
+"RTN","RGUTLKP",102,0)
+ Q:"^^"[%RGD -$L(%RGD)
+"RTN","RGUTLKP",103,0)
+ I "?"[%RGD D HELP1^RGUTLK2 G INP
+"RTN","RGUTLKP",104,0)
+ I %RGD=" " D SAME G:%RGD="" INP2
+"RTN","RGUTLKP",105,0)
+ I %RGTRP'="",$D(@%RGTRP@(%RGD)) D  Q %RGD
+"RTN","RGUTLKP",106,0)
+ .S %RGSAME=1
+"RTN","RGUTLKP",107,0)
+ .D:%RGOPT'["T" DISV^RGUTLK2(%RGD)
+"RTN","RGUTLKP",108,0)
+ .S %RGD2=$G(@%RGTRP@(%RGD))
+"RTN","RGUTLKP",109,0)
+ .S:%RGD2="" %RGD2=%RGD
+"RTN","RGUTLKP",110,0)
+ S:%RGD="??" %RGD=""
+"RTN","RGUTLKP",111,0)
+ I $E(%RGD,$L(%RGD))="*" S %RGXALL=1,%RGD=$E(%RGD,1,$L(%RGD)-1)
+"RTN","RGUTLKP",112,0)
+ E  S %RGXALL=%RGOPT["*"
+"RTN","RGUTLKP",113,0)
+ S %RGIEN=$$LKP^RGUTLK2(%RGD)
+"RTN","RGUTLKP",114,0)
+INP2 G INP:%RGIEN=""!$L(%RGD1)
+"RTN","RGUTLKP",115,0)
+ Q %RGIEN
+"RTN","RGUTLKP",116,0)
+READ S %RGD=""
+"RTN","RGUTLKP",117,0)
+ F  Q:%RGD'=""!(%RGD1="")  S %RGD=$P(%RGD1,";"),%RGD1=$P(%RGD1,";",2,999)
+"RTN","RGUTLKP",118,0)
+ Q:$L(%RGD)
+"RTN","RGUTLKP",119,0)
+ S %RGD=%RGDATA,%RGDATA=""
+"RTN","RGUTLKP",120,0)
+ W:'%RGHTML $$XY(0,%RGY+2),%RGEOS,$$XY(%RGX,%RGY),%RGPRMP_%RGEOL
+"RTN","RGUTLKP",121,0)
+ I %RGOPT["X" S:%RGOPT["E" %RGOPT=$TR(%RGOPT,"X"),%RGDATA=%RGD Q
+"RTN","RGUTLKP",122,0)
+ I %RGOPT["E" D
+"RTN","RGUTLKP",123,0)
+ .N %,%1
+"RTN","RGUTLKP",124,0)
+ .S:%RGD?1"`"1.N %RGD=+$E(%RGD,2,99),%RGD=$$FMT^RGUTLK2(%RGD,$P($G(@%RGDIC@(%RGD,0)),U))
+"RTN","RGUTLKP",125,0)
+ .S %1=0,%=%RGX+$L(%RGPRMP),%=$$ENTRY^RGUTEDT(%RGD,IOM-%-1,%,%RGY,"","RHV",,,,,.%1)
+"RTN","RGUTLKP",126,0)
+ .S:%1=3 %=U
+"RTN","RGUTLKP",127,0)
+ .S:%="?" %RGDATA=%RGD
+"RTN","RGUTLKP",128,0)
+ .S %RGD=%
+"RTN","RGUTLKP",129,0)
+ E  I '$L(%RGD) R %RGD:DTIME S:'$T %RGD=U
+"RTN","RGUTLKP",130,0)
+ I %RGOPT["M",%RGD[";" S %RGD1=%RGD G READ
+"RTN","RGUTLKP",131,0)
+ Q
+"RTN","RGUTLKP",132,0)
+SAME S %RGSAME=0,%RGIEN="",%RGD="",%RGSCT=0
+"RTN","RGUTLKP",133,0)
+ I %RGMUL'="" D
+"RTN","RGUTLKP",134,0)
+ .S %=""
+"RTN","RGUTLKP",135,0)
+ .F  S %=$O(^DISV(DUZ,%RGDISV,%)) Q:%=""  D SM1
+"RTN","RGUTLKP",136,0)
+ E  S %=$G(^DISV(DUZ,%RGDISV)) D:%'="" SM1
+"RTN","RGUTLKP",137,0)
+ S:%RGHTML %RGIEN=%RGSCT
+"RTN","RGUTLKP",138,0)
+ Q
+"RTN","RGUTLKP",139,0)
+SM1 I %RGTRP'="",$D(@%RGTRP@(%)) S %RGIEN=%,%RGD=%
+"RTN","RGUTLKP",140,0)
+ E  I $$VALD^RGUTLK2(%) S %RGIEN=%
+"RTN","RGUTLKP",141,0)
+ I  D DISV^RGUTLK2(%RGIEN) S %RGSCT=%RGSCT+1
+"RTN","RGUTLKP",142,0)
+ Q
+"RTN","RGUTLKP",143,0)
+XY(X,Y) Q $$XY^RGUTLK2(.X,.Y)
+"RTN","RGUTLKP",144,0)
+RM(X) X ^%ZOSF("RM")
+"RTN","RGUTLKP",145,0)
+ Q
+"RTN","RGUTLKP",146,0)
+ERROR W:'%RGHTML $$XY(0,%RGY+1),*7,%RGEOL,$$EC^%ZOSV
+"RTN","RGUTLKP",147,0)
+ S (%RGDATA,%RGD1,%RGD2)=""
+"RTN","RGUTLKP",148,0)
+ G INP
+"RTN","RGUTMTL")
+0^52^B13569820
+"RTN","RGUTMTL",1,0)
+RGUTMTL ;RI/CBMI/DKM - Multi-term lookup support ;03-Mar-2015 14:24;DKM
+"RTN","RGUTMTL",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTMTL",3,0)
+ ;;
+"RTN","RGUTMTL",4,0)
+ ;=================================================================
+"RTN","RGUTMTL",5,0)
+ ; Parse term into component words (KWIC)
+"RTN","RGUTMTL",6,0)
+PARSE2(RGTRM,RGRTN,RGMIN) ;
+"RTN","RGUTMTL",7,0)
+ N X,L,C,%
+"RTN","RGUTMTL",8,0)
+ K RGRTN
+"RTN","RGUTMTL",9,0)
+ S %="RGRTN(I)",X=$$UP^XLFSTR(RGTRM),RGMIN=+$G(RGMIN)
+"RTN","RGUTMTL",10,0)
+ D S^XTLKWIC
+"RTN","RGUTMTL",11,0)
+ S L="",C=0
+"RTN","RGUTMTL",12,0)
+ F  S L=$O(RGRTN(L)) Q:L=""  D
+"RTN","RGUTMTL",13,0)
+ .I $L(L)<RGMIN K RGRTN(L)
+"RTN","RGUTMTL",14,0)
+ .E  S C=C+1
+"RTN","RGUTMTL",15,0)
+ Q C
+"RTN","RGUTMTL",16,0)
+ ; Parse term into component words
+"RTN","RGUTMTL",17,0)
+PARSE(RGTRM,RGRTN,RGMIN) ;
+"RTN","RGUTMTL",18,0)
+ N X,Y,Z,L,C
+"RTN","RGUTMTL",19,0)
+ K RGRTN
+"RTN","RGUTMTL",20,0)
+ S RGTRM=$$UP^XLFSTR(RGTRM),C=0,RGMIN=+$G(RGMIN,1),Z=""
+"RTN","RGUTMTL",21,0)
+ F X=1:1 Q:'$L(RGTRM)  D:$E(RGTRM,X)'?1AN
+"RTN","RGUTMTL",22,0)
+ .S Y=Z,Z=$E(RGTRM,X),L=$E(RGTRM,1,X-1),RGTRM=$E(RGTRM,X+1,999),X=0
+"RTN","RGUTMTL",23,0)
+ .I $L(L)'<RGMIN,L'=+L,'$D(RGRTN(L)) S RGRTN(L)=Y,C=C+1,Y=""
+"RTN","RGUTMTL",24,0)
+ Q C
+"RTN","RGUTMTL",25,0)
+ ; Create/delete an MTL cross reference for term
+"RTN","RGUTMTL",26,0)
+XREF(RGRT,RGTRM,RGDA,RGDEL) ;
+"RTN","RGUTMTL",27,0)
+ N RGZ,RGG
+"RTN","RGUTMTL",28,0)
+ S RGZ=$L(RGRT),RGG=$S($E(RGRT,RGZ)=")":$E(RGRT,1,RGZ-1)_",",1:RGRT_"(")_"RGZ,",RGZ=$C(1)
+"RTN","RGUTMTL",29,0)
+ F  S RGZ=$O(RGDA(RGZ),-1) Q:'RGZ  S RGG=RGG_""""_RGDA(RGZ)_""","
+"RTN","RGUTMTL",30,0)
+ S RGG=RGG_""""_RGDA_""")"
+"RTN","RGUTMTL",31,0)
+ Q:'$$PARSE(RGTRM,.RGZ)
+"RTN","RGUTMTL",32,0)
+ S RGZ="",RGDEL=''$G(RGDEL)
+"RTN","RGUTMTL",33,0)
+ L +@RGRT:30
+"RTN","RGUTMTL",34,0)
+ F  S RGZ=$O(RGZ(RGZ)) Q:RGZ=""  D
+"RTN","RGUTMTL",35,0)
+ .I ''$D(@RGG)=RGDEL D
+"RTN","RGUTMTL",36,0)
+ ..I RGDEL K @RGG  K:$D(@RGRT@(RGZ))<10 @RGRT@(RGZ)
+"RTN","RGUTMTL",37,0)
+ ..E  D:'$D(@RGRT@(RGZ)) REFNEW(RGZ) S @RGG=""
+"RTN","RGUTMTL",38,0)
+ ..D REFCNT(RGZ,$S(RGDEL:-1,1:1))
+"RTN","RGUTMTL",39,0)
+ L -@RGRT
+"RTN","RGUTMTL",40,0)
+ Q
+"RTN","RGUTMTL",41,0)
+ ; Increment/decrement reference count for term and its stems
+"RTN","RGUTMTL",42,0)
+REFCNT(RGX,RGI) ;
+"RTN","RGUTMTL",43,0)
+ Q:'$L(RGX)
+"RTN","RGUTMTL",44,0)
+ I $D(@RGRT@(RGX)) D
+"RTN","RGUTMTL",45,0)
+ .N RGZ
+"RTN","RGUTMTL",46,0)
+ .S RGZ=$G(@RGRT@(RGX))+RGI
+"RTN","RGUTMTL",47,0)
+ .I RGZ<1 K @RGRT@(RGX)
+"RTN","RGUTMTL",48,0)
+ .E  S @RGRT@(RGX)=RGZ
+"RTN","RGUTMTL",49,0)
+ D REFCNT($E(RGX,1,$L(RGX)-1),RGI)
+"RTN","RGUTMTL",50,0)
+ Q
+"RTN","RGUTMTL",51,0)
+ ; Create new term reference
+"RTN","RGUTMTL",52,0)
+REFNEW(RGX) ;
+"RTN","RGUTMTL",53,0)
+ N RGZ,RGC,RGABR
+"RTN","RGUTMTL",54,0)
+ S RGZ=RGX,RGC=0,RGABR=0
+"RTN","RGUTMTL",55,0)
+ F  S RGZ=$$STEM(RGZ,RGX) Q:'$L(RGZ)  S RGC=RGC+$G(@RGRT@(RGZ)),RGZ=RGZ_$C(255)
+"RTN","RGUTMTL",56,0)
+ S @RGRT@(RGX)=RGC
+"RTN","RGUTMTL",57,0)
+ Q
+"RTN","RGUTMTL",58,0)
+ ; Lookup a term in an MTL index
+"RTN","RGUTMTL",59,0)
+ ; RGRT  = Root of index (e.g., ^RGCOD(990.9,"AD"))
+"RTN","RGUTMTL",60,0)
+ ; RGTRM = Term to lookup
+"RTN","RGUTMTL",61,0)
+ ; RGRTN = Root of returned array (note: killed before populated)
+"RTN","RGUTMTL",62,0)
+ ; RGABR = If nonzero, user can abort lookup with ^
+"RTN","RGUTMTL",63,0)
+LKP(RGRT,RGTRM,RGRTN,RGABR) ;
+"RTN","RGUTMTL",64,0)
+ N RGX,RGY,RGW,RGF,RGIEN,RGL,RGM,RGTRM1
+"RTN","RGUTMTL",65,0)
+ I $$NEWERR^%ZTER N $ET S $ET=""
+"RTN","RGUTMTL",66,0)
+ K @RGRTN
+"RTN","RGUTMTL",67,0)
+ S RGABR=+$G(RGABR),@$$TRAP^RGUTOS("LKP2^RGUTMTL")
+"RTN","RGUTMTL",68,0)
+ I $$PARSE(RGTRM,.RGTRM)=1 S RGW(1,$O(RGTRM("")))=""
+"RTN","RGUTMTL",69,0)
+ E  D
+"RTN","RGUTMTL",70,0)
+ .S RGTRM="",RGM=9999999999
+"RTN","RGUTMTL",71,0)
+ .F  S RGTRM=$O(RGTRM(RGTRM)) Q:RGTRM=""  D  Q:RGL<0
+"RTN","RGUTMTL",72,0)
+ ..S RGX=RGTRM(RGTRM)["=",RGY=RGTRM(RGTRM)["~",RGTRM1="",RGL=$S(RGY:9999999999,1:-1)
+"RTN","RGUTMTL",73,0)
+ ..I 'RGY F  S RGTRM1=$$STEM(RGTRM1,RGTRM,RGX) Q:RGTRM1=""  D:$D(^(RGTRM1))>1  Q:RGL>RGM
+"RTN","RGUTMTL",74,0)
+ ...S:RGL=-1 RGL=0
+"RTN","RGUTMTL",75,0)
+ ...S RGL=RGL+$G(^(RGTRM1))
+"RTN","RGUTMTL",76,0)
+ ...S RGTRM1=RGTRM1_$C(255)
+"RTN","RGUTMTL",77,0)
+ ..S RGW(RGL,RGTRM)=""
+"RTN","RGUTMTL",78,0)
+ ..I RGL>0,RGL<RGM S RGM=RGL
+"RTN","RGUTMTL",79,0)
+ ..D:RGABR ABORT
+"RTN","RGUTMTL",80,0)
+ Q:$D(RGW(-1)) 0
+"RTN","RGUTMTL",81,0)
+ S RGW="",RGF=0
+"RTN","RGUTMTL",82,0)
+ F  S RGW=$O(RGW(RGW)),RGTRM="" Q:RGW=""  D  Q:RGF=-1
+"RTN","RGUTMTL",83,0)
+ .F  S RGTRM=$O(RGW(RGW,RGTRM)) Q:RGTRM=""  D  Q:RGF=-1
+"RTN","RGUTMTL",84,0)
+ ..S RGX=RGTRM(RGTRM)["=",RGY=RGTRM(RGTRM)["~"
+"RTN","RGUTMTL",85,0)
+ ..I RGF D
+"RTN","RGUTMTL",86,0)
+ ...S RGIEN=0
+"RTN","RGUTMTL",87,0)
+ ...F  S RGIEN=$O(@RGRTN@(RGIEN)),RGTRM1="" Q:'RGIEN  D  Q:RGF=-1
+"RTN","RGUTMTL",88,0)
+ ....F  S RGTRM1=$$STEM(RGTRM1,RGTRM,RGX) Q:RGTRM1=""  Q:$D(^(RGTRM1,RGIEN))
+"RTN","RGUTMTL",89,0)
+ ....I RGY-(RGTRM1="") K @RGRTN@(RGIEN) S:$D(@RGRTN)'>1 RGF=-1
+"RTN","RGUTMTL",90,0)
+ ..E  D
+"RTN","RGUTMTL",91,0)
+ ...S RGTRM1="",RGF=1
+"RTN","RGUTMTL",92,0)
+ ...F  S RGTRM1=$$STEM(RGTRM1,RGTRM,RGX) Q:RGTRM1=""  M @RGRTN=^(RGTRM1)
+"RTN","RGUTMTL",93,0)
+ ...S:$D(@RGRTN)'>1 RGF=-1
+"RTN","RGUTMTL",94,0)
+ Q $D(@RGRTN)>1
+"RTN","RGUTMTL",95,0)
+LKP2 K @RGRTN
+"RTN","RGUTMTL",96,0)
+ Q -1
+"RTN","RGUTMTL",97,0)
+ ; Check for user abort
+"RTN","RGUTMTL",98,0)
+ABORT N RGZ
+"RTN","RGUTMTL",99,0)
+ R RGZ#1:0
+"RTN","RGUTMTL",100,0)
+ D:RGZ=U RAISE^RGUTOS()
+"RTN","RGUTMTL",101,0)
+ Q
+"RTN","RGUTMTL",102,0)
+ ; Return in successive calls all terms sharing common stem
+"RTN","RGUTMTL",103,0)
+ ; (sets naked reference)
+"RTN","RGUTMTL",104,0)
+STEM(RGLAST,RGSTEM,RGF) ;
+"RTN","RGUTMTL",105,0)
+ D:RGABR ABORT
+"RTN","RGUTMTL",106,0)
+ I RGLAST="" S RGLAST=RGSTEM Q:$D(@RGRT@(RGLAST)) RGLAST
+"RTN","RGUTMTL",107,0)
+ Q:$G(RGF) ""
+"RTN","RGUTMTL",108,0)
+ S RGLAST=$O(@RGRT@(RGLAST))
+"RTN","RGUTMTL",109,0)
+ Q $S($E(RGLAST,1,$L(RGSTEM))=RGSTEM:RGLAST,1:"")
+"RTN","RGUTNTEG")
+0^72^B4457644
+"RTN","RGUTNTEG",1,0)
+RGUTNTEG ;ISC/XTSUMBLD KERNEL - Package checksum checker ;03-Mar-2015 14:24;DKM
+"RTN","RGUTNTEG",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20,2007;Build 198
+"RTN","RGUTNTEG",3,0)
+ ;;7.3;3070531.172703
+"RTN","RGUTNTEG",4,0)
+ S XT4="I 1",X=$T(+3) W !!,"Checksum routine created on ",$P(X,";",4)," by KERNEL V",$P(X,";",3),!
+"RTN","RGUTNTEG",5,0)
+CONT F XT1=1:1 S XT2=$T(ROU+XT1) Q:XT2=""  S X=$P(XT2," ",1),XT3=$P(XT2,";",3) X XT4 I $T W !,X X ^%ZOSF("TEST") S:'$T XT3=0 X:XT3 ^%ZOSF("RSUM") W ?10,$S('XT3:"Routine not in UCI",XT3'=Y:"Calculated "_$C(7)_Y_", off by "_(Y-XT3),1:"ok")
+"RTN","RGUTNTEG",6,0)
+ ;
+"RTN","RGUTNTEG",7,0)
+ K %1,%2,%3,X,Y,XT1,XT2,XT3,XT4 Q
+"RTN","RGUTNTEG",8,0)
+ONE S XT4="I $D(^UTILITY($J,X))",X=$T(+3) W !!,"Checksum routine created on ",$P(X,";",4)," by KERNEL V",$P(X,";",3),!
+"RTN","RGUTNTEG",9,0)
+ W !,"Check a subset of routines:" K ^UTILITY($J) X ^%ZOSF("RSEL")
+"RTN","RGUTNTEG",10,0)
+ W ! G CONT
+"RTN","RGUTNTEG",11,0)
+ROU ;;
+"RTN","RGUTNTEG",12,0)
+RGUT ;;7860723
+"RTN","RGUTNTEG",13,0)
+RGUTSTX ;;4121035
+"RTN","RGUTNTEG",14,0)
+RGUTSTX0 ;;3170389
+"RTN","RGUTNTEG",15,0)
+RGUTSTX1 ;;5106879
+"RTN","RGUTNTEG",16,0)
+RGUTALR ;;928023
+"RTN","RGUTNTEG",17,0)
+RGUTBIG ;;6024487
+"RTN","RGUTNTEG",18,0)
+RGUTDAT ;;5928509
+"RTN","RGUTNTEG",19,0)
+RGUTDIC ;;7938841
+"RTN","RGUTNTEG",20,0)
+RGUTDT ;;3374353
+"RTN","RGUTNTEG",21,0)
+RGUTEDT ;;16189636
+"RTN","RGUTNTEG",22,0)
+RGUTIMP ;;4666764
+"RTN","RGUTNTEG",23,0)
+RGUTIN0 ;;1050344
+"RTN","RGUTNTEG",24,0)
+RGUTIN16 ;;1582494
+"RTN","RGUTNTEG",25,0)
+RGUTIN18 ;;1178580
+"RTN","RGUTNTEG",26,0)
+RGUTIN8 ;;1256732
+"RTN","RGUTNTEG",27,0)
+RGUTLK2 ;;13861180
+"RTN","RGUTNTEG",28,0)
+RGUTLKP ;;7525106
+"RTN","RGUTNTEG",29,0)
+RGUTMTL ;;4714339
+"RTN","RGUTNTEG",30,0)
+RGUTOS ;;2258460
+"RTN","RGUTNTEG",31,0)
+RGUTOS1 ;;2630722
+"RTN","RGUTNTEG",32,0)
+RGUTRPC ;;4585641
+"RTN","RGUTNTEG",33,0)
+RGUTTSK ;;891526
+"RTN","RGUTNTEG",34,0)
+RGUTUSR ;;1781283
+"RTN","RGUTNTEG",35,0)
+RGUTUU ;;1311666
+"RTN","RGUTNTEG",36,0)
+RGUTINIT ;;3174314
+"RTN","RGUTNTEG",37,0)
+RGUTHFS ;;2629858
+"RTN","RGUTNTEG",38,0)
+RGUTDDR ;;9459760
+"RTN","RGUTNTEG",39,0)
+RGUTRPRT ;;1778623
+"RTN","RGUTNTEG",40,0)
+RGUTREG ;;578780
+"RTN","RGUTNTEG",41,0)
+RGUTBC28 ;;2148213
+"RTN","RGUTNTEG",42,0)
+RGUTBC39 ;;2796261
+"RTN","RGUTNTEG",43,0)
+RGUTBCDA ;;3981182
+"RTN","RGUTNTEG",44,0)
+RGUTIN68 ;;1159584
+"RTN","RGUTNTEG",45,0)
+RGUTIN58 ;;1357669
+"RTN","RGUTNTEG",46,0)
+RGUT1 ;;508281
+"RTN","RGUTOS")
+0^53^B7607307
+"RTN","RGUTOS",1,0)
+RGUTOS ;RI/CBMI/DKM - Platform-dependent operations;05-Mar-2015 15:03;DKM
+"RTN","RGUTOS",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTOS",3,0)
+ ;;
+"RTN","RGUTOS",4,0)
+ ;=================================================================
+"RTN","RGUTOS",5,0)
+ ; Return version #
+"RTN","RGUTOS",6,0)
+VER() Q $P($T(+2),";",3)
+"RTN","RGUTOS",7,0)
+CVTFN(RGFIL,RGROOT) ;
+"RTN","RGUTOS",8,0)
+ N RGZ,RGZ1,RGD
+"RTN","RGUTOS",9,0)
+ S RGD=$$DIRDLM,RGROOT=$G(RGROOT)
+"RTN","RGUTOS",10,0)
+ S:$E(RGROOT,$L(RGROOT))=$E(RGD,3) RGROOT=$E(RGROOT,1,$L(RGROOT)-1)
+"RTN","RGUTOS",11,0)
+ S RGZ=$L(RGFIL,"/"),RGZ1=$P(RGFIL,"/",1,RGZ-1),RGFIL=$P(RGFIL,"/",RGZ)
+"RTN","RGUTOS",12,0)
+ S:$L(RGZ1) RGROOT=RGROOT_$E(RGD,$S($L(RGROOT):2,1:1))_$TR(RGZ1,"/.-",$E(RGD,2))
+"RTN","RGUTOS",13,0)
+ Q RGROOT_$S($L(RGROOT):$E(RGD,3),1:"")_RGFIL
+"RTN","RGUTOS",14,0)
+ ; Set right margin
+"RTN","RGUTOS",15,0)
+RM(X) ;EP
+"RTN","RGUTOS",16,0)
+ X ^%ZOSF("RM")
+"RTN","RGUTOS",17,0)
+ Q
+"RTN","RGUTOS",18,0)
+ ; Test for tag/routine
+"RTN","RGUTOS",19,0)
+TEST(X) ;EP
+"RTN","RGUTOS",20,0)
+ N Z
+"RTN","RGUTOS",21,0)
+ S:X[U Z=$P(X,U),X=$P(X,U,2)
+"RTN","RGUTOS",22,0)
+ Q:'$L(X)!(X'?.1"%"1.AN) 0
+"RTN","RGUTOS",23,0)
+ X ^%ZOSF("TEST")
+"RTN","RGUTOS",24,0)
+ Q $S('$T:0,$G(Z)="":1,Z'?.1"%"1.AN:0,1:$T(@Z^@X)'="")
+"RTN","RGUTOS",25,0)
+ETRAP() Q $$NEWERR^%ZTER
+"RTN","RGUTOS",26,0)
+ ; Open a host file
+"RTN","RGUTOS",27,0)
+OPENX(X1,X2) ;EP
+"RTN","RGUTOS",28,0)
+ D OPEN(.X1,.X2)
+"RTN","RGUTOS",29,0)
+ Q X1
+"RTN","RGUTOS",30,0)
+ ;;
+"RTN","RGUTOS",31,0)
+ ;=================================================================
+"RTN","RGUTOS",32,0)
+ ; Open a host file
+"RTN","RGUTOS",33,0)
+OPEN(X1,X2) ;EP
+"RTN","RGUTOS",34,0)
+ O X1:$S("Rr"[$G(X2):"RS","Ww"[X2:"WNS","Bb"[X2:"RF",1:""):0
+"RTN","RGUTOS",35,0)
+ E  ZT "NOPEN"
+"RTN","RGUTOS",36,0)
+ U X1
+"RTN","RGUTOS",37,0)
+ S ^TMP("RGUTHFS",$J,X1)=""
+"RTN","RGUTOS",38,0)
+ Q
+"RTN","RGUTOS",39,0)
+ ; Close a host file
+"RTN","RGUTOS",40,0)
+CLOSE(X) ;EP
+"RTN","RGUTOS",41,0)
+ C X
+"RTN","RGUTOS",42,0)
+ K ^TMP("RGUTHFS",$J,X)
+"RTN","RGUTOS",43,0)
+ Q
+"RTN","RGUTOS",44,0)
+ ; Close all open host files
+"RTN","RGUTOS",45,0)
+CLOSEALL ;EP
+"RTN","RGUTOS",46,0)
+ N Z
+"RTN","RGUTOS",47,0)
+ S Z=""
+"RTN","RGUTOS",48,0)
+ F  S Z=$O(^TMP("RGUTHFS",$J,Z)) Q:Z=""  C Z
+"RTN","RGUTOS",49,0)
+ K ^TMP("RGUTHFS",$J)
+"RTN","RGUTOS",50,0)
+ Q
+"RTN","RGUTOS",51,0)
+EOF ZT:$ZA=-1 "ENDOFFILE"
+"RTN","RGUTOS",52,0)
+ Q
+"RTN","RGUTOS",53,0)
+EOFERR() Q:$ZE["ENDOFFILE"
+"RTN","RGUTOS",54,0)
+ ; Read a line of data
+"RTN","RGUTOS",55,0)
+READ(X,Y) ;EP
+"RTN","RGUTOS",56,0)
+ N $ET
+"RTN","RGUTOS",57,0)
+ S $ET="",$ZT="READX"
+"RTN","RGUTOS",58,0)
+ U $G(Y,$I)
+"RTN","RGUTOS",59,0)
+ Q:$ZEOF 1
+"RTN","RGUTOS",60,0)
+ R X:5
+"RTN","RGUTOS",61,0)
+ Q:$T 0
+"RTN","RGUTOS",62,0)
+READX Q 1
+"RTN","RGUTOS",63,0)
+ ; Delete a host file
+"RTN","RGUTOS",64,0)
+DELETE(X) ;EP
+"RTN","RGUTOS",65,0)
+ S X=$ZF(-1,"rm """_X_"""")
+"RTN","RGUTOS",66,0)
+ Q
+"RTN","RGUTOS",67,0)
+ ; Rename a host file
+"RTN","RGUTOS",68,0)
+RENAME(X1,X2) ;EP
+"RTN","RGUTOS",69,0)
+ S X1=$ZF(-1,"mv """_X1_""" """_X2_"""")
+"RTN","RGUTOS",70,0)
+ Q
+"RTN","RGUTOS",71,0)
+ ; Generate directory listing
+"RTN","RGUTOS",72,0)
+DIR(X1,X2,X3) ;EP
+"RTN","RGUTOS",73,0)
+ N Z,Z1,FDLM
+"RTN","RGUTOS",74,0)
+ S FDLM=$E($$DIRDLM,1)
+"RTN","RGUTOS",75,0)
+ S X3=$G(X3,$NA(^UTILITY("DIR",$J)))
+"RTN","RGUTOS",76,0)
+ K @X3
+"RTN","RGUTOS",77,0)
+ S:'$G(X2) X2=9999999999
+"RTN","RGUTOS",78,0)
+ F Z=1:1:X2 S Z1=$ZSEARCH(X1),X1="" Q:Z1=""  D
+"RTN","RGUTOS",79,0)
+ .S Z1=$P(Z1,FDLM,$L(Z1,FDLM))
+"RTN","RGUTOS",80,0)
+ .S:$TR(Z1,".")'="" @X3@(Z1)=""
+"RTN","RGUTOS",81,0)
+ Q
+"RTN","RGUTOS",82,0)
+ ; Return path delimiters
+"RTN","RGUTOS",83,0)
+DIRDLM() ;EP
+"RTN","RGUTOS",84,0)
+ Q "///"
+"RTN","RGUTOS",85,0)
+ ; Return default working directory
+"RTN","RGUTOS",86,0)
+DEFDIR(X) ;EP
+"RTN","RGUTOS",87,0)
+ N FDLM
+"RTN","RGUTOS",88,0)
+ S FDLM=$E($$DIRDLM,1)
+"RTN","RGUTOS",89,0)
+ S X=$G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
+"RTN","RGUTOS",90,0)
+ S:$E(X,$L(X))'=FDLM X=X_FDLM
+"RTN","RGUTOS",91,0)
+ Q X
+"RTN","RGUTOS",92,0)
+ ; Parse current error
+"RTN","RGUTOS",93,0)
+ERR(X1,X2,X3) ;EP
+"RTN","RGUTOS",94,0)
+ S X1=$E($P($ZE,">"),2,99),X2=$P($P($ZE,">",2),":"),X3=X1
+"RTN","RGUTOS",95,0)
+ S:X2["*" X2=""
+"RTN","RGUTOS",96,0)
+ S:$E(X1)="Z" X3=$E(X1,2,99),X1="ZTRAP"
+"RTN","RGUTOS",97,0)
+ Q
+"RTN","RGUTOS",98,0)
+ ; Raise an exception
+"RTN","RGUTOS",99,0)
+RAISE(X) ;EP
+"RTN","RGUTOS",100,0)
+ ZT $G(X)
+"RTN","RGUTOS",101,0)
+ ; Set error trap
+"RTN","RGUTOS",102,0)
+TRAP(X) ;EP
+"RTN","RGUTOS",103,0)
+ Q "$ZT="""_$G(X)_""""
+"RTN","RGUTOS",104,0)
+ ; Return size of a file
+"RTN","RGUTOS",105,0)
+SIZE(X) ;EP
+"RTN","RGUTOS",106,0)
+ Q 0
+"RTN","RGUTOS",107,0)
+ ; Return free disk space
+"RTN","RGUTOS",108,0)
+FREE(X) ;EP
+"RTN","RGUTOS",109,0)
+ Q 0
+"RTN","RGUTOS",110,0)
+ ; Return host ip address
+"RTN","RGUTOS",111,0)
+HOSTIP() ;EP
+"RTN","RGUTOS",112,0)
+ Q $P($P($ZU(131,1),","),":",2)
+"RTN","RGUTOS",113,0)
+ ; Return host name
+"RTN","RGUTOS",114,0)
+HOSTNAME() ;EP
+"RTN","RGUTOS",115,0)
+ Q $P($P($ZU(131,1),","),":")
+"RTN","RGUTOS",116,0)
+ ; Return client ip address
+"RTN","RGUTOS",117,0)
+CLIENTIP() ;EP
+"RTN","RGUTOS",118,0)
+ N IP,$ET
+"RTN","RGUTOS",119,0)
+ S $ET="S $EC=""""",IP=$ZU(111,0)
+"RTN","RGUTOS",120,0)
+ Q $A(IP,1)_"."_$A(IP,2)_"."_$A(IP,3)_"."_$A(IP,4)
+"RTN","RGUTOS1")
+0^54^B10134674
+"RTN","RGUTOS1",1,0)
+RGUTOS ;RI/CBMI/DKM - Platform-dependent operations;03-Mar-2015 14:24;DKM
+"RTN","RGUTOS1",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTOS1",3,0)
+ ;;
+"RTN","RGUTOS1",4,0)
+ ;=================================================================
+"RTN","RGUTOS1",5,0)
+ ; Return version # of RTL
+"RTN","RGUTOS1",6,0)
+VER() ;EP
+"RTN","RGUTOS1",7,0)
+ Q +$P($T(RGUTOS+1),";",3)
+"RTN","RGUTOS1",8,0)
+ ; Set right margin
+"RTN","RGUTOS1",9,0)
+RM(X) ;EP
+"RTN","RGUTOS1",10,0)
+ X ^%ZOSF("RM")
+"RTN","RGUTOS1",11,0)
+ Q
+"RTN","RGUTOS1",12,0)
+ ; Test for routine/tag
+"RTN","RGUTOS1",13,0)
+TEST(X) ;EP
+"RTN","RGUTOS1",14,0)
+ N Z
+"RTN","RGUTOS1",15,0)
+ S:X[U Z=$P(X,U),X=$P(X,U,2)
+"RTN","RGUTOS1",16,0)
+ Q:'$L(X)!(X'?.1"%"1.AN) 0
+"RTN","RGUTOS1",17,0)
+ X ^%ZOSF("TEST")
+"RTN","RGUTOS1",18,0)
+ Q $S('$T:0,$G(Z)="":1,Z'?.1"%"1.AN:0,1:$T(@Z^@X)'="")
+"RTN","RGUTOS1",19,0)
+ ; Raise an exception
+"RTN","RGUTOS1",20,0)
+RAISE(X) ;EP
+"RTN","RGUTOS1",21,0)
+ ZT $G(X)
+"RTN","RGUTOS1",22,0)
+ ; Return code to set error trap
+"RTN","RGUTOS1",23,0)
+TRAP(X) ;EP
+"RTN","RGUTOS1",24,0)
+ Q $$SUBST^RGUT(^%ZOSF("TRAP"),"X",""""_X_"""")
+"RTN","RGUTOS1",25,0)
+ ; Check for $ET capability
+"RTN","RGUTOS1",26,0)
+ETRAP() ;EP
+"RTN","RGUTOS1",27,0)
+ Q $$NEWERR^%ZTER
+"RTN","RGUTOS1",28,0)
+ ; Open a file (extrinsic)
+"RTN","RGUTOS1",29,0)
+OPENX(X1,X2) ;EP
+"RTN","RGUTOS1",30,0)
+ D OPEN(.X1,.X2)
+"RTN","RGUTOS1",31,0)
+ Q X1
+"RTN","RGUTOS1",32,0)
+ ; Open a file
+"RTN","RGUTOS1",33,0)
+OPEN(X1,X2) ;EP
+"RTN","RGUTOS1",34,0)
+ N IO,POP,X3
+"RTN","RGUTOS1",35,0)
+ D PARSE(.X1,.X3),OPEN^%ZISH(X3_X1,X3,X1,$G(X2,"R"),32767)
+"RTN","RGUTOS1",36,0)
+ I POP ZT "OPEN"
+"RTN","RGUTOS1",37,0)
+ S ^XTMP("RGUTHFS",$J,IO)=X3_X1,X1=IO
+"RTN","RGUTOS1",38,0)
+ Q
+"RTN","RGUTOS1",39,0)
+ ; Close a file
+"RTN","RGUTOS1",40,0)
+CLOSE(X) ;EP
+"RTN","RGUTOS1",41,0)
+ N Y
+"RTN","RGUTOS1",42,0)
+ S Y=$G(^XTMP("RGUTHFS",$J,X)),IO=X
+"RTN","RGUTOS1",43,0)
+ K ^(X)
+"RTN","RGUTOS1",44,0)
+ D CLOSE^%ZISH(Y)
+"RTN","RGUTOS1",45,0)
+ Q
+"RTN","RGUTOS1",46,0)
+ ; Close all open HFS
+"RTN","RGUTOS1",47,0)
+CLOSEALL ;EP
+"RTN","RGUTOS1",48,0)
+ N Z
+"RTN","RGUTOS1",49,0)
+ S Z=""
+"RTN","RGUTOS1",50,0)
+ F  S Z=$O(^XTMP("RGUTHFS",$J,Z)) Q:Z=""  D CLOSE(Z)
+"RTN","RGUTOS1",51,0)
+ Q
+"RTN","RGUTOS1",52,0)
+ ; Parse out directory from filename
+"RTN","RGUTOS1",53,0)
+PARSE(X,Y) ;EP
+"RTN","RGUTOS1",54,0)
+ N D,Z
+"RTN","RGUTOS1",55,0)
+ S D=$E($$DIRDLM,3),Z=$L(X,D),Y=$P(X,D,1,Z-1),Y=$S($L(Y):Y,1:$$PWD^%ZISH)_$S(Z>1:D,1:""),X=$P(X,D,Z)
+"RTN","RGUTOS1",56,0)
+ Q
+"RTN","RGUTOS1",57,0)
+ ; Read a line
+"RTN","RGUTOS1",58,0)
+READ(X,Y) ;EP
+"RTN","RGUTOS1",59,0)
+ N IO,%ZA,%ZB,%ZC,%ZL
+"RTN","RGUTOS1",60,0)
+ S IO=$G(Y,$I)
+"RTN","RGUTOS1",61,0)
+ D READNXT^%ZISH(.X)
+"RTN","RGUTOS1",62,0)
+ U IO
+"RTN","RGUTOS1",63,0)
+ Q $$STATUS^%ZISH&'$L(X)
+"RTN","RGUTOS1",64,0)
+ ; Delete a file
+"RTN","RGUTOS1",65,0)
+DELETE(X) ;EP
+"RTN","RGUTOS1",66,0)
+ N Z
+"RTN","RGUTOS1",67,0)
+ D PARSE(.X,.Z)
+"RTN","RGUTOS1",68,0)
+ S:$L(X) Z(X)="",Z=$$DEL^%ZISH(Z,"Z")
+"RTN","RGUTOS1",69,0)
+ Q
+"RTN","RGUTOS1",70,0)
+ ; Rename a file
+"RTN","RGUTOS1",71,0)
+RENAME(X1,X2) ;EP
+"RTN","RGUTOS1",72,0)
+ N X3,X4
+"RTN","RGUTOS1",73,0)
+ D PARSE(.X1,.X3),PARSE(.X2,.X4)
+"RTN","RGUTOS1",74,0)
+ I $$MV^%ZISH(X3,X1,X4,X2)
+"RTN","RGUTOS1",75,0)
+ Q
+"RTN","RGUTOS1",76,0)
+ ; List files
+"RTN","RGUTOS1",77,0)
+DIR(X1,X2,X3) ;EP
+"RTN","RGUTOS1",78,0)
+ N Z
+"RTN","RGUTOS1",79,0)
+ D PARSE(.X1,.Z)
+"RTN","RGUTOS1",80,0)
+ S Z(X1)="",X3=$G(X3,"^UTILITY(""DIR"",$J)")
+"RTN","RGUTOS1",81,0)
+ K @X3
+"RTN","RGUTOS1",82,0)
+ I $$LIST^%ZISH(Z,"Z",X3)
+"RTN","RGUTOS1",83,0)
+ Q
+"RTN","RGUTOS1",84,0)
+ ; Force error if at EOF
+"RTN","RGUTOS1",85,0)
+EOF I $$STATUS^%ZISH ZT "EOF"
+"RTN","RGUTOS1",86,0)
+ Q
+"RTN","RGUTOS1",87,0)
+ ; Returns true if current error is EOF
+"RTN","RGUTOS1",88,0)
+EOFERR() ;EP
+"RTN","RGUTOS1",89,0)
+ Q $$EC^%ZOSV["EOF"
+"RTN","RGUTOS1",90,0)
+ ; URL format filename-->HFS format
+"RTN","RGUTOS1",91,0)
+CVTFN(RGFIL,RGROOT) ;EP
+"RTN","RGUTOS1",92,0)
+ N RGZ,RGZ1,RGD
+"RTN","RGUTOS1",93,0)
+ S RGD=$$DIRDLM,RGROOT=$G(RGROOT)
+"RTN","RGUTOS1",94,0)
+ S:$E(RGROOT,$L(RGROOT))=$E(RGD,3) RGROOT=$E(RGROOT,1,$L(RGROOT)-1)
+"RTN","RGUTOS1",95,0)
+ S RGZ=$L(RGFIL,"/"),RGZ1=$P(RGFIL,"/",1,RGZ-1),RGFIL=$P(RGFIL,"/",RGZ)
+"RTN","RGUTOS1",96,0)
+ S:$L(RGZ1) RGROOT=RGROOT_$E(RGD,$S($L(RGROOT):2,1:1))_$TR(RGZ1,"/.-",$E(RGD,2))
+"RTN","RGUTOS1",97,0)
+ Q RGROOT_$S($L(RGROOT):$E(RGD,3),1:"")_RGFIL
+"RTN","RGUTOS1",98,0)
+ ; Return directory delimiters
+"RTN","RGUTOS1",99,0)
+DIRDLM() ;EP
+"RTN","RGUTOS1",100,0)
+ N X
+"RTN","RGUTOS1",101,0)
+ S X=$$PWD^%ZISH
+"RTN","RGUTOS1",102,0)
+ Q $S(X["[":"[.]",X["\":"\\\",1:"///")
+"RTN","RGUTOS1",103,0)
+ ; Parse error data
+"RTN","RGUTOS1",104,0)
+ERR(X1,X2,X3) ;EP
+"RTN","RGUTOS1",105,0)
+ N X
+"RTN","RGUTOS1",106,0)
+ S X=$$EC^%ZOSV,X1=$$VERSION^%ZOSV(1)
+"RTN","RGUTOS1",107,0)
+ G ERRMSM:X1["MSM",ERRDSM:X1["DSM"
+"RTN","RGUTOS1",108,0)
+ S (X1,X2,X3)=""
+"RTN","RGUTOS1",109,0)
+ Q
+"RTN","RGUTOS1",110,0)
+ERRMSM S X1=$E($P(X,">"),2,99),X2=$P($P(X,">",2),":"),X3=X1
+"RTN","RGUTOS1",111,0)
+ S:X2["*" X2=""
+"RTN","RGUTOS1",112,0)
+ S:$E(X1)="Z" X3=$E(X1,2,99),X1="ZTRAP"
+"RTN","RGUTOS1",113,0)
+ Q
+"RTN","RGUTOS1",114,0)
+ERRDSM S X1=$P($P(X,", ",2),"-",3),X2=$P($P(X,", "),":"),X3=$$TRIM^RGUT($P(X,", ",$S(X1="ZTRAP":4,1:3)))
+"RTN","RGUTOS1",115,0)
+ Q
+"RTN","RGUTREG")
+0^64^B709436
+"RTN","RGUTREG",1,0)
+RGUTREG ;RI/CBMI/DKM - Various registration actions ;03-Mar-2015 14:24;DKM
+"RTN","RGUTREG",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTREG",3,0)
+ ;;
+"RTN","RGUTREG",4,0)
+ ;=================================================================
+"RTN","RGUTREG",5,0)
+ ; Register a protocol to an extended action protocol
+"RTN","RGUTREG",6,0)
+ ; Input: P-Parent protocol
+"RTN","RGUTREG",7,0)
+ ;        C-Child protocol
+"RTN","RGUTREG",8,0)
+REGPROT(P,C,ERR) ;
+"RTN","RGUTREG",9,0)
+ N IENARY,PIEN,AIEN,FDA
+"RTN","RGUTREG",10,0)
+ D
+"RTN","RGUTREG",11,0)
+ .I '$L(P)!('$L(C)) S ERR="Missing input parameter" Q
+"RTN","RGUTREG",12,0)
+ .S IENARY(1)=$$FIND1^DIC(101,"","",P)
+"RTN","RGUTREG",13,0)
+ .S AIEN=$$FIND1^DIC(101,"","",C)
+"RTN","RGUTREG",14,0)
+ .I 'IENARY(1)!'AIEN S ERR="Unknown protocol name" Q
+"RTN","RGUTREG",15,0)
+ .S FDA(101.01,"?+2,"_IENARY(1)_",",.01)=AIEN
+"RTN","RGUTREG",16,0)
+ .D UPDATE^DIE("S","FDA","IENARY","ERR")
+"RTN","RGUTREG",17,0)
+ Q:$Q $G(ERR)=""
+"RTN","RGUTREG",18,0)
+ Q
+"RTN","RGUTRPC")
+0^56^B16275171
+"RTN","RGUTRPC",1,0)
+RGUTRPC ;RI/CBMI/DKM - RPC Encapsulations for RGUT routines ;03-Mar-2015 14:24;DKM
+"RTN","RGUTRPC",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTRPC",3,0)
+ ;;
+"RTN","RGUTRPC",4,0)
+ ;=================================================================
+"RTN","RGUTRPC",5,0)
+ ; RPC: RGUTDIC
+"RTN","RGUTRPC",6,0)
+DIC(RGDATA,RGBM,RGCMD,RGARG) ;
+"RTN","RGUTRPC",7,0)
+ S RGDATA(0)=$$ENTRY^RGUTDIC(RGBM,RGCMD)
+"RTN","RGUTRPC",8,0)
+ Q
+"RTN","RGUTRPC",9,0)
+ ; RPC: RGUTSTX
+"RTN","RGUTRPC",10,0)
+MSYNTAX(RGDATA,RGCODE,RGOPT) ;
+"RTN","RGUTRPC",11,0)
+ S RGDATA=$$ENTRY^RGUTSTX(RGCODE,.RGOPT)
+"RTN","RGUTRPC",12,0)
+ Q
+"RTN","RGUTRPC",13,0)
+ ; RPC: Return a group of entries from a file
+"RTN","RGUTRPC",14,0)
+ ; RGFN   = File #
+"RTN","RGUTRPC",15,0)
+ ; RGFROM = Starting entry (default is null)
+"RTN","RGUTRPC",16,0)
+ ; RGDIR  = Direction (default = 1)
+"RTN","RGUTRPC",17,0)
+ ; RGSCN  = Screening logic (optional)
+"RTN","RGUTRPC",18,0)
+ ; RGMAX  = Maximum entries (default = 20)
+"RTN","RGUTRPC",19,0)
+ ; RGXRF  = Cross reference (default = B)
+"RTN","RGUTRPC",20,0)
+FILGET(RGDATA,RGFN,RGFROM,RGDIR,RGSCN,RGMAX,RGXRF) ;
+"RTN","RGUTRPC",21,0)
+ N RGIEN,RGGBL,RGTOT,Y
+"RTN","RGUTRPC",22,0)
+ S RGFROM=$G(RGFROM),RGDIR=$S($G(RGDIR)<0:-1,1:1),RGMAX=$G(RGMAX,20),RGXRF=$G(RGXRF,"B"),RGSCN=$G(RGSCN),RGGBL=$$ROOT^DILFD(RGFN,,1),RGTOT=0
+"RTN","RGUTRPC",23,0)
+ Q:'$L(RGGBL)
+"RTN","RGUTRPC",24,0)
+ F  Q:RGTOT'<RGMAX  S RGFROM=$O(@RGGBL@(RGXRF,RGFROM),RGDIR),RGIEN=0 Q:'$L(RGFROM)  D
+"RTN","RGUTRPC",25,0)
+ .F  S RGIEN=$O(@RGGBL@(RGXRF,RGFROM,RGIEN)) Q:'RGIEN  D
+"RTN","RGUTRPC",26,0)
+ ..Q:'$D(@RGGBL@(RGIEN,0))
+"RTN","RGUTRPC",27,0)
+ ..I $L(RGSCN) S Y=RGIEN X RGSCN E  Q
+"RTN","RGUTRPC",28,0)
+ ..S RGTOT=RGTOT+1,@RGDATA@(RGTOT)=RGIEN_U_RGFROM
+"RTN","RGUTRPC",29,0)
+ Q
+"RTN","RGUTRPC",30,0)
+ ; RPC: Show all or selected entries for a file
+"RTN","RGUTRPC",31,0)
+ ; RGGBL = File # or closed global reference
+"RTN","RGUTRPC",32,0)
+ ; RGIEN = Optional list of IENs to retrieve (default=ALL)
+"RTN","RGUTRPC",33,0)
+ ;          May be passed as single IEN or array with IENs as subscripts
+"RTN","RGUTRPC",34,0)
+FILENT(RGDATA,RGGBL,RGIEN) ;
+"RTN","RGUTRPC",35,0)
+ N RGG,RGX
+"RTN","RGUTRPC",36,0)
+ S:RGGBL=+RGGBL RGGBL=$$ROOT^DILFD(RGGBL,,1)
+"RTN","RGUTRPC",37,0)
+ S RGDATA=$$TMPGBL
+"RTN","RGUTRPC",38,0)
+ Q:'$L(RGGBL)
+"RTN","RGUTRPC",39,0)
+ S:$G(RGIEN) RGIEN(+RGIEN)=""
+"RTN","RGUTRPC",40,0)
+ S RGG=$S($D(RGIEN):"RGIEN",1:RGGBL),RGIEN=0
+"RTN","RGUTRPC",41,0)
+ F  S RGIEN=$O(@RGG@(RGIEN)) Q:'RGIEN  D
+"RTN","RGUTRPC",42,0)
+ .S RGX=$P($G(@RGGBL@(RGIEN,0)),U)
+"RTN","RGUTRPC",43,0)
+ .S:$L(RGX) @RGDATA@(RGIEN)=RGIEN_U_RGX
+"RTN","RGUTRPC",44,0)
+ Q
+"RTN","RGUTRPC",45,0)
+ ; RPC: Show IEN of next/previous entry in a file
+"RTN","RGUTRPC",46,0)
+FILNXT(RGDATA,RGGBL,RGIEN) ;
+"RTN","RGUTRPC",47,0)
+ N RGD
+"RTN","RGUTRPC",48,0)
+ S:RGGBL=+RGGBL RGGBL=$$ROOT^DILFD(RGGBL,,1)
+"RTN","RGUTRPC",49,0)
+ I RGIEN<0 S RGIEN=-RGIEN,RGD=-1
+"RTN","RGUTRPC",50,0)
+ E  S RGD=1
+"RTN","RGUTRPC",51,0)
+ S RGDATA=+$O(@RGGBL@(RGIEN),RGD)
+"RTN","RGUTRPC",52,0)
+ Q
+"RTN","RGUTRPC",53,0)
+ ; RPC: Convert date input to FM format
+"RTN","RGUTRPC",54,0)
+STRTODAT(DATA,VAL,FMT) ;
+"RTN","RGUTRPC",55,0)
+ N %DT,X,Y
+"RTN","RGUTRPC",56,0)
+ I VAL'["@",VAL[" " S VAL=$TR(VAL," ","@")
+"RTN","RGUTRPC",57,0)
+ I VAL["@",$TR($P(VAL,"@",2),":0")="" S $P(VAL,"@",2)="00:00:01"
+"RTN","RGUTRPC",58,0)
+ S %DT=$G(FMT,"TS"),X=VAL
+"RTN","RGUTRPC",59,0)
+ D ^%DT
+"RTN","RGUTRPC",60,0)
+ S DATA=$S(Y>0:Y,1:"")
+"RTN","RGUTRPC",61,0)
+ Q
+"RTN","RGUTRPC",62,0)
+ ; Return reference to temp global
+"RTN","RGUTRPC",63,0)
+TMPGBL(X) ;EP
+"RTN","RGUTRPC",64,0)
+ K ^TMP("RGUTRPC"_$G(X),$J) Q $NA(^($J))
+"RTN","RGUTRPC",65,0)
+ ; Register/unregister RPCs within a given namespace to a context
+"RTN","RGUTRPC",66,0)
+REGNMSP(NMSP,CTX,DEL) ;EP
+"RTN","RGUTRPC",67,0)
+ N RPC,IEN,LEN
+"RTN","RGUTRPC",68,0)
+ S LEN=$L(NMSP),CTX=+$$GETOPT(CTX)
+"RTN","RGUTRPC",69,0)
+ I $G(DEL) D
+"RTN","RGUTRPC",70,0)
+ .S IEN=0
+"RTN","RGUTRPC",71,0)
+ .F  S IEN=$O(^DIC(19,CTX,"RPC","B",IEN)) Q:'IEN  D
+"RTN","RGUTRPC",72,0)
+ ..I $E($G(^XWB(8994,IEN,0)),1,LEN)=NMSP,$$REGRPC(IEN,CTX,1)
+"RTN","RGUTRPC",73,0)
+ E  D
+"RTN","RGUTRPC",74,0)
+ .Q:LEN<2
+"RTN","RGUTRPC",75,0)
+ .S RPC=NMSP
+"RTN","RGUTRPC",76,0)
+ .F  D:$L(RPC)  S RPC=$O(^XWB(8994,"B",RPC)) Q:NMSP'=$E(RPC,1,LEN)
+"RTN","RGUTRPC",77,0)
+ ..F IEN=0:0 S IEN=$O(^XWB(8994,"B",RPC,IEN)) Q:'IEN  I $$REGRPC(IEN,.CTX)
+"RTN","RGUTRPC",78,0)
+ Q
+"RTN","RGUTRPC",79,0)
+ ; Register/unregister an RPC to/from a context
+"RTN","RGUTRPC",80,0)
+ ; RPC = IEN or name of RPC
+"RTN","RGUTRPC",81,0)
+ ; CTX = IEN or name of context
+"RTN","RGUTRPC",82,0)
+ ; DEL = If nonzero, the RPC is unregistered (defaults to 0)
+"RTN","RGUTRPC",83,0)
+ ; Returns -1 if already registered; 0 if failed; 1 if succeeded
+"RTN","RGUTRPC",84,0)
+REGRPC(RPC,CTX,DEL) ;EP
+"RTN","RGUTRPC",85,0)
+ S RPC=+$$GETRPC(RPC)
+"RTN","RGUTRPC",86,0)
+ Q $S(RPC<1:0,1:$$REGMULT(19.05,"RPC",RPC,.CTX,.DEL))
+"RTN","RGUTRPC",87,0)
+ ; Add/remove a context to/from the ITEM multiple of another context.
+"RTN","RGUTRPC",88,0)
+REGCTX(SRC,DST,DEL) ;EP
+"RTN","RGUTRPC",89,0)
+ S SRC=+$$GETOPT(SRC)
+"RTN","RGUTRPC",90,0)
+ Q $S('SRC:0,1:$$REGMULT(19.01,10,SRC,.DST,.DEL))
+"RTN","RGUTRPC",91,0)
+ ; Add/delete an entry to/from a specified OPTION multiple.
+"RTN","RGUTRPC",92,0)
+ ; SFN = Subfile #
+"RTN","RGUTRPC",93,0)
+ ; NOD = Subnode for multiple
+"RTN","RGUTRPC",94,0)
+ ; ITM = Item IEN to add
+"RTN","RGUTRPC",95,0)
+ ; CTX = Option to add to
+"RTN","RGUTRPC",96,0)
+ ; DEL = Delete flag (optional)
+"RTN","RGUTRPC",97,0)
+REGMULT(SFN,NOD,ITM,CTX,DEL) ;
+"RTN","RGUTRPC",98,0)
+ N FDA,IEN
+"RTN","RGUTRPC",99,0)
+ S CTX=+$$GETOPT(CTX)
+"RTN","RGUTRPC",100,0)
+ S DEL=+$G(DEL)
+"RTN","RGUTRPC",101,0)
+ S IEN=+$O(^DIC(19,CTX,NOD,"B",ITM,0))
+"RTN","RGUTRPC",102,0)
+ Q:'IEN=DEL -1
+"RTN","RGUTRPC",103,0)
+ K ^TMP("DIERR",$J)
+"RTN","RGUTRPC",104,0)
+ I DEL S FDA(SFN,IEN_","_CTX_",",.01)="@"
+"RTN","RGUTRPC",105,0)
+ E  S FDA(SFN,"+1,"_CTX_",",.01)=ITM
+"RTN","RGUTRPC",106,0)
+ D UPDATE^DIE("","FDA")
+"RTN","RGUTRPC",107,0)
+ S FDA='$D(^TMP("DIERR",$J)) K ^($J)
+"RTN","RGUTRPC",108,0)
+ Q FDA
+"RTN","RGUTRPC",109,0)
+ ; Register a protocol to an extended action protocol
+"RTN","RGUTRPC",110,0)
+ ; Input: P-Parent protocol
+"RTN","RGUTRPC",111,0)
+ ;        C-Child protocol
+"RTN","RGUTRPC",112,0)
+REGPROT(P,C,ERR) ;EP
+"RTN","RGUTRPC",113,0)
+ N IENARY,PIEN,AIEN,FDA
+"RTN","RGUTRPC",114,0)
+ D
+"RTN","RGUTRPC",115,0)
+ .I '$L(P)!('$L(C)) S ERR="Missing input parameter" Q
+"RTN","RGUTRPC",116,0)
+ .S IENARY(1)=$$FIND1^DIC(101,"","",P)
+"RTN","RGUTRPC",117,0)
+ .S AIEN=$$FIND1^DIC(101,"","",C)
+"RTN","RGUTRPC",118,0)
+ .I 'IENARY(1)!'AIEN S ERR="Unknown protocol name" Q
+"RTN","RGUTRPC",119,0)
+ .S FDA(101.01,"?+2,"_IENARY(1)_",",.01)=AIEN
+"RTN","RGUTRPC",120,0)
+ .D UPDATE^DIE("S","FDA","IENARY","ERR")
+"RTN","RGUTRPC",121,0)
+ Q:$Q $G(ERR)=""
+"RTN","RGUTRPC",122,0)
+ Q
+"RTN","RGUTRPC",123,0)
+ ; Remove nonexistent RPCs from context
+"RTN","RGUTRPC",124,0)
+CLNRPC(CTX) ;EP
+"RTN","RGUTRPC",125,0)
+ N IEN
+"RTN","RGUTRPC",126,0)
+ S CTX=+$$GETOPT(CTX)
+"RTN","RGUTRPC",127,0)
+ F IEN=0:0 S IEN=$O(^DIC(19,CTX,"RPC","B",IEN)) Q:'IEN  D:'$D(^XWB(8994,IEN)) REGRPC(IEN,CTX,1)
+"RTN","RGUTRPC",128,0)
+ Q
+"RTN","RGUTRPC",129,0)
+ ; Return IEN of option
+"RTN","RGUTRPC",130,0)
+GETOPT(X) ;EP
+"RTN","RGUTRPC",131,0)
+ N Y
+"RTN","RGUTRPC",132,0)
+ Q:X=+X X
+"RTN","RGUTRPC",133,0)
+ S Y=$$FIND1^DIC(19,"","X",X)
+"RTN","RGUTRPC",134,0)
+ W:'Y "Cannot find option "_X,!!
+"RTN","RGUTRPC",135,0)
+ Q Y
+"RTN","RGUTRPC",136,0)
+ ; Return IEN of RPC
+"RTN","RGUTRPC",137,0)
+GETRPC(X) ;EP
+"RTN","RGUTRPC",138,0)
+ N Y
+"RTN","RGUTRPC",139,0)
+ Q:X=+X X
+"RTN","RGUTRPC",140,0)
+ S Y=$$FIND1^DIC(8994,"","X",X)
+"RTN","RGUTRPC",141,0)
+ W:'Y "Cannot find RPC "_X,!!
+"RTN","RGUTRPC",142,0)
+ Q Y
+"RTN","RGUTRPRT")
+0^63^B2852241
+"RTN","RGUTRPRT",1,0)
+RGUTRPRT ;RI/CBMI/DKM - Routine Pretty Print Program ;03-Mar-2015 14:24;DKM
+"RTN","RGUTRPRT",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTRPRT",3,0)
+ ;;
+"RTN","RGUTRPRT",4,0)
+ ;=================================================================
+"RTN","RGUTRPRT",5,0)
+ N R,C,D,P,N,M,L,X,Y,B,W,Z,S,A,F,T,Q
+"RTN","RGUTRPRT",6,0)
+ D HOME^%ZIS,TITLE^RGUT("Routine Pretty Print")
+"RTN","RGUTRPRT",7,0)
+ X ^%ZOSF("RSEL")
+"RTN","RGUTRPRT",8,0)
+ I $O(^UTILITY($J,0))="" W "No routines selected.",!! K ^UTILITY($J) Q
+"RTN","RGUTRPRT",9,0)
+ D ^%ZIS
+"RTN","RGUTRPRT",10,0)
+ Q:POP
+"RTN","RGUTRPRT",11,0)
+ X ^%ZOSF("UCI")
+"RTN","RGUTRPRT",12,0)
+ S A=Y,R=0,C="     >>> ",W=IOM-$L(C)-1,M=$L(C)+1,B=$$UND^RGUT(W),T=$E(IOST,1,2)="C-",F=$S(T:IOF,1:""""""),Q=0
+"RTN","RGUTRPRT",13,0)
+ F  S R=$O(^UTILITY($J,R)) Q:R=""  D
+"RTN","RGUTRPRT",14,0)
+ .I IO'=IO(0) U IO(0) W !,"Printing "_R_"..."
+"RTN","RGUTRPRT",15,0)
+ .U IO
+"RTN","RGUTRPRT",16,0)
+ .S D=$$ENTRY^RGUTDT($H),P=0,$Y=IOSL,S=0
+"RTN","RGUTRPRT",17,0)
+ .X "ZL @R F N=1:1 S L=$T(+N) Q:'$L(L)  S ^UTILITY($J,R,N)=L,S=S+$L(L)+2"
+"RTN","RGUTRPRT",18,0)
+ .S S="("_$$FMTNUM^RGUT(S)_" bytes)"
+"RTN","RGUTRPRT",19,0)
+ .F N=0:0 S N=$O(^UTILITY($J,R,N)) Q:'N  D  Q:Q
+"RTN","RGUTRPRT",20,0)
+ ..S L=^(N),X=$P(L," "),L=X_$E("        ",$L(X)+1,8)_" "_$P(L," ",2,999),Z=""
+"RTN","RGUTRPRT",21,0)
+ ..F  Q:L=""!Q  D
+"RTN","RGUTRPRT",22,0)
+ ...S X=$E(L,1,W),L=$E(L,W+1,999)
+"RTN","RGUTRPRT",23,0)
+ ...D:IOSL-2<$Y HDR
+"RTN","RGUTRPRT",24,0)
+ ...Q:Q
+"RTN","RGUTRPRT",25,0)
+ ...W Z,?M,X,!
+"RTN","RGUTRPRT",26,0)
+ ...S Z=C
+"RTN","RGUTRPRT",27,0)
+ K ^UTILITY($J)
+"RTN","RGUTRPRT",28,0)
+ D ^%ZISC
+"RTN","RGUTRPRT",29,0)
+ Q
+"RTN","RGUTRPRT",30,0)
+HDR I P,T R "Press enter to continue...",Q:$G(DTIME,300) S Q=Q["^"!'$T Q:Q
+"RTN","RGUTRPRT",31,0)
+ S P=P+1,$Y=0
+"RTN","RGUTRPRT",32,0)
+ W @F,!?M,A,$$CTR(R),$$RJ("Page "_P),!
+"RTN","RGUTRPRT",33,0)
+ W ?M,$G(^DD("SITE")),$$CTR(S),$$RJ(D),!
+"RTN","RGUTRPRT",34,0)
+ W ?M,B,!!
+"RTN","RGUTRPRT",35,0)
+ S:P=1 F=IOF
+"RTN","RGUTRPRT",36,0)
+ Q
+"RTN","RGUTRPRT",37,0)
+CTR(X) W ?(IOM-$L(X)\2+M),X
+"RTN","RGUTRPRT",38,0)
+ Q ""
+"RTN","RGUTRPRT",39,0)
+RJ(X) W ?(IOM-$L(X)),X
+"RTN","RGUTRPRT",40,0)
+ Q ""
+"RTN","RGUTSTX")
+0^27^B17505727
+"RTN","RGUTSTX",1,0)
+RGUTSTX ;RI/CBMI/DKM - M syntax analyzer;03-Mar-2015 14:24;DKM
+"RTN","RGUTSTX",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTSTX",3,0)
+ ;;
+"RTN","RGUTSTX",4,0)
+ ;=================================================================
+"RTN","RGUTSTX",5,0)
+ ; Perform syntactic analysis of a line of M code.
+"RTN","RGUTSTX",6,0)
+ ; Inputs:
+"RTN","RGUTSTX",7,0)
+ ;   RGM = M statement(s)
+"RTN","RGUTSTX",8,0)
+ ;   RGO = Options:
+"RTN","RGUTSTX",9,0)
+ ;      L = Line label allowed
+"RTN","RGUTSTX",10,0)
+ ;      . = Dotted syntax allowed
+"RTN","RGUTSTX",11,0)
+ ;      N = Do not init parsing tables
+"RTN","RGUTSTX",12,0)
+ ;      D = Do not delete parsing tables
+"RTN","RGUTSTX",13,0)
+ ;      Z = Process all Z-extensions as valid
+"RTN","RGUTSTX",14,0)
+ ; Outputs:
+"RTN","RGUTSTX",15,0)
+ ;   Returns 0 if successfully parsed.  Otherwise returns E^P^M
+"RTN","RGUTSTX",16,0)
+ ;   where E is an error code (see ERRORS label), P is the
+"RTN","RGUTSTX",17,0)
+ ;   character position where the error occurred, and M is the
+"RTN","RGUTSTX",18,0)
+ ;   error message.
+"RTN","RGUTSTX",19,0)
+ ;=================================================================
+"RTN","RGUTSTX",20,0)
+ENTRY(RGM,RGO) ;
+"RTN","RGUTSTX",21,0)
+ N RGPSN,RGLEN,RGERR,RGRN,RGQT,RGF,RGPID,RGCMD
+"RTN","RGUTSTX",22,0)
+ S RGM=$$UP^XLFSTR(RGM),RGO=$$UP^XLFSTR($G(RGO)),RGPSN=1,RGLEN=$L(RGM),RGERR=0,RGQT="""",RGF=0,RGPID="RGUTSTX",U="^"
+"RTN","RGUTSTX",23,0)
+ D LOAD:RGO'["N",PARSE:RGLEN
+"RTN","RGUTSTX",24,0)
+ K:RGO'["D" ^TMP(RGPID,$J)
+"RTN","RGUTSTX",25,0)
+ Q $S(RGERR:RGERR_U_$S(RGPSN>RGLEN:RGLEN,1:RGPSN)_U_$S(RGERR<0:$$EC^%ZOSV,1:$P($T(ERRORS+RGERR),";;",2)),1:0)
+"RTN","RGUTSTX",26,0)
+PARSE N RGZ,RGZ1
+"RTN","RGUTSTX",27,0)
+ S @$$TRAP^RGUTOS("ERROR^RGUTSTX")
+"RTN","RGUTSTX",28,0)
+ I RGO["L" D  Q:RGERR
+"RTN","RGUTSTX",29,0)
+ .S:$E(RGM)'=" " RGPSN=$$LABEL^RGUTSTX0
+"RTN","RGUTSTX",30,0)
+ .I $$NEXT^RGUTSTX0("("),'$$NEXT^RGUTSTX0(")") D
+"RTN","RGUTSTX",31,0)
+ ..F RGPSN=RGPSN:1 D  Q:$E(RGM,RGPSN)'=","!RGERR
+"RTN","RGUTSTX",32,0)
+ ...S RGPSN=$$NAME^RGUTSTX0(RGPSN,"L%")
+"RTN","RGUTSTX",33,0)
+ ..Q:RGERR
+"RTN","RGUTSTX",34,0)
+ ..S:'$$NEXT^RGUTSTX0(")") RGERR=3
+"RTN","RGUTSTX",35,0)
+ .S:" "'[$E(RGM,RGPSN) RGERR=2
+"RTN","RGUTSTX",36,0)
+ I RGO["." F RGPSN=RGPSN:1:RGLEN+1 Q:". "'[$E(RGM,RGPSN)
+"RTN","RGUTSTX",37,0)
+ F  Q:RGERR  D SKPSPC Q:";"[$E(RGM,RGPSN)  D
+"RTN","RGUTSTX",38,0)
+ .S RGCMD=""
+"RTN","RGUTSTX",39,0)
+ .F RGPSN=RGPSN:1 S RGZ=$E(RGM,RGPSN) Q:RGZ'?1A  S RGCMD=RGCMD_RGZ
+"RTN","RGUTSTX",40,0)
+ .I RGCMD="" S RGERR=4 Q
+"RTN","RGUTSTX",41,0)
+ .I $D(^TMP(RGPID,$J,"CMD",RGCMD)) S RGCMD=^(RGCMD)
+"RTN","RGUTSTX",42,0)
+ .E  I $E(RGCMD)="Z",RGO["Z" S RGCMD="PC;OPT;ARGS("":M"")"
+"RTN","RGUTSTX",43,0)
+ .E  S RGERR=4 Q
+"RTN","RGUTSTX",44,0)
+ .F RGRN=1:1:$L(RGCMD,";") D CMD^RGUTSTX0($P(RGCMD,";",RGRN)) Q:RGERR!'RGRN
+"RTN","RGUTSTX",45,0)
+ .I 'RGERR," "'[$E(RGM,RGPSN) S RGERR=2
+"RTN","RGUTSTX",46,0)
+ .E  S RGPSN=RGPSN+1
+"RTN","RGUTSTX",47,0)
+ Q
+"RTN","RGUTSTX",48,0)
+ ; Skip over blanks
+"RTN","RGUTSTX",49,0)
+SKPSPC F  Q:'$$NEXT^RGUTSTX0(" ")
+"RTN","RGUTSTX",50,0)
+ Q
+"RTN","RGUTSTX",51,0)
+ ; Load tables
+"RTN","RGUTSTX",52,0)
+LOAD N RGZ,RGZ1,RGZ2,RGL
+"RTN","RGUTSTX",53,0)
+ K ^TMP(RGPID,$J)
+"RTN","RGUTSTX",54,0)
+ F RGL="CMD","FCN","SYS" D
+"RTN","RGUTSTX",55,0)
+ .F RGZ=1:1 S RGZ1=$P($T(@RGL+RGZ),";;",2,999) Q:RGZ1=""  D
+"RTN","RGUTSTX",56,0)
+ ..S RGZ2=$P(RGZ1,";"),RGZ1=$P(RGZ1,";",2,999)
+"RTN","RGUTSTX",57,0)
+ ..F  Q:RGZ2=""  D
+"RTN","RGUTSTX",58,0)
+ ...S ^TMP(RGPID,$J,RGL,$P(RGZ2,","))=RGZ1,RGZ2=$P(RGZ2,",",2,999)
+"RTN","RGUTSTX",59,0)
+ Q
+"RTN","RGUTSTX",60,0)
+ERROR S RGERR=-1
+"RTN","RGUTSTX",61,0)
+ Q
+"RTN","RGUTSTX",62,0)
+CMD ;;*Commands*
+"RTN","RGUTSTX",63,0)
+ ;;B,BREAK;PC;OPT;ARGS()
+"RTN","RGUTSTX",64,0)
+ ;;C,CLOSE;PC;ARGS(":M")
+"RTN","RGUTSTX",65,0)
+ ;;D,DO;PC;OPT;LBL(2)
+"RTN","RGUTSTX",66,0)
+ ;;E,ELSE;NPC;OPT;ARGS()
+"RTN","RGUTSTX",67,0)
+ ;;F,FOR;NPC;OPT;FOR
+"RTN","RGUTSTX",68,0)
+ ;;G,GOTO;PC;LBL(1)
+"RTN","RGUTSTX",69,0)
+ ;;H,HALT,HANG;PC;OPT;EXP()
+"RTN","RGUTSTX",70,0)
+ ;;I,IF;NPC;OPT;ARGS()
+"RTN","RGUTSTX",71,0)
+ ;;J,JOB;PC;LBL(2)
+"RTN","RGUTSTX",72,0)
+ ;;K,KILL;PC;OPT;KILL
+"RTN","RGUTSTX",73,0)
+ ;;L,LOCK;PC;OPT;LOCK
+"RTN","RGUTSTX",74,0)
+ ;;M,MERGE;PC;MERGE
+"RTN","RGUTSTX",75,0)
+ ;;N,NEW;PC;OPT;NEW
+"RTN","RGUTSTX",76,0)
+ ;;O,OPEN;PC;ARGS(":M")
+"RTN","RGUTSTX",77,0)
+ ;;Q,QUIT;PC;OPT;EXP()
+"RTN","RGUTSTX",78,0)
+ ;;R,READ;PC;READ
+"RTN","RGUTSTX",79,0)
+ ;;S,SET;PC;SET
+"RTN","RGUTSTX",80,0)
+ ;;U,USE;PC;ARGS(":M")
+"RTN","RGUTSTX",81,0)
+ ;;V,VIEW;PC;ARGS(":M")
+"RTN","RGUTSTX",82,0)
+ ;;W,WRITE;PC;WRITE
+"RTN","RGUTSTX",83,0)
+ ;;X,XECUTE;PC;ARGS(":")
+"RTN","RGUTSTX",84,0)
+ ;;ZT,ZTRAP;PC;OPT;EXP()
+"RTN","RGUTSTX",85,0)
+ ;;ZS,ZSAVE;PC;OPT;EXP()
+"RTN","RGUTSTX",86,0)
+ ;;ZR,ZREMOVE;PC;OPT;LBL(1)
+"RTN","RGUTSTX",87,0)
+ ;;ZP,ZPRINT
+"RTN","RGUTSTX",88,0)
+ ;;
+"RTN","RGUTSTX",89,0)
+FCN ;;*Intrinsic functions*
+"RTN","RGUTSTX",90,0)
+ ;;A,ASCII;;1-2
+"RTN","RGUTSTX",91,0)
+ ;;C,CHAR;;1-999
+"RTN","RGUTSTX",92,0)
+ ;;D,DATA;;1-1;V
+"RTN","RGUTSTX",93,0)
+ ;;E,EXTRACT;S;1-3
+"RTN","RGUTSTX",94,0)
+ ;;F,FIND;;2-3
+"RTN","RGUTSTX",95,0)
+ ;;FN,FNUMBER;;2-3
+"RTN","RGUTSTX",96,0)
+ ;;G,GET;;1-2;V
+"RTN","RGUTSTX",97,0)
+ ;;J,JUSTIFY;;1-3
+"RTN","RGUTSTX",98,0)
+ ;;L,LENGTH;;1-2
+"RTN","RGUTSTX",99,0)
+ ;;N,NEXT;;1-2
+"RTN","RGUTSTX",100,0)
+ ;;NA,NAME;;1-2;V
+"RTN","RGUTSTX",101,0)
+ ;;O,ORDER;;1-2;V
+"RTN","RGUTSTX",102,0)
+ ;;P,PIECE;S;2-4
+"RTN","RGUTSTX",103,0)
+ ;;Q,QUERY;;1-2;V
+"RTN","RGUTSTX",104,0)
+ ;;R,RANDOM;;1-1
+"RTN","RGUTSTX",105,0)
+ ;;S,SELECT;:;1-999
+"RTN","RGUTSTX",106,0)
+ ;;T,TEXT;;1-1;L
+"RTN","RGUTSTX",107,0)
+ ;;TR,TRANSLATE;;2-3
+"RTN","RGUTSTX",108,0)
+ ;;V,VIEW;;1-999
+"RTN","RGUTSTX",109,0)
+ ;;
+"RTN","RGUTSTX",110,0)
+SYS ;;*System variables*
+"RTN","RGUTSTX",111,0)
+ ;;D,DEVICE
+"RTN","RGUTSTX",112,0)
+ ;;ET,ETRAP;SN
+"RTN","RGUTSTX",113,0)
+ ;;H,HOROLOG
+"RTN","RGUTSTX",114,0)
+ ;;I,IO
+"RTN","RGUTSTX",115,0)
+ ;;J,JOB
+"RTN","RGUTSTX",116,0)
+ ;;K,KEY
+"RTN","RGUTSTX",117,0)
+ ;;P,PRINCIPAL
+"RTN","RGUTSTX",118,0)
+ ;;S,STORAGE
+"RTN","RGUTSTX",119,0)
+ ;;SY,SYSTEM
+"RTN","RGUTSTX",120,0)
+ ;;T,TEST
+"RTN","RGUTSTX",121,0)
+ ;;TL,TLEVEL
+"RTN","RGUTSTX",122,0)
+ ;;TR,TRESTART
+"RTN","RGUTSTX",123,0)
+ ;;X;S
+"RTN","RGUTSTX",124,0)
+ ;;Y;S
+"RTN","RGUTSTX",125,0)
+ ;;ZT,ZTRAP;S
+"RTN","RGUTSTX",126,0)
+ ;;ZE,ZERROR;S
+"RTN","RGUTSTX",127,0)
+ ;;ES,ESTACK;N
+"RTN","RGUTSTX",128,0)
+ ;;EC,ECODE;S
+"RTN","RGUTSTX",129,0)
+ERRORS ;;*Error messages*
+"RTN","RGUTSTX",130,0)
+ ;;Bad variable name
+"RTN","RGUTSTX",131,0)
+ ;;Syntax error
+"RTN","RGUTSTX",132,0)
+ ;;Unbalanced parentheses
+"RTN","RGUTSTX",133,0)
+ ;;Unrecognized command
+"RTN","RGUTSTX",134,0)
+ ;;Postconditional not allowed
+"RTN","RGUTSTX",135,0)
+ ;;Missing operand
+"RTN","RGUTSTX",136,0)
+ ;;Unrecognized intrinsic function/variable
+"RTN","RGUTSTX",137,0)
+ ;;Incorrect number of arguments
+"RTN","RGUTSTX",138,0)
+ ;;Missing closing quote
+"RTN","RGUTSTX",139,0)
+ ;;Illegal pattern
+"RTN","RGUTSTX",140,0)
+ ;;Bad label name
+"RTN","RGUTSTX",141,0)
+ ;;Name too long
+"RTN","RGUTSTX",142,0)
+ ;;13
+"RTN","RGUTSTX0")
+0^28^B18234821
+"RTN","RGUTSTX0",1,0)
+RGUTSTX0 ;RI/CBMI/DKM - Continuation of RGUTSTX;03-Mar-2015 14:24;DKM
+"RTN","RGUTSTX0",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTSTX0",3,0)
+ ;;
+"RTN","RGUTSTX0",4,0)
+ ;=================================================================
+"RTN","RGUTSTX0",5,0)
+CMD(RGLBL) ;
+"RTN","RGUTSTX0",6,0)
+ D:RGLBL'="" @RGLBL
+"RTN","RGUTSTX0",7,0)
+ Q
+"RTN","RGUTSTX0",8,0)
+ ; Postconditional
+"RTN","RGUTSTX0",9,0)
+PC D:$$NEXT(":") EXP()
+"RTN","RGUTSTX0",10,0)
+ Q:RGERR
+"RTN","RGUTSTX0",11,0)
+ I " "'[$E(RGM,RGPSN) S RGERR=2
+"RTN","RGUTSTX0",12,0)
+ E  S RGPSN=RGPSN+1
+"RTN","RGUTSTX0",13,0)
+ Q
+"RTN","RGUTSTX0",14,0)
+ ; No postconditional
+"RTN","RGUTSTX0",15,0)
+NPC I $$NEXT(":") S RGERR=5
+"RTN","RGUTSTX0",16,0)
+ E  I " "'[$E(RGM,RGPSN) S RGERR=2
+"RTN","RGUTSTX0",17,0)
+ E  S RGPSN=RGPSN+1
+"RTN","RGUTSTX0",18,0)
+ Q
+"RTN","RGUTSTX0",19,0)
+ ; Arguments optional
+"RTN","RGUTSTX0",20,0)
+OPT S:" "[$E(RGM,RGPSN) RGRN=0
+"RTN","RGUTSTX0",21,0)
+ Q
+"RTN","RGUTSTX0",22,0)
+ ; Multiple arguments
+"RTN","RGUTSTX0",23,0)
+ARGS(RGEX) ;
+"RTN","RGUTSTX0",24,0)
+ S RGEX=$G(RGEX)
+"RTN","RGUTSTX0",25,0)
+ F  D EXP(RGEX) Q:RGERR!'$$NEXT(",")
+"RTN","RGUTSTX0",26,0)
+ Q
+"RTN","RGUTSTX0",27,0)
+ ; Expression
+"RTN","RGUTSTX0",28,0)
+EXP(RGEX) ;
+"RTN","RGUTSTX0",29,0)
+ D EXP^RGUTSTX1(.RGEX)
+"RTN","RGUTSTX0",30,0)
+ Q
+"RTN","RGUTSTX0",31,0)
+ ; Label reference
+"RTN","RGUTSTX0",32,0)
+LBL(RGA) F  D LBL1(.RGA) Q:RGERR!'$$NEXT(",")
+"RTN","RGUTSTX0",33,0)
+ Q
+"RTN","RGUTSTX0",34,0)
+LBL1(RGA) ;
+"RTN","RGUTSTX0",35,0)
+ S RGA=+$G(RGA)
+"RTN","RGUTSTX0",36,0)
+ D LBL2
+"RTN","RGUTSTX0",37,0)
+ Q:RGERR
+"RTN","RGUTSTX0",38,0)
+ D:$$NEXT("+") EXP(")")
+"RTN","RGUTSTX0",39,0)
+ Q:RGERR
+"RTN","RGUTSTX0",40,0)
+ D:$$NEXT(U) LBL2
+"RTN","RGUTSTX0",41,0)
+ I 'RGERR,RGA=2 D PARAMS(".;0-999")
+"RTN","RGUTSTX0",42,0)
+ I 'RGERR,RGA D EXP(")"):$$NEXT(":")
+"RTN","RGUTSTX0",43,0)
+ Q
+"RTN","RGUTSTX0",44,0)
+LBL2 I $$NEXT("@") D
+"RTN","RGUTSTX0",45,0)
+ .D EXP("=")
+"RTN","RGUTSTX0",46,0)
+ E  S:$E(RGM,RGPSN)?.1AN.1"%" RGPSN=$$LABEL
+"RTN","RGUTSTX0",47,0)
+ Q
+"RTN","RGUTSTX0",48,0)
+ ; Write command
+"RTN","RGUTSTX0",49,0)
+WRITE F  D  Q:RGERR!'$$NEXT(",")
+"RTN","RGUTSTX0",50,0)
+ .I $$NEXT("!#") D  Q:'$$NEXT("?",0)
+"RTN","RGUTSTX0",51,0)
+ ..F  Q:'$$NEXT("!#")
+"RTN","RGUTSTX0",52,0)
+ .I $$NEXT("?*")
+"RTN","RGUTSTX0",53,0)
+ .D EXP()
+"RTN","RGUTSTX0",54,0)
+ Q
+"RTN","RGUTSTX0",55,0)
+ ; Read command
+"RTN","RGUTSTX0",56,0)
+READ N RGZ
+"RTN","RGUTSTX0",57,0)
+ F  D  Q:RGERR!'$$NEXT(",")
+"RTN","RGUTSTX0",58,0)
+ .I $$NEXT("!#") D  Q:'$$NEXT("?",0)
+"RTN","RGUTSTX0",59,0)
+ ..F  Q:'$$NEXT("!#")
+"RTN","RGUTSTX0",60,0)
+ .I $$NEXT("?") D EXP() Q
+"RTN","RGUTSTX0",61,0)
+ .I $$NEXT(RGQT) D QT2^RGUTSTX1 Q
+"RTN","RGUTSTX0",62,0)
+ .S RGZ=$$NEXT("*")
+"RTN","RGUTSTX0",63,0)
+ .D LVAL("LGS")
+"RTN","RGUTSTX0",64,0)
+ .I 'RGERR,'RGZ,$$NEXT("#") D EXP()
+"RTN","RGUTSTX0",65,0)
+ .I 'RGERR,$$NEXT(":") D EXP()
+"RTN","RGUTSTX0",66,0)
+ Q
+"RTN","RGUTSTX0",67,0)
+ ; Lock command
+"RTN","RGUTSTX0",68,0)
+LOCK D LIST("LG+:","LG")
+"RTN","RGUTSTX0",69,0)
+ Q
+"RTN","RGUTSTX0",70,0)
+ ; Set command
+"RTN","RGUTSTX0",71,0)
+SET D LIST("LGS=","LGS")
+"RTN","RGUTSTX0",72,0)
+ Q
+"RTN","RGUTSTX0",73,0)
+ ; New command
+"RTN","RGUTSTX0",74,0)
+NEW D LIST("N","")
+"RTN","RGUTSTX0",75,0)
+ Q
+"RTN","RGUTSTX0",76,0)
+ ; Kill command
+"RTN","RGUTSTX0",77,0)
+KILL D LIST("KGL","")
+"RTN","RGUTSTX0",78,0)
+ Q
+"RTN","RGUTSTX0",79,0)
+ ; Merge command
+"RTN","RGUTSTX0",80,0)
+MERGE D LIST("LG=")
+"RTN","RGUTSTX0",81,0)
+ Q
+"RTN","RGUTSTX0",82,0)
+ ; For command
+"RTN","RGUTSTX0",83,0)
+FOR D LVAL("LGS")
+"RTN","RGUTSTX0",84,0)
+ I '$$NEXT("=") S RGERR=2 Q
+"RTN","RGUTSTX0",85,0)
+ F  D  Q:" "[$E(RGM,RGPSN)  I '$$NEXT(",") S RGERR=2 Q
+"RTN","RGUTSTX0",86,0)
+ .D EXP(),EXP():$$NEXT(":"),EXP():$$NEXT(":")
+"RTN","RGUTSTX0",87,0)
+ Q
+"RTN","RGUTSTX0",88,0)
+ ; Evaluate L-value
+"RTN","RGUTSTX0",89,0)
+ ; RGL: Allowed types:
+"RTN","RGUTSTX0",90,0)
+ ;     L=Local array
+"RTN","RGUTSTX0",91,0)
+ ;     G=Global arrays
+"RTN","RGUTSTX0",92,0)
+ ;     S=Settable intrinsics/system variables
+"RTN","RGUTSTX0",93,0)
+ ;     N=Newable system variables
+"RTN","RGUTSTX0",94,0)
+ ;     K=Killable system variables
+"RTN","RGUTSTX0",95,0)
+LVAL(RGL) ;
+"RTN","RGUTSTX0",96,0)
+ I $$NEXT("@",0) D  Q
+"RTN","RGUTSTX0",97,0)
+ .S RGL="="
+"RTN","RGUTSTX0",98,0)
+ .D EXP(.RGL)
+"RTN","RGUTSTX0",99,0)
+ S RGL=$G(RGL)
+"RTN","RGUTSTX0",100,0)
+ I RGL["G",$$NEXT(U) D  Q
+"RTN","RGUTSTX0",101,0)
+ .N RGF
+"RTN","RGUTSTX0",102,0)
+ .D GLBL^RGUTSTX1
+"RTN","RGUTSTX0",103,0)
+ I $TR(RGL,"SNK")'=RGL,$$NEXT("$") D  Q
+"RTN","RGUTSTX0",104,0)
+ .N RGZ
+"RTN","RGUTSTX0",105,0)
+ .S RGZ=$$INT(.RGPSN,RGL)
+"RTN","RGUTSTX0",106,0)
+ .D:'RGERR PARAMS(RGZ)
+"RTN","RGUTSTX0",107,0)
+ S RGPSN=$$NAME(RGPSN,"%")
+"RTN","RGUTSTX0",108,0)
+ I 'RGERR,RGL["L" D PARAMS()
+"RTN","RGUTSTX0",109,0)
+ Q
+"RTN","RGUTSTX0",110,0)
+ ; Evaluate parameters/subscripts
+"RTN","RGUTSTX0",111,0)
+PARAMS(RGX) ;
+"RTN","RGUTSTX0",112,0)
+ D:$$NEXT("(") PLIST^RGUTSTX1(.RGX)
+"RTN","RGUTSTX0",113,0)
+ Q
+"RTN","RGUTSTX0",114,0)
+ ; New/Kill/Set/Lock argument list
+"RTN","RGUTSTX0",115,0)
+LIST(RGL1,RGL2) ;
+"RTN","RGUTSTX0",116,0)
+ N RGP,RGI
+"RTN","RGUTSTX0",117,0)
+ S RGP=0
+"RTN","RGUTSTX0",118,0)
+ F  D  Q:RGERR!'$$NEXT(",")
+"RTN","RGUTSTX0",119,0)
+ .I 'RGP,RGL1["+",$$NEXT("+-")
+"RTN","RGUTSTX0",120,0)
+ .I $D(RGL2),$$NEXT("(") D  Q:RGERR
+"RTN","RGUTSTX0",121,0)
+ ..I RGP S RGERR=2 Q
+"RTN","RGUTSTX0",122,0)
+ ..E  S RGP=1
+"RTN","RGUTSTX0",123,0)
+ .S RGI=$S(RGP:RGL2,1:RGL1)
+"RTN","RGUTSTX0",124,0)
+ .D LVAL(.RGI)
+"RTN","RGUTSTX0",125,0)
+ .Q:RGERR
+"RTN","RGUTSTX0",126,0)
+ .I $$NEXT(")") D  Q:RGERR
+"RTN","RGUTSTX0",127,0)
+ ..I RGP S RGP=0
+"RTN","RGUTSTX0",128,0)
+ ..E  S RGERR=2
+"RTN","RGUTSTX0",129,0)
+ .I 'RGP,RGL1[":",$$NEXT(":") D EXP()
+"RTN","RGUTSTX0",130,0)
+ .I 'RGP,RGL1["=" D
+"RTN","RGUTSTX0",131,0)
+ ..I '$$NEXT("=") S:RGI'["@" RGERR=2
+"RTN","RGUTSTX0",132,0)
+ ..E  D EXP():$D(RGL2),LVAL(RGL1):'$D(RGL2)
+"RTN","RGUTSTX0",133,0)
+ I 'RGERR,RGP S RGERR=3
+"RTN","RGUTSTX0",134,0)
+ Q
+"RTN","RGUTSTX0",135,0)
+ ; Check for validity of label name
+"RTN","RGUTSTX0",136,0)
+LABEL(RGP) ;
+"RTN","RGUTSTX0",137,0)
+ Q $$NAME(.RGP,"L%")
+"RTN","RGUTSTX0",138,0)
+ ; Check for validity of variable/label name
+"RTN","RGUTSTX0",139,0)
+NAME(RGP,RGF) ;
+"RTN","RGUTSTX0",140,0)
+ N RGP1
+"RTN","RGUTSTX0",141,0)
+ S (RGP,RGP1)=$G(RGP,RGPSN),RGF=$G(RGF)
+"RTN","RGUTSTX0",142,0)
+ I RGF["$",$E(RGM,RGP)="$" S RGP=RGP+1,RGP1=RGP
+"RTN","RGUTSTX0",143,0)
+ I RGF["%",$E(RGM,RGP)="%" S RGP=RGP+1
+"RTN","RGUTSTX0",144,0)
+ F RGP=RGP:1 Q:$E(RGM,RGP)'?@$S(RGF["L":"1AN",RGP=RGP1:"1A",1:"1AN")
+"RTN","RGUTSTX0",145,0)
+ I RGP=RGP1 S RGERR=$S(RGF["L":11,1:1)
+"RTN","RGUTSTX0",146,0)
+ E  S:RGP-RGP1>8 RGERR=12
+"RTN","RGUTSTX0",147,0)
+ Q RGP
+"RTN","RGUTSTX0",148,0)
+ ; Instrinsic function/system variable
+"RTN","RGUTSTX0",149,0)
+INT(RGP,RGL) ;
+"RTN","RGUTSTX0",150,0)
+ N RGP2,RGINT,RGNM
+"RTN","RGUTSTX0",151,0)
+ S RGP=$G(RGP,RGPSN),RGP2=$$NAME(RGP),RGL=$G(RGL)
+"RTN","RGUTSTX0",152,0)
+ Q:RGERR ""
+"RTN","RGUTSTX0",153,0)
+ S RGNM=$E(RGM,RGP,RGP2-1)
+"RTN","RGUTSTX0",154,0)
+ I $E(RGM,RGP2)="(" S:$D(^TMP(RGPID,$J,"FCN",RGNM)) RGINT=^(RGNM)
+"RTN","RGUTSTX0",155,0)
+ E  S:$D(^TMP(RGPID,$J,"SYS",RGNM)) RGINT=^(RGNM)
+"RTN","RGUTSTX0",156,0)
+ I '$D(RGINT),RGO["Z" S RGINT=";0-999"
+"RTN","RGUTSTX0",157,0)
+ I '$D(RGINT) S RGERR=7
+"RTN","RGUTSTX0",158,0)
+ E  I RGL'="",$TR(RGL,$P(RGINT,";"))=RGL S RGERR=2,RGINT=""
+"RTN","RGUTSTX0",159,0)
+ E  S RGP=RGP2
+"RTN","RGUTSTX0",160,0)
+ Q $G(RGINT)
+"RTN","RGUTSTX0",161,0)
+ ; Check next character
+"RTN","RGUTSTX0",162,0)
+NEXT(RGC,RGI) ;
+"RTN","RGUTSTX0",163,0)
+ I RGPSN'>RGLEN,RGC[$E(RGM,RGPSN) S RGPSN=RGPSN+$G(RGI,1)
+"RTN","RGUTSTX0",164,0)
+ Q $T
+"RTN","RGUTSTX1")
+0^29^B20280544
+"RTN","RGUTSTX1",1,0)
+RGUTSTX1 ;RI/CBMI/DKM - Continuation of RGUTSTX;03-Mar-2015 14:24;DKM
+"RTN","RGUTSTX1",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTSTX1",3,0)
+ ;;
+"RTN","RGUTSTX1",4,0)
+ ;=================================================================
+"RTN","RGUTSTX1",5,0)
+ ; Parse an expression
+"RTN","RGUTSTX1",6,0)
+EXP(RGEX) ;
+"RTN","RGUTSTX1",7,0)
+ N RGF,RGC,RGPN
+"RTN","RGUTSTX1",8,0)
+ S (RGF,RGPN)=0,RGEX=$G(RGEX)
+"RTN","RGUTSTX1",9,0)
+ F  D  Q:RGF<0!RGERR
+"RTN","RGUTSTX1",10,0)
+ .S RGC=$E(RGM,RGPSN),RGPSN=RGPSN+1
+"RTN","RGUTSTX1",11,0)
+ .D @("OP"_RGF)
+"RTN","RGUTSTX1",12,0)
+ I 'RGERR,RGPN S RGERR=3
+"RTN","RGUTSTX1",13,0)
+ S RGEX=$S($G(RGPN(RGPN,"@")):"@",1:"")_RGEX
+"RTN","RGUTSTX1",14,0)
+ Q
+"RTN","RGUTSTX1",15,0)
+ ; Operands
+"RTN","RGUTSTX1",16,0)
+OP0 I RGC'=".",RGEX["." S RGEX=$TR(RGEX,".")
+"RTN","RGUTSTX1",17,0)
+ G:RGC'="" COLON2:RGC=":",GLBL:RGC=U,DOT:RGC=".",INDIR:RGC="@",FCN:RGC="$",UNARY:"'+-"[RGC,QT:RGC=RGQT,NUM:RGC?1N,OPNPAR:RGC="(",VAR:RGC?1A,VAR:RGC="%"
+"RTN","RGUTSTX1",18,0)
+ S RGERR=6
+"RTN","RGUTSTX1",19,0)
+ Q
+"RTN","RGUTSTX1",20,0)
+ ; Operators
+"RTN","RGUTSTX1",21,0)
+OP1 G END:RGC="",INDIR2:RGC="@",DONE:RGEX["="&'RGPN!(RGC=" ")
+"RTN","RGUTSTX1",22,0)
+ K RGPN(RGPN,"@")
+"RTN","RGUTSTX1",23,0)
+ I RGC="*",$$NEXT(RGC)
+"RTN","RGUTSTX1",24,0)
+ G COLON:RGC=":",CLSPAR:RGC=")",RBRKT:RGC="]",BINARY:"!#&*-_+=\/<>["[RGC,NOT:RGC="'",PTRN:RGC="?"
+"RTN","RGUTSTX1",25,0)
+DONE S RGPSN=RGPSN-1
+"RTN","RGUTSTX1",26,0)
+END S RGF=-1
+"RTN","RGUTSTX1",27,0)
+ Q
+"RTN","RGUTSTX1",28,0)
+ ; Negated operator
+"RTN","RGUTSTX1",29,0)
+NOT S:'$$NEXT("=<>[]?&!",0) RGERR=2
+"RTN","RGUTSTX1",30,0)
+ Q
+"RTN","RGUTSTX1",31,0)
+ ; Parse a global reference
+"RTN","RGUTSTX1",32,0)
+GLBL D:$$NEXT("[") PLIST(";1-2","]")
+"RTN","RGUTSTX1",33,0)
+ Q:RGERR
+"RTN","RGUTSTX1",34,0)
+ S:'$$NEXT("(",0) RGPSN=$$NAME^RGUTSTX0(RGPSN,"$%")
+"RTN","RGUTSTX1",35,0)
+ I 'RGERR,$$NEXT("(") D PLIST(";1-999")
+"RTN","RGUTSTX1",36,0)
+ S RGF=1
+"RTN","RGUTSTX1",37,0)
+ Q
+"RTN","RGUTSTX1",38,0)
+ ; Indirection (prefix)
+"RTN","RGUTSTX1",39,0)
+INDIR S RGPN(RGPN,"@")=$G(RGPN(RGPN,"@"))+1
+"RTN","RGUTSTX1",40,0)
+ Q
+"RTN","RGUTSTX1",41,0)
+ ; Indirection (suffix)
+"RTN","RGUTSTX1",42,0)
+INDIR2 I +$G(RGPN(RGPN,"@"))'>0 S RGERR=2
+"RTN","RGUTSTX1",43,0)
+ E  I '$$NEXT("(") S RGERR=2
+"RTN","RGUTSTX1",44,0)
+ E  D
+"RTN","RGUTSTX1",45,0)
+ .S RGPN(RGPN,"@")=-(RGPN(RGPN,"@")>1)
+"RTN","RGUTSTX1",46,0)
+ .D PLIST()
+"RTN","RGUTSTX1",47,0)
+ Q
+"RTN","RGUTSTX1",48,0)
+ ; Intrinsic function/system variable
+"RTN","RGUTSTX1",49,0)
+FCN G:$$NEXT("$") EXT
+"RTN","RGUTSTX1",50,0)
+INT N RGZ,RGZ1
+"RTN","RGUTSTX1",51,0)
+ S RGZ1=$E(RGM,RGPSN),RGZ=$$INT^RGUTSTX0(.RGPSN),RGF=1
+"RTN","RGUTSTX1",52,0)
+ I 'RGERR,$$NEXT("(") D PLIST(RGZ)
+"RTN","RGUTSTX1",53,0)
+ Q
+"RTN","RGUTSTX1",54,0)
+ ; Extrinsic function
+"RTN","RGUTSTX1",55,0)
+EXT S:'$$NEXT(U,0) RGPSN=$$LABEL^RGUTSTX0
+"RTN","RGUTSTX1",56,0)
+ Q:RGERR
+"RTN","RGUTSTX1",57,0)
+ S:$$NEXT(U) RGPSN=$$LABEL^RGUTSTX0
+"RTN","RGUTSTX1",58,0)
+ Q:RGERR
+"RTN","RGUTSTX1",59,0)
+ D:$$NEXT("(") PLIST(".;0-999")
+"RTN","RGUTSTX1",60,0)
+ S RGF=1
+"RTN","RGUTSTX1",61,0)
+ Q
+"RTN","RGUTSTX1",62,0)
+ ; Unary operator
+"RTN","RGUTSTX1",63,0)
+UNARY Q
+"RTN","RGUTSTX1",64,0)
+ ; String literal
+"RTN","RGUTSTX1",65,0)
+QT D QT2
+"RTN","RGUTSTX1",66,0)
+ S RGF=1
+"RTN","RGUTSTX1",67,0)
+ Q
+"RTN","RGUTSTX1",68,0)
+ ; Find matching quote
+"RTN","RGUTSTX1",69,0)
+QT2 F RGPSN=RGPSN:1:RGLEN I $$NEXT(RGQT),'$$NEXT(RGQT,0) Q
+"RTN","RGUTSTX1",70,0)
+ S:$E(RGM,RGPSN-1)'=RGQT RGERR=9
+"RTN","RGUTSTX1",71,0)
+ Q
+"RTN","RGUTSTX1",72,0)
+ ; Numeric constant
+"RTN","RGUTSTX1",73,0)
+NUM N RGZ,RGZ1
+"RTN","RGUTSTX1",74,0)
+ S RGZ=0,RGF=1
+"RTN","RGUTSTX1",75,0)
+ F RGPSN=RGPSN-1:1 S RGZ1=$E(RGM,RGPSN) D @("NUM"_RGZ) Q:RGZ<0
+"RTN","RGUTSTX1",76,0)
+ S:RGZ=-2 RGERR=2
+"RTN","RGUTSTX1",77,0)
+ Q
+"RTN","RGUTSTX1",78,0)
+NUM0 S RGZ=$S(RGZ1?1N:1,RGZ1=".":2,1:-2)
+"RTN","RGUTSTX1",79,0)
+ Q
+"RTN","RGUTSTX1",80,0)
+NUM1 S RGZ=$S(RGZ1?1N:1,RGZ1=".":3,1:-1)
+"RTN","RGUTSTX1",81,0)
+ Q
+"RTN","RGUTSTX1",82,0)
+NUM2 S RGZ=$S(RGZ1?1N:3,1:-2)
+"RTN","RGUTSTX1",83,0)
+ Q
+"RTN","RGUTSTX1",84,0)
+NUM3 S RGZ=$S(RGZ1?1N:3,RGZ1="E":4,1:-1)
+"RTN","RGUTSTX1",85,0)
+ Q
+"RTN","RGUTSTX1",86,0)
+NUM4 S RGZ=$S(RGZ1="+":5,RGZ1="-":5,RGZ1=".":7,RGZ1?1N:6,1:-2)
+"RTN","RGUTSTX1",87,0)
+ Q
+"RTN","RGUTSTX1",88,0)
+NUM5 S RGZ=$S(RGZ1?1N:6,RGZ1=".":7,1:-2)
+"RTN","RGUTSTX1",89,0)
+ Q
+"RTN","RGUTSTX1",90,0)
+NUM6 S RGZ=$S(RGZ1?1N:6,RGZ1=".":8,1:-1)
+"RTN","RGUTSTX1",91,0)
+ Q
+"RTN","RGUTSTX1",92,0)
+NUM7 S RGZ=$S(RGZ1?1N:8,1:-2)
+"RTN","RGUTSTX1",93,0)
+ Q
+"RTN","RGUTSTX1",94,0)
+NUM8 S RGZ=$S(RGZ1?1N:8,1:-1)
+"RTN","RGUTSTX1",95,0)
+ Q
+"RTN","RGUTSTX1",96,0)
+ ; Open parenthesis
+"RTN","RGUTSTX1",97,0)
+OPNPAR S RGPN=RGPN+1
+"RTN","RGUTSTX1",98,0)
+ K RGPN(RGPN)
+"RTN","RGUTSTX1",99,0)
+ Q
+"RTN","RGUTSTX1",100,0)
+ ; Period (variable by reference or FP number)
+"RTN","RGUTSTX1",101,0)
+DOT I RGEX[".",$E(RGM,RGPSN)'?1N D
+"RTN","RGUTSTX1",102,0)
+ .I '$$NEXT("@") S RGPSN=$$NAME^RGUTSTX0(RGPSN,"%"),RGF=-1
+"RTN","RGUTSTX1",103,0)
+ .E  D INDIR
+"RTN","RGUTSTX1",104,0)
+ E  D NUM
+"RTN","RGUTSTX1",105,0)
+ Q
+"RTN","RGUTSTX1",106,0)
+ ; Variable name
+"RTN","RGUTSTX1",107,0)
+VAR S RGPSN=$$NAME^RGUTSTX0(RGPSN-1,"%"),RGF=1
+"RTN","RGUTSTX1",108,0)
+ D:$$NEXT("(") PLIST()
+"RTN","RGUTSTX1",109,0)
+ Q
+"RTN","RGUTSTX1",110,0)
+ ; Closing parenthesis
+"RTN","RGUTSTX1",111,0)
+CLSPAR I 'RGPN,RGEX[")" G DONE
+"RTN","RGUTSTX1",112,0)
+ I RGPN S RGPN=RGPN-1
+"RTN","RGUTSTX1",113,0)
+ E  S RGERR=3
+"RTN","RGUTSTX1",114,0)
+ Q
+"RTN","RGUTSTX1",115,0)
+ ; Right bracket (] or ]])
+"RTN","RGUTSTX1",116,0)
+RBRKT I 'RGPN,RGEX["]" G DONE
+"RTN","RGUTSTX1",117,0)
+ I $$NEXT(RGC)
+"RTN","RGUTSTX1",118,0)
+ ; Binary operator
+"RTN","RGUTSTX1",119,0)
+BINARY S RGF=0
+"RTN","RGUTSTX1",120,0)
+ Q
+"RTN","RGUTSTX1",121,0)
+ ; Colon operand
+"RTN","RGUTSTX1",122,0)
+COLON2 S:RGEX'["M" RGERR=6
+"RTN","RGUTSTX1",123,0)
+ Q
+"RTN","RGUTSTX1",124,0)
+ ; Colon operator
+"RTN","RGUTSTX1",125,0)
+COLON G:RGEX'[":" DONE
+"RTN","RGUTSTX1",126,0)
+ S RGF=0
+"RTN","RGUTSTX1",127,0)
+ S:RGEX'["M" RGEX=$TR(RGEX,":")
+"RTN","RGUTSTX1",128,0)
+ Q
+"RTN","RGUTSTX1",129,0)
+ ; Pattern match
+"RTN","RGUTSTX1",130,0)
+PTRN N RGZ,RGZ1
+"RTN","RGUTSTX1",131,0)
+ I $$NEXT("@") S RGF=0 Q
+"RTN","RGUTSTX1",132,0)
+ S RGZ=RGPSN,@$$TRAP^RGUTOS("PERR^RGUTSTX1"),RGZ1=0
+"RTN","RGUTSTX1",133,0)
+ F  D  Q:RGZ1<0!RGERR
+"RTN","RGUTSTX1",134,0)
+ .D QT2:$$NEXT(RGQT),PTRN1:$$NEXT("("),PTRN2:$$NEXT(")")
+"RTN","RGUTSTX1",135,0)
+ .I RGZ1,$$NEXT(",")
+"RTN","RGUTSTX1",136,0)
+ .S:'$$NEXT("ACELNPU.0123456789") RGZ1=-1
+"RTN","RGUTSTX1",137,0)
+ S:'RGERR RGZ=RGZ?@$E(RGM,RGZ,RGPSN-1)
+"RTN","RGUTSTX1",138,0)
+ Q
+"RTN","RGUTSTX1",139,0)
+PTRN1 S RGZ1=RGZ1+1
+"RTN","RGUTSTX1",140,0)
+ Q
+"RTN","RGUTSTX1",141,0)
+PTRN2 S RGZ1=RGZ1-1
+"RTN","RGUTSTX1",142,0)
+ S:RGZ1<0 RGPSN=RGPSN-1
+"RTN","RGUTSTX1",143,0)
+ Q
+"RTN","RGUTSTX1",144,0)
+PERR S RGERR=10
+"RTN","RGUTSTX1",145,0)
+ Q
+"RTN","RGUTSTX1",146,0)
+ ; Process a parameter list
+"RTN","RGUTSTX1",147,0)
+PLIST(RGP,RGT) ;
+"RTN","RGUTSTX1",148,0)
+ N RGC,RGP1,RGP2,RGZ
+"RTN","RGUTSTX1",149,0)
+ S RGT=$G(RGT,")"),RGP=$G(RGP,";0-999"),RGP2=$P(RGP,";",2),RGP1=+RGP2,RGP2=+$P(RGP2,"-",2),RGC=0,RGZ=$P(RGP,";")
+"RTN","RGUTSTX1",150,0)
+ I '$$NEXT(RGT,0) D
+"RTN","RGUTSTX1",151,0)
+ .F RGC=1:1 D  Q:RGERR!'$$NEXT(",")
+"RTN","RGUTSTX1",152,0)
+ ..D @("PL"_$P(RGP,";",RGC+2))
+"RTN","RGUTSTX1",153,0)
+ I 'RGERR,RGC<RGP1!(RGC>RGP2) S RGERR=8
+"RTN","RGUTSTX1",154,0)
+ I 'RGERR,'$$NEXT(RGT) S RGERR=3
+"RTN","RGUTSTX1",155,0)
+ Q
+"RTN","RGUTSTX1",156,0)
+PL N RGEX
+"RTN","RGUTSTX1",157,0)
+ I RGZ=".",$$NEXT(",",0) Q
+"RTN","RGUTSTX1",158,0)
+ S RGEX=RGT_RGZ
+"RTN","RGUTSTX1",159,0)
+ D EXP(.RGEX)
+"RTN","RGUTSTX1",160,0)
+ I RGZ[":",RGEX[":" S RGERR=2
+"RTN","RGUTSTX1",161,0)
+ Q
+"RTN","RGUTSTX1",162,0)
+PLV D LVAL^RGUTSTX0("LG")
+"RTN","RGUTSTX1",163,0)
+ Q
+"RTN","RGUTSTX1",164,0)
+PLL D LBL1^RGUTSTX0()
+"RTN","RGUTSTX1",165,0)
+ Q
+"RTN","RGUTSTX1",166,0)
+ ; Get next character
+"RTN","RGUTSTX1",167,0)
+NEXT(RGC,RGI) ;
+"RTN","RGUTSTX1",168,0)
+ Q $$NEXT^RGUTSTX0(RGC,.RGI)
+"RTN","RGUTTSK")
+0^57^B998318
+"RTN","RGUTTSK",1,0)
+RGUTTSK ;RI/CBMI/DKM - Encapsulates TaskMan API ;03-Mar-2015 14:24;DKM
+"RTN","RGUTTSK",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTTSK",3,0)
+ ;;
+"RTN","RGUTTSK",4,0)
+ ;=================================================================
+"RTN","RGUTTSK",5,0)
+QUEUE(ZTRTN,ZTDESC,ZTDTH,ZTSAVE,ZTIO,ZTUCI,ZTPRI) ;
+"RTN","RGUTTSK",6,0)
+ N %RGZ,%RGZ1,%RGZ2,ZTKIL,ZTSK,ZTCPU
+"RTN","RGUTTSK",7,0)
+ S:'$G(ZTDTH) ZTDTH=$H
+"RTN","RGUTTSK",8,0)
+ S:ZTDTH'?1.N1","1.N ZTDTH=$$FMTH^XLFDT(ZTDTH)
+"RTN","RGUTTSK",9,0)
+ Q:ZTDTH<0 0
+"RTN","RGUTTSK",10,0)
+ S:$G(ZTUCI)'="" ZTUCI=$TR(ZTUCI,":",","),ZTCPU=$P(ZTUCI,",",2),ZTUCI=$P(ZTUCI,",")
+"RTN","RGUTTSK",11,0)
+ S ZTSAVE=$G(ZTSAVE),ZTIO=$G(ZTIO),U="^"
+"RTN","RGUTTSK",12,0)
+ F %RGZ=1:1:$L(ZTSAVE,U) D
+"RTN","RGUTTSK",13,0)
+ .S %RGZ1=$P(ZTSAVE,U,%RGZ),%RGZ2=$P(%RGZ1,"=",2,999),%RGZ1=$P(%RGZ1,"=")
+"RTN","RGUTTSK",14,0)
+ .S:%RGZ1'="" ZTSAVE(%RGZ1)=%RGZ2
+"RTN","RGUTTSK",15,0)
+ D ^%ZTLOAD
+"RTN","RGUTTSK",16,0)
+ Q +$G(ZTSK)
+"RTN","RGUTUSR")
+0^58^B3790974
+"RTN","RGUTUSR",1,0)
+RGUTUSR ;RI/CBMI/DKM - Parse recipient list;03-Mar-2015 14:24;DKM
+"RTN","RGUTUSR",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTUSR",3,0)
+ ;;
+"RTN","RGUTUSR",4,0)
+ ;=================================================================
+"RTN","RGUTUSR",5,0)
+ ; Takes a list of recipients (which may be DUZ #'s, names,
+"RTN","RGUTUSR",6,0)
+ ; mail groups, or special tokens) as input and produces an
+"RTN","RGUTUSR",7,0)
+ ; array of DUZ's as output.  If a list element is found in
+"RTN","RGUTUSR",8,0)
+ ; in the token list RGLST, the value of the token entry will
+"RTN","RGUTUSR",9,0)
+ ; be substituted.
+"RTN","RGUTUSR",10,0)
+ ; Inputs:
+"RTN","RGUTUSR",11,0)
+ ;     RGUTSR = Semicolon-delimited list of recipients
+"RTN","RGUTUSR",12,0)
+ ;     RGLST = Special token list
+"RTN","RGUTUSR",13,0)
+ ; Outputs:
+"RTN","RGUTUSR",14,0)
+ ;     RGOUT = Local array to receive DUZ list
+"RTN","RGUTUSR",15,0)
+ ;=================================================================
+"RTN","RGUTUSR",16,0)
+ENTRY(RGUTSR,RGOUT,RGLST) ;
+"RTN","RGUTUSR",17,0)
+ N RGZ,RGZ1,RGZ2
+"RTN","RGUTUSR",18,0)
+ K RGOUT
+"RTN","RGUTUSR",19,0)
+ F RGZ=1:1:$L(RGUTSR,";") S RGZ1=$P(RGUTSR,";",RGZ) D:RGZ1'=""  S:RGZ1 RGOUT(+RGZ1)=""
+"RTN","RGUTUSR",20,0)
+ .S:$D(RGLST(RGZ1)) RGZ1=RGLST(RGZ1)
+"RTN","RGUTUSR",21,0)
+ .Q:RGZ1?.N
+"RTN","RGUTUSR",22,0)
+ .I RGZ1?1"-"1.N D MGRP(-RGZ1) S RGZ1=0 Q
+"RTN","RGUTUSR",23,0)
+ .S RGZ2=$E(RGZ1,1,2)
+"RTN","RGUTUSR",24,0)
+ .I RGZ2="G." D MGRP($E(RGZ1,3,999)) Q
+"RTN","RGUTUSR",25,0)
+ .I RGZ2="L." D LIST($E(RGZ1,3,999)) Q
+"RTN","RGUTUSR",26,0)
+ .S RGZ1=$$LKP(RGZ1)
+"RTN","RGUTUSR",27,0)
+ Q
+"RTN","RGUTUSR",28,0)
+LKP(RGNAME) ;
+"RTN","RGUTUSR",29,0)
+ N RGZ,RGZ1
+"RTN","RGUTUSR",30,0)
+ I $D(^VA(200,"B",RGNAME)) S RGZ=RGNAME G L1
+"RTN","RGUTUSR",31,0)
+ S RGZ=$O(^(RGNAME)),RGZ1=$O(^(RGZ))
+"RTN","RGUTUSR",32,0)
+ Q:(RGZ="")!(RGNAME'=$E(RGZ,1,$L(RGNAME))) 0
+"RTN","RGUTUSR",33,0)
+ Q:(RGZ1'="")&(RGNAME=$E(RGZ1,1,$L(RGNAME))) 0
+"RTN","RGUTUSR",34,0)
+L1 S RGZ1=$O(^(RGZ,0)),RGZ=$O(^(RGZ1))
+"RTN","RGUTUSR",35,0)
+ Q:'RGZ1!RGZ 0
+"RTN","RGUTUSR",36,0)
+ Q RGZ1
+"RTN","RGUTUSR",37,0)
+LIST(RGLIST) ;
+"RTN","RGUTUSR",38,0)
+ Q:RGLIST=""
+"RTN","RGUTUSR",39,0)
+ S:RGLIST'=+RGLIST RGLIST=+$O(^CCCDSS(25193.6,"B",RGLIST,0))
+"RTN","RGUTUSR",40,0)
+ S @$$TRAP^RGUTOS("LERR^RGUTUSR")
+"RTN","RGUTUSR",41,0)
+ X:$D(^CCCDSS(25193.6,RGLIST,1)) ^(1)
+"RTN","RGUTUSR",42,0)
+LERR Q
+"RTN","RGUTUSR",43,0)
+MGRP(RGMGRP) ;
+"RTN","RGUTUSR",44,0)
+ N RGX
+"RTN","RGUTUSR",45,0)
+ S RGX(0)=""
+"RTN","RGUTUSR",46,0)
+ D MGRP2(RGMGRP)
+"RTN","RGUTUSR",47,0)
+ Q
+"RTN","RGUTUSR",48,0)
+MGRP2(RGMGRP) ;
+"RTN","RGUTUSR",49,0)
+ N RGZ,RGZ1
+"RTN","RGUTUSR",50,0)
+ Q:RGMGRP=""
+"RTN","RGUTUSR",51,0)
+ S:RGMGRP'=+RGMGRP RGMGRP=+$O(^XMB(3.8,"B",RGMGRP,0))
+"RTN","RGUTUSR",52,0)
+ Q:$D(RGX(RGMGRP))
+"RTN","RGUTUSR",53,0)
+ S RGX(RGMGRP)=""
+"RTN","RGUTUSR",54,0)
+ F RGZ=0:0 S RGZ=+$O(^XMB(3.8,RGMGRP,1,RGZ)) Q:'RGZ  S RGOUT(+^(RGZ,0))=""
+"RTN","RGUTUSR",55,0)
+ F RGZ=0:0 S RGZ=+$O(^XMB(3.8,RGMGRP,5,RGZ)) Q:'RGZ  D MGRP2(^(RGZ,0))
+"RTN","RGUTUSR",56,0)
+ Q
+"RTN","RGUTUU")
+0^59^B1813543
+"RTN","RGUTUU",1,0)
+RGUTUU ;RI/CBMI/DKM - UUEncode and UUDecode functions.;03-Mar-2015 14:24;DKM
+"RTN","RGUTUU",2,0)
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+"RTN","RGUTUU",3,0)
+ ;;
+"RTN","RGUTUU",4,0)
+ ;=================================================================
+"RTN","RGUTUU",5,0)
+ENCODE(X) ;
+"RTN","RGUTUU",6,0)
+ N RGZ,RGZ1,RGZ2,RGZ3,RGZ4,RGZ5,RGZ6
+"RTN","RGUTUU",7,0)
+ S RGZ=$$INIT,RGZ1=""
+"RTN","RGUTUU",8,0)
+ F RGZ2=1:3:$L(X) D
+"RTN","RGUTUU",9,0)
+ .S RGZ3=0,RGZ6=""
+"RTN","RGUTUU",10,0)
+ .F RGZ4=0:1:2 D
+"RTN","RGUTUU",11,0)
+ ..S RGZ5=$A(X,RGZ2+RGZ4),RGZ3=RGZ3*256+$S(RGZ5<0:0,1:RGZ5)
+"RTN","RGUTUU",12,0)
+ .F RGZ4=1:1:4 S RGZ6=$E(RGZ,RGZ3#64+2)_RGZ6,RGZ3=RGZ3\64
+"RTN","RGUTUU",13,0)
+ .S RGZ1=RGZ1_RGZ6
+"RTN","RGUTUU",14,0)
+ S RGZ2=$L(X)#3
+"RTN","RGUTUU",15,0)
+ S:RGZ2 RGZ3=$L(RGZ1),$E(RGZ1,RGZ3-2+RGZ2,RGZ3)=$E("==",RGZ2,2)
+"RTN","RGUTUU",16,0)
+ Q RGZ1
+"RTN","RGUTUU",17,0)
+DECODE(X) ;
+"RTN","RGUTUU",18,0)
+ N RGZ,RGZ1,RGZ2,RGZ3,RGZ4,RGZ5,RGZ6
+"RTN","RGUTUU",19,0)
+ S RGZ=$$INIT,RGZ1=""
+"RTN","RGUTUU",20,0)
+ F RGZ2=1:4:$L(X) D
+"RTN","RGUTUU",21,0)
+ .S RGZ3=0,RGZ6=""
+"RTN","RGUTUU",22,0)
+ .F RGZ4=0:1:3 D
+"RTN","RGUTUU",23,0)
+ ..S RGZ5=$F(RGZ,$E(X,RGZ2+RGZ4))-3
+"RTN","RGUTUU",24,0)
+ ..S RGZ3=RGZ3*64+$S(RGZ5<0:0,1:RGZ5)
+"RTN","RGUTUU",25,0)
+ .F RGZ4=0:1:2 S RGZ6=$C(RGZ3#256)_RGZ6,RGZ3=RGZ3\256
+"RTN","RGUTUU",26,0)
+ .S RGZ1=RGZ1_RGZ6
+"RTN","RGUTUU",27,0)
+ Q $E(RGZ1,1,$L(RGZ1)-$L(X,"=")+1)
+"RTN","RGUTUU",28,0)
+INIT() Q "=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
+"RTN","RGXY")
+1^73
+"RTN","RGZOSF")
+1^74
+"VER")
+8.0^22.0
+**END**
+**END**
