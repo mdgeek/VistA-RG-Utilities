@@ -1,4 +1,4 @@
-RGUTIN16 ;RI/CBMI/DKM - Inits for VMS;05-Mar-2015 15:03;DKM
+RGUTIN16 ;RI/CBMI/DKM - Inits for VMS;11-Mar-2015 09:33;DKM
  ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 98
  ;;
  ;=================================================================
@@ -39,6 +39,9 @@ DELETE(X) ;EP
 RENAME(X1,X2) ;EP
  O X1:READONLY:0
  C X1:RENAME=X2
+ Q
+ ; Make a directory
+MKDIR(X) Q:$Q 0
  Q
  ; Return directory of files
 DIR(X1,X2,X3) ;EP

@@ -1,4 +1,4 @@
-RGUTOS ;RI/CBMI/DKM - Platform-dependent operations;05-Mar-2015 15:03;DKM
+RGUTOS ;RI/CBMI/DKM - Platform-dependent operations;11-Mar-2015 09:33;DKM
  ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 98
  ;;
  ;=================================================================
@@ -67,6 +67,10 @@ DELETE(X) ;EP
  ; Rename a host file
 RENAME(X1,X2) ;EP
  S X1=$ZF(-1,"mv """_X1_""" """_X2_"""")
+ Q
+ ; Make a directory
+MKDIR(X) S X='$ZF(-1,"mkdir -p "_X)
+ Q:$Q X
  Q
  ; Generate directory listing
 DIR(X1,X2,X3) ;EP

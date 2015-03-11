@@ -1,4 +1,4 @@
-RGUTIN18 ;RI/CBMI/DKM - Inits for Cache (Windows);05-Mar-2015 15:03;DKM
+RGUTIN18 ;RI/CBMI/DKM - Inits for Cache (Windows);11-Mar-2015 09:33;DKM
  ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 98
  ;;
  ;=================================================================
@@ -40,6 +40,10 @@ DELETE(X) ;EP
  ; Rename a host file
 RENAME(X1,X2) ;EP
  S X1=$ZF(-1,"ren """_X1_""" """_X2_"""")
+ Q
+ ; Make a directory
+MKDIR(X) S X='$$ZF(-1,"mkdir "_X)
+ Q:$Q X
  Q
  ; Return directory of files
 DIR(X1,X2,X3) ;EP

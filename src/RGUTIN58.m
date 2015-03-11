@@ -1,4 +1,4 @@
-RGUTIN58 ;RI/CBMI/DKM/PLS - Inits for MSM-UNIX;05-Mar-2015 15:03;DKM
+RGUTIN58 ;RI/CBMI/DKM/PLS - Inits for MSM-UNIX;11-Mar-2015 09:33;DKM
  ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 98
  ;;
  ;=================================================================
@@ -41,6 +41,9 @@ DELETE(X) ;EP
  ; Rename a host file
 RENAME(X1,X2) ;EP
  D JW("mv "_X1_" "_X2)
+ Q
+ ; Make a directory
+MKDIR(X) Q:$Q 0
  Q
  ; Generate a directory listing
 DIR(X1,X2,X3) ;EP

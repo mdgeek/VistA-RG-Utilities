@@ -1,4 +1,4 @@
-RGUTIN8 ;RI/CBMI/DKM - Inits for MSM;05-Mar-2015 15:03;DKM
+RGUTIN8 ;RI/CBMI/DKM - Inits for MSM;11-Mar-2015 09:33;DKM
  ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 98
  ;;
  ;=================================================================
@@ -42,6 +42,9 @@ DELETE(X) ;EP
 RENAME(X1,X2) ;EP
  N Z
  S Z=$ZOS(3,X1,X2)
+ Q
+ ; Make a directory
+MKDIR(X) Q:$Q 0
  Q
  ; Generate a directory listing
 DIR(X1,X2,X3) ;EP

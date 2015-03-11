@@ -1,11 +1,11 @@
-KIDS Distribution saved on Mar 10, 2015@09:04:21
+KIDS Distribution saved on Mar 11, 2015@10:26:41
 RG UTILITIES 3.0
 **KIDS**:RG UTILITIES 3.0^
 
 **INSTALL NAME**
 RG UTILITIES 3.0
 "BLD",8503,0)
-RG UTILITIES 3.0^RUN TIME LIBRARY^0^3150310^n
+RG UTILITIES 3.0^RUN TIME LIBRARY^0^3150311^n
 "BLD",8503,1,0)
 ^^3^3^3150202^^^
 "BLD",8503,1,1,0)
@@ -17,7 +17,7 @@ They perform generic functions.
 "BLD",8503,4,0)
 ^9.64PA^^
 "BLD",8503,6.3)
-198
+223
 "BLD",8503,"ABNS",0)
 ^9.66A^1^1
 "BLD",8503,"ABNS",1,0)
@@ -85,11 +85,11 @@ RGUTIN^^1^
 "BLD",8503,"KRN",9.8,"NM",46,0)
 RGUTIN0^^0^B1324180
 "BLD",8503,"KRN",9.8,"NM",47,0)
-RGUTIN16^^0^B4251434
+RGUTIN16^^0^B4411769
 "BLD",8503,"KRN",9.8,"NM",48,0)
-RGUTIN18^^0^B4464090
+RGUTIN18^^0^B4789827
 "BLD",8503,"KRN",9.8,"NM",49,0)
-RGUTIN8^^0^B4105987
+RGUTIN8^^0^B4269472
 "BLD",8503,"KRN",9.8,"NM",50,0)
 RGUTLK2^^0^B49012377
 "BLD",8503,"KRN",9.8,"NM",51,0)
@@ -97,9 +97,9 @@ RGUTLKP^^0^B26828890
 "BLD",8503,"KRN",9.8,"NM",52,0)
 RGUTMTL^^0^B13569820
 "BLD",8503,"KRN",9.8,"NM",53,0)
-RGUTOS^^0^B7607307
+RGUTOS^^0^B8020241
 "BLD",8503,"KRN",9.8,"NM",54,0)
-RGUTOS1^^0^B10134674
+RGUTOS1^^0^B10382570
 "BLD",8503,"KRN",9.8,"NM",56,0)
 RGUTRPC^^0^B16275171
 "BLD",8503,"KRN",9.8,"NM",57,0)
@@ -127,9 +127,9 @@ RGUTBCDA^^0^B8230455
 "BLD",8503,"KRN",9.8,"NM",68,0)
 RGUTIN8U^^1^
 "BLD",8503,"KRN",9.8,"NM",69,0)
-RGUTIN68^^0^B4411941
+RGUTIN68^^0^B4748681
 "BLD",8503,"KRN",9.8,"NM",70,0)
-RGUTIN58^^0^B5514558
+RGUTIN58^^0^B5722564
 "BLD",8503,"KRN",9.8,"NM",71,0)
 RGUT1^^0^B805876
 "BLD",8503,"KRN",9.8,"NM",72,0)
@@ -165,7 +165,7 @@ RGMSCUSR^^1^
 "BLD",8503,"KRN",9.8,"NM",87,0)
 RGUTDATF^^0^B6379104
 "BLD",8503,"KRN",9.8,"NM",88,0)
-RGUTIN19^^0^B4063150
+RGUTIN19^^0^B4406499
 "BLD",8503,"KRN",9.8,"NM","B","RGCVTDT",75)
 
 "BLD",8503,"KRN",9.8,"NM","B","RGCVTUU",76)
@@ -515,9 +515,9 @@ RUN TIME LIBRARY^RGUT^RUN TIME LIBRARY
 "PKG",172,22,0)
 ^9.49I^1^1
 "PKG",172,22,1,0)
-3.0^3150310^3150202^1
+3.0^3150311^3150202^1
 "PKG",172,22,1,1,0)
-^^3^3^3150310
+^^3^3^3150311
 "PKG",172,22,1,1,1,0)
 This is the set of routines common to all modules occupying the RG namespace.  
 "PKG",172,22,1,1,2,0)
@@ -627,7 +627,7 @@ D XPZ2^XPDIQ
 "RTN","RGUT",1,0)
 RGUT ;RI/CBMI/DKM - General purpose utilities;09-Mar-2015 10:10;DKM
 "RTN","RGUT",2,0)
- ;;3.0;RG UTILITIES;**1**;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;**1**;Mar 20, 2007;Build 223
 "RTN","RGUT",3,0)
  ;;
 "RTN","RGUT",4,0)
@@ -1091,7 +1091,7 @@ RTNDEL(RTN) ;
 "RTN","RGUT1",1,0)
 RGUT1 ;RG/IND/PLS - General Purpose Utilites - Con't ;03-Mar-2015 14:24;DKM
 "RTN","RGUT1",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUT1",3,0)
  ;;
 "RTN","RGUT1",4,0)
@@ -1161,7 +1161,7 @@ ASKDATE(PMT,DFL,MIN,OPT) ;
 "RTN","RGUTALR",1,0)
 RGUTALR ;RI/CBMI/DKM - Send alert to user(s) via kernel or mail;03-Mar-2015 14:24;DKM
 "RTN","RGUTALR",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTALR",3,0)
  ;;
 "RTN","RGUTALR",4,0)
@@ -1221,7 +1221,7 @@ MAIL(RGMSG,XMY,XMSUB,XMDUZ) ;
 "RTN","RGUTBC28",1,0)
 RGUTBC28 ;RI/CBMI/DKM/PLS - Convert 128 barcode to HPCL-compatible form ;03-Mar-2015 14:24;DKM
 "RTN","RGUTBC28",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTBC28",3,0)
  ;;
 "RTN","RGUTBC28",4,0)
@@ -1557,7 +1557,7 @@ BC(TXT,ORN,HGT,HOR,VER,WID) ;
 "RTN","RGUTBC39",1,0)
 RGUTBC39 ;RG/IND/PLS - Converts barcode 39 to HPCL-compatible format ;03-Mar-2015 14:24;DKM
 "RTN","RGUTBC39",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTBC39",3,0)
  ;;
 "RTN","RGUTBC39",4,0)
@@ -1751,7 +1751,7 @@ CHK(X) ;CALCULATE CHECK DIGIT AND RETURN STRING TO PRINT
 "RTN","RGUTBCDA",1,0)
 RGUTBCDA ;RG/IND/PLS - Converts barcode CODABAR to HPCL-compatible format ;03-Mar-2015 14:24;DKM
 "RTN","RGUTBCDA",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTBCDA",3,0)
  ;;
 "RTN","RGUTBCDA",4,0)
@@ -1905,7 +1905,7 @@ CHK(X) ;CALCULATE CHECK DIGIT AND RETURN STRING TO PRINT
 "RTN","RGUTBIG",1,0)
 RGUTBIG ;RG/IND/PLS - Print a banner in large letters;03-Mar-2015 14:24;DKM
 "RTN","RGUTBIG",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTBIG",3,0)
  ;;
 "RTN","RGUTBIG",4,0)
@@ -2073,7 +2073,7 @@ TBL ;; Table of character "raster images"
 "RTN","RGUTDAT",1,0)
 RGUTDAT ;RI/CBMI/DKM - Date range input;03-Mar-2015 14:24;DKM
 "RTN","RGUTDAT",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTDAT",3,0)
  ;;
 "RTN","RGUTDAT",4,0)
@@ -2225,7 +2225,7 @@ PAUSE(%RGZ) ;
 "RTN","RGUTDATF",1,0)
 RGUTDATF ;RI/CBMI/DKM - Date Formatter;03-Mar-2015 14:24;DKM
 "RTN","RGUTDATF",2,0)
- ;;3.0;RG UTILITIES;;Feb 20, 2015;Build 198
+ ;;3.0;RG UTILITIES;;Feb 20, 2015;Build 223
 "RTN","RGUTDATF",3,0)
  ;;1.0;SERIALIZATION FRAMEWORK;;14-March-2014;Build 1
 "RTN","RGUTDATF",4,0)
@@ -2413,7 +2413,7 @@ FMTX() N TZ
 "RTN","RGUTDDR",1,0)
 RGUTDDR ;RI/CBMI/DKM - FileMan RPC Extensions ;03-Mar-2015 14:24;DKM
 "RTN","RGUTDDR",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTDDR",3,0)
  ;;
 "RTN","RGUTDDR",4,0)
@@ -2929,7 +2929,7 @@ XREFFLD(FNUM,XREF) ;EP
 "RTN","RGUTDIC",1,0)
 RGUTDIC ;RI/CBMI/DKM - Encapsulated FileMan API;03-Mar-2015 14:24;DKM
 "RTN","RGUTDIC",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTDIC",3,0)
  ;;
 "RTN","RGUTDIC",4,0)
@@ -3261,7 +3261,7 @@ DA N %RGZ,%RGZ1,%RGZ2
 "RTN","RGUTDT",1,0)
 RGUTDT ;RI/CBMI/DKM - FM date to formatted date;03-Mar-2015 14:24;DKM
 "RTN","RGUTDT",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTDT",3,0)
  ;;
 "RTN","RGUTDT",4,0)
@@ -3339,7 +3339,7 @@ ENTRY(RGDAT,RGFMT) ; EP
 "RTN","RGUTEDT",1,0)
 RGUTEDT ;RI/CBMI/DKM - Screen-oriented line editor;05-Mar-2015 18:11;DKM
 "RTN","RGUTEDT",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTEDT",3,0)
  ;;
 "RTN","RGUTEDT",4,0)
@@ -3673,7 +3673,7 @@ RESET W $S(RGOPT["R":RGRVON,1:RGRVOFF)
 "RTN","RGUTHFS",1,0)
 RGUTHFS ;RI/CBMI/DKM - Host IO Support ;03-Mar-2015 14:24;DKM
 "RTN","RGUTHFS",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTHFS",3,0)
  ;;
 "RTN","RGUTHFS",4,0)
@@ -3787,7 +3787,7 @@ STRIP N I,J,K,X
 "RTN","RGUTIMP",1,0)
 RGUTIMP ;RI/CBMI/DKM - Import text into FileMan file;03-Mar-2015 14:24;DKM
 "RTN","RGUTIMP",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTIMP",3,0)
  ;;
 "RTN","RGUTIMP",4,0)
@@ -3949,9 +3949,9 @@ ERR(RGMSG,RGX) ;
 "RTN","RGUTIN0")
 0^46^B1324180
 "RTN","RGUTIN0",1,0)
-RGUTIN0 ;RI/CBMI/DKM - Platform-dependent operations;05-Mar-2015 15:03;DKM
+RGUTIN0 ;RI/CBMI/DKM - Platform-dependent operations;11-Mar-2015 09:33;DKM
 "RTN","RGUTIN0",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTIN0",3,0)
  ;;
 "RTN","RGUTIN0",4,0)
@@ -4007,11 +4007,11 @@ OPENX(X1,X2) ;EP
 "RTN","RGUTIN0",29,0)
  Q X1
 "RTN","RGUTIN16")
-0^47^B4251434
+0^47^B4411769
 "RTN","RGUTIN16",1,0)
-RGUTIN16 ;RI/CBMI/DKM - Inits for VMS;05-Mar-2015 15:03;DKM
+RGUTIN16 ;RI/CBMI/DKM - Inits for VMS;11-Mar-2015 09:33;DKM
 "RTN","RGUTIN16",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTIN16",3,0)
  ;;
 "RTN","RGUTIN16",4,0)
@@ -4093,93 +4093,99 @@ RENAME(X1,X2) ;EP
 "RTN","RGUTIN16",42,0)
  Q
 "RTN","RGUTIN16",43,0)
- ; Return directory of files
+ ; Make a directory
 "RTN","RGUTIN16",44,0)
-DIR(X1,X2,X3) ;EP
+MKDIR(X) Q:$Q 0
 "RTN","RGUTIN16",45,0)
- N Z,Z1
-"RTN","RGUTIN16",46,0)
- S $ZT="DIRX^RGUTOS",X3=$G(X3,"^UTILITY(""DIR"",$J)")
-"RTN","RGUTIN16",47,0)
- K @X3
-"RTN","RGUTIN16",48,0)
- S:'$G(X2) X2=9999999999
-"RTN","RGUTIN16",49,0)
- F Z=1:1:X2 S Z1=$ZSEARCH(X1),X1="" Q:Z1=""  S @X3@($P(Z1,"]",2))=""
-"RTN","RGUTIN16",50,0)
-DIRX Q
-"RTN","RGUTIN16",51,0)
- ; Return default working directory
-"RTN","RGUTIN16",52,0)
-DEFDIR(X) ;EP
-"RTN","RGUTIN16",53,0)
- Q $G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
-"RTN","RGUTIN16",54,0)
- ; Return path delimiters
-"RTN","RGUTIN16",55,0)
-DIRDLM() ;EP
-"RTN","RGUTIN16",56,0)
- Q "[.]"
-"RTN","RGUTIN16",57,0)
- ; Parse current error
-"RTN","RGUTIN16",58,0)
-ERR(X1,X2,X3) ;EP
-"RTN","RGUTIN16",59,0)
- S X1=$P($P($ZE,", ",2),"-",3),X2=$P($P($ZE,", "),":"),X3=$P($ZE,", ",$S(X1="ZTRAP":4,1:3))
-"RTN","RGUTIN16",60,0)
  Q
+"RTN","RGUTIN16",46,0)
+ ; Return directory of files
+"RTN","RGUTIN16",47,0)
+DIR(X1,X2,X3) ;EP
+"RTN","RGUTIN16",48,0)
+ N Z,Z1
+"RTN","RGUTIN16",49,0)
+ S $ZT="DIRX^RGUTOS",X3=$G(X3,"^UTILITY(""DIR"",$J)")
+"RTN","RGUTIN16",50,0)
+ K @X3
+"RTN","RGUTIN16",51,0)
+ S:'$G(X2) X2=9999999999
+"RTN","RGUTIN16",52,0)
+ F Z=1:1:X2 S Z1=$ZSEARCH(X1),X1="" Q:Z1=""  S @X3@($P(Z1,"]",2))=""
+"RTN","RGUTIN16",53,0)
+DIRX Q
+"RTN","RGUTIN16",54,0)
+ ; Return default working directory
+"RTN","RGUTIN16",55,0)
+DEFDIR(X) ;EP
+"RTN","RGUTIN16",56,0)
+ Q $G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
+"RTN","RGUTIN16",57,0)
+ ; Return path delimiters
+"RTN","RGUTIN16",58,0)
+DIRDLM() ;EP
+"RTN","RGUTIN16",59,0)
+ Q "[.]"
+"RTN","RGUTIN16",60,0)
+ ; Parse current error
 "RTN","RGUTIN16",61,0)
- ; Raise an exception
+ERR(X1,X2,X3) ;EP
 "RTN","RGUTIN16",62,0)
-RAISE(X) ;EP
+ S X1=$P($P($ZE,", ",2),"-",3),X2=$P($P($ZE,", "),":"),X3=$P($ZE,", ",$S(X1="ZTRAP":4,1:3))
 "RTN","RGUTIN16",63,0)
- ZT $G(X)
+ Q
 "RTN","RGUTIN16",64,0)
- ; Set error trap
+ ; Raise an exception
 "RTN","RGUTIN16",65,0)
-TRAP(X) ;EP
+RAISE(X) ;EP
 "RTN","RGUTIN16",66,0)
- Q "$ZT="""_$G(X)_""""
+ ZT $G(X)
 "RTN","RGUTIN16",67,0)
- ; Return size of a file
+ ; Set error trap
 "RTN","RGUTIN16",68,0)
-SIZE(X) ;EP
+TRAP(X) ;EP
 "RTN","RGUTIN16",69,0)
- Q $ZC(%GETFILE,X,"BLS")*$ZC(%GETFILE,X,"EOF")
+ Q "$ZT="""_$G(X)_""""
 "RTN","RGUTIN16",70,0)
- ; Return free disk space
+ ; Return size of a file
 "RTN","RGUTIN16",71,0)
-FREE(X) ;EP
+SIZE(X) ;EP
 "RTN","RGUTIN16",72,0)
- Q $ZC(%GETDVI,X,"FREEBLOCKS")/2048
+ Q $ZC(%GETFILE,X,"BLS")*$ZC(%GETFILE,X,"EOF")
 "RTN","RGUTIN16",73,0)
- ; Return host ip address
+ ; Return free disk space
 "RTN","RGUTIN16",74,0)
-HOSTIP() ;EP
+FREE(X) ;EP
 "RTN","RGUTIN16",75,0)
- Q ""
+ Q $ZC(%GETDVI,X,"FREEBLOCKS")/2048
 "RTN","RGUTIN16",76,0)
- ; Return host name
+ ; Return host ip address
 "RTN","RGUTIN16",77,0)
-HOSTNAME() ;EP
+HOSTIP() ;EP
 "RTN","RGUTIN16",78,0)
  Q ""
 "RTN","RGUTIN16",79,0)
- ; Return client ip address
+ ; Return host name
 "RTN","RGUTIN16",80,0)
-CLIENTIP() ;EP
+HOSTNAME() ;EP
 "RTN","RGUTIN16",81,0)
- N IP,$ET
+ Q ""
 "RTN","RGUTIN16",82,0)
- S $ET="S $EC=""""",IP=$&%UCXGETPEER
+ ; Return client ip address
 "RTN","RGUTIN16",83,0)
+CLIENTIP() ;EP
+"RTN","RGUTIN16",84,0)
+ N IP,$ET
+"RTN","RGUTIN16",85,0)
+ S $ET="S $EC=""""",IP=$&%UCXGETPEER
+"RTN","RGUTIN16",86,0)
  Q $A(IP,1)_"."_$A(IP,2)_"."_$A(IP,3)_"."_$A(IP,4)
 "RTN","RGUTIN18")
-0^48^B4464090
+0^48^B4789827
 "RTN","RGUTIN18",1,0)
-RGUTIN18 ;RI/CBMI/DKM - Inits for Cache (Windows);05-Mar-2015 15:03;DKM
+RGUTIN18 ;RI/CBMI/DKM - Inits for Cache (Windows);11-Mar-2015 09:33;DKM
 "RTN","RGUTIN18",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTIN18",3,0)
  ;;
 "RTN","RGUTIN18",4,0)
@@ -4263,111 +4269,119 @@ RENAME(X1,X2) ;EP
 "RTN","RGUTIN18",43,0)
  Q
 "RTN","RGUTIN18",44,0)
- ; Return directory of files
+ ; Make a directory
 "RTN","RGUTIN18",45,0)
-DIR(X1,X2,X3) ;EP
+MKDIR(X) S X='$$ZF(-1,"mkdir "_X)
 "RTN","RGUTIN18",46,0)
- N Z,Z1,FDLM
+ Q:$Q X
 "RTN","RGUTIN18",47,0)
- S FDLM=$E($$DIRDLM,1)
+ Q
 "RTN","RGUTIN18",48,0)
- S X3=$G(X3,$NA(^UTILITY("DIR",$J)))
+ ; Return directory of files
 "RTN","RGUTIN18",49,0)
- K @X3
+DIR(X1,X2,X3) ;EP
 "RTN","RGUTIN18",50,0)
- S:'$G(X2) X2=9999999999
+ N Z,Z1,FDLM
 "RTN","RGUTIN18",51,0)
- F Z=1:1:X2 S Z1=$ZSEARCH(X1),X1="" Q:Z1=""  D
-"RTN","RGUTIN18",52,0)
- .S Z1=$P(Z1,FDLM,$L(Z1,FDLM))
-"RTN","RGUTIN18",53,0)
- .S:$TR(Z1,".")'="" @X3@(Z1)=""
-"RTN","RGUTIN18",54,0)
- Q
-"RTN","RGUTIN18",55,0)
- ; Return path delimiters
-"RTN","RGUTIN18",56,0)
-DIRDLM() ;EP
-"RTN","RGUTIN18",57,0)
- Q "\\\"
-"RTN","RGUTIN18",58,0)
- ; Return default working directory
-"RTN","RGUTIN18",59,0)
-DEFDIR(X) ;EP
-"RTN","RGUTIN18",60,0)
- N FDLM
-"RTN","RGUTIN18",61,0)
  S FDLM=$E($$DIRDLM,1)
-"RTN","RGUTIN18",62,0)
- S X=$G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
-"RTN","RGUTIN18",63,0)
- S:$E(X,$L(X))'=FDLM X=X_FDLM
-"RTN","RGUTIN18",64,0)
- Q X
-"RTN","RGUTIN18",65,0)
- ; Parse current error
-"RTN","RGUTIN18",66,0)
-ERR(X1,X2,X3) ;EP
-"RTN","RGUTIN18",67,0)
- S X1=$E($P($ZE,">"),2,99),X2=$P($P($ZE,">",2),":"),X3=X1
-"RTN","RGUTIN18",68,0)
- S:X2["*" X2=""
-"RTN","RGUTIN18",69,0)
- S:$E(X1)="Z" X3=$E(X1,2,99),X1="ZTRAP"
-"RTN","RGUTIN18",70,0)
+"RTN","RGUTIN18",52,0)
+ S X3=$G(X3,$NA(^UTILITY("DIR",$J)))
+"RTN","RGUTIN18",53,0)
+ K @X3
+"RTN","RGUTIN18",54,0)
+ S:'$G(X2) X2=9999999999
+"RTN","RGUTIN18",55,0)
+ F Z=1:1:X2 S Z1=$ZSEARCH(X1),X1="" Q:Z1=""  D
+"RTN","RGUTIN18",56,0)
+ .S Z1=$P(Z1,FDLM,$L(Z1,FDLM))
+"RTN","RGUTIN18",57,0)
+ .S:$TR(Z1,".")'="" @X3@(Z1)=""
+"RTN","RGUTIN18",58,0)
  Q
+"RTN","RGUTIN18",59,0)
+ ; Return path delimiters
+"RTN","RGUTIN18",60,0)
+DIRDLM() ;EP
+"RTN","RGUTIN18",61,0)
+ Q "\\\"
+"RTN","RGUTIN18",62,0)
+ ; Return default working directory
+"RTN","RGUTIN18",63,0)
+DEFDIR(X) ;EP
+"RTN","RGUTIN18",64,0)
+ N FDLM
+"RTN","RGUTIN18",65,0)
+ S FDLM=$E($$DIRDLM,1)
+"RTN","RGUTIN18",66,0)
+ S X=$G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
+"RTN","RGUTIN18",67,0)
+ S:$E(X,$L(X))'=FDLM X=X_FDLM
+"RTN","RGUTIN18",68,0)
+ Q X
+"RTN","RGUTIN18",69,0)
+ ; Parse current error
+"RTN","RGUTIN18",70,0)
+ERR(X1,X2,X3) ;EP
 "RTN","RGUTIN18",71,0)
- ; Raise an exception
+ S X1=$E($P($ZE,">"),2,99),X2=$P($P($ZE,">",2),":"),X3=X1
 "RTN","RGUTIN18",72,0)
-RAISE(X) ;EP
+ S:X2["*" X2=""
 "RTN","RGUTIN18",73,0)
- ZT $G(X)
+ S:$E(X1)="Z" X3=$E(X1,2,99),X1="ZTRAP"
 "RTN","RGUTIN18",74,0)
- ; Set error trap
+ Q
 "RTN","RGUTIN18",75,0)
-TRAP(X) ;EP
+ ; Raise an exception
 "RTN","RGUTIN18",76,0)
- Q "$ZT="""_$G(X)_""""
+RAISE(X) ;EP
 "RTN","RGUTIN18",77,0)
- ; Return size of file
+ ZT $G(X)
 "RTN","RGUTIN18",78,0)
-SIZE(X) ;EP
+ ; Set error trap
 "RTN","RGUTIN18",79,0)
- Q 0
+TRAP(X) ;EP
 "RTN","RGUTIN18",80,0)
- ; Return free disk space
+ Q "$ZT="""_$G(X)_""""
 "RTN","RGUTIN18",81,0)
-FREE(X) ;EP
+ ; Return size of file
 "RTN","RGUTIN18",82,0)
- Q 0
+SIZE(X) ;EP
 "RTN","RGUTIN18",83,0)
- ; Return host ip address
+ Q 0
 "RTN","RGUTIN18",84,0)
-HOSTIP() ;EP
+ ; Return free disk space
 "RTN","RGUTIN18",85,0)
- Q $P($P($ZU(131,1),","),":",2)
+FREE(X) ;EP
 "RTN","RGUTIN18",86,0)
- ; Return host name
+ Q 0
 "RTN","RGUTIN18",87,0)
-HOSTNAME() ;EP
+ ; Return host ip address
 "RTN","RGUTIN18",88,0)
- Q $P($P($ZU(131,1),","),":")
+HOSTIP() ;EP
 "RTN","RGUTIN18",89,0)
- ; Return client ip address
+ Q $P($P($ZU(131,1),","),":",2)
 "RTN","RGUTIN18",90,0)
-CLIENTIP() ;EP
+ ; Return host name
 "RTN","RGUTIN18",91,0)
- N IP,$ET
+HOSTNAME() ;EP
 "RTN","RGUTIN18",92,0)
- S $ET="S $EC=""""",IP=$ZU(111,0)
+ Q $P($P($ZU(131,1),","),":")
 "RTN","RGUTIN18",93,0)
+ ; Return client ip address
+"RTN","RGUTIN18",94,0)
+CLIENTIP() ;EP
+"RTN","RGUTIN18",95,0)
+ N IP,$ET
+"RTN","RGUTIN18",96,0)
+ S $ET="S $EC=""""",IP=$ZU(111,0)
+"RTN","RGUTIN18",97,0)
  Q $A(IP,1)_"."_$A(IP,2)_"."_$A(IP,3)_"."_$A(IP,4)
 "RTN","RGUTIN19")
-0^88^B4063150
+0^88^B4406499
 "RTN","RGUTIN19",1,0)
-RGUTIN19 ;RI/CBMI/DKM - Inits for GT.M (Unix);06-Mar-2015 08:46;DKM
+RGUTIN19 ;RI/CBMI/DKM - Inits for GT.M (Unix);11-Mar-2015 10:09;DKM
 "RTN","RGUTIN19",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTIN19",3,0)
  ;;
 "RTN","RGUTIN19",4,0)
@@ -4453,109 +4467,117 @@ RENAME(X1,X2) ;EP
 "RTN","RGUTIN19",44,0)
  Q
 "RTN","RGUTIN19",45,0)
- ; Generate directory listing
+ ; Make a directory
 "RTN","RGUTIN19",46,0)
-DIR(X1,X2,X3) ;EP
+MKDIR(X) ZSYSTEM "mkdir -p "_X
 "RTN","RGUTIN19",47,0)
- N Z,Z1,FDLM
+ Q:$Q '$ZSYSTEM
 "RTN","RGUTIN19",48,0)
- S FDLM=$E($$DIRDLM,1)
+ Q
 "RTN","RGUTIN19",49,0)
- S X3=$G(X3,$NA(^UTILITY("DIR",$J)))
+ ; Generate directory listing
 "RTN","RGUTIN19",50,0)
- K @X3
+DIR(X1,X2,X3) ;EP
 "RTN","RGUTIN19",51,0)
- S:'$G(X2) X2=99999999
+ N Z,Z1,FDLM
 "RTN","RGUTIN19",52,0)
- F Z=1:1:X2 S Z1=$ZSEARCH(X1) Q:Z1=""  D
-"RTN","RGUTIN19",53,0)
- .S Z1=$ZPARSE(Z1,"NAME")_$ZPARSE(Z1,"TYPE")
-"RTN","RGUTIN19",54,0)
- .S:$TR(Z1,".")'="" @X3@(Z1)=""
-"RTN","RGUTIN19",55,0)
- Q
-"RTN","RGUTIN19",56,0)
- ; Return path delimiters
-"RTN","RGUTIN19",57,0)
-DIRDLM() ;EP
-"RTN","RGUTIN19",58,0)
- Q "///"
-"RTN","RGUTIN19",59,0)
- ; Return default working directory
-"RTN","RGUTIN19",60,0)
-DEFDIR(X) ;EP
-"RTN","RGUTIN19",61,0)
- N FDLM
-"RTN","RGUTIN19",62,0)
  S FDLM=$E($$DIRDLM,1)
+"RTN","RGUTIN19",53,0)
+ S X3=$G(X3,$NA(^UTILITY("DIR",$J)))
+"RTN","RGUTIN19",54,0)
+ K @X3
+"RTN","RGUTIN19",55,0)
+ S:'$G(X2) X2=99999999
+"RTN","RGUTIN19",56,0)
+ F Z=1:1:X2 S Z1=$ZSEARCH(X1) Q:Z1=""  D
+"RTN","RGUTIN19",57,0)
+ .S Z1=$ZPARSE(Z1,"NAME")_$ZPARSE(Z1,"TYPE")
+"RTN","RGUTIN19",58,0)
+ .S:$TR(Z1,".")'="" @X3@(Z1)=""
+"RTN","RGUTIN19",59,0)
+ Q
+"RTN","RGUTIN19",60,0)
+ ; Return path delimiters
+"RTN","RGUTIN19",61,0)
+DIRDLM() ;EP
+"RTN","RGUTIN19",62,0)
+ Q "///"
 "RTN","RGUTIN19",63,0)
- S X=$G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
+ ; Return default working directory
 "RTN","RGUTIN19",64,0)
- S:$E(X,$L(X))'=FDLM X=X_FDLM
+DEFDIR(X) ;EP
 "RTN","RGUTIN19",65,0)
- Q X
+ N FDLM
 "RTN","RGUTIN19",66,0)
- ; Parse current error
+ S FDLM=$E($$DIRDLM,1)
 "RTN","RGUTIN19",67,0)
-ERR(X1,X2,X3) ;EP
+ S X=$G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
 "RTN","RGUTIN19",68,0)
- S X1=$ZSTATUS,X2=$P(X1,",",2),X3=$P(X1,",",4),X1=$P($P(X1,",",3),"-",3)
+ S:$E(X,$L(X))'=FDLM X=X_FDLM
 "RTN","RGUTIN19",69,0)
- Q
+ Q X
 "RTN","RGUTIN19",70,0)
- ; Raise an exception
+ ; Parse current error
 "RTN","RGUTIN19",71,0)
-RAISE(X) ;EP
+ERR(X1,X2,X3) ;EP
 "RTN","RGUTIN19",72,0)
- ZM 150342768:$G(X)
+ S X1=$ZSTATUS,X2=$P(X1,",",2),X3=$P(X1,",",4),X1=$P($P(X1,",",3),"-",3)
 "RTN","RGUTIN19",73,0)
- ; Set error trap
-"RTN","RGUTIN19",74,0)
-TRAP(X) ;EP
-"RTN","RGUTIN19",75,0)
- S $ZYERROR="ZTRAP^RGUTOS"
-"RTN","RGUTIN19",76,0)
- Q "$ZT="""_$S($D(X):"G "_X,1:"")_""""
-"RTN","RGUTIN19",77,0)
-ZTRAP S $ZE=$ZSTATUS
-"RTN","RGUTIN19",78,0)
  Q
+"RTN","RGUTIN19",74,0)
+ ; Raise an exception
+"RTN","RGUTIN19",75,0)
+RAISE(X) ;EP
+"RTN","RGUTIN19",76,0)
+ ZM 150342768:$G(X)
+"RTN","RGUTIN19",77,0)
+ ; Set error trap
+"RTN","RGUTIN19",78,0)
+TRAP(X) ;EP
 "RTN","RGUTIN19",79,0)
- ; Return size of a file
+ S $ZYERROR="ZTRAP^RGUTOS"
 "RTN","RGUTIN19",80,0)
-SIZE(X) ;EP
+ Q "$ZT="""_$S($D(X):"G "_X,1:"")_""""
 "RTN","RGUTIN19",81,0)
- Q 0
+ZTRAP S $ZE=$ZSTATUS
 "RTN","RGUTIN19",82,0)
- ; Return free disk space
+ Q
 "RTN","RGUTIN19",83,0)
-FREE(X) ;EP
+ ; Return size of a file
 "RTN","RGUTIN19",84,0)
- Q 0
+SIZE(X) ;EP
 "RTN","RGUTIN19",85,0)
- ; Return host ip address
+ Q 0
 "RTN","RGUTIN19",86,0)
-HOSTIP() ;EP
+ ; Return free disk space
 "RTN","RGUTIN19",87,0)
- Q ""
+FREE(X) ;EP
 "RTN","RGUTIN19",88,0)
- ; Return host name
+ Q 0
 "RTN","RGUTIN19",89,0)
-HOSTNAME() ;EP
+ ; Return host ip address
 "RTN","RGUTIN19",90,0)
- Q ""
+HOSTIP() ;EP
 "RTN","RGUTIN19",91,0)
- ; Return client ip address
+ Q ""
 "RTN","RGUTIN19",92,0)
-CLIENTIP() ;EP
+ ; Return host name
 "RTN","RGUTIN19",93,0)
+HOSTNAME() ;EP
+"RTN","RGUTIN19",94,0)
+ Q ""
+"RTN","RGUTIN19",95,0)
+ ; Return client ip address
+"RTN","RGUTIN19",96,0)
+CLIENTIP() ;EP
+"RTN","RGUTIN19",97,0)
  Q ""
 "RTN","RGUTIN58")
-0^70^B5514558
+0^70^B5722564
 "RTN","RGUTIN58",1,0)
-RGUTIN58 ;RI/CBMI/DKM/PLS - Inits for MSM-UNIX;05-Mar-2015 15:03;DKM
+RGUTIN58 ;RI/CBMI/DKM/PLS - Inits for MSM-UNIX;11-Mar-2015 09:33;DKM
 "RTN","RGUTIN58",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTIN58",3,0)
  ;;
 "RTN","RGUTIN58",4,0)
@@ -4641,135 +4663,141 @@ RENAME(X1,X2) ;EP
 "RTN","RGUTIN58",44,0)
  Q
 "RTN","RGUTIN58",45,0)
- ; Generate a directory listing
+ ; Make a directory
 "RTN","RGUTIN58",46,0)
-DIR(X1,X2,X3) ;EP
+MKDIR(X) Q:$Q 0
 "RTN","RGUTIN58",47,0)
- N TFN,X,Z
+ Q
 "RTN","RGUTIN58",48,0)
- N $ET
+ ; Generate a directory listing
 "RTN","RGUTIN58",49,0)
- S $ET="",@$$TRAP("DIRERR^RGUTOS")
+DIR(X1,X2,X3) ;EP
 "RTN","RGUTIN58",50,0)
- S X1=$G(X1),X2=+$G(X2),X3=$G(X3,"^UTILITY(""DIR"",$J)")
+ N TFN,X,Z
 "RTN","RGUTIN58",51,0)
- S TFN=$$DEFDIR_"RGUTAUTO."_$J
+ N $ET
 "RTN","RGUTIN58",52,0)
- K @X3
+ S $ET="",@$$TRAP("DIRERR^RGUTOS")
 "RTN","RGUTIN58",53,0)
- ;
+ S X1=$G(X1),X2=+$G(X2),X3=$G(X3,"^UTILITY(""DIR"",$J)")
 "RTN","RGUTIN58",54,0)
- D DELETE(TFN)
+ S TFN=$$DEFDIR_"RGUTAUTO."_$J
 "RTN","RGUTIN58",55,0)
- D JW("ls -d "_X1_" >> "_TFN)
+ K @X3
 "RTN","RGUTIN58",56,0)
- D OPEN(.TFN,"R")
+ ;
 "RTN","RGUTIN58",57,0)
- F Z=1:1 Q:(X2&(Z>X2))  Q:$$READ(.X,TFN)  D
-"RTN","RGUTIN58",58,0)
- .S X=$TR($P(X,"/",$L(X,"/")),$C(10),"")
-"RTN","RGUTIN58",59,0)
- .I X]"" S @X3@(X)=""
-"RTN","RGUTIN58",60,0)
-DIRERR D CLOSE(.TFN)
-"RTN","RGUTIN58",61,0)
  D DELETE(TFN)
+"RTN","RGUTIN58",58,0)
+ D JW("ls -d "_X1_" >> "_TFN)
+"RTN","RGUTIN58",59,0)
+ D OPEN(.TFN,"R")
+"RTN","RGUTIN58",60,0)
+ F Z=1:1 Q:(X2&(Z>X2))  Q:$$READ(.X,TFN)  D
+"RTN","RGUTIN58",61,0)
+ .S X=$TR($P(X,"/",$L(X,"/")),$C(10),"")
 "RTN","RGUTIN58",62,0)
- Q
+ .I X]"" S @X3@(X)=""
 "RTN","RGUTIN58",63,0)
- ; Return default working directory
+DIRERR D CLOSE(.TFN)
 "RTN","RGUTIN58",64,0)
-DEFDIR(X) ;EP
+ D DELETE(TFN)
 "RTN","RGUTIN58",65,0)
- S X=$G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
-"RTN","RGUTIN58",66,0)
- S:$E(X,$L(X))'="/" X=X_"/"
-"RTN","RGUTIN58",67,0)
- Q X
-"RTN","RGUTIN58",68,0)
- ; Return path delimiters
-"RTN","RGUTIN58",69,0)
-DIRDLM() ;EP
-"RTN","RGUTIN58",70,0)
- Q "///"
-"RTN","RGUTIN58",71,0)
- ; Return free disk space
-"RTN","RGUTIN58",72,0)
-FREE(X) ;EP
-"RTN","RGUTIN58",73,0)
- S X=$ZOS(9,$E(X))
-"RTN","RGUTIN58",74,0)
- Q X*$P(X,"^",2)*$P(X,"^",3)/1048576
-"RTN","RGUTIN58",75,0)
- ; Parse current error
-"RTN","RGUTIN58",76,0)
-ERR(X1,X2,X3) ;EP
-"RTN","RGUTIN58",77,0)
- S X1=$E($P($ZE,">"),2,99),X2=$P($P($ZE,">",2),":"),X3=X1
-"RTN","RGUTIN58",78,0)
- S:X2["*" X2=""
-"RTN","RGUTIN58",79,0)
- S:$E(X1)="Z" X3=$E(X1,2,99),X1="ZTRAP"
-"RTN","RGUTIN58",80,0)
  Q
+"RTN","RGUTIN58",66,0)
+ ; Return default working directory
+"RTN","RGUTIN58",67,0)
+DEFDIR(X) ;EP
+"RTN","RGUTIN58",68,0)
+ S X=$G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
+"RTN","RGUTIN58",69,0)
+ S:$E(X,$L(X))'="/" X=X_"/"
+"RTN","RGUTIN58",70,0)
+ Q X
+"RTN","RGUTIN58",71,0)
+ ; Return path delimiters
+"RTN","RGUTIN58",72,0)
+DIRDLM() ;EP
+"RTN","RGUTIN58",73,0)
+ Q "///"
+"RTN","RGUTIN58",74,0)
+ ; Return free disk space
+"RTN","RGUTIN58",75,0)
+FREE(X) ;EP
+"RTN","RGUTIN58",76,0)
+ S X=$ZOS(9,$E(X))
+"RTN","RGUTIN58",77,0)
+ Q X*$P(X,"^",2)*$P(X,"^",3)/1048576
+"RTN","RGUTIN58",78,0)
+ ; Parse current error
+"RTN","RGUTIN58",79,0)
+ERR(X1,X2,X3) ;EP
+"RTN","RGUTIN58",80,0)
+ S X1=$E($P($ZE,">"),2,99),X2=$P($P($ZE,">",2),":"),X3=X1
 "RTN","RGUTIN58",81,0)
- ; Raise an exception
+ S:X2["*" X2=""
 "RTN","RGUTIN58",82,0)
-RAISE(X) ;EP
+ S:$E(X1)="Z" X3=$E(X1,2,99),X1="ZTRAP"
 "RTN","RGUTIN58",83,0)
- ZT $G(X)
+ Q
 "RTN","RGUTIN58",84,0)
- ; Set error trap
+ ; Raise an exception
 "RTN","RGUTIN58",85,0)
-TRAP(X) ;EP
+RAISE(X) ;EP
 "RTN","RGUTIN58",86,0)
- Q "$ZT="""_$G(X)_""""
+ ZT $G(X)
 "RTN","RGUTIN58",87,0)
- ; Return size of a file
+ ; Set error trap
 "RTN","RGUTIN58",88,0)
-SIZE(X) ;EP
+TRAP(X) ;EP
 "RTN","RGUTIN58",89,0)
- N I,Y,Z
+ Q "$ZT="""_$G(X)_""""
 "RTN","RGUTIN58",90,0)
- S Z=$ZOS(12,X,0),Z=$P(Z,"^",2,999),Y=0
+ ; Return size of a file
 "RTN","RGUTIN58",91,0)
- I Z'="" F I=30:-1:27 S Y=Y*256+$A(Z,I)
+SIZE(X) ;EP
 "RTN","RGUTIN58",92,0)
- Q Y
+ N I,Y,Z
 "RTN","RGUTIN58",93,0)
- ; Return host ip address
+ S Z=$ZOS(12,X,0),Z=$P(Z,"^",2,999),Y=0
 "RTN","RGUTIN58",94,0)
-HOSTIP() ;EP
+ I Z'="" F I=30:-1:27 S Y=Y*256+$A(Z,I)
 "RTN","RGUTIN58",95,0)
- Q ""
+ Q Y
 "RTN","RGUTIN58",96,0)
- ; Return host name
+ ; Return host ip address
 "RTN","RGUTIN58",97,0)
-HOSTNAME() ;EP
+HOSTIP() ;EP
 "RTN","RGUTIN58",98,0)
  Q ""
 "RTN","RGUTIN58",99,0)
- ; Return client ip address
+ ; Return host name
 "RTN","RGUTIN58",100,0)
-CLIENTIP() ;EP
+HOSTNAME() ;EP
 "RTN","RGUTIN58",101,0)
  Q ""
 "RTN","RGUTIN58",102,0)
- ; Issue host command and wait
+ ; Return client ip address
 "RTN","RGUTIN58",103,0)
-JW(ZOSHC) ;msm extrinsic
+CLIENTIP() ;EP
 "RTN","RGUTIN58",104,0)
- N ZOSHX
+ Q ""
 "RTN","RGUTIN58",105,0)
- S ZOSHX=$$JOBWAIT^%HOSTCMD(ZOSHC)
+ ; Issue host command and wait
 "RTN","RGUTIN58",106,0)
+JW(ZOSHC) ;msm extrinsic
+"RTN","RGUTIN58",107,0)
+ N ZOSHX
+"RTN","RGUTIN58",108,0)
+ S ZOSHX=$$JOBWAIT^%HOSTCMD(ZOSHC)
+"RTN","RGUTIN58",109,0)
  Q
 "RTN","RGUTIN68")
-0^69^B4411941
+0^69^B4748681
 "RTN","RGUTIN68",1,0)
-RGUTIN68 ;RI/CBMI/DKM - Inits for Cache (Unix);05-Mar-2015 15:03;DKM
+RGUTIN68 ;RI/CBMI/DKM - Inits for Cache (Unix);11-Mar-2015 09:33;DKM
 "RTN","RGUTIN68",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTIN68",3,0)
  ;;
 "RTN","RGUTIN68",4,0)
@@ -4853,111 +4881,119 @@ RENAME(X1,X2) ;EP
 "RTN","RGUTIN68",43,0)
  Q
 "RTN","RGUTIN68",44,0)
- ; Generate directory listing
+ ; Make a directory
 "RTN","RGUTIN68",45,0)
-DIR(X1,X2,X3) ;EP
+MKDIR(X) S X='$ZF(-1,"mkdir -p "_X)
 "RTN","RGUTIN68",46,0)
- N Z,Z1,FDLM
+ Q:$Q X
 "RTN","RGUTIN68",47,0)
- S FDLM=$E($$DIRDLM,1)
+ Q
 "RTN","RGUTIN68",48,0)
- S X3=$G(X3,$NA(^UTILITY("DIR",$J)))
+ ; Generate directory listing
 "RTN","RGUTIN68",49,0)
- K @X3
+DIR(X1,X2,X3) ;EP
 "RTN","RGUTIN68",50,0)
- S:'$G(X2) X2=9999999999
+ N Z,Z1,FDLM
 "RTN","RGUTIN68",51,0)
- F Z=1:1:X2 S Z1=$ZSEARCH(X1),X1="" Q:Z1=""  D
-"RTN","RGUTIN68",52,0)
- .S Z1=$P(Z1,FDLM,$L(Z1,FDLM))
-"RTN","RGUTIN68",53,0)
- .S:$TR(Z1,".")'="" @X3@(Z1)=""
-"RTN","RGUTIN68",54,0)
- Q
-"RTN","RGUTIN68",55,0)
- ; Return path delimiters
-"RTN","RGUTIN68",56,0)
-DIRDLM() ;EP
-"RTN","RGUTIN68",57,0)
- Q "///"
-"RTN","RGUTIN68",58,0)
- ; Return default working directory
-"RTN","RGUTIN68",59,0)
-DEFDIR(X) ;EP
-"RTN","RGUTIN68",60,0)
- N FDLM
-"RTN","RGUTIN68",61,0)
  S FDLM=$E($$DIRDLM,1)
-"RTN","RGUTIN68",62,0)
- S X=$G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
-"RTN","RGUTIN68",63,0)
- S:$E(X,$L(X))'=FDLM X=X_FDLM
-"RTN","RGUTIN68",64,0)
- Q X
-"RTN","RGUTIN68",65,0)
- ; Parse current error
-"RTN","RGUTIN68",66,0)
-ERR(X1,X2,X3) ;EP
-"RTN","RGUTIN68",67,0)
- S X1=$E($P($ZE,">"),2,99),X2=$P($P($ZE,">",2),":"),X3=X1
-"RTN","RGUTIN68",68,0)
- S:X2["*" X2=""
-"RTN","RGUTIN68",69,0)
- S:$E(X1)="Z" X3=$E(X1,2,99),X1="ZTRAP"
-"RTN","RGUTIN68",70,0)
+"RTN","RGUTIN68",52,0)
+ S X3=$G(X3,$NA(^UTILITY("DIR",$J)))
+"RTN","RGUTIN68",53,0)
+ K @X3
+"RTN","RGUTIN68",54,0)
+ S:'$G(X2) X2=9999999999
+"RTN","RGUTIN68",55,0)
+ F Z=1:1:X2 S Z1=$ZSEARCH(X1),X1="" Q:Z1=""  D
+"RTN","RGUTIN68",56,0)
+ .S Z1=$P(Z1,FDLM,$L(Z1,FDLM))
+"RTN","RGUTIN68",57,0)
+ .S:$TR(Z1,".")'="" @X3@(Z1)=""
+"RTN","RGUTIN68",58,0)
  Q
+"RTN","RGUTIN68",59,0)
+ ; Return path delimiters
+"RTN","RGUTIN68",60,0)
+DIRDLM() ;EP
+"RTN","RGUTIN68",61,0)
+ Q "///"
+"RTN","RGUTIN68",62,0)
+ ; Return default working directory
+"RTN","RGUTIN68",63,0)
+DEFDIR(X) ;EP
+"RTN","RGUTIN68",64,0)
+ N FDLM
+"RTN","RGUTIN68",65,0)
+ S FDLM=$E($$DIRDLM,1)
+"RTN","RGUTIN68",66,0)
+ S X=$G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
+"RTN","RGUTIN68",67,0)
+ S:$E(X,$L(X))'=FDLM X=X_FDLM
+"RTN","RGUTIN68",68,0)
+ Q X
+"RTN","RGUTIN68",69,0)
+ ; Parse current error
+"RTN","RGUTIN68",70,0)
+ERR(X1,X2,X3) ;EP
 "RTN","RGUTIN68",71,0)
- ; Raise an exception
+ S X1=$E($P($ZE,">"),2,99),X2=$P($P($ZE,">",2),":"),X3=X1
 "RTN","RGUTIN68",72,0)
-RAISE(X) ;EP
+ S:X2["*" X2=""
 "RTN","RGUTIN68",73,0)
- ZT $G(X)
+ S:$E(X1)="Z" X3=$E(X1,2,99),X1="ZTRAP"
 "RTN","RGUTIN68",74,0)
- ; Set error trap
+ Q
 "RTN","RGUTIN68",75,0)
-TRAP(X) ;EP
+ ; Raise an exception
 "RTN","RGUTIN68",76,0)
- Q "$ZT="""_$G(X)_""""
+RAISE(X) ;EP
 "RTN","RGUTIN68",77,0)
- ; Return size of a file
+ ZT $G(X)
 "RTN","RGUTIN68",78,0)
-SIZE(X) ;EP
+ ; Set error trap
 "RTN","RGUTIN68",79,0)
- Q 0
+TRAP(X) ;EP
 "RTN","RGUTIN68",80,0)
- ; Return free disk space
+ Q "$ZT="""_$G(X)_""""
 "RTN","RGUTIN68",81,0)
-FREE(X) ;EP
+ ; Return size of a file
 "RTN","RGUTIN68",82,0)
- Q 0
+SIZE(X) ;EP
 "RTN","RGUTIN68",83,0)
- ; Return host ip address
+ Q 0
 "RTN","RGUTIN68",84,0)
-HOSTIP() ;EP
+ ; Return free disk space
 "RTN","RGUTIN68",85,0)
- Q $P($P($ZU(131,1),","),":",2)
+FREE(X) ;EP
 "RTN","RGUTIN68",86,0)
- ; Return host name
+ Q 0
 "RTN","RGUTIN68",87,0)
-HOSTNAME() ;EP
+ ; Return host ip address
 "RTN","RGUTIN68",88,0)
- Q $P($P($ZU(131,1),","),":")
+HOSTIP() ;EP
 "RTN","RGUTIN68",89,0)
- ; Return client ip address
+ Q $P($P($ZU(131,1),","),":",2)
 "RTN","RGUTIN68",90,0)
-CLIENTIP() ;EP
+ ; Return host name
 "RTN","RGUTIN68",91,0)
- N IP,$ET
+HOSTNAME() ;EP
 "RTN","RGUTIN68",92,0)
- S $ET="S $EC=""""",IP=$ZU(111,0)
+ Q $P($P($ZU(131,1),","),":")
 "RTN","RGUTIN68",93,0)
+ ; Return client ip address
+"RTN","RGUTIN68",94,0)
+CLIENTIP() ;EP
+"RTN","RGUTIN68",95,0)
+ N IP,$ET
+"RTN","RGUTIN68",96,0)
+ S $ET="S $EC=""""",IP=$ZU(111,0)
+"RTN","RGUTIN68",97,0)
  Q $A(IP,1)_"."_$A(IP,2)_"."_$A(IP,3)_"."_$A(IP,4)
 "RTN","RGUTIN8")
-0^49^B4105987
+0^49^B4269472
 "RTN","RGUTIN8",1,0)
-RGUTIN8 ;RI/CBMI/DKM - Inits for MSM;05-Mar-2015 15:03;DKM
+RGUTIN8 ;RI/CBMI/DKM - Inits for MSM;11-Mar-2015 09:33;DKM
 "RTN","RGUTIN8",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTIN8",3,0)
  ;;
 "RTN","RGUTIN8",4,0)
@@ -5045,96 +5081,102 @@ RENAME(X1,X2) ;EP
 "RTN","RGUTIN8",45,0)
  Q
 "RTN","RGUTIN8",46,0)
- ; Generate a directory listing
+ ; Make a directory
 "RTN","RGUTIN8",47,0)
-DIR(X1,X2,X3) ;EP
+MKDIR(X) Q:$Q 0
 "RTN","RGUTIN8",48,0)
- N Z
+ Q
 "RTN","RGUTIN8",49,0)
- S X1=$ZOS(12,X1,0),X2=+$G(X2),X3=$G(X3,"^UTILITY(""DIR"",$J)")
+ ; Generate a directory listing
 "RTN","RGUTIN8",50,0)
- K @X3
+DIR(X1,X2,X3) ;EP
 "RTN","RGUTIN8",51,0)
- F Z=1:1 Q:(X2&(Z>X2))!($P(X1,"^")="")  S @X3@($P(X1,"^"))="",X1=$ZOS(13,X1)
+ N Z
 "RTN","RGUTIN8",52,0)
- Q
+ S X1=$ZOS(12,X1,0),X2=+$G(X2),X3=$G(X3,"^UTILITY(""DIR"",$J)")
 "RTN","RGUTIN8",53,0)
- ; Return default working directory
+ K @X3
 "RTN","RGUTIN8",54,0)
-DEFDIR(X) ;EP
+ F Z=1:1 Q:(X2&(Z>X2))!($P(X1,"^")="")  S @X3@($P(X1,"^"))="",X1=$ZOS(13,X1)
 "RTN","RGUTIN8",55,0)
- S X=$G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
-"RTN","RGUTIN8",56,0)
- S:$E(X,$L(X))'="\" X=X_"\"
-"RTN","RGUTIN8",57,0)
- Q X
-"RTN","RGUTIN8",58,0)
- ; Return path delimiters
-"RTN","RGUTIN8",59,0)
-DIRDLM() ;EP
-"RTN","RGUTIN8",60,0)
- Q "\\\"
-"RTN","RGUTIN8",61,0)
- ; Return free disk space
-"RTN","RGUTIN8",62,0)
-FREE(X) ;EP
-"RTN","RGUTIN8",63,0)
- S X=$ZOS(9,$E(X))
-"RTN","RGUTIN8",64,0)
- Q X*$P(X,"^",2)*$P(X,"^",3)/1048576
-"RTN","RGUTIN8",65,0)
- ; Parse current error
-"RTN","RGUTIN8",66,0)
-ERR(X1,X2,X3) ;EP
-"RTN","RGUTIN8",67,0)
- S X1=$E($P($ZE,">"),2,99),X2=$P($P($ZE,">",2),":"),X3=X1
-"RTN","RGUTIN8",68,0)
- S:X2["*" X2=""
-"RTN","RGUTIN8",69,0)
- S:$E(X1)="Z" X3=$E(X1,2,99),X1="ZTRAP"
-"RTN","RGUTIN8",70,0)
  Q
+"RTN","RGUTIN8",56,0)
+ ; Return default working directory
+"RTN","RGUTIN8",57,0)
+DEFDIR(X) ;EP
+"RTN","RGUTIN8",58,0)
+ S X=$G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
+"RTN","RGUTIN8",59,0)
+ S:$E(X,$L(X))'="\" X=X_"\"
+"RTN","RGUTIN8",60,0)
+ Q X
+"RTN","RGUTIN8",61,0)
+ ; Return path delimiters
+"RTN","RGUTIN8",62,0)
+DIRDLM() ;EP
+"RTN","RGUTIN8",63,0)
+ Q "\\\"
+"RTN","RGUTIN8",64,0)
+ ; Return free disk space
+"RTN","RGUTIN8",65,0)
+FREE(X) ;EP
+"RTN","RGUTIN8",66,0)
+ S X=$ZOS(9,$E(X))
+"RTN","RGUTIN8",67,0)
+ Q X*$P(X,"^",2)*$P(X,"^",3)/1048576
+"RTN","RGUTIN8",68,0)
+ ; Parse current error
+"RTN","RGUTIN8",69,0)
+ERR(X1,X2,X3) ;EP
+"RTN","RGUTIN8",70,0)
+ S X1=$E($P($ZE,">"),2,99),X2=$P($P($ZE,">",2),":"),X3=X1
 "RTN","RGUTIN8",71,0)
- ; Raise an exception
+ S:X2["*" X2=""
 "RTN","RGUTIN8",72,0)
-RAISE(X) ;EP
+ S:$E(X1)="Z" X3=$E(X1,2,99),X1="ZTRAP"
 "RTN","RGUTIN8",73,0)
- ZT $G(X)
+ Q
 "RTN","RGUTIN8",74,0)
- ; Set error trap
+ ; Raise an exception
 "RTN","RGUTIN8",75,0)
-TRAP(X) ;EP
+RAISE(X) ;EP
 "RTN","RGUTIN8",76,0)
- Q "$ZT="""_$G(X)_""""
+ ZT $G(X)
 "RTN","RGUTIN8",77,0)
- ; Return size of a file
+ ; Set error trap
 "RTN","RGUTIN8",78,0)
-SIZE(X) ;EP
+TRAP(X) ;EP
 "RTN","RGUTIN8",79,0)
- N I,Y,Z
+ Q "$ZT="""_$G(X)_""""
 "RTN","RGUTIN8",80,0)
- S Z=$ZOS(12,X,0),Z=$P(Z,"^",2,999),Y=0
+ ; Return size of a file
 "RTN","RGUTIN8",81,0)
- I Z'="" F I=30:-1:27 S Y=Y*256+$A(Z,I)
+SIZE(X) ;EP
 "RTN","RGUTIN8",82,0)
- Q Y
+ N I,Y,Z
 "RTN","RGUTIN8",83,0)
- ; Return host ip address
+ S Z=$ZOS(12,X,0),Z=$P(Z,"^",2,999),Y=0
 "RTN","RGUTIN8",84,0)
-HOSTIP() ;EP
+ I Z'="" F I=30:-1:27 S Y=Y*256+$A(Z,I)
 "RTN","RGUTIN8",85,0)
- Q ""
+ Q Y
 "RTN","RGUTIN8",86,0)
- ; Return host name
+ ; Return host ip address
 "RTN","RGUTIN8",87,0)
-HOSTNAME() ;EP
+HOSTIP() ;EP
 "RTN","RGUTIN8",88,0)
  Q ""
 "RTN","RGUTIN8",89,0)
- ; Return client ip address
+ ; Return host name
 "RTN","RGUTIN8",90,0)
-CLIENTIP() ;EP
+HOSTNAME() ;EP
 "RTN","RGUTIN8",91,0)
+ Q ""
+"RTN","RGUTIN8",92,0)
+ ; Return client ip address
+"RTN","RGUTIN8",93,0)
+CLIENTIP() ;EP
+"RTN","RGUTIN8",94,0)
  Q ""
 "RTN","RGUTIN8U")
 1^68
@@ -5143,7 +5185,7 @@ CLIENTIP() ;EP
 "RTN","RGUTINIT",1,0)
 RGUTINIT ;RI/CBMI/DKM - Platform specific inits;05-Mar-2015 18:39;DKM
 "RTN","RGUTINIT",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTINIT",3,0)
  ;;
 "RTN","RGUTINIT",4,0)
@@ -5257,7 +5299,7 @@ DEVICE ; Device setup
 "RTN","RGUTLK2",1,0)
 RGUTLK2 ;RI/CBMI/DKM - Continuation of RGUTLKP;03-Mar-2015 14:24;DKM
 "RTN","RGUTLK2",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTLK2",3,0)
  ;;
 "RTN","RGUTLK2",4,0)
@@ -5661,7 +5703,7 @@ XY(X,Y) ;I %RGRS W:'X *13 S $X=X,$Y=Y Q ""
 "RTN","RGUTLKP",1,0)
 RGUTLKP ;RI/CBMI/DKM - File lookup utility;03-Mar-2015 14:24;DKM
 "RTN","RGUTLKP",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTLKP",3,0)
  ;;
 "RTN","RGUTLKP",4,0)
@@ -5959,7 +6001,7 @@ ERROR W:'%RGHTML $$XY(0,%RGY+1),*7,%RGEOL,$$EC^%ZOSV
 "RTN","RGUTMTL",1,0)
 RGUTMTL ;RI/CBMI/DKM - Multi-term lookup support ;03-Mar-2015 14:24;DKM
 "RTN","RGUTMTL",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTMTL",3,0)
  ;;
 "RTN","RGUTMTL",4,0)
@@ -6179,7 +6221,7 @@ STEM(RGLAST,RGSTEM,RGF) ;
 "RTN","RGUTNTEG",1,0)
 RGUTNTEG ;ISC/XTSUMBLD KERNEL - Package checksum checker ;03-Mar-2015 14:24;DKM
 "RTN","RGUTNTEG",2,0)
- ;;3.0;RG UTILITIES;;Mar 20,2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20,2007;Build 223
 "RTN","RGUTNTEG",3,0)
  ;;7.3;3070531.172703
 "RTN","RGUTNTEG",4,0)
@@ -6269,11 +6311,11 @@ RGUTIN58 ;;1357669
 "RTN","RGUTNTEG",46,0)
 RGUT1 ;;508281
 "RTN","RGUTOS")
-0^53^B7607307
+0^53^B8020241
 "RTN","RGUTOS",1,0)
-RGUTOS ;RI/CBMI/DKM - Platform-dependent operations;05-Mar-2015 15:03;DKM
+RGUTOS ;RI/CBMI/DKM - Platform-dependent operations;11-Mar-2015 09:33;DKM
 "RTN","RGUTOS",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTOS",3,0)
  ;;
 "RTN","RGUTOS",4,0)
@@ -6411,111 +6453,119 @@ RENAME(X1,X2) ;EP
 "RTN","RGUTOS",70,0)
  Q
 "RTN","RGUTOS",71,0)
- ; Generate directory listing
+ ; Make a directory
 "RTN","RGUTOS",72,0)
-DIR(X1,X2,X3) ;EP
+MKDIR(X) S X='$ZF(-1,"mkdir -p "_X)
 "RTN","RGUTOS",73,0)
- N Z,Z1,FDLM
+ Q:$Q X
 "RTN","RGUTOS",74,0)
- S FDLM=$E($$DIRDLM,1)
+ Q
 "RTN","RGUTOS",75,0)
- S X3=$G(X3,$NA(^UTILITY("DIR",$J)))
+ ; Generate directory listing
 "RTN","RGUTOS",76,0)
- K @X3
+DIR(X1,X2,X3) ;EP
 "RTN","RGUTOS",77,0)
- S:'$G(X2) X2=9999999999
+ N Z,Z1,FDLM
 "RTN","RGUTOS",78,0)
- F Z=1:1:X2 S Z1=$ZSEARCH(X1),X1="" Q:Z1=""  D
-"RTN","RGUTOS",79,0)
- .S Z1=$P(Z1,FDLM,$L(Z1,FDLM))
-"RTN","RGUTOS",80,0)
- .S:$TR(Z1,".")'="" @X3@(Z1)=""
-"RTN","RGUTOS",81,0)
- Q
-"RTN","RGUTOS",82,0)
- ; Return path delimiters
-"RTN","RGUTOS",83,0)
-DIRDLM() ;EP
-"RTN","RGUTOS",84,0)
- Q "///"
-"RTN","RGUTOS",85,0)
- ; Return default working directory
-"RTN","RGUTOS",86,0)
-DEFDIR(X) ;EP
-"RTN","RGUTOS",87,0)
- N FDLM
-"RTN","RGUTOS",88,0)
  S FDLM=$E($$DIRDLM,1)
-"RTN","RGUTOS",89,0)
- S X=$G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
-"RTN","RGUTOS",90,0)
- S:$E(X,$L(X))'=FDLM X=X_FDLM
-"RTN","RGUTOS",91,0)
- Q X
-"RTN","RGUTOS",92,0)
- ; Parse current error
-"RTN","RGUTOS",93,0)
-ERR(X1,X2,X3) ;EP
-"RTN","RGUTOS",94,0)
- S X1=$E($P($ZE,">"),2,99),X2=$P($P($ZE,">",2),":"),X3=X1
-"RTN","RGUTOS",95,0)
- S:X2["*" X2=""
-"RTN","RGUTOS",96,0)
- S:$E(X1)="Z" X3=$E(X1,2,99),X1="ZTRAP"
-"RTN","RGUTOS",97,0)
+"RTN","RGUTOS",79,0)
+ S X3=$G(X3,$NA(^UTILITY("DIR",$J)))
+"RTN","RGUTOS",80,0)
+ K @X3
+"RTN","RGUTOS",81,0)
+ S:'$G(X2) X2=9999999999
+"RTN","RGUTOS",82,0)
+ F Z=1:1:X2 S Z1=$ZSEARCH(X1),X1="" Q:Z1=""  D
+"RTN","RGUTOS",83,0)
+ .S Z1=$P(Z1,FDLM,$L(Z1,FDLM))
+"RTN","RGUTOS",84,0)
+ .S:$TR(Z1,".")'="" @X3@(Z1)=""
+"RTN","RGUTOS",85,0)
  Q
+"RTN","RGUTOS",86,0)
+ ; Return path delimiters
+"RTN","RGUTOS",87,0)
+DIRDLM() ;EP
+"RTN","RGUTOS",88,0)
+ Q "///"
+"RTN","RGUTOS",89,0)
+ ; Return default working directory
+"RTN","RGUTOS",90,0)
+DEFDIR(X) ;EP
+"RTN","RGUTOS",91,0)
+ N FDLM
+"RTN","RGUTOS",92,0)
+ S FDLM=$E($$DIRDLM,1)
+"RTN","RGUTOS",93,0)
+ S X=$G(X,$P($G(^XTV(8989.3,1,"DEV")),U))
+"RTN","RGUTOS",94,0)
+ S:$E(X,$L(X))'=FDLM X=X_FDLM
+"RTN","RGUTOS",95,0)
+ Q X
+"RTN","RGUTOS",96,0)
+ ; Parse current error
+"RTN","RGUTOS",97,0)
+ERR(X1,X2,X3) ;EP
 "RTN","RGUTOS",98,0)
- ; Raise an exception
+ S X1=$E($P($ZE,">"),2,99),X2=$P($P($ZE,">",2),":"),X3=X1
 "RTN","RGUTOS",99,0)
-RAISE(X) ;EP
+ S:X2["*" X2=""
 "RTN","RGUTOS",100,0)
- ZT $G(X)
+ S:$E(X1)="Z" X3=$E(X1,2,99),X1="ZTRAP"
 "RTN","RGUTOS",101,0)
- ; Set error trap
+ Q
 "RTN","RGUTOS",102,0)
-TRAP(X) ;EP
+ ; Raise an exception
 "RTN","RGUTOS",103,0)
- Q "$ZT="""_$G(X)_""""
+RAISE(X) ;EP
 "RTN","RGUTOS",104,0)
- ; Return size of a file
+ ZT $G(X)
 "RTN","RGUTOS",105,0)
-SIZE(X) ;EP
+ ; Set error trap
 "RTN","RGUTOS",106,0)
- Q 0
+TRAP(X) ;EP
 "RTN","RGUTOS",107,0)
- ; Return free disk space
+ Q "$ZT="""_$G(X)_""""
 "RTN","RGUTOS",108,0)
-FREE(X) ;EP
+ ; Return size of a file
 "RTN","RGUTOS",109,0)
- Q 0
+SIZE(X) ;EP
 "RTN","RGUTOS",110,0)
- ; Return host ip address
+ Q 0
 "RTN","RGUTOS",111,0)
-HOSTIP() ;EP
+ ; Return free disk space
 "RTN","RGUTOS",112,0)
- Q $P($P($ZU(131,1),","),":",2)
+FREE(X) ;EP
 "RTN","RGUTOS",113,0)
- ; Return host name
+ Q 0
 "RTN","RGUTOS",114,0)
-HOSTNAME() ;EP
+ ; Return host ip address
 "RTN","RGUTOS",115,0)
- Q $P($P($ZU(131,1),","),":")
+HOSTIP() ;EP
 "RTN","RGUTOS",116,0)
- ; Return client ip address
+ Q $P($P($ZU(131,1),","),":",2)
 "RTN","RGUTOS",117,0)
-CLIENTIP() ;EP
+ ; Return host name
 "RTN","RGUTOS",118,0)
- N IP,$ET
+HOSTNAME() ;EP
 "RTN","RGUTOS",119,0)
- S $ET="S $EC=""""",IP=$ZU(111,0)
+ Q $P($P($ZU(131,1),","),":")
 "RTN","RGUTOS",120,0)
+ ; Return client ip address
+"RTN","RGUTOS",121,0)
+CLIENTIP() ;EP
+"RTN","RGUTOS",122,0)
+ N IP,$ET
+"RTN","RGUTOS",123,0)
+ S $ET="S $EC=""""",IP=$ZU(111,0)
+"RTN","RGUTOS",124,0)
  Q $A(IP,1)_"."_$A(IP,2)_"."_$A(IP,3)_"."_$A(IP,4)
 "RTN","RGUTOS1")
-0^54^B10134674
+0^54^B10382570
 "RTN","RGUTOS1",1,0)
-RGUTOS ;RI/CBMI/DKM - Platform-dependent operations;03-Mar-2015 14:24;DKM
+RGUTOS ;RI/CBMI/DKM - Platform-dependent operations;11-Mar-2015 09:33;DKM
 "RTN","RGUTOS1",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTOS1",3,0)
  ;;
 "RTN","RGUTOS1",4,0)
@@ -6663,91 +6713,97 @@ RENAME(X1,X2) ;EP
 "RTN","RGUTOS1",75,0)
  Q
 "RTN","RGUTOS1",76,0)
- ; List files
+ ; Make a directory
 "RTN","RGUTOS1",77,0)
-DIR(X1,X2,X3) ;EP
+MKDIR(X) Q:$Q 0
 "RTN","RGUTOS1",78,0)
- N Z
-"RTN","RGUTOS1",79,0)
- D PARSE(.X1,.Z)
-"RTN","RGUTOS1",80,0)
- S Z(X1)="",X3=$G(X3,"^UTILITY(""DIR"",$J)")
-"RTN","RGUTOS1",81,0)
- K @X3
-"RTN","RGUTOS1",82,0)
- I $$LIST^%ZISH(Z,"Z",X3)
-"RTN","RGUTOS1",83,0)
  Q
+"RTN","RGUTOS1",79,0)
+ ; List files
+"RTN","RGUTOS1",80,0)
+DIR(X1,X2,X3) ;EP
+"RTN","RGUTOS1",81,0)
+ N Z
+"RTN","RGUTOS1",82,0)
+ D PARSE(.X1,.Z)
+"RTN","RGUTOS1",83,0)
+ S Z(X1)="",X3=$G(X3,"^UTILITY(""DIR"",$J)")
 "RTN","RGUTOS1",84,0)
- ; Force error if at EOF
+ K @X3
 "RTN","RGUTOS1",85,0)
-EOF I $$STATUS^%ZISH ZT "EOF"
+ I $$LIST^%ZISH(Z,"Z",X3)
 "RTN","RGUTOS1",86,0)
  Q
 "RTN","RGUTOS1",87,0)
- ; Returns true if current error is EOF
+ ; Force error if at EOF
 "RTN","RGUTOS1",88,0)
-EOFERR() ;EP
+EOF I $$STATUS^%ZISH ZT "EOF"
 "RTN","RGUTOS1",89,0)
- Q $$EC^%ZOSV["EOF"
+ Q
 "RTN","RGUTOS1",90,0)
- ; URL format filename-->HFS format
+ ; Returns true if current error is EOF
 "RTN","RGUTOS1",91,0)
-CVTFN(RGFIL,RGROOT) ;EP
+EOFERR() ;EP
 "RTN","RGUTOS1",92,0)
- N RGZ,RGZ1,RGD
+ Q $$EC^%ZOSV["EOF"
 "RTN","RGUTOS1",93,0)
- S RGD=$$DIRDLM,RGROOT=$G(RGROOT)
+ ; URL format filename-->HFS format
 "RTN","RGUTOS1",94,0)
- S:$E(RGROOT,$L(RGROOT))=$E(RGD,3) RGROOT=$E(RGROOT,1,$L(RGROOT)-1)
+CVTFN(RGFIL,RGROOT) ;EP
 "RTN","RGUTOS1",95,0)
- S RGZ=$L(RGFIL,"/"),RGZ1=$P(RGFIL,"/",1,RGZ-1),RGFIL=$P(RGFIL,"/",RGZ)
+ N RGZ,RGZ1,RGD
 "RTN","RGUTOS1",96,0)
- S:$L(RGZ1) RGROOT=RGROOT_$E(RGD,$S($L(RGROOT):2,1:1))_$TR(RGZ1,"/.-",$E(RGD,2))
+ S RGD=$$DIRDLM,RGROOT=$G(RGROOT)
 "RTN","RGUTOS1",97,0)
- Q RGROOT_$S($L(RGROOT):$E(RGD,3),1:"")_RGFIL
+ S:$E(RGROOT,$L(RGROOT))=$E(RGD,3) RGROOT=$E(RGROOT,1,$L(RGROOT)-1)
 "RTN","RGUTOS1",98,0)
- ; Return directory delimiters
+ S RGZ=$L(RGFIL,"/"),RGZ1=$P(RGFIL,"/",1,RGZ-1),RGFIL=$P(RGFIL,"/",RGZ)
 "RTN","RGUTOS1",99,0)
-DIRDLM() ;EP
+ S:$L(RGZ1) RGROOT=RGROOT_$E(RGD,$S($L(RGROOT):2,1:1))_$TR(RGZ1,"/.-",$E(RGD,2))
 "RTN","RGUTOS1",100,0)
- N X
+ Q RGROOT_$S($L(RGROOT):$E(RGD,3),1:"")_RGFIL
 "RTN","RGUTOS1",101,0)
- S X=$$PWD^%ZISH
+ ; Return directory delimiters
 "RTN","RGUTOS1",102,0)
- Q $S(X["[":"[.]",X["\":"\\\",1:"///")
+DIRDLM() ;EP
 "RTN","RGUTOS1",103,0)
- ; Parse error data
-"RTN","RGUTOS1",104,0)
-ERR(X1,X2,X3) ;EP
-"RTN","RGUTOS1",105,0)
  N X
+"RTN","RGUTOS1",104,0)
+ S X=$$PWD^%ZISH
+"RTN","RGUTOS1",105,0)
+ Q $S(X["[":"[.]",X["\":"\\\",1:"///")
 "RTN","RGUTOS1",106,0)
- S X=$$EC^%ZOSV,X1=$$VERSION^%ZOSV(1)
+ ; Parse error data
 "RTN","RGUTOS1",107,0)
- G ERRMSM:X1["MSM",ERRDSM:X1["DSM"
+ERR(X1,X2,X3) ;EP
 "RTN","RGUTOS1",108,0)
- S (X1,X2,X3)=""
+ N X
 "RTN","RGUTOS1",109,0)
- Q
+ S X=$$EC^%ZOSV,X1=$$VERSION^%ZOSV(1)
 "RTN","RGUTOS1",110,0)
-ERRMSM S X1=$E($P(X,">"),2,99),X2=$P($P(X,">",2),":"),X3=X1
+ G ERRMSM:X1["MSM",ERRDSM:X1["DSM"
 "RTN","RGUTOS1",111,0)
- S:X2["*" X2=""
+ S (X1,X2,X3)=""
 "RTN","RGUTOS1",112,0)
- S:$E(X1)="Z" X3=$E(X1,2,99),X1="ZTRAP"
-"RTN","RGUTOS1",113,0)
  Q
+"RTN","RGUTOS1",113,0)
+ERRMSM S X1=$E($P(X,">"),2,99),X2=$P($P(X,">",2),":"),X3=X1
 "RTN","RGUTOS1",114,0)
-ERRDSM S X1=$P($P(X,", ",2),"-",3),X2=$P($P(X,", "),":"),X3=$$TRIM^RGUT($P(X,", ",$S(X1="ZTRAP":4,1:3)))
+ S:X2["*" X2=""
 "RTN","RGUTOS1",115,0)
+ S:$E(X1)="Z" X3=$E(X1,2,99),X1="ZTRAP"
+"RTN","RGUTOS1",116,0)
+ Q
+"RTN","RGUTOS1",117,0)
+ERRDSM S X1=$P($P(X,", ",2),"-",3),X2=$P($P(X,", "),":"),X3=$$TRIM^RGUT($P(X,", ",$S(X1="ZTRAP":4,1:3)))
+"RTN","RGUTOS1",118,0)
  Q
 "RTN","RGUTREG")
 0^64^B709436
 "RTN","RGUTREG",1,0)
 RGUTREG ;RI/CBMI/DKM - Various registration actions ;03-Mar-2015 14:24;DKM
 "RTN","RGUTREG",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTREG",3,0)
  ;;
 "RTN","RGUTREG",4,0)
@@ -6785,7 +6841,7 @@ REGPROT(P,C,ERR) ;
 "RTN","RGUTRPC",1,0)
 RGUTRPC ;RI/CBMI/DKM - RPC Encapsulations for RGUT routines ;03-Mar-2015 14:24;DKM
 "RTN","RGUTRPC",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTRPC",3,0)
  ;;
 "RTN","RGUTRPC",4,0)
@@ -7071,7 +7127,7 @@ GETRPC(X) ;EP
 "RTN","RGUTRPRT",1,0)
 RGUTRPRT ;RI/CBMI/DKM - Routine Pretty Print Program ;03-Mar-2015 14:24;DKM
 "RTN","RGUTRPRT",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTRPRT",3,0)
  ;;
 "RTN","RGUTRPRT",4,0)
@@ -7153,7 +7209,7 @@ RJ(X) W ?(IOM-$L(X)),X
 "RTN","RGUTSTX",1,0)
 RGUTSTX ;RI/CBMI/DKM - M syntax analyzer;03-Mar-2015 14:24;DKM
 "RTN","RGUTSTX",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTSTX",3,0)
  ;;
 "RTN","RGUTSTX",4,0)
@@ -7439,7 +7495,7 @@ ERRORS ;;*Error messages*
 "RTN","RGUTSTX0",1,0)
 RGUTSTX0 ;RI/CBMI/DKM - Continuation of RGUTSTX;03-Mar-2015 14:24;DKM
 "RTN","RGUTSTX0",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTSTX0",3,0)
  ;;
 "RTN","RGUTSTX0",4,0)
@@ -7769,7 +7825,7 @@ NEXT(RGC,RGI) ;
 "RTN","RGUTSTX1",1,0)
 RGUTSTX1 ;RI/CBMI/DKM - Continuation of RGUTSTX;03-Mar-2015 14:24;DKM
 "RTN","RGUTSTX1",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTSTX1",3,0)
  ;;
 "RTN","RGUTSTX1",4,0)
@@ -8107,7 +8163,7 @@ NEXT(RGC,RGI) ;
 "RTN","RGUTTSK",1,0)
 RGUTTSK ;RI/CBMI/DKM - Encapsulates TaskMan API ;03-Mar-2015 14:24;DKM
 "RTN","RGUTTSK",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTTSK",3,0)
  ;;
 "RTN","RGUTTSK",4,0)
@@ -8141,7 +8197,7 @@ QUEUE(ZTRTN,ZTDESC,ZTDTH,ZTSAVE,ZTIO,ZTUCI,ZTPRI) ;
 "RTN","RGUTUSR",1,0)
 RGUTUSR ;RI/CBMI/DKM - Parse recipient list;03-Mar-2015 14:24;DKM
 "RTN","RGUTUSR",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTUSR",3,0)
  ;;
 "RTN","RGUTUSR",4,0)
@@ -8255,7 +8311,7 @@ MGRP2(RGMGRP) ;
 "RTN","RGUTUU",1,0)
 RGUTUU ;RI/CBMI/DKM - UUEncode and UUDecode functions.;03-Mar-2015 14:24;DKM
 "RTN","RGUTUU",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 198
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 223
 "RTN","RGUTUU",3,0)
  ;;
 "RTN","RGUTUU",4,0)

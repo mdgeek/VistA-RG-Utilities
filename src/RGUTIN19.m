@@ -1,4 +1,4 @@
-RGUTIN19 ;RI/CBMI/DKM - Inits for GT.M (Unix);06-Mar-2015 08:46;DKM
+RGUTIN19 ;RI/CBMI/DKM - Inits for GT.M (Unix);11-Mar-2015 10:09;DKM
  ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 156
  ;;
  ;=================================================================
@@ -41,6 +41,10 @@ DELX Q
 RENAME(X1,X2) ;EP
  O X1
  C X1:(rename=X2)
+ Q
+ ; Make a directory
+MKDIR(X) ZSYSTEM "mkdir -p "_X
+ Q:$Q '$ZSYSTEM
  Q
  ; Generate directory listing
 DIR(X1,X2,X3) ;EP

@@ -1,4 +1,4 @@
-RGUTOS ;RI/CBMI/DKM - Platform-dependent operations;03-Mar-2015 14:24;DKM
+RGUTOS ;RI/CBMI/DKM - Platform-dependent operations;11-Mar-2015 09:33;DKM
  ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 98
  ;;
  ;=================================================================
@@ -72,6 +72,9 @@ RENAME(X1,X2) ;EP
  N X3,X4
  D PARSE(.X1,.X3),PARSE(.X2,.X4)
  I $$MV^%ZISH(X3,X1,X4,X2)
+ Q
+ ; Make a directory
+MKDIR(X) Q:$Q 0
  Q
  ; List files
 DIR(X1,X2,X3) ;EP
