@@ -1,4 +1,4 @@
-RGUTTSK ;RI/CBMI/DKM - Encapsulates TaskMan API ;03-Mar-2015 14:24;DKM
+RGUTTSK ;RI/CBMI/DKM - Encapsulates TaskMan API ;14-Mar-2015 22:16;DKM
  ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 98
  ;;
  ;=================================================================
@@ -7,7 +7,8 @@ QUEUE(ZTRTN,ZTDESC,ZTDTH,ZTSAVE,ZTIO,ZTUCI,ZTPRI) ;
  S:'$G(ZTDTH) ZTDTH=$H
  S:ZTDTH'?1.N1","1.N ZTDTH=$$FMTH^XLFDT(ZTDTH)
  Q:ZTDTH<0 0
- S:$G(ZTUCI)'="" ZTUCI=$TR(ZTUCI,":",","),ZTCPU=$P(ZTUCI,",",2),ZTUCI=$P(ZTUCI,",")
+ S ZTUCI=$G(ZTUCI,^%ZOSF("PROD"))
+ S ZTUCI=$TR(ZTUCI,":",","),ZTCPU=$P(ZTUCI,",",2),ZTUCI=$P(ZTUCI,",")
  S ZTSAVE=$G(ZTSAVE),ZTIO=$G(ZTIO),U="^"
  F %RGZ=1:1:$L(ZTSAVE,U) D
  .S %RGZ1=$P(ZTSAVE,U,%RGZ),%RGZ2=$P(%RGZ1,"=",2,999),%RGZ1=$P(%RGZ1,"=")
