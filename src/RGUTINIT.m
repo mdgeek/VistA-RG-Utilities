@@ -1,7 +1,14 @@
-RGUTINIT ;RI/CBMI/DKM - Platform specific inits;05-Mar-2015 18:39;DKM
+RGUTINIT ;RI/CBMI/DKM - Platform specific inits;17-Mar-2015 15:43;DKM
  ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 156
  ;;
  ;=================================================================
+PRE N PKG,FDA
+ S PKG=$$LKPKG^XPDUTL("RGUT")
+ Q:'PKG
+ Q:$P(^DIC(9.4,PKG,0),U)="RG UTILITIES"
+ S FDA(9.4,PKG_",",.01)="RG UTILITIES"
+ D FILE^DIE(,"FDA")
+ Q
 POST N RGOS,RGH,X
  S U="^",X="ERROR^RGUTINIT",@^%ZOSF("TRAP"),RGOS=$P(^%ZOSF("OS"),U,2)
  I 'RGOS D
