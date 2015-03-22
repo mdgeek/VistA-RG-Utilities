@@ -1,4 +1,4 @@
-RGUTEDT ;RI/CBMI/DKM - Screen-oriented line editor;05-Mar-2015 18:11;DKM
+RGUTEDT ;RI/CBMI/DKM - Screen-oriented line editor;22-Mar-2015 02:37;DKM
  ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 98
  ;;
  ;=================================================================
@@ -62,7 +62,8 @@ NXT D POSCUR()                                                            ; Posi
  I RGC=27 D ESC Q:'RGC
  I RGC<1!(RGABRT[$C(RGC)) S RGDATA=U,RGQUIT=1 Q
  I RGTERM[$C(RGC) D TERM Q
- I RGC<28 D:RGC'=27 @("CTL"_$C(RGC+64)) Q
+ I RGC=27 Q
+ I RGC<27 S RGZ="CTL"_$C(RGC+64) D:$L($T(@RGZ)) @(RGZ) Q
  I RGC=127!(RGC=240) D CTLH Q
  I RGC>64,RGC<91,RGOPT["L" S RGC=RGC+32
  E  I RGC>96,RGC<123,RGOPT["U" S RGC=RGC-32
