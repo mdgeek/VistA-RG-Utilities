@@ -1,4 +1,4 @@
-RGUT ;RI/CBMI/DKM - General purpose utilities;09-Mar-2015 10:10;DKM
+RGUT ;RI/CBMI/DKM - General purpose utilities;01-Apr-2015 08:46;DKM
  ;;3.0;RG UTILITIES;**1**;Mar 20, 2007;Build 98
  ;;
  ;=================================================================
@@ -14,6 +14,17 @@ MSG(%RGTXT,%RGDLM,%RGRPL) ;EP
  .I %RGZ1="" S:%RGTXT'="" %RGZ2=%RGZ2_%RGDLM
  .E  X "S %RGZ2=%RGZ2_("_%RGZ1_")"
 M1 Q %RGZ2
+ ; Retrieve dialog text
+ ;  NUM = Dialog number
+ ; .DLG = Array to receive text
+ ;  Pn  = Optional parameters (up to 3)
+GETDLG(NUM,DLG,P1,P2,P3) ;
+ N PAR
+ K DLG
+ S PAR(1)=$G(P1),PAR(2)=$G(P2),PAR(3)=$G(P3)
+ D BLD^DIALOG(NUM,.PAR,,"DLG")
+ Q:$Q $G(DLG(1))
+ Q
  ; Case-insensitive string comparison
  ; Returns 0: X=Y, 1: X>Y, -1: X<Y
 STRICMP(X,Y) ;EP
@@ -206,26 +217,9 @@ DTF(X) S X=X#1*100
  Q X\1*3600+(X*100#100\1*60)+(X*10000#100)/86400
 DTT(X) S X=X*86400
  Q X\3600*100+(X#3600/3600*60)/10000
- ; Save buffer to routine
- ; RTN = Routine name
- ; BUF = Buffer containing routine contents (terminal subscript must be 0).
- ; KILL = If true, delete buffer after completion
-RTNSAVE(RTN,BUF,KILL) ;
- N XCM,XCN,DIE,X
- S XCN=0,DIE=BUF,X=RTN
- S:$E(DIE,$L(DIE))=")" $E(DIE,$L(DIE))=","
- X ^%ZOSF("SAVE")
- K:$G(KILL) @BUF
- Q
- ; Copy one routine to another
-RTNCOPY(SRC,DST) ;
- N BUF,X,Y
- Q:'$L($T(+0^@SRC))
- S BUF=$$TMPGBL^RGUTRPC("RTN")
- F X=1:1 S Y=$T(+X^@SRC) Q:'$L(Y)  S @BUF@(X,0)=Y
- D RTNSAVE(DST,BUF,1)
- Q
- ; Delete a routine
-RTNDEL(RTN) ;
- D RTNSAVE(RTN,$$TMPGBL^RGUTRPC("RTN"),1)
- Q
+ ; Generates a random UUID using $H as a seed.
+UUID() N R,I,N,S
+ S (R,N)="",S=+$TR($H,",")
+ F  S N=N_$R(S) Q:$L(N)>64
+ F I=1:2:64 S R=R_$E("0123456789abcdef",$E(N,I,I+1)#16+1)
+ Q $E(R,1,8)_"-"_$E(R,9,12)_"-4"_$E(R,14,16)_"-"_$E("89ab",$E(N,17)#4+1)_$E(R,18,20)_"-"_$E(R,21,32)

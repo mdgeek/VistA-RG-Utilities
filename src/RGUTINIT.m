@@ -1,4 +1,4 @@
-RGUTINIT ;RI/CBMI/DKM - Platform specific inits;17-Mar-2015 15:43;DKM
+RGUTINIT ;RI/CBMI/DKM - Platform specific inits;01-Apr-2015 08:59;DKM
  ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 156
  ;;
  ;=================================================================
@@ -30,7 +30,7 @@ INIT(RGOS) ;
  K ^TMP(N,$J)
  F Z=0,1 F X=$S(Z:3,1:1):1 S Y=$T(+X^@$S(Z:RGOSZ,1:"RGUTIN0")) Q:Y=""  S I=I+1,^TMP(N,$J,I,0)=Y
  S $P(^TMP(N,$J,1,0),";")="RGUTOS "
- D RTNSAVE^RGUT("RGUTOS",$NA(^TMP(N,$J)),1)
+ D SAVE^RGUTRTN("RGUTOS",$NA(^TMP(N,$J)),1)
  F Z=1:1 S X=$P($T(DEVICE+Z),";;",2,99) Q:X=""  S ^TMP(N,$J,Z)=$$MSG^RGUT(X,"|")
  I $$ENTRY^RGUTIMP($NA(^TMP(N,$J))) D
  .D MES("Unable to install RGUT HFS DEVICE.")

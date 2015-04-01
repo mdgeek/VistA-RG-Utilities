@@ -1,4 +1,4 @@
-RGUTIN0 ;RI/CBMI/DKM - Platform-dependent operations;11-Mar-2015 09:33;DKM
+RGUTIN0 ;RI/CBMI/DKM - Platform-dependent operations;01-Apr-2015 09:11;DKM
  ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 98
  ;;
  ;=================================================================
@@ -15,14 +15,11 @@ CVTFN(RGFIL,RGROOT) ;
 RM(X) ;EP
  X ^%ZOSF("RM")
  Q
- ; Test for tag/routine
-TEST(X) ;EP
- N Z
- S:X[U Z=$P(X,U),X=$P(X,U,2)
- Q:'$L(X)!(X'?.1"%"1.AN) 0
- X ^%ZOSF("TEST")
- Q $S('$T:0,$G(Z)="":1,Z'?.1"%"1.AN:0,1:$T(@Z^@X)'="")
 ETRAP() Q $$NEWERR^%ZTER
+ ; Return UCI
+UCI(P) N Y
+ X ^%ZOSF("UCI")
+ Q $S($G(P):$P(Y,",",P),1:Y)
  ; Open a host file
 OPENX(X1,X2) ;EP
  D OPEN(.X1,.X2)

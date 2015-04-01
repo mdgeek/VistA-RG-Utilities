@@ -1,4 +1,4 @@
-RGUTIN19 ;RI/CBMI/DKM - Inits for GT.M (Unix);11-Mar-2015 10:09;DKM
+RGUTIN19 ;RI/CBMI/DKM - Inits for GT.M (Unix);01-Apr-2015 16:04;DKM
  ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 156
  ;;
  ;=================================================================
@@ -73,7 +73,9 @@ ERR(X1,X2,X3) ;EP
  Q
  ; Raise an exception
 RAISE(X) ;EP
+ S $ZYERROR="ZTRAP^RGUTOS"
  ZM 150342768:$G(X)
+ Q
  ; Set error trap
 TRAP(X) ;EP
  S $ZYERROR="ZTRAP^RGUTOS"
