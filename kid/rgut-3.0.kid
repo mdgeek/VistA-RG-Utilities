@@ -1,11 +1,11 @@
-KIDS Distribution saved on Apr 01, 2015@17:44:43
+KIDS Distribution saved on May 19, 2015@22:45:42
 RG UTILITIES 3.0
 **KIDS**:RG UTILITIES 3.0^
 
 **INSTALL NAME**
 RG UTILITIES 3.0
 "BLD",8503,0)
-RG UTILITIES 3.0^RG UTILITIES^0^3150401^n
+RG UTILITIES 3.0^RG UTILITIES^0^3150519^n
 "BLD",8503,1,0)
 ^^3^3^3150202^^^
 "BLD",8503,1,1,0)
@@ -17,7 +17,7 @@ They perform generic functions.
 "BLD",8503,4,0)
 ^9.64PA^^
 "BLD",8503,6.3)
-350
+418
 "BLD",8503,"ABNS",0)
 ^9.66A^1^1
 "BLD",8503,"ABNS",1,0)
@@ -113,7 +113,7 @@ RGUTINIT^^0^B6940463
 "BLD",8503,"KRN",9.8,"NM",61,0)
 RGUTHFS^^0^B5078426
 "BLD",8503,"KRN",9.8,"NM",62,0)
-RGUTDDR^^0^B59421017
+RGUTDDR^^0^B59522291
 "BLD",8503,"KRN",9.8,"NM",63,0)
 RGUTRPRT^^0^B2852241
 "BLD",8503,"KRN",9.8,"NM",64,0)
@@ -521,9 +521,9 @@ RG UTILITIES^RGUT^RUN TIME LIBRARY
 "PKG",172,22,0)
 ^9.49I^1^1
 "PKG",172,22,1,0)
-3.0^3150401^3150202^1
+3.0^3150519^3150202^1
 "PKG",172,22,1,1,0)
-^^3^3^3150401
+^^3^3^3150519
 "PKG",172,22,1,1,1,0)
 This is the set of routines common to all modules occupying the RG namespace.  
 "PKG",172,22,1,1,2,0)
@@ -635,7 +635,7 @@ D XPZ2^XPDIQ
 "RTN","RGUT",1,0)
 RGUT ;RI/CBMI/DKM - General purpose utilities;01-Apr-2015 08:46;DKM
 "RTN","RGUT",2,0)
- ;;3.0;RG UTILITIES;**1**;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;**1**;Mar 20, 2007;Build 418
 "RTN","RGUT",3,0)
  ;;
 "RTN","RGUT",4,0)
@@ -1087,7 +1087,7 @@ UUID() N R,I,N,S
 "RTN","RGUT1",1,0)
 RGUT1 ;RG/IND/PLS - General Purpose Utilites - Con't ;03-Mar-2015 14:24;DKM
 "RTN","RGUT1",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUT1",3,0)
  ;;
 "RTN","RGUT1",4,0)
@@ -1157,7 +1157,7 @@ ASKDATE(PMT,DFL,MIN,OPT) ;
 "RTN","RGUTALR",1,0)
 RGUTALR ;RI/CBMI/DKM - Send alert to user(s) via kernel or mail;03-Mar-2015 14:24;DKM
 "RTN","RGUTALR",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTALR",3,0)
  ;;
 "RTN","RGUTALR",4,0)
@@ -1217,7 +1217,7 @@ MAIL(RGMSG,XMY,XMSUB,XMDUZ) ;
 "RTN","RGUTBC28",1,0)
 RGUTBC28 ;RI/CBMI/DKM/PLS - Convert 128 barcode to HPCL-compatible form ;03-Mar-2015 14:24;DKM
 "RTN","RGUTBC28",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTBC28",3,0)
  ;;
 "RTN","RGUTBC28",4,0)
@@ -1553,7 +1553,7 @@ BC(TXT,ORN,HGT,HOR,VER,WID) ;
 "RTN","RGUTBC39",1,0)
 RGUTBC39 ;RG/IND/PLS - Converts barcode 39 to HPCL-compatible format ;03-Mar-2015 14:24;DKM
 "RTN","RGUTBC39",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTBC39",3,0)
  ;;
 "RTN","RGUTBC39",4,0)
@@ -1747,7 +1747,7 @@ CHK(X) ;CALCULATE CHECK DIGIT AND RETURN STRING TO PRINT
 "RTN","RGUTBCDA",1,0)
 RGUTBCDA ;RG/IND/PLS - Converts barcode CODABAR to HPCL-compatible format ;03-Mar-2015 14:24;DKM
 "RTN","RGUTBCDA",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTBCDA",3,0)
  ;;
 "RTN","RGUTBCDA",4,0)
@@ -1901,7 +1901,7 @@ CHK(X) ;CALCULATE CHECK DIGIT AND RETURN STRING TO PRINT
 "RTN","RGUTBIG",1,0)
 RGUTBIG ;RG/IND/PLS - Print a banner in large letters;03-Mar-2015 14:24;DKM
 "RTN","RGUTBIG",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTBIG",3,0)
  ;;
 "RTN","RGUTBIG",4,0)
@@ -2069,7 +2069,7 @@ TBL ;; Table of character "raster images"
 "RTN","RGUTDAT",1,0)
 RGUTDAT ;RI/CBMI/DKM - Date range input;03-Mar-2015 14:24;DKM
 "RTN","RGUTDAT",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTDAT",3,0)
  ;;
 "RTN","RGUTDAT",4,0)
@@ -2221,7 +2221,7 @@ PAUSE(%RGZ) ;
 "RTN","RGUTDATF",1,0)
 RGUTDATF ;RI/CBMI/DKM - Date Formatter;03-Mar-2015 14:24;DKM
 "RTN","RGUTDATF",2,0)
- ;;3.0;RG UTILITIES;;Feb 20, 2015;Build 350
+ ;;3.0;RG UTILITIES;;Feb 20, 2015;Build 418
 "RTN","RGUTDATF",3,0)
  ;;1.0;SERIALIZATION FRAMEWORK;;14-March-2014;Build 1
 "RTN","RGUTDATF",4,0)
@@ -2405,11 +2405,11 @@ FMTX() N TZ
 "RTN","RGUTDATF",93,0)
  Q $S(L=1:$E(TZ,1,3),L=2:$E(TZ,1,5),1:$E(TZ,1,3)_":"_$E(TZ,4,5))
 "RTN","RGUTDDR")
-0^62^B59421017
+0^62^B59522291
 "RTN","RGUTDDR",1,0)
-RGUTDDR ;RI/CBMI/DKM - FileMan RPC Extensions ;03-Mar-2015 14:24;DKM
+RGUTDDR ;RI/CBMI/DKM - FileMan RPC Extensions ;19-May-2015 22:43;DKM
 "RTN","RGUTDDR",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTDDR",3,0)
  ;;
 "RTN","RGUTDDR",4,0)
@@ -2701,7 +2701,7 @@ FLDVAL(FIL,FLD,IEN,ROOT) ;
 "RTN","RGUTDDR",147,0)
 LOCK(DATA,FNUM,IENS,WAIT) ;
 "RTN","RGUTDDR",148,0)
- N X,IEN,OK,$ET
+ N X,IEN,$ET
 "RTN","RGUTDDR",149,0)
  S @$$TRAP^RGUTOS("LOCKERR^RGUTDDR")
 "RTN","RGUTDDR",150,0)
@@ -2709,223 +2709,225 @@ LOCK(DATA,FNUM,IENS,WAIT) ;
 "RTN","RGUTDDR",151,0)
  I '$L(X) S DATA="-1^Table not found"  Q
 "RTN","RGUTDDR",152,0)
- K:$G(WAIT)="" WAIT
+ S:$G(WAIT)="" WAIT=-1
 "RTN","RGUTDDR",153,0)
- D LOCK^RGNBRPC(.OK,$NA(@X@(IEN)),.WAIT)
+ I WAIT<0 L -@X@(IEN) Q
 "RTN","RGUTDDR",154,0)
- S:'OK DATA="-2^Record locked by another process"
+ L +@X@(IEN):WAIT
 "RTN","RGUTDDR",155,0)
- Q
+ S:'$T DATA="-2^Record locked by another process"
 "RTN","RGUTDDR",156,0)
-LOCKERR S DATA="-3^Unexpected error"
+ Q
 "RTN","RGUTDDR",157,0)
- Q
+LOCKERR S DATA="-3^Unexpected error"
 "RTN","RGUTDDR",158,0)
- ; RPC: Convert pointer internal<->external
+ Q
 "RTN","RGUTDDR",159,0)
-CVTPTR(DATA,FNUM,VAL,EXT) ;
+ ; RPC: Convert pointer internal<->external
 "RTN","RGUTDDR",160,0)
- I EXT S DATA=$$GET1^DIQ(FNUM,VAL,.01)
+CVTPTR(DATA,FNUM,VAL,EXT) ;
 "RTN","RGUTDDR",161,0)
- E  D
+ I EXT S DATA=$$GET1^DIQ(FNUM,VAL,.01)
 "RTN","RGUTDDR",162,0)
- .N ROOT
+ E  D
 "RTN","RGUTDDR",163,0)
- .S ROOT=$$ROOT^DILFD(FNUM,,1)
+ .N ROOT
 "RTN","RGUTDDR",164,0)
- .I '$L(ROOT) S DATA=""
+ .S ROOT=$$ROOT^DILFD(FNUM,,1)
 "RTN","RGUTDDR",165,0)
- .E  I VAL?1"`"1.N D
+ .I '$L(ROOT) S DATA=""
 "RTN","RGUTDDR",166,0)
- ..S VAL=+$E(VAL,2,999),DATA=$S('VAL:"",$D(@ROOT@(VAL,0))#2:VAL,1:"")
+ .E  I VAL?1"`"1.N D
 "RTN","RGUTDDR",167,0)
- .E  D
+ ..S VAL=+$E(VAL,2,999),DATA=$S('VAL:"",$D(@ROOT@(VAL,0))#2:VAL,1:"")
 "RTN","RGUTDDR",168,0)
- ..N LP
+ .E  D
 "RTN","RGUTDDR",169,0)
- ..F LP=0:1:3 S DATA=$$CP(LP) Q:DATA
+ ..N LP
 "RTN","RGUTDDR",170,0)
- Q
+ ..F LP=0:1:3 S DATA=$$CP(LP) Q:DATA
 "RTN","RGUTDDR",171,0)
- ; Lookup value in "B" xref
+ Q
 "RTN","RGUTDDR",172,0)
-CP(XFM) N RTN,LKP
+ ; Lookup value in "B" xref
 "RTN","RGUTDDR",173,0)
- S LKP=$S(XFM#2:$E(VAL,1,30),1:VAL),LKP=$S(XFM\2:$$UP^XLFSTR(LKP),1:LKP),RTN=0
+CP(XFM) N RTN,LKP
 "RTN","RGUTDDR",174,0)
- F  S RTN=$O(@ROOT@("B",LKP,RTN)) Q:'RTN  Q:$P($G(@ROOT@(RTN,0)),U)=VAL
+ S LKP=$S(XFM#2:$E(VAL,1,30),1:VAL),LKP=$S(XFM\2:$$UP^XLFSTR(LKP),1:LKP),RTN=0
 "RTN","RGUTDDR",175,0)
- Q RTN
+ F  S RTN=$O(@ROOT@("B",LKP,RTN)) Q:'RTN  Q:$P($G(@ROOT@(RTN,0)),U)=VAL
 "RTN","RGUTDDR",176,0)
- ; RPC: Find an entry using specified fields and values
+ Q RTN
 "RTN","RGUTDDR",177,0)
- ;   FNUM = File number to search
+ ; RPC: Find an entry using specified fields and values
 "RTN","RGUTDDR",178,0)
- ;   IENS = IENS for subfile
+ ;   FNUM = File number to search
 "RTN","RGUTDDR",179,0)
- ;   FLGS = Search flags.  Combination of:
+ ;   IENS = IENS for subfile
 "RTN","RGUTDDR",180,0)
- ;       P = partial match
+ ;   FLGS = Search flags.  Combination of:
 "RTN","RGUTDDR",181,0)
- ;       I = case insensitive
+ ;       P = partial match
 "RTN","RGUTDDR",182,0)
- ;   FLDS = Field #'s or names to search.  Can be ;-delimited or list.
+ ;       I = case insensitive
 "RTN","RGUTDDR",183,0)
- ;   VALS = Values to search.  Can be single value or list.
+ ;   FLDS = Field #'s or names to search.  Can be ;-delimited or list.
 "RTN","RGUTDDR",184,0)
- ;   MAX  = Maximum entries to return (default=all)
+ ;   VALS = Values to search.  Can be single value or list.
 "RTN","RGUTDDR",185,0)
- ;   Returns list of one or all IENs matching criteria or
+ ;   MAX  = Maximum entries to return (default=all)
 "RTN","RGUTDDR",186,0)
- ;     -n^error text if error.
+ ;   Returns list of one or all IENs matching criteria or
 "RTN","RGUTDDR",187,0)
-FIND(DATA,FNUM,IENS,FLGS,FLDS,VALS,MAX) ;
+ ;     -n^error text if error.
 "RTN","RGUTDDR",188,0)
- N ROOT,QUIT,XRF,XKY,CNT,X
+FIND(DATA,FNUM,IENS,FLGS,FLDS,VALS,MAX) ;
 "RTN","RGUTDDR",189,0)
- S IENS=$G(IENS)
+ N ROOT,QUIT,XRF,XKY,CNT,X
 "RTN","RGUTDDR",190,0)
- I $L(IENS),$E(IENS)'="," S IENS=","_IENS
+ S IENS=$G(IENS)
 "RTN","RGUTDDR",191,0)
- S ROOT=$$ROOT^DILFD(FNUM,IENS,1),QUIT=0,FLGS=$G(FLGS),MAX=+$G(MAX),CNT=0
+ I $L(IENS),$E(IENS)'="," S IENS=","_IENS
 "RTN","RGUTDDR",192,0)
- S:$D(VALS)=1 VALS(1)=VALS
+ S ROOT=$$ROOT^DILFD(FNUM,IENS,1),QUIT=0,FLGS=$G(FLGS),MAX=+$G(MAX),CNT=0
 "RTN","RGUTDDR",193,0)
- I $D(FLDS)=1 F X=1:1:$L(FLDS,";") S FLDS(X)=$P(FLDS,";",X)
+ S:$D(VALS)=1 VALS(1)=VALS
 "RTN","RGUTDDR",194,0)
- F FLDS=0:0 S FLDS=$O(FLDS(FLDS)) Q:'FLDS  D  Q:QUIT
+ I $D(FLDS)=1 F X=1:1:$L(FLDS,";") S FLDS(X)=$P(FLDS,";",X)
 "RTN","RGUTDDR",195,0)
- .I '$D(VALS(FLDS)) S QUIT="-1^Not enough lookup values." Q
+ F FLDS=0:0 S FLDS=$O(FLDS(FLDS)) Q:'FLDS  D  Q:QUIT
 "RTN","RGUTDDR",196,0)
- .S X=$$FLDNUM(FNUM,FLDS(FLDS))
+ .I '$D(VALS(FLDS)) S QUIT="-1^Not enough lookup values." Q
 "RTN","RGUTDDR",197,0)
- .I '$L(X) S QUIT="-2^Unknown field "_FLDS(FLDS)_"." Q
+ .S X=$$FLDNUM(FNUM,FLDS(FLDS))
 "RTN","RGUTDDR",198,0)
- .S FLDS(FLDS)=X
+ .I '$L(X) S QUIT="-2^Unknown field "_FLDS(FLDS)_"." Q
 "RTN","RGUTDDR",199,0)
- .I '$D(XRF) D
+ .S FLDS(FLDS)=X
 "RTN","RGUTDDR",200,0)
- ..S X=$$XREF(FNUM,X)
+ .I '$D(XRF) D
 "RTN","RGUTDDR",201,0)
- ..S:$L(X) XRF=X,XKY=$S(FLGS["I":$$UP^XLFSTR(VALS(FLDS)),1:VALS(FLDS))
+ ..S X=$$XREF(FNUM,X)
 "RTN","RGUTDDR",202,0)
- I 'QUIT,'$D(XRF) S QUIT="-3^At least one field must be a key field."
+ ..S:$L(X) XRF=X,XKY=$S(FLGS["I":$$UP^XLFSTR(VALS(FLDS)),1:VALS(FLDS))
 "RTN","RGUTDDR",203,0)
- D:'QUIT FINDX
+ I 'QUIT,'$D(XRF) S QUIT="-3^At least one field must be a key field."
 "RTN","RGUTDDR",204,0)
- I QUIT<0 K @DATA S @DATA@(0)=QUIT
+ D:'QUIT FINDX
 "RTN","RGUTDDR",205,0)
- Q
+ I QUIT<0 K @DATA S @DATA@(0)=QUIT
 "RTN","RGUTDDR",206,0)
-FINDX G FINDN:XRF="#",FINDP:FLGS["P",FINDE
+ Q
 "RTN","RGUTDDR",207,0)
- ; Find by IEN
+FINDX G FINDN:XRF="#",FINDP:FLGS["P",FINDE
 "RTN","RGUTDDR",208,0)
-FINDN D FINDF(XKY)
+ ; Find by IEN
 "RTN","RGUTDDR",209,0)
- Q
+FINDN D FINDF(XKY)
 "RTN","RGUTDDR",210,0)
- ; Find exact match
+ Q
 "RTN","RGUTDDR",211,0)
-FINDE N XKT,IEN
+ ; Find exact match
 "RTN","RGUTDDR",212,0)
- S IEN=0,XKT=$E(XKY,1,30)
+FINDE N XKT,IEN
 "RTN","RGUTDDR",213,0)
- F  S IEN=$O(@ROOT@(XRF,XKT,IEN)) Q:'IEN  D  Q:QUIT
+ S IEN=0,XKT=$E(XKY,1,30)
 "RTN","RGUTDDR",214,0)
- .D FINDF(IEN)
+ F  S IEN=$O(@ROOT@(XRF,XKT,IEN)) Q:'IEN  D  Q:QUIT
 "RTN","RGUTDDR",215,0)
- Q
+ .D FINDF(IEN)
 "RTN","RGUTDDR",216,0)
- ; Partial match
+ Q
 "RTN","RGUTDDR",217,0)
-FINDP N XKT,VAL,IEN,LEN
+ ; Partial match
 "RTN","RGUTDDR",218,0)
- S XKT=$E(XKY,1,30),VAL=XKT,LEN=$L(XKT)
+FINDP N XKT,VAL,IEN,LEN
 "RTN","RGUTDDR",219,0)
- F  D  S VAL=$O(@ROOT@(XRF,VAL)) Q:$E(VAL,1,LEN)'=XKT!QUIT
+ S XKT=$E(XKY,1,30),VAL=XKT,LEN=$L(XKT)
 "RTN","RGUTDDR",220,0)
- .S IEN=0
+ F  D  S VAL=$O(@ROOT@(XRF,VAL)) Q:$E(VAL,1,LEN)'=XKT!QUIT
 "RTN","RGUTDDR",221,0)
- .F  S IEN=$O(@ROOT@(XRF,VAL,IEN)) Q:'IEN  D  Q:QUIT
+ .S IEN=0
 "RTN","RGUTDDR",222,0)
- ..D FINDF(IEN)
+ .F  S IEN=$O(@ROOT@(XRF,VAL,IEN)) Q:'IEN  D  Q:QUIT
 "RTN","RGUTDDR",223,0)
- Q
+ ..D FINDF(IEN)
 "RTN","RGUTDDR",224,0)
- ; Check fields for match.  Add to output if all match
-"RTN","RGUTDDR",225,0)
-FINDF(IEN) ;
-"RTN","RGUTDDR",226,0)
- N FND
-"RTN","RGUTDDR",227,0)
- S FLDS=0,FND=1
-"RTN","RGUTDDR",228,0)
- F  S FLDS=$O(FLDS(FLDS)) Q:'FLDS  D  Q:'FND
-"RTN","RGUTDDR",229,0)
- .S FND=$$FINDM(FLDS(FLDS),VALS(FLDS),IEN)
-"RTN","RGUTDDR",230,0)
- I FND D
-"RTN","RGUTDDR",231,0)
- .S CNT=CNT+1,@DATA@(CNT)=IEN
-"RTN","RGUTDDR",232,0)
- .I MAX,CNT'<MAX S QUIT=1
-"RTN","RGUTDDR",233,0)
  Q
+"RTN","RGUTDDR",225,0)
+ ; Check fields for match.  Add to output if all match
+"RTN","RGUTDDR",226,0)
+FINDF(IEN) ;
+"RTN","RGUTDDR",227,0)
+ N FND
+"RTN","RGUTDDR",228,0)
+ S FLDS=0,FND=1
+"RTN","RGUTDDR",229,0)
+ F  S FLDS=$O(FLDS(FLDS)) Q:'FLDS  D  Q:'FND
+"RTN","RGUTDDR",230,0)
+ .S FND=$$FINDM(FLDS(FLDS),VALS(FLDS),IEN)
+"RTN","RGUTDDR",231,0)
+ I FND D
+"RTN","RGUTDDR",232,0)
+ .S CNT=CNT+1,@DATA@(CNT)=IEN
+"RTN","RGUTDDR",233,0)
+ .I MAX,CNT'<MAX S QUIT=1
 "RTN","RGUTDDR",234,0)
- ; Check for match
+ Q
 "RTN","RGUTDDR",235,0)
-FINDM(FLD,VAL,IEN) ;
+ ; Check for match
 "RTN","RGUTDDR",236,0)
- N VALX
+FINDM(FLD,VAL,IEN) ;
 "RTN","RGUTDDR",237,0)
- S VALX=$$FLDVAL(FNUM,FLD,IEN,ROOT)
+ N VALX
 "RTN","RGUTDDR",238,0)
- S:FLGS["I" VAL=$$UP^XLFSTR(VAL),VALX=$$UP^XLFSTR(VALX)
+ S VALX=$$FLDVAL(FNUM,FLD,IEN,ROOT)
 "RTN","RGUTDDR",239,0)
- Q $S(FLGS["P":$E(VALX,1,$L(VAL))=VAL,1:VAL=VALX)
+ S:FLGS["I" VAL=$$UP^XLFSTR(VAL),VALX=$$UP^XLFSTR(VALX)
 "RTN","RGUTDDR",240,0)
- ; Return field number from name
+ Q $S(FLGS["P":$E(VALX,1,$L(VAL))=VAL,1:VAL=VALX)
 "RTN","RGUTDDR",241,0)
-FLDNUM(FNUM,FLD) ;EP
+ ; Return field number from name
 "RTN","RGUTDDR",242,0)
- Q $S(FLD=+FLD:FLD,FLD="#":0,1:$O(^DD(FNUM,"B",FLD,0)))
+FLDNUM(FNUM,FLD) ;EP
 "RTN","RGUTDDR",243,0)
- ; Returns the standard xref for the specified field.
+ Q $S(FLD=+FLD:FLD,FLD="#":0,1:$O(^DD(FNUM,"B",FLD,0)))
 "RTN","RGUTDDR",244,0)
-XREF(FNUM,FLD,LAST) ;EP
+ ; Returns the standard xref for the specified field.
 "RTN","RGUTDDR",245,0)
- N XREF
+XREF(FNUM,FLD,LAST) ;EP
 "RTN","RGUTDDR",246,0)
- S LAST=+$G(LAST),XREF="",FLD=$$FLDNUM(FNUM,FLD)
+ N XREF
 "RTN","RGUTDDR",247,0)
- Q:'$L(FLD) ""
+ S LAST=+$G(LAST),XREF="",FLD=$$FLDNUM(FNUM,FLD)
 "RTN","RGUTDDR",248,0)
- Q:'FLD "#"
+ Q:'$L(FLD) ""
 "RTN","RGUTDDR",249,0)
- F  S LAST=$O(^DD(FNUM,FLD,1,LAST)) Q:'LAST  I $D(^(LAST,0)),$P(^(0),U,3)="" S XREF=$P(^(0),U,2) Q
+ Q:'FLD "#"
 "RTN","RGUTDDR",250,0)
- Q XREF
+ F  S LAST=$O(^DD(FNUM,FLD,1,LAST)) Q:'LAST  I $D(^(LAST,0)),$P(^(0),U,3)="" S XREF=$P(^(0),U,2) Q
 "RTN","RGUTDDR",251,0)
- ; Returns field # if xref is a standard type, or 0 if not.
+ Q XREF
 "RTN","RGUTDDR",252,0)
-XREFFLD(FNUM,XREF) ;EP
+ ; Returns field # if xref is a standard type, or 0 if not.
 "RTN","RGUTDDR",253,0)
- N FLD,LAST,X
+XREFFLD(FNUM,XREF) ;EP
 "RTN","RGUTDDR",254,0)
- S FLD=$O(^DD(FNUM,0,"IX",XREF,FNUM,0))
+ N FLD,LAST,X
 "RTN","RGUTDDR",255,0)
- Q:'FLD 0
+ S FLD=$O(^DD(FNUM,0,"IX",XREF,FNUM,0))
 "RTN","RGUTDDR",256,0)
- F  S X=$$XREF(FNUM,FLD,.LAST) Q:'$L(X)!(X=XREF)
+ Q:'FLD 0
 "RTN","RGUTDDR",257,0)
+ F  S X=$$XREF(FNUM,FLD,.LAST) Q:'$L(X)!(X=XREF)
+"RTN","RGUTDDR",258,0)
  Q $S($L(X):FLD,1:0)
 "RTN","RGUTDIC")
 0^36^B28066955
 "RTN","RGUTDIC",1,0)
 RGUTDIC ;RI/CBMI/DKM - Encapsulated FileMan API;03-Mar-2015 14:24;DKM
 "RTN","RGUTDIC",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTDIC",3,0)
  ;;
 "RTN","RGUTDIC",4,0)
@@ -3257,7 +3259,7 @@ DA N %RGZ,%RGZ1,%RGZ2
 "RTN","RGUTDT",1,0)
 RGUTDT ;RI/CBMI/DKM - FM date to formatted date;03-Mar-2015 14:24;DKM
 "RTN","RGUTDT",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTDT",3,0)
  ;;
 "RTN","RGUTDT",4,0)
@@ -3335,7 +3337,7 @@ ENTRY(RGDAT,RGFMT) ; EP
 "RTN","RGUTEDT",1,0)
 RGUTEDT ;RI/CBMI/DKM - Screen-oriented line editor;22-Mar-2015 02:37;DKM
 "RTN","RGUTEDT",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTEDT",3,0)
  ;;
 "RTN","RGUTEDT",4,0)
@@ -3671,7 +3673,7 @@ RESET W $S(RGOPT["R":RGRVON,1:RGRVOFF)
 "RTN","RGUTHFS",1,0)
 RGUTHFS ;RI/CBMI/DKM - Host IO Support ;03-Mar-2015 14:24;DKM
 "RTN","RGUTHFS",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTHFS",3,0)
  ;;
 "RTN","RGUTHFS",4,0)
@@ -3785,7 +3787,7 @@ STRIP N I,J,K,X
 "RTN","RGUTIMP",1,0)
 RGUTIMP ;RI/CBMI/DKM - Import text into FileMan file;03-Mar-2015 14:24;DKM
 "RTN","RGUTIMP",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTIMP",3,0)
  ;;
 "RTN","RGUTIMP",4,0)
@@ -3949,7 +3951,7 @@ ERR(RGMSG,RGX) ;
 "RTN","RGUTIN0",1,0)
 RGUTIN0 ;RI/CBMI/DKM - Platform-dependent operations;01-Apr-2015 09:11;DKM
 "RTN","RGUTIN0",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTIN0",3,0)
  ;;
 "RTN","RGUTIN0",4,0)
@@ -4003,7 +4005,7 @@ OPENX(X1,X2) ;EP
 "RTN","RGUTIN16",1,0)
 RGUTIN16 ;RI/CBMI/DKM - Inits for VMS;11-Mar-2015 09:33;DKM
 "RTN","RGUTIN16",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTIN16",3,0)
  ;;
 "RTN","RGUTIN16",4,0)
@@ -4177,7 +4179,7 @@ CLIENTIP() ;EP
 "RTN","RGUTIN18",1,0)
 RGUTIN18 ;RI/CBMI/DKM - Inits for Cache (Windows);11-Mar-2015 09:33;DKM
 "RTN","RGUTIN18",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTIN18",3,0)
  ;;
 "RTN","RGUTIN18",4,0)
@@ -4373,7 +4375,7 @@ CLIENTIP() ;EP
 "RTN","RGUTIN19",1,0)
 RGUTIN19 ;RI/CBMI/DKM - Inits for GT.M (Unix);01-Apr-2015 16:04;DKM
 "RTN","RGUTIN19",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTIN19",3,0)
  ;;
 "RTN","RGUTIN19",4,0)
@@ -4573,7 +4575,7 @@ CLIENTIP() ;EP
 "RTN","RGUTIN58",1,0)
 RGUTIN58 ;RI/CBMI/DKM/PLS - Inits for MSM-UNIX;11-Mar-2015 09:33;DKM
 "RTN","RGUTIN58",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTIN58",3,0)
  ;;
 "RTN","RGUTIN58",4,0)
@@ -4793,7 +4795,7 @@ JW(ZOSHC) ;msm extrinsic
 "RTN","RGUTIN68",1,0)
 RGUTIN68 ;RI/CBMI/DKM - Inits for Cache (Unix);11-Mar-2015 09:33;DKM
 "RTN","RGUTIN68",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTIN68",3,0)
  ;;
 "RTN","RGUTIN68",4,0)
@@ -4989,7 +4991,7 @@ CLIENTIP() ;EP
 "RTN","RGUTIN8",1,0)
 RGUTIN8 ;RI/CBMI/DKM - Inits for MSM;11-Mar-2015 09:33;DKM
 "RTN","RGUTIN8",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTIN8",3,0)
  ;;
 "RTN","RGUTIN8",4,0)
@@ -5181,7 +5183,7 @@ CLIENTIP() ;EP
 "RTN","RGUTINIT",1,0)
 RGUTINIT ;RI/CBMI/DKM - Platform specific inits;01-Apr-2015 08:59;DKM
 "RTN","RGUTINIT",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTINIT",3,0)
  ;;
 "RTN","RGUTINIT",4,0)
@@ -5309,7 +5311,7 @@ DEVICE ; Device setup
 "RTN","RGUTLK2",1,0)
 RGUTLK2 ;RI/CBMI/DKM - Continuation of RGUTLKP;03-Mar-2015 14:24;DKM
 "RTN","RGUTLK2",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTLK2",3,0)
  ;;
 "RTN","RGUTLK2",4,0)
@@ -5713,7 +5715,7 @@ XY(X,Y) ;I %RGRS W:'X *13 S $X=X,$Y=Y Q ""
 "RTN","RGUTLKP",1,0)
 RGUTLKP ;RI/CBMI/DKM - File lookup utility;03-Mar-2015 14:24;DKM
 "RTN","RGUTLKP",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTLKP",3,0)
  ;;
 "RTN","RGUTLKP",4,0)
@@ -6011,7 +6013,7 @@ ERROR W:'%RGHTML $$XY(0,%RGY+1),*7,%RGEOL,$$EC^%ZOSV
 "RTN","RGUTMTL",1,0)
 RGUTMTL ;RI/CBMI/DKM - Multi-term lookup support ;03-Mar-2015 14:24;DKM
 "RTN","RGUTMTL",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTMTL",3,0)
  ;;
 "RTN","RGUTMTL",4,0)
@@ -6231,7 +6233,7 @@ STEM(RGLAST,RGSTEM,RGF) ;
 "RTN","RGUTNTEG",1,0)
 RGUTNTEG ;ISC/XTSUMBLD KERNEL - Package checksum checker ;03-Mar-2015 14:24;DKM
 "RTN","RGUTNTEG",2,0)
- ;;3.0;RG UTILITIES;;Mar 20,2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20,2007;Build 418
 "RTN","RGUTNTEG",3,0)
  ;;7.3;3070531.172703
 "RTN","RGUTNTEG",4,0)
@@ -6325,7 +6327,7 @@ RGUT1 ;;508281
 "RTN","RGUTOS",1,0)
 RGUTOS ;RI/CBMI/DKM - Platform-dependent operations;01-Apr-2015 09:11;DKM
 "RTN","RGUTOS",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTOS",3,0)
  ;;
 "RTN","RGUTOS",4,0)
@@ -6569,7 +6571,7 @@ CLIENTIP() ;EP
 "RTN","RGUTOS1",1,0)
 RGUTOS ;RI/CBMI/DKM - Platform-dependent operations;01-Apr-2015 09:11;DKM
 "RTN","RGUTOS1",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTOS1",3,0)
  ;;
 "RTN","RGUTOS1",4,0)
@@ -6801,7 +6803,7 @@ ERRDSM S X1=$P($P(X,", ",2),"-",3),X2=$P($P(X,", "),":"),X3=$$TRIM^RGUT($P(X,", 
 "RTN","RGUTREG",1,0)
 RGUTREG ;RI/CBMI/DKM - Various registration actions ;03-Mar-2015 14:24;DKM
 "RTN","RGUTREG",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTREG",3,0)
  ;;
 "RTN","RGUTREG",4,0)
@@ -6839,7 +6841,7 @@ REGPROT(P,C,ERR) ;
 "RTN","RGUTRPC",1,0)
 RGUTRPC ;RI/CBMI/DKM - RPC Encapsulations for RGUT routines ;03-Mar-2015 14:24;DKM
 "RTN","RGUTRPC",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTRPC",3,0)
  ;;
 "RTN","RGUTRPC",4,0)
@@ -7125,7 +7127,7 @@ GETRPC(X) ;EP
 "RTN","RGUTRPRT",1,0)
 RGUTRPRT ;RI/CBMI/DKM - Routine Pretty Print Program ;03-Mar-2015 14:24;DKM
 "RTN","RGUTRPRT",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTRPRT",3,0)
  ;;
 "RTN","RGUTRPRT",4,0)
@@ -7207,7 +7209,7 @@ RJ(X) W ?(IOM-$L(X)),X
 "RTN","RGUTRTN",1,0)
 RGUTRTN ;RI/CBMI/DKM - Routine management utilities;01-Apr-2015 09:22;DKM
 "RTN","RGUTRTN",2,0)
- ;;3.0;RG UTILITIES;**1**;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;**1**;Mar 20, 2007;Build 418
 "RTN","RGUTRTN",3,0)
  ;;
 "RTN","RGUTRTN",4,0)
@@ -7287,7 +7289,7 @@ TEST(RTN) ;
 "RTN","RGUTSTX",1,0)
 RGUTSTX ;RI/CBMI/DKM - M syntax analyzer;03-Mar-2015 14:24;DKM
 "RTN","RGUTSTX",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTSTX",3,0)
  ;;
 "RTN","RGUTSTX",4,0)
@@ -7573,7 +7575,7 @@ ERRORS ;;*Error messages*
 "RTN","RGUTSTX0",1,0)
 RGUTSTX0 ;RI/CBMI/DKM - Continuation of RGUTSTX;03-Mar-2015 14:24;DKM
 "RTN","RGUTSTX0",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTSTX0",3,0)
  ;;
 "RTN","RGUTSTX0",4,0)
@@ -7903,7 +7905,7 @@ NEXT(RGC,RGI) ;
 "RTN","RGUTSTX1",1,0)
 RGUTSTX1 ;RI/CBMI/DKM - Continuation of RGUTSTX;03-Mar-2015 14:24;DKM
 "RTN","RGUTSTX1",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTSTX1",3,0)
  ;;
 "RTN","RGUTSTX1",4,0)
@@ -8241,7 +8243,7 @@ NEXT(RGC,RGI) ;
 "RTN","RGUTTSK",1,0)
 RGUTTSK ;RI/CBMI/DKM - Encapsulates TaskMan API ;14-Mar-2015 22:16;DKM
 "RTN","RGUTTSK",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTTSK",3,0)
  ;;
 "RTN","RGUTTSK",4,0)
@@ -8277,7 +8279,7 @@ QUEUE(ZTRTN,ZTDESC,ZTDTH,ZTSAVE,ZTIO,ZTUCI,ZTPRI) ;
 "RTN","RGUTUSR",1,0)
 RGUTUSR ;RI/CBMI/DKM - Parse recipient list;03-Mar-2015 14:24;DKM
 "RTN","RGUTUSR",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTUSR",3,0)
  ;;
 "RTN","RGUTUSR",4,0)
@@ -8391,7 +8393,7 @@ MGRP2(RGMGRP) ;
 "RTN","RGUTUU",1,0)
 RGUTUU ;RI/CBMI/DKM - UUEncode and UUDecode functions.;03-Mar-2015 14:24;DKM
 "RTN","RGUTUU",2,0)
- ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 350
+ ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 418
 "RTN","RGUTUU",3,0)
  ;;
 "RTN","RGUTUU",4,0)

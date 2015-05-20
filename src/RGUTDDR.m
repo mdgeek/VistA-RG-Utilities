@@ -1,4 +1,4 @@
-RGUTDDR ;RI/CBMI/DKM - FileMan RPC Extensions ;03-Mar-2015 14:24;DKM
+RGUTDDR ;RI/CBMI/DKM - FileMan RPC Extensions ;19-May-2015 22:43;DKM
  ;;3.0;RG UTILITIES;;Mar 20, 2007;Build 98
  ;;
  ;=================================================================
@@ -145,13 +145,14 @@ FLDVAL(FIL,FLD,IEN,ROOT) ;
  ;          If missing or null, perform unlock operation.
  ;   DATA = Returns 0 if successful, -n^Error Text if not.
 LOCK(DATA,FNUM,IENS,WAIT) ;
- N X,IEN,OK,$ET
+ N X,IEN,$ET
  S @$$TRAP^RGUTOS("LOCKERR^RGUTDDR")
  S $ET="",X=$$ROOT^DILFD(FNUM,IENS,1),DATA=0,IEN=+IENS
  I '$L(X) S DATA="-1^Table not found"  Q
- K:$G(WAIT)="" WAIT
- D LOCK^RGNBRPC(.OK,$NA(@X@(IEN)),.WAIT)
- S:'OK DATA="-2^Record locked by another process"
+ S:$G(WAIT)="" WAIT=-1
+ I WAIT<0 L -@X@(IEN) Q
+ L +@X@(IEN):WAIT
+ S:'$T DATA="-2^Record locked by another process"
  Q
 LOCKERR S DATA="-3^Unexpected error"
  Q
